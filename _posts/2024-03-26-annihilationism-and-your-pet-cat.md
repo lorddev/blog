@@ -20,7 +20,7 @@ astra-migrate-meta-layouts:
     - set
 footnotes:
     - ''
-image: /wp-content/uploads/2024/03/hell-1555.jpg
+image: /assets/img/2024/03/hell-1555.jpg
 categories:
     - Deconstruction
     - Religion

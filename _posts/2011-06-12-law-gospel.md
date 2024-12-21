@@ -24,7 +24,7 @@ tags:
 <table class="tr-caption-container" style="float:left;margin-right:1em;text-align:left;" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td style="text-align:center;"><a style="clear:left;margin-bottom:1em;margin-left:auto;margin-right:auto;" href="/wp-content/uploads/2011/10/img_0419.jpg"><img src="/wp-content/uploads/2011/10/img_0419.jpg?w=224" alt="" width="239" height="320" border="0" /></a></td>
+<td style="text-align:center;"><a style="clear:left;margin-bottom:1em;margin-left:auto;margin-right:auto;" href="/assets/img/2011/10/img_0419.jpg"><img src="/assets/img/2011/10/img_0419.jpg?w=224" alt="" width="239" height="320" border="0" /></a></td>
 </tr>
 <tr>
 <td class="tr-caption" style="text-align:center;">One of my favorite books.</td>

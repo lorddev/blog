@@ -18,4 +18,4 @@ categories:
     - General
 ---
 
-<p class="mobile-photo"><a href="/wp-content/uploads/2011/10/photo-723089.jpg"><img src="/wp-content/uploads/2011/10/photo-723089.jpg?w=225" border="0" alt="" /></a></p>This is the last picture I took of our dearly departed cat, Finnegan.<div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>
+<p class="mobile-photo"><a href="/assets/img/2011/10/photo-723089.jpg"><img src="/assets/img/2011/10/photo-723089.jpg?w=225" border="0" alt="" /></a></p>This is the last picture I took of our dearly departed cat, Finnegan.<div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>

@@ -24,10 +24,10 @@ format: standard
 
 So, I have a couple of pending offers for side gigs lingering out there, and theoretically on any given weekend evening, someone could IM me and ask me to do a few small things for them. The problem is, I don't have a suitable Windows dev environment at home. I've had such great machines at the companies I've worked at for the last several years that I've been able to let my PC collect dust and just use my MacBook, iPad, and iPhone for whatever I needed a computer for at home. So, I thought I had better get something ready, and after a little bit of research, it became obvious that a cloud machine was going to be more economical than running up debt on a Best Buy card for a brand new Thinkpad. I found a few helpful resources online, including these <a href="http://blog.michaelckennedy.net/2011/06/13/building-a-cloud-os-for-net-developers-part-2/">two</a> <a href="http://www.michaelckennedy.net/blog/2010/01/31/BuildingWindowsMachinesInAmazonEC2.aspx">posts</a> from Michael Kennedy.
 
-Here's my EC2 console.<br /><br /><a href="/wp-content/uploads/2012/07/20120709-205029.jpg"><img src="/wp-content/uploads/2012/07/20120709-205029.jpg" alt="20120709-205029.jpg" class="alignnone size-full" /></a>
+Here's my EC2 console.<br /><br /><a href="/assets/img/2012/07/20120709-205029.jpg"><img src="/assets/img/2012/07/20120709-205029.jpg" alt="20120709-205029.jpg" class="alignnone size-full" /></a>
 
 I'm running Windows Server 2008 R2 with 7.5 GB of RAM. It will probably cost me about 50¢/hr. to run.
 
-Here it is in action:<br /><br /><a href="/wp-content/uploads/2012/07/20120709-205119.jpg"><img src="/wp-content/uploads/2012/07/20120709-205119.jpg" alt="20120709-205119.jpg" class="alignnone size-full" /></a>
+Here it is in action:<br /><br /><a href="/assets/img/2012/07/20120709-205119.jpg"><img src="/assets/img/2012/07/20120709-205119.jpg" alt="20120709-205119.jpg" class="alignnone size-full" /></a>
 
 (I'll probably RDP from my MacBook more often.)

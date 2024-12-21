@@ -7,7 +7,7 @@ guid: 'https://www.devlord.io/blog/?p=2666'
 permalink: '/?p=2666'
 ---
 
-[caption id="attachment_1491" align="alignnone" width="400" caption="(not really)"]<a href="/wp-content/uploads/2012/04/god-hates-you.jpg"><img class="size-full wp-image-1491" title="god-hates-you" src="/wp-content/uploads/2012/04/god-hates-you.jpg" alt="not really" width="400" height="273" /></a>[/caption]
+[caption id="attachment_1491" align="alignnone" width="400" caption="(not really)"]<a href="/assets/img/2012/04/god-hates-you.jpg"><img class="size-full wp-image-1491" title="god-hates-you" src="/assets/img/2012/04/god-hates-you.jpg" alt="not really" width="400" height="273" /></a>[/caption]
 
 This morning a guy bombed a Planned Parenthood clinic in Wisconsin.
 

@@ -14,7 +14,7 @@ tags:
     - activism
 ---
 
-<a href="/wp-content/uploads/2011/10/web_front.png"><img class="alignnone size-medium wp-image-912" title="web_front" src="/wp-content/uploads/2011/10/web_front.png?w=300" alt="" width="300" height="271" /></a>
+<a href="/assets/img/2011/10/web_front.png"><img class="alignnone size-medium wp-image-912" title="web_front" src="/assets/img/2011/10/web_front.png?w=300" alt="" width="300" height="271" /></a>
 
 I'm listening right now to Billy Bragg's new <em>Fight Songs</em> album. Below are the lyrics of "The Lonesome Death of Rachel Corrie."
 <blockquote>An Israeli bulldozer killed poor Rachel Corrie

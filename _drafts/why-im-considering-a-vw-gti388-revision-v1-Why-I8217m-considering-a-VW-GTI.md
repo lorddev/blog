@@ -10,7 +10,7 @@ footnotes:
     - ''
 ---
 
-<img class="wp-image-884  alignleft" src="/wp-content/uploads/2011/10/vw_gti_mkvi_rightfront-300x212.jpg" alt="A 2012 Golf GTI" width="420" height="297" />
+<img class="wp-image-884  alignleft" src="/assets/img/2011/10/vw_gti_mkvi_rightfront-300x212.jpg" alt="A 2012 Golf GTI" width="420" height="297" />
 
 I love driving my wife's Sportwagen. I want my own, actually, but she said no. She gets the mommy car, I get the daddy car. But I like the way it drives. It's fun and zippy, but also comfortable. I borrowed it a couple times this week to drive to work and I told her it was relaxing, an "oasis" of a commute in the midst of stressful times.
 
@@ -25,6 +25,6 @@ It could be the answer, because it's so many cars: family load lugger, urban com
 Nice.
 <div class="blogger-post-footer">
 
-<img src="/wp-content/uploads/2011/10/photo-740306.jpg?w=300" alt="" width="1" height="1" />
+<img src="/assets/img/2011/10/photo-740306.jpg?w=300" alt="" width="1" height="1" />
 
 </div>

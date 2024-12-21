@@ -18,4 +18,4 @@ categories:
     - General
 ---
 
-<p class="mobile-photo"><a href="/wp-content/uploads/2011/10/photo-724113.jpg"><img src="/wp-content/uploads/2011/10/photo-724113.jpg?w=300" border="0" alt="" /></a></p>Is this like VW&#039;s version of the Bat Signal or what?<div class="blogger-post-footer"></div>
+<p class="mobile-photo"><a href="/assets/img/2011/10/photo-724113.jpg"><img src="/assets/img/2011/10/photo-724113.jpg?w=300" border="0" alt="" /></a></p>Is this like VW&#039;s version of the Bat Signal or what?<div class="blogger-post-footer"></div>

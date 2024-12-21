@@ -30,7 +30,7 @@ astra-migrate-meta-layouts:
     - set
 footnotes:
     - ''
-image: /wp-content/uploads/2011/10/photo-744189.jpg
+image: /assets/img/2011/10/photo-744189.jpg
 categories:
     - Parenthood
 tags:

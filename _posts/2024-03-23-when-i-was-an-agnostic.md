@@ -23,7 +23,7 @@ footnotes:
     - ''
 wp_statistics_words_count:
     - '382'
-image: /wp-content/uploads/2024/03/Handwriting-e1711213168146.png
+image: /assets/img/2024/03/Handwriting-e1711213168146.png
 categories:
     - Deconstruction
     - Religion

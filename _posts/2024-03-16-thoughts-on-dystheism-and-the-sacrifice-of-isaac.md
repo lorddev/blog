@@ -20,7 +20,7 @@ astra-migrate-meta-layouts:
     - set
 footnotes:
     - ''
-image: /wp-content/uploads/2024/03/028-genesis-22-v11-12-the-offering-of-isaac-an-angel-stops-abraham-illustration-md.jpg
+image: /assets/img/2024/03/028-genesis-22-v11-12-the-offering-of-isaac-an-angel-stops-abraham-illustration-md.jpg
 categories:
     - Deconstruction
     - Religion

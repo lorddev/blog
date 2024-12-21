@@ -11,7 +11,7 @@ footnotes:
 ---
 
 <!-- wp:image {"id":2604,"sizeSlug":"full","linkDestination":"none","align":"wide","className":"is-style-default","style":{"border":{"radius":"0px"}}} -->
-<figure class="wp-block-image alignwide size-full has-custom-border is-style-default"><img src="/wp-content/uploads/2024/03/11A4CE55-4F01-41EF-9358-C6342BB59CF1_1_105_c-edited.jpeg" alt="" class="wp-image-2604" style="border-radius:0px"/></figure>
+<figure class="wp-block-image alignwide size-full has-custom-border is-style-default"><img src="/assets/img/2024/03/11A4CE55-4F01-41EF-9358-C6342BB59CF1_1_105_c-edited.jpeg" alt="" class="wp-image-2604" style="border-radius:0px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

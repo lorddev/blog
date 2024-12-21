@@ -20,7 +20,7 @@ footnotes:
     - ''
 activitypub_status:
     - federated
-image: /wp-content/uploads/2024/03/IMG_2348-scaled.jpg
+image: /assets/img/2024/03/IMG_2348-scaled.jpg
 categories:
     - 'Book Reviews'
     - Deconstruction

@@ -17,4 +17,4 @@ categories:
 format: image
 ---
 
-<a href="/wp-content/uploads/2012/02/20120225-113332.jpg"><img class="alignnone " src="/wp-content/uploads/2012/02/20120225-113332.jpg" alt="20120225-113332.jpg" width="1162" height="1162" /></a>
+<a href="/assets/img/2012/02/20120225-113332.jpg"><img class="alignnone " src="/assets/img/2012/02/20120225-113332.jpg" alt="20120225-113332.jpg" width="1162" height="1162" /></a>

@@ -35,7 +35,7 @@ tags:
 ---
 
 <!-- wp:image {"align":"left","id":1578,"linkDestination":"custom"} -->
-<figure class="wp-block-image alignleft"><a href="https://open.spotify.com/playlist/11Guf1SfXu47WCZjm7Zql4?si=0df739aa41794da1"><img src="/wp-content/uploads/2012/04/greengrass08.png" alt="Greengrass, Volume 8 on Spotify" class="wp-image-1578" title="Greengrass, Volume 8"/></a></figure>
+<figure class="wp-block-image alignleft"><a href="https://open.spotify.com/playlist/11Guf1SfXu47WCZjm7Zql4?si=0df739aa41794da1"><img src="/assets/img/2012/04/greengrass08.png" alt="Greengrass, Volume 8 on Spotify" class="wp-image-1578" title="Greengrass, Volume 8"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

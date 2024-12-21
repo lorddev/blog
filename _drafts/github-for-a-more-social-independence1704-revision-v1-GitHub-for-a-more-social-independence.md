@@ -8,7 +8,7 @@ guid: 'https://www.devlord.io/blog/?p=2769'
 permalink: '/?p=2769'
 ---
 
-[caption align="alignnone" width="401"]<a href="/wp-content/uploads/2012/09/20120903-213309.jpg"><img class="alignnone size-full" src="/wp-content/uploads/2012/09/20120903-213309.jpg" alt="20120903-213309.jpg" /></a> Photo Credit seungjin/Flickr[/caption]
+[caption align="alignnone" width="401"]<a href="/assets/img/2012/09/20120903-213309.jpg"><img class="alignnone size-full" src="/assets/img/2012/09/20120903-213309.jpg" alt="20120903-213309.jpg" /></a> Photo Credit seungjin/Flickr[/caption]
 
 Those who leave a tech company to venture out on their own may have to face an adjustment in their workflow. No longer will you have someone else prioritizing your tasks for you or even setting release dates.
 

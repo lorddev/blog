@@ -20,4 +20,4 @@ tags:
     - christmas
 ---
 
-<a href="/wp-content/uploads/2011/10/photo2.jpg"><img src="/wp-content/uploads/2011/10/photo2.jpg?w=300" border="0" alt="" /></a><br />We picked up this ornament while on our honeymoon in Cannon Beach, OR.  It's awesome!  Notice the attention to detail, with cannon pointed at the enemy vessel, and even the explosions over the sails!<div><br /></div><div>I think we bought it at <a href="http://www.pignpancake.com/">Pig 'n' Pancake</a>.</div><div><br /></div><div class="blogger-post-footer"></div>
+<a href="/assets/img/2011/10/photo2.jpg"><img src="/assets/img/2011/10/photo2.jpg?w=300" border="0" alt="" /></a><br />We picked up this ornament while on our honeymoon in Cannon Beach, OR.  It's awesome!  Notice the attention to detail, with cannon pointed at the enemy vessel, and even the explosions over the sails!<div><br /></div><div>I think we bought it at <a href="http://www.pignpancake.com/">Pig 'n' Pancake</a>.</div><div><br /></div><div class="blogger-post-footer"></div>

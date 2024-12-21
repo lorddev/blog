@@ -10,4 +10,4 @@ footnotes:
     - ''
 ---
 
-<p class="mobile-photo"><a href="/wp-content/uploads/2011/10/image1-737422.jpg"><img src="/wp-content/uploads/2011/10/image1-737422.jpg?w=225" border="0" alt="" /></a></p><p class="mobile-photo"><a href="/wp-content/uploads/2011/10/img_0980-739313.jpg"><img src="/wp-content/uploads/2011/10/img_0980-739313.jpg?w=225" border="0" alt="" /></a></p>The first one, with the Kung-Fu viper moves, was Ava. The other one is  <br>Baxter.<div class="blogger-post-footer"><img width='1' height='1' src="https://www.devlord.io/blog/some-family-resemblance/"' /></div>
+<p class="mobile-photo"><a href="/assets/img/2011/10/image1-737422.jpg"><img src="/assets/img/2011/10/image1-737422.jpg?w=225" border="0" alt="" /></a></p><p class="mobile-photo"><a href="/assets/img/2011/10/img_0980-739313.jpg"><img src="/assets/img/2011/10/img_0980-739313.jpg?w=225" border="0" alt="" /></a></p>The first one, with the Kung-Fu viper moves, was Ava. The other one is  <br>Baxter.<div class="blogger-post-footer"><img width='1' height='1' src="https://www.devlord.io/blog/some-family-resemblance/"' /></div>

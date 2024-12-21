@@ -12,7 +12,7 @@ permalink: '/?p=2104'
 <div class="wp-block-group alignfull has-background-color has-text-color has-background has-link-color" style="background:linear-gradient(0deg,rgba(255,255,255,0) 0%,rgb(169,184,195) 100%);padding-top:0px;padding-bottom:0px"><!-- wp:template-part {"slug":"header","theme":"twentytwentytwo","tagName":"header","align":"wide"} /-->
 
 <!-- wp:image {"align":"wide","id":1899,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image alignwide size-full"><img src="/wp-content/uploads/2013/12/2013-12-07-10-39-30.jpg" alt="" class="wp-image-1899"/></figure>
+<figure class="wp-block-image alignwide size-full"><img src="/assets/img/2013/12/2013-12-07-10-39-30.jpg" alt="" class="wp-image-1899"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 

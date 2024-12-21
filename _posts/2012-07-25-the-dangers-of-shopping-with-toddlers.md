@@ -12,6 +12,6 @@ categories:
     - Parenthood
 ---
 
-<a href="/wp-content/uploads/2012/07/20120726-001809.jpg"><img src="/wp-content/uploads/2012/07/20120726-001809.jpg" alt="20120726-001809.jpg" class="alignnone size-full" /></a>
+<a href="/assets/img/2012/07/20120726-001809.jpg"><img src="/assets/img/2012/07/20120726-001809.jpg" alt="20120726-001809.jpg" class="alignnone size-full" /></a>
 
 They said they "just had to" have these 4-piece toddler bedding sets and proceeded to carry/drag them all over the store for a half hour. How is a father supposed to say no?

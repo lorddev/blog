@@ -8,4 +8,4 @@ guid: 'https://www.devlord.io/blog/?p=2917'
 permalink: '/?p=2917'
 ---
 
-<p class="mobile-photo"><a href="/wp-content/uploads/2011/10/photo-765386.jpg"><img src="/wp-content/uploads/2011/10/photo-765386.jpg?w=200" border="0" alt="" /></a></p><div class="blogger-post-footer"><img width='1' height='1' src="https://www.devlord.io/blog/2009/04/29/ninja-coding-its-legendary/"' /></div>
+<p class="mobile-photo"><a href="/assets/img/2011/10/photo-765386.jpg"><img src="/assets/img/2011/10/photo-765386.jpg?w=200" border="0" alt="" /></a></p><div class="blogger-post-footer"><img width='1' height='1' src="https://www.devlord.io/blog/2009/04/29/ninja-coding-its-legendary/"' /></div>

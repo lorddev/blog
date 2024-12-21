@@ -23,7 +23,7 @@ tags:
 format: standard
 ---
 
-<a href="http://open.spotify.com/user/1217402077/playlist/0sOsc7Wqp5WWaEYlruqSto"><img src="/wp-content/uploads/2012/03/20120329-200944.jpg" alt="20120329-200944.jpg" class="alignnone size-full" /></a> <p>Here's the <a href="http://open.spotify.com/user/1217402077/playlist/0sOsc7Wqp5WWaEYlruqSto">seventh installment</a> of my bluegrass/celtic Spotify playlist series. Sorry I don't have time for track-by-track commentary this week! I've been busy researching other subjects. Hopefully the tunes will speak for themselves.</p>
+<a href="http://open.spotify.com/user/1217402077/playlist/0sOsc7Wqp5WWaEYlruqSto"><img src="/assets/img/2012/03/20120329-200944.jpg" alt="20120329-200944.jpg" class="alignnone size-full" /></a> <p>Here's the <a href="http://open.spotify.com/user/1217402077/playlist/0sOsc7Wqp5WWaEYlruqSto">seventh installment</a> of my bluegrass/celtic Spotify playlist series. Sorry I don't have time for track-by-track commentary this week! I've been busy researching other subjects. Hopefully the tunes will speak for themselves.</p>
 <p>Hamish Moore – &quot;MacGregor's Search&quot;
 Olivia Korkola – &quot;Morning Dew/Tom Ward’s Downfall/Star of Munster&quot;
 Sara Watkins – &quot;Jefferson&quot;

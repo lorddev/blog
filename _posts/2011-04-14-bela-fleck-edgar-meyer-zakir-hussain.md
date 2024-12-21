@@ -28,7 +28,7 @@ astra-migrate-meta-layouts:
     - set
 footnotes:
     - ''
-image: /wp-content/uploads/2011/10/dscf7723.jpg
+image: /assets/img/2011/10/dscf7723.jpg
 categories:
     - Music
 tags:

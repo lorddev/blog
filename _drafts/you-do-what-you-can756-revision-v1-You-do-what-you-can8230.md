@@ -7,7 +7,7 @@ guid: 'https://www.devlord.io/blog/?p=2823'
 permalink: '/?p=2823'
 ---
 
-<div class="separator" style="clear:both;text-align:center;"><a style="margin-left:1em;margin-right:1em;" href="/wp-content/uploads/2011/10/blackspot_sneaker.jpg"><img src="/wp-content/uploads/2011/10/blackspot_sneaker.jpg?w=300" alt="" width="400" height="282" border="0" /></a></div>
+<div class="separator" style="clear:both;text-align:center;"><a style="margin-left:1em;margin-right:1em;" href="/assets/img/2011/10/blackspot_sneaker.jpg"><img src="/assets/img/2011/10/blackspot_sneaker.jpg?w=300" alt="" width="400" height="282" border="0" /></a></div>
 A few months ago I watched a convicting <a href="http://www.pbs.org/wgbh/pages/frontline/shows/walmart/view/">show about Walmart</a> on Frontline that caused me to not want to shop there anymore. I also saw one about the <a href="http://www.pbs.org/wgbh/pages/frontline/shows/credit/view/">credit card industry</a> that I found quite disturbing. (Thanks to <a href="http://www.findingrhythm.com/weblog/index.php">Zach</a> for the recommendations.)
 
 Unfortunately, not very long after I viewed this shows, I once again found myself in a tight spot financially where I couldn't afford to shop anywhere <em>but</em> Wal*Mart!

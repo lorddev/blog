@@ -8,4 +8,4 @@ guid: 'https://www.devlord.io/blog/?p=2911'
 permalink: '/?p=2911'
 ---
 
-<p class="mobile-photo"><a href="/wp-content/uploads/2011/10/photo-745418.jpg"><img src="blog/wp-content/uploads/2011/10/photo-745418.jpg?w=225" border="0" alt="" /></a></p><div class="blogger-post-footer"><img width='1' height='1' src="https://www.devlord.io/blog/2009/11/17/ava-is-a-puritan/"' /></div>
+<p class="mobile-photo"><a href="/assets/img/2011/10/photo-745418.jpg"><img src="blog/assets/img/2011/10/photo-745418.jpg?w=225" border="0" alt="" /></a></p><div class="blogger-post-footer"><img width='1' height='1' src="https://www.devlord.io/blog/2009/11/17/ava-is-a-puritan/"' /></div>

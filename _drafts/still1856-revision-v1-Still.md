@@ -8,4 +8,4 @@ guid: 'https://www.devlord.io/blog/?p=2777'
 permalink: '/?p=2777'
 ---
 
-<a href="/wp-content/uploads/2013/04/20130404-183549.jpg"><img class="alignnone size-full" alt="20130404-183549.jpg" src="/wp-content/uploads/2013/04/20130404-183549.jpg" /></a>
+<a href="/assets/img/2013/04/20130404-183549.jpg"><img class="alignnone size-full" alt="20130404-183549.jpg" src="/assets/img/2013/04/20130404-183549.jpg" /></a>

@@ -18,4 +18,4 @@ categories:
     - General
 ---
 
-<p class="mobile-photo"><a href="/wp-content/uploads/2011/10/photo-766658.jpg"><img src="/wp-content/uploads/2011/10/photo-766658.jpg?w=225" border="0" alt="" /></a></p>The only people who will read these notices about the importance of  <br>handwashing are the ones already using the sink.<div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>
+<p class="mobile-photo"><a href="/assets/img/2011/10/photo-766658.jpg"><img src="/assets/img/2011/10/photo-766658.jpg?w=225" border="0" alt="" /></a></p>The only people who will read these notices about the importance of  <br>handwashing are the ones already using the sink.<div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>

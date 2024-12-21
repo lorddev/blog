@@ -24,7 +24,7 @@ tags:
     - spotify
 ---
 
-[caption id="attachment_1312" align="alignnone" width="321" caption="Listen to Greengrass, Vol. 4 on Spotify"]<a href="http://open.spotify.com/user/1217402077/playlist/5ldpahwvBybxREbAkGjCph"><img class=" wp-image-1312  " title="greengrass4" src="/wp-content/uploads/2012/03/gg4.png" alt="Greengrass, Vol. 4" width="321" height="146" /></a>[/caption]
+[caption id="attachment_1312" align="alignnone" width="321" caption="Listen to Greengrass, Vol. 4 on Spotify"]<a href="http://open.spotify.com/user/1217402077/playlist/5ldpahwvBybxREbAkGjCph"><img class=" wp-image-1312  " title="greengrass4" src="/assets/img/2012/03/gg4.png" alt="Greengrass, Vol. 4" width="321" height="146" /></a>[/caption]
 
 This one is bookended by "MacCrimmon's Lament". This is a tune I used to work into Scottish-inspired sets when I played church music in Malibu. The first version is by award-winning fiddler Alasdair Fraser.
 

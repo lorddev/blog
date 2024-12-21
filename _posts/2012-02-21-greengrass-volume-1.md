@@ -26,7 +26,7 @@ format: standard
 
 As promised yesterday, here's my <a title="Greengrass, Vol. 1" href="http://open.spotify.com/user/1217402077/playlist/6dT3cQ9gQDknyXHuZPYMti">first installment</a> of my Greengrass playlist series on Spotify.
 
-<a href="/wp-content/uploads/2012/02/dawndancedo71.jpg"><img class="size-full wp-image" src="/wp-content/uploads/2012/02/dawndancedo71.jpg?w=574" alt="Image" /></a>
+<a href="/assets/img/2012/02/dawndancedo71.jpg"><img class="size-full wp-image" src="/assets/img/2012/02/dawndancedo71.jpg?w=574" alt="Image" /></a>
 
 "First Light/Dawn Rant" (Alasdair Fraser) - We begin with the opening track to Alasdair Fraser's <em>Dawn Dance</em>. This is one of my favorite albums, and one of my seminal influences into celtic music. Unfortunately, there aren't many works quite like this one. I remember the night I walked into Hear Music on Third St. in Santa Monica and gave this a listen. I snapped it up right away. This tune so properly captures my own interpretation of the Scottish style, properly modernized and "engrooved" for today's ears. I transcribed this tune for two fiddles, guitar, bass, and djembe and played it with some friends at a friends' wedding in Malibu. They have since divorced but I still cherish the memory of that day.
 
