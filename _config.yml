@@ -1,0 +1,17 @@
+url: 'https://www.devlord.io/blog'
+name: 'I must follow, if I can'
+description: 'Pursuing it with eager feet / Until it joins some larger way'
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+repository: lorddev/blog
+permalink: posts/:slug
+exclude:
+  - README.md
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - .sass-cache
+  - CNAME
+  - LICENSE
+timezone: America/Los_Angeles
