@@ -33,17 +33,17 @@ footnotes:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="/blog/wp-content/uploads/2012/11/20121112-161832.jpg"><img src="/blog/wp-content/uploads/2012/11/20121112-161832.jpg" alt="20121112-161832.jpg"/></a></figure>
+<figure class="wp-block-image"><a href="/wp-content/uploads/2012/11/20121112-161832.jpg"><img src="/wp-content/uploads/2012/11/20121112-161832.jpg" alt="20121112-161832.jpg"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="/blog/wp-content/uploads/2012/11/20121112-161853-scaled-1.jpg"><img src="/blog/wp-content/uploads/2012/11/20121112-161853-scaled-1.jpg" alt="20121112-161853.jpg"/></a></figure>
+<figure class="wp-block-image"><a href="/wp-content/uploads/2012/11/20121112-161853-scaled-1.jpg"><img src="/wp-content/uploads/2012/11/20121112-161853-scaled-1.jpg" alt="20121112-161853.jpg"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="/blog/wp-content/uploads/2012/11/20121112-161803-scaled-1.jpg"><img src="/blog/wp-content/uploads/2012/11/20121112-161803-scaled-1.jpg" alt="20121112-161803.jpg"/></a></figure>
+<figure class="wp-block-image"><a href="/wp-content/uploads/2012/11/20121112-161803-scaled-1.jpg"><img src="/wp-content/uploads/2012/11/20121112-161803-scaled-1.jpg" alt="20121112-161803.jpg"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="/blog/wp-content/uploads/2012/11/20121112-161906-scaled-1.jpg"><img src="/blog/wp-content/uploads/2012/11/20121112-161906-scaled-1.jpg" alt="20121112-161906.jpg"/></a></figure>
+<figure class="wp-block-image"><a href="/wp-content/uploads/2012/11/20121112-161906-scaled-1.jpg"><img src="/wp-content/uploads/2012/11/20121112-161906-scaled-1.jpg" alt="20121112-161906.jpg"/></a></figure>
 <!-- /wp:image -->

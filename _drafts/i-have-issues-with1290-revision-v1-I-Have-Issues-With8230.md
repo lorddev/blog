@@ -20,7 +20,7 @@ It was a wake-up call to realize I had helped to plant a tiny church which did n
 
 So, the tone of my blog had completely changed around then, you may have noticed. Within a year, I had renounced the Republican party and registered as a Democrat for the first time in my 35 years. I, even became a card-carrying member of the Sierra Club.
 
-[caption id="attachment_1291" align="alignright" width="200"]<img class="size-medium wp-image-1291" title="WWRJD" src="/blog/wp-content/uploads/2012/02/wwrjd.jpeg?w=200" alt="WWRJD" width="200" height="300" /> Is your Jesus a Neo-Fascist?[/caption]
+[caption id="attachment_1291" align="alignright" width="200"]<img class="size-medium wp-image-1291" title="WWRJD" src="/wp-content/uploads/2012/02/wwrjd.jpeg?w=200" alt="WWRJD" width="200" height="300" /> Is your Jesus a Neo-Fascist?[/caption]
 
 For a long time I actually thought you couldn't be a Democrat—much less a <em>liberal</em>—if you were a Christian. But I've come to separate my church from my state. And I've been unable to reconcile the Jesus of the Beatitudes with All-American Republican Neo-Fascist Capitalist Jesus.
 

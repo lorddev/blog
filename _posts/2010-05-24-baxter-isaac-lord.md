@@ -19,4 +19,4 @@ categories:
     - Family
 ---
 
-<p class="mobile-photo"><a href="https://www.devlord.io/blog/wp-content/uploads/2011/10/photo-726426.jpg"><img src="/blog/wp-content/uploads/2011/10/photo-726426.jpg?w=225" border="0" alt="" /></a></p>Baxter Isaac Lord was born at 1:21 AM, weighing 7 lb 4 oz, 19 in long.<div class="blogger-post-footer"><img width='1' height='1' src="https://www.devlord.io/blog/baxter-isaac-lord/"' /></div>
+<p class="mobile-photo"><a href="/wp-content/uploads/2011/10/photo-726426.jpg"><img src="/wp-content/uploads/2011/10/photo-726426.jpg?w=225" border="0" alt="" /></a></p>Baxter Isaac Lord was born at 1:21 AM, weighing 7 lb 4 oz, 19 in long.<div class="blogger-post-footer"><img width='1' height='1' src="https://www.devlord.io/blog/baxter-isaac-lord/"' /></div>

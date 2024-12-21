@@ -11,7 +11,7 @@ footnotes:
 ---
 
 <!-- wp:image {"id":2868,"sizeSlug":"large","linkDestination":"none","align":"full"} -->
-<figure class="wp-block-image alignfull size-large"><img src="https://www.devlord.io/blog/wp-content/uploads/2024/08/image-1-1024x576.jpg" alt="A view of smoke behind trees. The smoke is from a large wildfire." class="wp-image-2868"/></figure>
+<figure class="wp-block-image alignfull size-large"><img src="/wp-content/uploads/2024/08/image-1-1024x576.jpg" alt="A view of smoke behind trees. The smoke is from a large wildfire." class="wp-image-2868"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

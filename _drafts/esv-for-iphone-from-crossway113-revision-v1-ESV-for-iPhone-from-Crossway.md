@@ -9,6 +9,6 @@ permalink: '/?p=2387'
 ---
 
 Crossway just released the <a href="http://itunes.apple.com/us/app/esv-bible/id361797273?mt=8">ESV for the iPhone</a>. I have stuck with their web-based mobile-optimized version because it's better than any of the other native iPhone versions in the app store. But this new one is amazing and elegant.
-<p class="mobile-photo"><a href="/blog/wp-content/uploads/2011/10/img_0779-7832341.png"><img src="/blog/wp-content/uploads/2011/10/img_0779-7832341.png?w=200" alt="" border="0" /></a></p>
+<p class="mobile-photo"><a href="/wp-content/uploads/2011/10/img_0779-7832341.png"><img src="/wp-content/uploads/2011/10/img_0779-7832341.png?w=200" alt="" border="0" /></a></p>
 
 <div class="blogger-post-footer"><img alt="" width="1" height="1" /></div>

@@ -17,7 +17,7 @@ tags:
     - Saucony
 ---
 
-<p style="text-align:center;"><a href="/blog/wp-content/uploads/2011/12/20111226-120702.jpg"><img class="size-full aligncenter" src="/blog/wp-content/uploads/2011/12/20111226-120702.jpg" alt="20111226-120702.jpg" width="695" height="480" /></a></p>
+<p style="text-align:center;"><a href="/wp-content/uploads/2011/12/20111226-120702.jpg"><img class="size-full aligncenter" src="/wp-content/uploads/2011/12/20111226-120702.jpg" alt="20111226-120702.jpg" width="695" height="480" /></a></p>
 My children have a tendency to get into things and move things around. As a result, the original insoles for my Saucony Kinvara 2 running shoes have been sitting in plain sight for a few days. It suddenly dawned on me how thin they were compared to the spongy insoles I had replaced them with on the advice of my physical therapist, and I realized my judgment of the shoes was made based on the insoles Saucony didn't intend them to be worn with. So I switched them back out, and it makes all the difference.
 
 No offense to my PT, but he was wrong.

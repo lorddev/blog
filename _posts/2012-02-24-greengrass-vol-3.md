@@ -24,7 +24,7 @@ tags:
     - spotify
 ---
 
-<a href="http://open.spotify.com/user/1217402077/playlist/2fmBpdNjHNHJ6AtPzCJAZn"><img class="size-medium wp-image-1269 alignright" title="GG3" src="/blog/wp-content/uploads/2012/02/gg3.png?w=300" alt="" width="300" height="139" /></a>"Tin Roof" (Steve Martin) - <a href="http://open.spotify.com/user/1217402077/playlist/2fmBpdNjHNHJ6AtPzCJAZn">This week's playlist</a> inludes a couple more tunes from Steve Martin and the Steep Canyon Rangers' inaugural (and Grammy-winning) release, <em>The Crow</em>. Later we'll also hear an instrumental version of "Calico Train."
+<a href="http://open.spotify.com/user/1217402077/playlist/2fmBpdNjHNHJ6AtPzCJAZn"><img class="size-medium wp-image-1269 alignright" title="GG3" src="/wp-content/uploads/2012/02/gg3.png?w=300" alt="" width="300" height="139" /></a>"Tin Roof" (Steve Martin) - <a href="http://open.spotify.com/user/1217402077/playlist/2fmBpdNjHNHJ6AtPzCJAZn">This week's playlist</a> inludes a couple more tunes from Steve Martin and the Steep Canyon Rangers' inaugural (and Grammy-winning) release, <em>The Crow</em>. Later we'll also hear an instrumental version of "Calico Train."
 
 "Oedipus Rex" (Open House) - A silly folk tune by Mark Graham, played by Portland Irish group Open House (headlined by Kevin Burke).
 

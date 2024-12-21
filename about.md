@@ -23,7 +23,7 @@ image: /wp-content/uploads/2019/12/image.jpg
 ---
 
 <!-- wp:image {"id":2604,"sizeSlug":"full","linkDestination":"none","align":"wide","className":"is-style-default","style":{"border":{"radius":"0px"}}} -->
-<figure class="wp-block-image alignwide size-full has-custom-border is-style-default"><img src="https://www.devlord.io/blog/wp-content/uploads/2024/03/11A4CE55-4F01-41EF-9358-C6342BB59CF1_1_105_c-edited.jpeg" alt="" class="wp-image-2604" style="border-radius:0px"/></figure>
+<figure class="wp-block-image alignwide size-full has-custom-border is-style-default"><img src="/wp-content/uploads/2024/03/11A4CE55-4F01-41EF-9358-C6342BB59CF1_1_105_c-edited.jpeg" alt="" class="wp-image-2604" style="border-radius:0px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -36,15 +36,15 @@ image: /wp-content/uploads/2019/12/image.jpg
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><a title="" href="/blog/2012/02/28/i-have-issues-with/">I Have Issues With...</a></li>
+<li><a title="" href="/2012/02/28/i-have-issues-with/">I Have Issues With...</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a title="A Chronology of Deconstruction" href="https://www.devlord.io/blog/2019/12/07/a-chronology-of-deconstruction/">A Chronology of Deconstruction</a></li>
+<li><a title="" href="/2019/12/07/a-chronology-of-deconstruction/">A Chronology of Deconstruction</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://www.devlord.io/blog/2024/03/27/owning-your-accomplishments/">Owning Your Accomplishments</a></li>
+<li><a href="/2024/03/27/owning-your-accomplishments/">Owning Your Accomplishments</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 

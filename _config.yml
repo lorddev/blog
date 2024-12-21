@@ -1,9 +1,12 @@
 url: 'https://www.devlord.io/blog'
+title: 'I must follow, if I can'
 name: 'I must follow, if I can'
 description: 'Pursuing it with eager feet / Until it joins some larger way'
-remote_theme: pages-themes/minimal@v0.2.0
+author: 'Aaron Lord'
+#remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 repository: lorddev/blog
 permalink: posts/:slug
 exclude:
@@ -15,3 +18,31 @@ exclude:
   - CNAME
   - LICENSE
 timezone: America/Los_Angeles
+logo: /wp-content/uploads/2019/12/image.jpg
+
+navbar-links:
+  About Me: "about"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+  Resume: "resume"
+  Website: "https://devlord.io"
+
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/assets/img/avatar.jpeg"
+
+# Select the social network links that you want to show in the footer.
+# You can change the order that they show up on the page by changing the order here.
+# Uncomment the links you want to show and add your information to each one.
+social-network-links:
+  rss: true
+  mastodon: hachyderm.io/@devlord
+  bluesky: devlord.io
+  github: lorddev
+  linkedin: aaronjlord
+  stackoverflow: "16454/devlord"
+
+share-links-active:
+
+url-pretty: "devlord.io"

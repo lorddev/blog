@@ -16,7 +16,7 @@ tags:
     - 'Running shoes'
 ---
 
-<a href="/blog/wp-content/uploads/2012/04/20120420-124635.jpg"><img src="/blog/wp-content/uploads/2012/04/20120420-124635.jpg" alt="20120420-124635.jpg" class="alignnone size-full" /></a>
+<a href="/wp-content/uploads/2012/04/20120420-124635.jpg"><img src="/wp-content/uploads/2012/04/20120420-124635.jpg" alt="20120420-124635.jpg" class="alignnone size-full" /></a>
 
 The local Fleet Feet is having a sidewalk sale today. I'm in need of some rugged trail shoes for the HOT Half in October. A couple weeks ago I took my New Balance MT10s out to Upper Bidwell Park and they couldn't handle the rocks.
 

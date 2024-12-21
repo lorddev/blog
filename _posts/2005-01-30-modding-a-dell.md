@@ -23,7 +23,7 @@ tags:
 People say it's not possible to mod a Dell... This is proof otherwise.
 
 Still, please remind me not to get a Dell next time!
-<div class="separator" style="clear:both;text-align:center;"><a style="margin-left:1em;margin-right:1em;" href="/blog/wp-content/uploads/2011/10/lanboy-jerry-rig-002-sm.jpg?w=300"><img src="/blog/wp-content/uploads/2011/10/lanboy-jerry-rig-002-sm.jpg?w=300" alt="" border="0" /></a></div>
+<div class="separator" style="clear:both;text-align:center;"><a style="margin-left:1em;margin-right:1em;" href="/wp-content/uploads/2011/10/lanboy-jerry-rig-002-sm.jpg?w=300"><img src="/wp-content/uploads/2011/10/lanboy-jerry-rig-002-sm.jpg?w=300" alt="" border="0" /></a></div>
 I got some electrical tape from Radio Shack and jerry-rigged the front panel power switch and LEDs. The metal box hanging loose in the bottom of the case is the front USB panel. There are too many wires to splice, and the computer complains if it's not plugged in. I'll just use the rear USB ports until I can get a new motherboard.
 <div class="separator" style="clear:both;text-align:center;"><a style="margin-left:1em;margin-right:1em;" href="http://mustfollow.files.wordpress.com/2005/01/lanboy-jerry-rig-003-sm.jpg?w=300"><img src="http://mustfollow.files.wordpress.com/2005/01/lanboy-jerry-rig-003-sm.jpg?w=300" alt="" border="0" /></a></div>
 Pretty, isn't it?

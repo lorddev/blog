@@ -8,7 +8,7 @@ guid: 'https://www.devlord.io/blog/?p=2360'
 permalink: '/?p=2360'
 ---
 
-<a href="https://www.devlord.io/blog/wp-content/uploads/2011/10/image.jpg"><img src="/blog/wp-content/uploads/2011/10/image.jpg?w=300" alt="" border="0" /></a>
+<a href="/wp-content/uploads/2011/10/image.jpg"><img src="/wp-content/uploads/2011/10/image.jpg?w=300" alt="" border="0" /></a>
 <blockquote>Praise him with trumpet sound;
 praise him with lute and harp! (Psalm 150:3, ESV)</blockquote>
 <blockquote>αἰνεῖτε αὐτὸν ἐν ἤχῳ σάλπιγγος

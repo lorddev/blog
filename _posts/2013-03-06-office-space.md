@@ -28,4 +28,4 @@ tags:
 
 Behold, the new offices of Lord Design in beautiful Paradise, California.
 
-<a href="/blog/wp-content/uploads/2013/03/20130306-182519.jpg"><img class="alignnone size-full" alt="20130306-182519.jpg" src="/blog/wp-content/uploads/2013/03/20130306-182519.jpg" /></a>
+<a href="/wp-content/uploads/2013/03/20130306-182519.jpg"><img class="alignnone size-full" alt="20130306-182519.jpg" src="/wp-content/uploads/2013/03/20130306-182519.jpg" /></a>

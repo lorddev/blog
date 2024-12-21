@@ -23,4 +23,4 @@ tags:
 format: image
 ---
 
-<a href="/blog/wp-content/uploads/2011/10/sproles_teams.jpg"><img src="/blog/wp-content/uploads/2011/10/sproles_teams.jpg?w=300" border="0" alt="" /></a><div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>
+<a href="/wp-content/uploads/2011/10/sproles_teams.jpg"><img src="/wp-content/uploads/2011/10/sproles_teams.jpg?w=300" border="0" alt="" /></a><div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>

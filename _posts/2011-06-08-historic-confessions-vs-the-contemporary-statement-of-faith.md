@@ -36,7 +36,7 @@ tags:
 <table class="tr-caption-container" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
-<td style="text-align:center;"><a style="margin-left:auto;margin-right:auto;" href="https://www.devlord.io/blog/wp-content/uploads/2011/10/img_1432.jpg"><img src="/blog/wp-content/uploads/2011/10/img_1432.jpg?w=300" alt="" width="400" height="400" border="0" /></a></td>
+<td style="text-align:center;"><a style="margin-left:auto;margin-right:auto;" href="/wp-content/uploads/2011/10/img_1432.jpg"><img src="/wp-content/uploads/2011/10/img_1432.jpg?w=300" alt="" width="400" height="400" border="0" /></a></td>
 </tr>
 <tr>
 <td class="tr-caption" style="text-align:center;">A page in the PC(USA) Book of Confessions</td>

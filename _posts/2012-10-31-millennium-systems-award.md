@@ -21,4 +21,4 @@ tags:
 
 Big surprise, I received a nice care package from nextmill.net today! Apparently they've selected me as their web designer of the month!
 
-They have excellent support and I recommend them highly.<br /><br /><a href="/blog/wp-content/uploads/2012/10/20121031-095059.jpg"><img src="/blog/wp-content/uploads/2012/10/20121031-095059.jpg" alt="20121031-095059.jpg" class="alignnone size-full" /></a><br /><br /><a href="/blog/wp-content/uploads/2012/10/20121031-095110.jpg"><img src="/blog/wp-content/uploads/2012/10/20121031-095110.jpg" alt="20121031-095110.jpg" class="alignnone size-full" /></a>
+They have excellent support and I recommend them highly.<br /><br /><a href="/wp-content/uploads/2012/10/20121031-095059.jpg"><img src="/wp-content/uploads/2012/10/20121031-095059.jpg" alt="20121031-095059.jpg" class="alignnone size-full" /></a><br /><br /><a href="/wp-content/uploads/2012/10/20121031-095110.jpg"><img src="/wp-content/uploads/2012/10/20121031-095110.jpg" alt="20121031-095110.jpg" class="alignnone size-full" /></a>

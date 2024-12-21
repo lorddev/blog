@@ -38,7 +38,7 @@ So, that didn't work out…
 
 Fortunately, a friend/colleague I worked with for years at a previous company told me about a great website for freelancing, oDesk. Suddenly I have more clients than I can handle! (Don't take that too literally if you're one of them; it's an expression.) In the space of a couple days I've gone from a "Mr. Anderson" dead-end living hell to literally living my dream.
 
-<a href="/blog/wp-content/uploads/2012/07/20120728-220645.jpg"><img class="alignnone size-full" src="/blog/wp-content/uploads/2012/07/20120728-220645.jpg" alt="20120728-220645.jpg" /></a>
+<a href="/wp-content/uploads/2012/07/20120728-220645.jpg"><img class="alignnone size-full" src="/wp-content/uploads/2012/07/20120728-220645.jpg" alt="20120728-220645.jpg" /></a>
 
 Ask anyone who lives here, and they'll tell you it's much better this way.
 

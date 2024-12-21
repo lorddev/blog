@@ -18,4 +18,4 @@ categories:
     - General
 ---
 
-<p class="mobile-photo"><a href="/blog/wp-content/uploads/2011/10/photo-754294.jpg"><img src="/blog/wp-content/uploads/2011/10/photo-754294.jpg?w=300" border="0" alt="" /></a></p>Here&#039;s my new workstation.<div class="blogger-post-footer"><img width='1' height='1' src="https://www.devlord.io/blog/all-moved-again/"' /></div>
+<p class="mobile-photo"><a href="/wp-content/uploads/2011/10/photo-754294.jpg"><img src="/wp-content/uploads/2011/10/photo-754294.jpg?w=300" border="0" alt="" /></a></p>Here&#039;s my new workstation.<div class="blogger-post-footer"><img width='1' height='1' src="https://www.devlord.io/blog/all-moved-again/"' /></div>

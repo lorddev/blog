@@ -15,5 +15,5 @@ footnotes:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"lightbox":{"enabled":false},"id":2964,"sizeSlug":"full","linkDestination":"custom","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><a href="https://medium.devlord.io"><img src="https://www.devlord.io/blog/wp-content/uploads/2024/10/image.jpg" alt="" class="wp-image-2964"/></a></figure>
+<figure class="wp-block-image aligncenter size-full"><a href="https://medium.devlord.io"><img src="/wp-content/uploads/2024/10/image.jpg" alt="" class="wp-image-2964"/></a></figure>
 <!-- /wp:image -->

@@ -25,7 +25,7 @@ tags:
 format: image
 ---
 
-<p class="mobile-photo" style="text-align:center;"><a href="/blog/wp-content/uploads/2011/10/photo-765809.jpg"><img class="aligncenter" style="border-color:initial;border-style:initial;border-width:0;" src="/blog/wp-content/uploads/2011/10/photo-765809.jpg" alt="" /></a></p>
+<p class="mobile-photo" style="text-align:center;"><a href="/wp-content/uploads/2011/10/photo-765809.jpg"><img class="aligncenter" style="border-color:initial;border-style:initial;border-width:0;" src="/wp-content/uploads/2011/10/photo-765809.jpg" alt="" /></a></p>
 <p class="mobile-photo">Born January 12, in the year of our Lord 2009 at 8:35 PM
 18 inches in length
 6 lbs. 6 oz.</p>

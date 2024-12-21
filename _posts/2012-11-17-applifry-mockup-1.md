@@ -20,6 +20,6 @@ tags:
 format: gallery
 ---
 
-<a href="/blog/wp-content/uploads/2012/11/20121117-200948.jpg"><img src="/blog/wp-content/uploads/2012/11/20121117-200948.jpg" alt="20121117-200948.jpg" class="alignnone size-full" /></a>
+<a href="/wp-content/uploads/2012/11/20121117-200948.jpg"><img src="/wp-content/uploads/2012/11/20121117-200948.jpg" alt="20121117-200948.jpg" class="alignnone size-full" /></a>
 
 I designed this using Autodesk Sketchbook Pro for iPad.

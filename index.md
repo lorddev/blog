@@ -1,14 +1,5 @@
 ---
-layout: default
-title: Blog
+layout: home
+title: 'I must follow, if I can'
+subtitle: 'Pursuing it with eager feet / Until it joins some larger way'
 ---
-<h1>Latest Posts</h1>
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>

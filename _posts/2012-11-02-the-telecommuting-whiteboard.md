@@ -28,7 +28,7 @@ tags:
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="/blog/wp-content/uploads/2012/11/20121102-2248511.jpg"><img src="/blog/wp-content/uploads/2012/11/20121102-2248511.jpg" alt="20121102-224851.jpg"/></a></figure>
+<figure class="wp-block-image"><a href="/wp-content/uploads/2012/11/20121102-2248511.jpg"><img src="/wp-content/uploads/2012/11/20121102-2248511.jpg" alt="20121102-224851.jpg"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

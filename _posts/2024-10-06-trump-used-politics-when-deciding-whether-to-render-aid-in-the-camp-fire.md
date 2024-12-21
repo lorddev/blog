@@ -34,6 +34,8 @@ tags:
 ---
 
 <!-- wp:paragraph -->
+![A very old bus and cars destroyed by fire. This appears to not have been traffic but someone's old collection in front of their house.](/wp-content/uploads/2024/10/paradise-fire-disastrous-aftermath.webp)
+
 <p>(Image source: Yichuan Cao / Sipa USA via AP)</p>
 <!-- /wp:paragraph -->
 
