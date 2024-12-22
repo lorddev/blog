@@ -20,8 +20,6 @@ astra-migrate-meta-layouts:
     - set
 footnotes:
     - ''
-cover-img: '/assets/img/2024/03/Screenshot-2024-03-18-at-5.23.19xPM.jpg'
-image: '/assets/img/2024/03/Screenshot-2024-03-18-at-5.23.19xPM.jpg'
 categories:
     - Deconstruction
     - Religion
