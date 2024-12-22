@@ -4,7 +4,7 @@ title: 'Spiritual Bankruptcy'
 date: '2005-04-15T17:56:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/04/15/spiritual-bankruptcy/'
+guid: 'https://blog.devlord.io/2005/04/15/spiritual-bankruptcy/'
 permalink: /2005/04/15/spiritual-bankruptcy/
 activitypub_status:
     - federated

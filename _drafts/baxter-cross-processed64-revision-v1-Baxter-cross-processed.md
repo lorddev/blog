@@ -4,7 +4,7 @@ title: 'Baxter, cross-processed'
 date: '2024-03-11T14:15:53-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2369'
+guid: 'https://blog.devlord.io/?p=2369'
 permalink: '/?p=2369'
 footnotes:
     - ''

@@ -4,7 +4,7 @@ title: 'The Ten Commandments of the Late Mr. Hitchens'
 date: '2024-03-19T11:44:08-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2785'
+guid: 'https://blog.devlord.io/?p=2785'
 permalink: '/?p=2785'
 ---
 

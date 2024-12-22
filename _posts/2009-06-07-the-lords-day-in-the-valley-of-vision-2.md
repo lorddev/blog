@@ -4,7 +4,7 @@ title: 'The Lord&#8217;s Day in The Valley of Vision'
 date: '2009-06-07T15:00:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/06/07/the-lords-day-in-the-valley-of-vision-2/'
+guid: 'https://blog.devlord.io/2009/06/07/the-lords-day-in-the-valley-of-vision-2/'
 permalink: /2009/06/07/the-lords-day-in-the-valley-of-vision-2/
 activitypub_status:
     - federated

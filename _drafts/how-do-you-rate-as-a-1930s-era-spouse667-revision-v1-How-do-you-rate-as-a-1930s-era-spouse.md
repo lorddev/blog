@@ -4,7 +4,7 @@ title: 'How do you rate as a 1930s-era spouse?'
 date: '2008-06-09T20:44:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2615'
+guid: 'https://blog.devlord.io/?p=2615'
 permalink: '/?p=2615'
 ---
 

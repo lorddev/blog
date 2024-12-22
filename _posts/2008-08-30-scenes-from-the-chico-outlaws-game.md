@@ -4,7 +4,7 @@ title: 'Scenes from the Chico Outlaws game'
 date: '2008-08-30T02:52:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/08/30/scenes-from-the-chico-outlaws-game/'
+guid: 'https://blog.devlord.io/2008/08/30/scenes-from-the-chico-outlaws-game/'
 permalink: /2008/08/30/scenes-from-the-chico-outlaws-game/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Mythbusters: The Tailgate Hypothesis'
 date: '2005-12-20T19:30:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/12/20/mythbusters-the-tailgate-hypothesis/'
+guid: 'https://blog.devlord.io/2005/12/20/mythbusters-the-tailgate-hypothesis/'
 permalink: /2005/12/20/mythbusters-the-tailgate-hypothesis/
 activitypub_status:
     - federated

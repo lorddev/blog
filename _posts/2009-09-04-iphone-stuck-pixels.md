@@ -4,7 +4,7 @@ title: 'iPhone stuck pixels'
 date: '2009-09-04T21:58:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/09/04/iphone-stuck-pixels/'
+guid: 'https://blog.devlord.io/2009/09/04/iphone-stuck-pixels/'
 permalink: /2009/09/04/iphone-stuck-pixels/
 activitypub_status:
     - federated

@@ -3,7 +3,7 @@ id: 2625
 title: 'Insofar as They Are Supported by Scripture'
 date: '2024-03-13T11:54:24-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2625'
+guid: 'https://blog.devlord.io/?p=2625'
 permalink: '/?p=2625'
 ---
 

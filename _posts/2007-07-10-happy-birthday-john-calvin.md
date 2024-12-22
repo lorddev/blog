@@ -4,7 +4,7 @@ title: 'Happy Birthday John Calvin'
 date: '2007-07-10T20:47:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2007/07/10/happy-birthday-john-calvin/'
+guid: 'https://blog.devlord.io/2007/07/10/happy-birthday-john-calvin/'
 permalink: /2007/07/10/happy-birthday-john-calvin/
 activitypub_status:
     - federated

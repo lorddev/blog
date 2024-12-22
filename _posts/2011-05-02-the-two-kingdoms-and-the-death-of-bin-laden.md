@@ -4,7 +4,7 @@ title: 'The Two Kingdoms and the Death of Bin Laden'
 date: '2011-05-02T20:15:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2011/05/02/the-two-kingdoms-and-the-death-of-bin-laden/'
+guid: 'https://blog.devlord.io/2011/05/02/the-two-kingdoms-and-the-death-of-bin-laden/'
 permalink: /2011/05/02/the-two-kingdoms-and-the-death-of-bin-laden/
 activitypub_status:
     - federate

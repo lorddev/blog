@@ -4,7 +4,7 @@ title: 'I Still Haven&#8217;t Found What I&#8217;m Looking For'
 date: '2005-01-01T18:44:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/01/01/i-still-havent-found-what-im-looking-for/'
+guid: 'https://blog.devlord.io/2005/01/01/i-still-havent-found-what-im-looking-for/'
 permalink: /2005/01/01/i-still-havent-found-what-im-looking-for/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Kim Riddlebarger on &quot;Issues, etc.&quot;'
 date: '2009-07-20T00:20:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2422'
+guid: 'https://blog.devlord.io/?p=2422'
 permalink: '/?p=2422'
 ---
 

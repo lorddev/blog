@@ -4,7 +4,7 @@ title: 'Wrestling with God'
 date: '2004-12-24T16:12:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2004/12/24/wrestling-with-god/'
+guid: 'https://blog.devlord.io/2004/12/24/wrestling-with-god/'
 permalink: /2004/12/24/wrestling-with-god/
 activitypub_status:
     - federated

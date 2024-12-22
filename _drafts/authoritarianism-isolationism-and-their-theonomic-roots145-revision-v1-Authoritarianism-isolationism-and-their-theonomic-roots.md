@@ -4,7 +4,7 @@ title: 'Authoritarianism, isolationism, and their theonomic roots'
 date: '2010-02-17T07:14:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2379'
+guid: 'https://blog.devlord.io/?p=2379'
 permalink: '/?p=2379'
 ---
 

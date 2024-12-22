@@ -4,7 +4,7 @@ title: 'New blog home'
 date: '2024-03-04T17:15:05-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2024/03/04/new-blog-home/'
+guid: 'https://blog.devlord.io/2024/03/04/new-blog-home/'
 permalink: /2024/03/04/new-blog-home/
 activitypub_status:
     - federated

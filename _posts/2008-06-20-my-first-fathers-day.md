@@ -4,7 +4,7 @@ title: 'My First Father&#8217;s Day'
 date: '2008-06-20T02:02:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/06/20/my-first-fathers-day/'
+guid: 'https://blog.devlord.io/2008/06/20/my-first-fathers-day/'
 permalink: /2008/06/20/my-first-fathers-day/
 activitypub_status:
     - federated

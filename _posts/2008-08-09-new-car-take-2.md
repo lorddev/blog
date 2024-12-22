@@ -4,7 +4,7 @@ title: 'New Car Take 2'
 date: '2008-08-09T21:50:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/08/09/new-car-take-2/'
+guid: 'https://blog.devlord.io/2008/08/09/new-car-take-2/'
 permalink: /2008/08/09/new-car-take-2/
 activitypub_status:
     - federated

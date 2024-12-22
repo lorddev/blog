@@ -3,7 +3,7 @@ id: 2632
 title: 'The Covenant of Works and the Covenant of Grace'
 date: '2024-03-13T11:57:17-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2632'
+guid: 'https://blog.devlord.io/?p=2632'
 permalink: '/?p=2632'
 ---
 

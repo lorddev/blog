@@ -4,7 +4,7 @@ title: 'Ninja coding: it&#8217;s legendary'
 date: '2009-04-29T03:59:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2917'
+guid: 'https://blog.devlord.io/?p=2917'
 permalink: '/?p=2917'
 ---
 

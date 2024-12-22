@@ -4,7 +4,7 @@ title: 'Our Future Hope!'
 date: '2004-12-31T00:14:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2004/12/31/our-future-hope/'
+guid: 'https://blog.devlord.io/2004/12/31/our-future-hope/'
 permalink: /2004/12/31/our-future-hope/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Break Down the Walls'
 date: '2009-07-08T19:28:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2425'
+guid: 'https://blog.devlord.io/?p=2425'
 permalink: '/?p=2425'
 ---
 

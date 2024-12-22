@@ -4,7 +4,7 @@ title: 'B. B. Warfield on Revelation 20'
 date: '2009-07-18T05:55:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2423'
+guid: 'https://blog.devlord.io/?p=2423'
 permalink: '/?p=2423'
 ---
 

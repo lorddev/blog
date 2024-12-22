@@ -4,7 +4,7 @@ title: 'No Christian had any notion of a secret rapture before 1830'
 date: '2011-05-23T21:35:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2011/05/23/no-christian-had-any-notion-of-a-secret-rapture-before-1830/'
+guid: 'https://blog.devlord.io/2011/05/23/no-christian-had-any-notion-of-a-secret-rapture-before-1830/'
 permalink: /2011/05/23/no-christian-had-any-notion-of-a-secret-rapture-before-1830/
 activitypub_status:
     - federated

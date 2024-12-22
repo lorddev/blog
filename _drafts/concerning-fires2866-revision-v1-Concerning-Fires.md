@@ -4,7 +4,7 @@ title: 'Concerning Fires'
 date: '2024-08-03T19:28:47-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2870'
+guid: 'https://blog.devlord.io/?p=2870'
 permalink: '/?p=2870'
 footnotes:
     - ''

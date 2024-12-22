@@ -4,7 +4,7 @@ title: 'Giving Is a Party'
 date: '2006-07-23T01:13:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2006/07/23/giving-is-a-party/'
+guid: 'https://blog.devlord.io/2006/07/23/giving-is-a-party/'
 permalink: /2006/07/23/giving-is-a-party/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'First Mommy, Mommy First'
 date: '2008-12-05T21:34:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/12/05/first-mommy-mommy-first/'
+guid: 'https://blog.devlord.io/2008/12/05/first-mommy-mommy-first/'
 permalink: /2008/12/05/first-mommy-mommy-first/
 activitypub_status:
     - federated

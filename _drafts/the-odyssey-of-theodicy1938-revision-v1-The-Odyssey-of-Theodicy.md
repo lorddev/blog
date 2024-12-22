@@ -4,7 +4,7 @@ title: 'The Odyssey of Theodicy'
 date: '2024-03-20T15:45:27-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2857'
+guid: 'https://blog.devlord.io/?p=2857'
 permalink: '/?p=2857'
 footnotes:
     - ''

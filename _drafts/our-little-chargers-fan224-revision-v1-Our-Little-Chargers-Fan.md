@@ -4,7 +4,7 @@ title: 'Our Little Chargers Fan'
 date: '2009-08-30T00:15:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2570'
+guid: 'https://blog.devlord.io/?p=2570'
 permalink: '/?p=2570'
 ---
 

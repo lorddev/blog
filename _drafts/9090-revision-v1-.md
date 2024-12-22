@@ -3,7 +3,7 @@ id: 2336
 date: '2024-03-10T19:29:44-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2336'
+guid: 'https://blog.devlord.io/?p=2336'
 permalink: '/?p=2336'
 ---
 

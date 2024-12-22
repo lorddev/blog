@@ -3,7 +3,7 @@ id: 2666
 title: 'Holy Week starts off with acts of Christian terrorism'
 date: '2024-03-13T16:55:20-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2666'
+guid: 'https://blog.devlord.io/?p=2666'
 permalink: '/?p=2666'
 ---
 

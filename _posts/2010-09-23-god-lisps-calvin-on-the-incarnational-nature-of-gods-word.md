@@ -4,7 +4,7 @@ title: '&quot;God Lisps&quot;: Calvin on the Incarnational Nature of God&#8217;s
 date: '2010-09-23T17:51:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2010/09/23/god-lisps-calvin-on-the-incarnational-nature-of-gods-word/'
+guid: 'https://blog.devlord.io/2010/09/23/god-lisps-calvin-on-the-incarnational-nature-of-gods-word/'
 permalink: /2010/09/23/god-lisps-calvin-on-the-incarnational-nature-of-gods-word/
 activitypub_status:
     - federate

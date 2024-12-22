@@ -4,7 +4,7 @@ title: 'Propserity Preachers and the Economic Downturn'
 date: '2010-01-27T05:00:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2010/01/27/propserity-preachers-and-the-economic-downturn/'
+guid: 'https://blog.devlord.io/2010/01/27/propserity-preachers-and-the-economic-downturn/'
 permalink: /2010/01/27/propserity-preachers-and-the-economic-downturn/
 activitypub_status:
     - federated

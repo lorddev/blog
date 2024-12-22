@@ -4,7 +4,7 @@ title: 'My new hero'
 date: '2009-01-04T07:26:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/01/04/my-new-hero/'
+guid: 'https://blog.devlord.io/2009/01/04/my-new-hero/'
 permalink: /2009/01/04/my-new-hero/
 activitypub_status:
     - federated

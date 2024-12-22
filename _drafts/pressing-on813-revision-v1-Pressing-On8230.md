@@ -4,7 +4,7 @@ title: 'Pressing On&#8230;'
 date: '2005-01-30T22:31:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2519'
+guid: 'https://blog.devlord.io/?p=2519'
 permalink: '/?p=2519'
 ---
 

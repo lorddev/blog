@@ -4,7 +4,7 @@ title: '&quot;God Lisps&quot;: Calvin on the Incarnational Nature of God&#8217;s
 date: '2024-03-10T19:23:49-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2324'
+guid: 'https://blog.devlord.io/?p=2324'
 permalink: '/?p=2324'
 ---
 

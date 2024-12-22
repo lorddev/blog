@@ -4,7 +4,7 @@ title: 'To go against conscience is neither right nor safe'
 date: '2009-05-25T01:36:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/05/25/to-go-against-conscience-is-neither-right-nor-safe/'
+guid: 'https://blog.devlord.io/2009/05/25/to-go-against-conscience-is-neither-right-nor-safe/'
 permalink: /2009/05/25/to-go-against-conscience-is-neither-right-nor-safe/
 activitypub_status:
     - federated

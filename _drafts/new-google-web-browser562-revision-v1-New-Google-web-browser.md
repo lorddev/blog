@@ -3,7 +3,7 @@ id: 2709
 title: 'New Google web browser'
 date: '2024-03-13T17:39:11-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2709'
+guid: 'https://blog.devlord.io/?p=2709'
 permalink: '/?p=2709'
 ---
 

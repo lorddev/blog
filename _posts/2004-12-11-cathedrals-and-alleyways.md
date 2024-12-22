@@ -4,7 +4,7 @@ title: 'Cathedrals and Alleyways'
 date: '2004-12-11T08:14:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2004/12/11/cathedrals-and-alleyways/'
+guid: 'https://blog.devlord.io/2004/12/11/cathedrals-and-alleyways/'
 permalink: /2004/12/11/cathedrals-and-alleyways/
 activitypub_status:
     - federated

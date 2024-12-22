@@ -4,7 +4,7 @@ title: 'God-Centered Worship'
 date: '2005-03-01T09:19:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/03/01/god-centered-worship/'
+guid: 'https://blog.devlord.io/2005/03/01/god-centered-worship/'
 permalink: /2005/03/01/god-centered-worship/
 activitypub_status:
     - federated

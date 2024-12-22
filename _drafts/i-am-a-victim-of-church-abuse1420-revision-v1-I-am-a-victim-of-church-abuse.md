@@ -4,7 +4,7 @@ title: 'I am a victim of church abuse'
 date: '2024-03-19T11:36:15-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2793'
+guid: 'https://blog.devlord.io/?p=2793'
 permalink: '/?p=2793'
 footnotes:
     - ''

@@ -4,7 +4,7 @@ title: 'Barefoot no more'
 date: '2024-03-10T17:43:45-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2279'
+guid: 'https://blog.devlord.io/?p=2279'
 permalink: '/?p=2279'
 ---
 

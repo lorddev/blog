@@ -4,7 +4,7 @@ title: 'Mark Driscoll on Saint Nicholas'
 date: '2008-12-24T19:15:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/12/24/mark-driscoll-on-saint-nicholas/'
+guid: 'https://blog.devlord.io/2008/12/24/mark-driscoll-on-saint-nicholas/'
 permalink: /2008/12/24/mark-driscoll-on-saint-nicholas/
 activitypub_status:
     - federated

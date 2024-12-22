@@ -4,7 +4,7 @@ title: 'Ava is a Puritan!'
 date: '2009-11-17T17:31:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2911'
+guid: 'https://blog.devlord.io/?p=2911'
 permalink: '/?p=2911'
 ---
 

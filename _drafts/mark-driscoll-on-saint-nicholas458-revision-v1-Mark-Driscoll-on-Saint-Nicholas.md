@@ -4,7 +4,7 @@ title: 'Mark Driscoll on Saint Nicholas'
 date: '2008-12-24T19:15:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2454'
+guid: 'https://blog.devlord.io/?p=2454'
 permalink: '/?p=2454'
 ---
 

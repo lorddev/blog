@@ -4,7 +4,7 @@ title: 'The Holy Grail of baby gifts'
 date: '2008-11-15T21:09:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/11/15/the-holy-grail-of-baby-gifts/'
+guid: 'https://blog.devlord.io/2008/11/15/the-holy-grail-of-baby-gifts/'
 permalink: /2008/11/15/the-holy-grail-of-baby-gifts/
 activitypub_status:
     - federated

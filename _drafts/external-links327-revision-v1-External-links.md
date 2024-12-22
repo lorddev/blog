@@ -4,7 +4,7 @@ title: 'External links'
 date: '2024-10-07T16:46:23-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2929'
+guid: 'https://blog.devlord.io/?p=2929'
 permalink: '/?p=2929'
 footnotes:
     - ''

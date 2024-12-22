@@ -4,7 +4,7 @@ title: 'Missions Update'
 date: '2004-12-16T12:44:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2004/12/16/missions-update/'
+guid: 'https://blog.devlord.io/2004/12/16/missions-update/'
 permalink: /2004/12/16/missions-update/
 activitypub_status:
     - federated

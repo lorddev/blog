@@ -4,7 +4,7 @@ title: 'Joss Whedon on the Zomney Apocalypse'
 date: '2012-10-28T18:24:14-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/10/28/joss-whedon-in-the-zomney-apocalypse/'
+guid: 'https://blog.devlord.io/2012/10/28/joss-whedon-in-the-zomney-apocalypse/'
 permalink: /2012/10/28/joss-whedon-in-the-zomney-apocalypse/
 activitypub_status:
     - federated

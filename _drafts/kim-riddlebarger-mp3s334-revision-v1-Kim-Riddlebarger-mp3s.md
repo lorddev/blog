@@ -4,7 +4,7 @@ title: 'Kim Riddlebarger mp3s'
 date: '2009-06-07T01:49:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2434'
+guid: 'https://blog.devlord.io/?p=2434'
 permalink: '/?p=2434'
 ---
 

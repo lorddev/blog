@@ -4,7 +4,7 @@ title: 'A happy guy enjoying God&#8217;s gifts&#8230;'
 date: '2024-03-13T11:36:18-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2616'
+guid: 'https://blog.devlord.io/?p=2616'
 permalink: '/?p=2616'
 footnotes:
     - ''

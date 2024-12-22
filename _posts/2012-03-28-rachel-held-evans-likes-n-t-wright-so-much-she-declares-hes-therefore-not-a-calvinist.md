@@ -4,7 +4,7 @@ title: 'In which Rachel Held Evans likes N.T. Wright so much she concludes he mu
 date: '2012-03-28T09:52:36-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/03/28/rachel-held-evans-likes-n-t-wright-so-much-she-declares-hes-therefore-not-a-calvinist/'
+guid: 'https://blog.devlord.io/2012/03/28/rachel-held-evans-likes-n-t-wright-so-much-she-declares-hes-therefore-not-a-calvinist/'
 permalink: /2012/03/28/rachel-held-evans-likes-n-t-wright-so-much-she-declares-hes-therefore-not-a-calvinist/
 activitypub_status:
     - federated

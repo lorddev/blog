@@ -4,7 +4,7 @@ title: 'Tennessee education bill'
 date: '2024-03-28T17:29:30-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2849'
+guid: 'https://blog.devlord.io/?p=2849'
 permalink: '/?p=2849'
 footnotes:
     - ''

@@ -4,7 +4,7 @@ title: 'Ecclesiastes 3:14-15 (ESV)'
 date: '2024-03-19T11:44:09-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2786'
+guid: 'https://blog.devlord.io/?p=2786'
 permalink: '/?p=2786'
 ---
 

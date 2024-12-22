@@ -4,7 +4,7 @@ title: 'Two Hermeneutics: Covenant Theology vs. Dispensationalism and the Fourth
 date: '2009-05-06T07:37:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/05/06/two-hermeneutics-covenant-theology-vs-dispensationalism/'
+guid: 'https://blog.devlord.io/2009/05/06/two-hermeneutics-covenant-theology-vs-dispensationalism/'
 permalink: /2009/05/06/two-hermeneutics-covenant-theology-vs-dispensationalism/
 activitypub_status:
     - federated

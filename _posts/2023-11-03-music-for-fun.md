@@ -4,7 +4,7 @@ title: 'Music for fun vs. music for religion'
 date: '2023-11-03T22:38:40-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2023/11/03/music-for-fun/'
+guid: 'https://blog.devlord.io/2023/11/03/music-for-fun/'
 permalink: /2023/11/03/music-for-fun/
 activitypub_status:
     - federated

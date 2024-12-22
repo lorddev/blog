@@ -4,7 +4,7 @@ title: 'Chuck Smith on avoiding the reign of antichrist'
 date: '2009-09-14T17:10:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/09/14/chuck-smith-on-avoiding-the-reign-of-antichrist/'
+guid: 'https://blog.devlord.io/2009/09/14/chuck-smith-on-avoiding-the-reign-of-antichrist/'
 permalink: /2009/09/14/chuck-smith-on-avoiding-the-reign-of-antichrist/
 activitypub_status:
     - federated

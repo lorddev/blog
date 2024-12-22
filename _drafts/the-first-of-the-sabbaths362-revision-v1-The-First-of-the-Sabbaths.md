@@ -4,7 +4,7 @@ title: 'The First of the Sabbaths'
 date: '2009-05-08T07:10:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2437'
+guid: 'https://blog.devlord.io/?p=2437'
 permalink: '/?p=2437'
 ---
 

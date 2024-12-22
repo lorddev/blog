@@ -4,7 +4,7 @@ title: 'Gmail Autopilot&#8230;'
 date: '2009-04-01T16:42:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/04/01/gmail-autopilot/'
+guid: 'https://blog.devlord.io/2009/04/01/gmail-autopilot/'
 permalink: /2009/04/01/gmail-autopilot/
 activitypub_status:
     - federated

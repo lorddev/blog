@@ -4,7 +4,7 @@ title: 'What Is Distanciation?'
 date: '2009-06-23T21:02:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2579'
+guid: 'https://blog.devlord.io/?p=2579'
 permalink: '/?p=2579'
 ---
 

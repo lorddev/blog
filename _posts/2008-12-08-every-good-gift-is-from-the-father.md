@@ -4,7 +4,7 @@ title: 'Every good gift is from the Father'
 date: '2008-12-08T21:53:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/12/08/every-good-gift-is-from-the-father/'
+guid: 'https://blog.devlord.io/2008/12/08/every-good-gift-is-from-the-father/'
 permalink: /2008/12/08/every-good-gift-is-from-the-father/
 activitypub_status:
     - federated

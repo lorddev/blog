@@ -3,7 +3,7 @@ id: 2684
 title: 'I Still Haven&#8217;t Found What I&#8217;m Looking For, No. 2'
 date: '2024-03-13T17:13:07-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2684'
+guid: 'https://blog.devlord.io/?p=2684'
 permalink: '/?p=2684'
 ---
 

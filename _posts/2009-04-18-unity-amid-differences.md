@@ -4,7 +4,7 @@ title: 'Unity Amid Differences'
 date: '2009-04-18T20:37:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/04/18/unity-amid-differences/'
+guid: 'https://blog.devlord.io/2009/04/18/unity-amid-differences/'
 permalink: /2009/04/18/unity-amid-differences/
 activitypub_status:
     - federated

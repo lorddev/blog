@@ -4,7 +4,7 @@ title: 'First Love&#8230;'
 date: '2008-08-21T21:04:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2483'
+guid: 'https://blog.devlord.io/?p=2483'
 permalink: '/?p=2483'
 ---
 

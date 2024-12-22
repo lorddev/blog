@@ -4,7 +4,7 @@ title: 'Writing As I Learn'
 date: '2009-07-09T04:28:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/07/09/writing-as-i-learn/'
+guid: 'https://blog.devlord.io/2009/07/09/writing-as-i-learn/'
 permalink: /2009/07/09/writing-as-i-learn/
 activitypub_status:
     - federated

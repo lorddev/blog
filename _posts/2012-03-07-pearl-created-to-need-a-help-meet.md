@@ -5,7 +5,7 @@ date: '2012-03-07T12:34:13-08:00'
 author: 'Aaron Lord'
 excerpt: '<p><a href="http://www.goddiscussion.com/93533/christian-spare-the-rod-spoil-the-child-evangelist-now-out-with-a-new-marriage-advice-book-for-men/">Pearl: "Created To Need A Help Meet"</a></p><p>The Pearls out with a new how-to promoting abuse, no doubt...</p>'
 layout: post
-"guid: 'https://blog.devlord.io/2012/03/07/pearl-created-to-need-a-help-meet/'
+guid: 'https://blog.devlord.io/2012/03/07/pearl-created-to-need-a-help-meet/'
 permalink: /2012/03/07/pearl-created-to-need-a-help-meet/
 activitypub_status:
     - federated

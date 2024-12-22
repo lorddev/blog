@@ -4,7 +4,7 @@ title: 'Foundations of Grace'
 date: '2008-06-12T05:18:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2685'
+guid: 'https://blog.devlord.io/?p=2685'
 permalink: '/?p=2685'
 footnotes:
     - ''

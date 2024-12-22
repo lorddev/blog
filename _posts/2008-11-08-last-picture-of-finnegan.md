@@ -4,7 +4,7 @@ title: 'Last picture of Finnegan'
 date: '2008-11-08T05:20:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/11/08/last-picture-of-finnegan/'
+guid: 'https://blog.devlord.io/2008/11/08/last-picture-of-finnegan/'
 permalink: /2008/11/08/last-picture-of-finnegan/
 activitypub_status:
     - federated

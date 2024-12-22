@@ -4,7 +4,7 @@ title: 'My Day: LiveJournal Style'
 date: '2008-12-21T02:51:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/12/21/my-day-livejournal-style/'
+guid: 'https://blog.devlord.io/2008/12/21/my-day-livejournal-style/'
 permalink: /2008/12/21/my-day-livejournal-style/
 activitypub_status:
     - federated

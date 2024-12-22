@@ -4,7 +4,7 @@ title: 'Daddy date'
 date: '2010-04-17T17:41:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2907'
+guid: 'https://blog.devlord.io/?p=2907'
 permalink: '/?p=2907'
 ---
 

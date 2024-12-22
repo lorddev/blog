@@ -4,7 +4,7 @@ title: 'Do not destroy the work of God'
 date: '2009-05-11T20:02:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2582'
+guid: 'https://blog.devlord.io/?p=2582'
 permalink: '/?p=2582'
 ---
 

@@ -3,7 +3,7 @@ id: 2689
 title: 'Greengrass, Volume 1'
 date: '2024-03-13T17:15:58-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2689'
+guid: 'https://blog.devlord.io/?p=2689'
 permalink: '/?p=2689'
 ---
 

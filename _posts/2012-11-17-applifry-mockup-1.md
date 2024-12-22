@@ -4,7 +4,7 @@ title: 'Applifry Mockup #1'
 date: '2012-11-17T20:11:10-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/11/17/applifry-mockup-1/'
+guid: 'https://blog.devlord.io/2012/11/17/applifry-mockup-1/'
 permalink: /2012/11/17/applifry-mockup-1/
 activitypub_status:
     - federated

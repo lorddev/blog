@@ -4,7 +4,7 @@ title: 'I Still Haven&#8217;t Found What I&#8217;m Looking For'
 date: '2024-03-16T09:54:57-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2722'
+guid: 'https://blog.devlord.io/?p=2722'
 permalink: '/?p=2722'
 footnotes:
     - ''

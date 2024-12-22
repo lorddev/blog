@@ -4,7 +4,7 @@ title: 'Malibu trip'
 date: '2024-03-11T18:42:59-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2509'
+guid: 'https://blog.devlord.io/?p=2509'
 permalink: '/?p=2509'
 footnotes:
     - ''

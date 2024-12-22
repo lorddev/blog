@@ -4,7 +4,7 @@ title: 'Simplifying things'
 date: '2024-03-19T11:36:16-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2783'
+guid: 'https://blog.devlord.io/?p=2783'
 permalink: '/?p=2783'
 ---
 

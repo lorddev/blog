@@ -4,7 +4,7 @@ title: 'The Devil Who Made Them Do It&#8230;'
 date: '2010-02-11T22:39:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2010/02/11/the-devil-who-made-them-do-it/'
+guid: 'https://blog.devlord.io/2010/02/11/the-devil-who-made-them-do-it/'
 permalink: /2010/02/11/the-devil-who-made-them-do-it/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: '&#8220;It will stop on Election Day&#8221;'
 date: '2024-03-17T11:11:54-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2755'
+guid: 'https://blog.devlord.io/?p=2755'
 permalink: '/?p=2755'
 footnotes:
     - ''

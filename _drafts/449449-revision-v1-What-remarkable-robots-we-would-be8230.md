@@ -4,7 +4,7 @@ title: 'What remarkable robots we would be&#8230;'
 date: '2024-03-17T11:02:21-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2748'
+guid: 'https://blog.devlord.io/?p=2748'
 permalink: '/?p=2748'
 footnotes:
     - ''

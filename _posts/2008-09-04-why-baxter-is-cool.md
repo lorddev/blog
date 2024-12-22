@@ -4,7 +4,7 @@ title: 'Why Baxter Is Cool'
 date: '2008-09-04T03:49:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/09/04/why-baxter-is-cool/'
+guid: 'https://blog.devlord.io/2008/09/04/why-baxter-is-cool/'
 permalink: /2008/09/04/why-baxter-is-cool/
 activitypub_status:
     - federated

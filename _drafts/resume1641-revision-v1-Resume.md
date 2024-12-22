@@ -4,7 +4,7 @@ title: Résumé
 date: '2024-03-10T11:04:53-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2246'
+guid: 'https://blog.devlord.io/?p=2246'
 permalink: '/?p=2246'
 footnotes:
     - ''

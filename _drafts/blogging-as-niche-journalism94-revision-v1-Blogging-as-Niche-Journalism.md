@@ -4,7 +4,7 @@ title: 'Blogging as Niche Journalism'
 date: '2024-03-10T19:41:24-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2346'
+guid: 'https://blog.devlord.io/?p=2346'
 permalink: '/?p=2346'
 ---
 

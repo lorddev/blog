@@ -4,7 +4,7 @@ title: 'Our First Family Christmas Tree'
 date: '2008-12-07T22:55:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2927'
+guid: 'https://blog.devlord.io/?p=2927'
 permalink: '/?p=2927'
 ---
 

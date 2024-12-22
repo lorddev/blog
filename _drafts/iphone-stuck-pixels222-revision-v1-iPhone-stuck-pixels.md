@@ -4,7 +4,7 @@ title: 'iPhone stuck pixels'
 date: '2009-09-04T21:58:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2413'
+guid: 'https://blog.devlord.io/?p=2413'
 permalink: '/?p=2413'
 ---
 

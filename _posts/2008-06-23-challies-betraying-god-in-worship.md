@@ -4,7 +4,7 @@ title: 'Challies: Betraying God in Worship'
 date: '2008-06-23T18:55:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/06/23/challies-betraying-god-in-worship/'
+guid: 'https://blog.devlord.io/2008/06/23/challies-betraying-god-in-worship/'
 permalink: /2008/06/23/challies-betraying-god-in-worship/
 activitypub_status:
     - federated

@@ -3,7 +3,7 @@ id: 2820
 title: 'The Devil Who Made Them Do It&#8230;'
 date: '2024-03-24T10:33:59-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2820'
+guid: 'https://blog.devlord.io/?p=2820'
 permalink: '/?p=2820'
 ---
 

@@ -4,7 +4,7 @@ title: 'New iPhone leaked'
 date: '2008-06-09T03:18:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2495'
+guid: 'https://blog.devlord.io/?p=2495'
 permalink: '/?p=2495'
 ---
 

@@ -4,7 +4,7 @@ title: 'As Unto the Lord&#8230;'
 date: '2005-04-25T17:36:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/04/25/as-unto-the-lord/'
+guid: 'https://blog.devlord.io/2005/04/25/as-unto-the-lord/'
 permalink: /2005/04/25/as-unto-the-lord/
 activitypub_status:
     - federated

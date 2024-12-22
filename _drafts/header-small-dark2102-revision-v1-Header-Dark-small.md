@@ -4,7 +4,7 @@ title: 'Header (Dark, small)'
 date: '2024-03-09T17:59:05-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2104'
+guid: 'https://blog.devlord.io/?p=2104'
 permalink: '/?p=2104'
 ---
 

@@ -4,7 +4,7 @@ title: 'Are you worldly?'
 date: '2024-03-10T19:24:03-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2325'
+guid: 'https://blog.devlord.io/?p=2325'
 permalink: '/?p=2325'
 ---
 

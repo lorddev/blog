@@ -4,7 +4,7 @@ title: 'The Marks of an Abusive Church'
 date: '2024-03-10T19:08:52-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2295'
+guid: 'https://blog.devlord.io/?p=2295'
 permalink: '/?p=2295'
 ---
 

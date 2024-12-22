@@ -4,7 +4,7 @@ title: 'Christian at the head of the NIH'
 date: '2009-12-06T01:08:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/12/06/christian-at-the-head-of-the-nih/'
+guid: 'https://blog.devlord.io/2009/12/06/christian-at-the-head-of-the-nih/'
 permalink: /2009/12/06/christian-at-the-head-of-the-nih/
 activitypub_status:
     - federated

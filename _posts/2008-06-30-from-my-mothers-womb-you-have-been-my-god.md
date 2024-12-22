@@ -4,7 +4,7 @@ title: '&#8220;From my mother&#8217;s womb you have been my God&#8221;'
 date: '2008-06-30T20:52:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/06/30/from-my-mothers-womb-you-have-been-my-god/'
+guid: 'https://blog.devlord.io/2008/06/30/from-my-mothers-womb-you-have-been-my-god/'
 permalink: /2008/06/30/from-my-mothers-womb-you-have-been-my-god/
 activitypub_status:
     - federated

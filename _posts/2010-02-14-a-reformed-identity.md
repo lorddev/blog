@@ -4,7 +4,7 @@ title: 'A Reformed identity'
 date: '2010-02-14T23:22:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2010/02/14/a-reformed-identity/'
+guid: 'https://blog.devlord.io/2010/02/14/a-reformed-identity/'
 permalink: /2010/02/14/a-reformed-identity/
 activitypub_status:
     - federated

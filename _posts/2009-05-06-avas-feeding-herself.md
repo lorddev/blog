@@ -4,7 +4,7 @@ title: 'Ava&#8217;s feeding herself!'
 date: '2009-05-06T06:04:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/05/06/avas-feeding-herself/'
+guid: 'https://blog.devlord.io/2009/05/06/avas-feeding-herself/'
 permalink: /2009/05/06/avas-feeding-herself/
 activitypub_status:
     - federated

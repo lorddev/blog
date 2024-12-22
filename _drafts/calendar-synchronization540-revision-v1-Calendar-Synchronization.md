@@ -3,7 +3,7 @@ id: 2682
 title: 'Calendar Synchronization'
 date: '2024-03-13T17:09:47-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2682'
+guid: 'https://blog.devlord.io/?p=2682'
 permalink: '/?p=2682'
 ---
 

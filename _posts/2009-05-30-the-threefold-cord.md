@@ -4,7 +4,7 @@ title: 'The Threefold Cord'
 date: '2009-05-30T04:43:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/05/30/the-threefold-cord/'
+guid: 'https://blog.devlord.io/2009/05/30/the-threefold-cord/'
 permalink: /2009/05/30/the-threefold-cord/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Don&#8217;t forget to feed the cat'
 date: '2009-10-27T23:23:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/10/27/dont-forget-to-feed-the-cat/'
+guid: 'https://blog.devlord.io/2009/10/27/dont-forget-to-feed-the-cat/'
 permalink: /2009/10/27/dont-forget-to-feed-the-cat/
 activitypub_status:
     - federated

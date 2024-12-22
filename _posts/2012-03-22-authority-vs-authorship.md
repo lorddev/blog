@@ -4,7 +4,7 @@ title: 'Authority vs. Authorship'
 date: '2012-03-22T12:47:40-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/03/22/authority-vs-authorship/'
+guid: 'https://blog.devlord.io/2012/03/22/authority-vs-authorship/'
 permalink: /2012/03/22/authority-vs-authorship/
 activitypub_status:
     - federated

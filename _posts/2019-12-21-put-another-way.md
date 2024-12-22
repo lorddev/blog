@@ -5,7 +5,7 @@ date: '2019-12-21T09:35:55-08:00'
 author: 'Aaron Lord'
 excerpt: 'I think I first noticed something was wrong with our religion when I saw an episode of 60 Minutes about the remnants of the Branch Davidians in Waco. Yes, they’re still there. In the video, the new leader’s daughter was playing a Taylor and singing a Tim Hughes song. After that I could never sing that song again.'
 layout: post
-"guid: 'https://blog.devlord.io/2019/12/21/put-another-way/'
+guid: 'https://blog.devlord.io/2019/12/21/put-another-way/'
 permalink: /2019/12/21/put-another-way/
 activitypub_status:
     - federated

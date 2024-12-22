@@ -4,7 +4,7 @@ title: 'Propserity Preachers and the Economic Downturn'
 date: '2010-01-27T05:00:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2397'
+guid: 'https://blog.devlord.io/?p=2397'
 permalink: '/?p=2397'
 ---
 

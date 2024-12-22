@@ -4,7 +4,7 @@ title: 'Some interesting quotes, and a response'
 date: '2009-10-28T07:18:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/10/28/some-interesting-quotes-and-a-response/'
+guid: 'https://blog.devlord.io/2009/10/28/some-interesting-quotes-and-a-response/'
 permalink: /2009/10/28/some-interesting-quotes-and-a-response/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Twitter feed'
 date: '2008-07-17T17:33:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/?p=613'
+guid: 'https://blog.devlord.io/?p=613'
 permalink: '/?p=613'
 blogger_blog:
     - mustfollow.blogspot.com

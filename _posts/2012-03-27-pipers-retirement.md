@@ -4,7 +4,7 @@ title: 'Piper&#8217;s Retirement'
 date: '2012-03-27T20:04:57-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/03/27/pipers-retirement/'
+guid: 'https://blog.devlord.io/2012/03/27/pipers-retirement/'
 permalink: /2012/03/27/pipers-retirement/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'My awesome wife&#8230;'
 date: '2008-06-11T20:12:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/06/11/my-awesome-wife/'
+guid: 'https://blog.devlord.io/2008/06/11/my-awesome-wife/'
 permalink: /2008/06/11/my-awesome-wife/
 activitypub_status:
     - federated

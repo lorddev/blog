@@ -4,7 +4,7 @@ title: 'A New Agenda for our Talk'
 date: '2005-05-12T18:09:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/05/12/a-new-agenda-for-our-talk/'
+guid: 'https://blog.devlord.io/2005/05/12/a-new-agenda-for-our-talk/'
 permalink: /2005/05/12/a-new-agenda-for-our-talk/
 activitypub_status:
     - federated

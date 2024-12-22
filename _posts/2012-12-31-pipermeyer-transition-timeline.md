@@ -4,7 +4,7 @@ title: 'Piper/Meyer transition timeline'
 date: '2012-12-31T00:40:08-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/12/31/pipermeyer-transition-timeline/'
+guid: 'https://blog.devlord.io/2012/12/31/pipermeyer-transition-timeline/'
 permalink: /2012/12/31/pipermeyer-transition-timeline/
 activitypub_status:
     - federated

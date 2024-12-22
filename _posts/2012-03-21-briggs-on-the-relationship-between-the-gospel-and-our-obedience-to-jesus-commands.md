@@ -4,7 +4,7 @@ title: 'Briggs on the relationship between the gospel and our obedience to Jesus
 date: '2012-03-21T21:05:48-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/03/21/briggs-on-the-relationship-between-the-gospel-and-our-obedience-to-jesus-commands/'
+guid: 'https://blog.devlord.io/2012/03/21/briggs-on-the-relationship-between-the-gospel-and-our-obedience-to-jesus-commands/'
 permalink: /2012/03/21/briggs-on-the-relationship-between-the-gospel-and-our-obedience-to-jesus-commands/
 activitypub_status:
     - federated

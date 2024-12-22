@@ -4,7 +4,7 @@ title: 'Go, live your dream/Your dream stinks'
 date: '2024-03-19T11:57:20-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2790'
+guid: 'https://blog.devlord.io/?p=2790'
 permalink: '/?p=2790'
 footnotes:
     - ''

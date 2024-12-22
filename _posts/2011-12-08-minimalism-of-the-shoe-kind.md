@@ -4,7 +4,7 @@ title: 'Battle of the Vibram-soled Trail Runners'
 date: '2011-12-08T03:28:01-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2011/12/08/minimalism-of-the-shoe-kind/'
+guid: 'https://blog.devlord.io/2011/12/08/minimalism-of-the-shoe-kind/'
 permalink: /2011/12/08/minimalism-of-the-shoe-kind/
 activitypub_status:
     - federated

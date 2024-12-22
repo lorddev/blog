@@ -4,7 +4,7 @@ title: 'Congratulations Crissy!'
 date: '2009-05-23T16:04:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2581'
+guid: 'https://blog.devlord.io/?p=2581'
 permalink: '/?p=2581'
 ---
 

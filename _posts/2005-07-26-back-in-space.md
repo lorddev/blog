@@ -4,7 +4,7 @@ title: 'Back in Space'
 date: '2005-07-26T09:47:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/07/26/back-in-space/'
+guid: 'https://blog.devlord.io/2005/07/26/back-in-space/'
 permalink: /2005/07/26/back-in-space/
 activitypub_status:
     - federated

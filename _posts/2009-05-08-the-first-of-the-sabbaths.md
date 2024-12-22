@@ -4,7 +4,7 @@ title: 'The First of the Sabbaths'
 date: '2009-05-08T07:10:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/05/08/the-first-of-the-sabbaths/'
+guid: 'https://blog.devlord.io/2009/05/08/the-first-of-the-sabbaths/'
 permalink: /2009/05/08/the-first-of-the-sabbaths/
 activitypub_status:
     - federated

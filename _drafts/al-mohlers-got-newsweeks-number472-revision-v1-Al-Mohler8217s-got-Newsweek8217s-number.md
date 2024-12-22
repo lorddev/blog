@@ -3,7 +3,7 @@ id: 2668
 title: 'Al Mohler&#8217;s got Newsweek&#8217;s number'
 date: '2024-03-13T16:55:37-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2668'
+guid: 'https://blog.devlord.io/?p=2668'
 permalink: '/?p=2668'
 ---
 

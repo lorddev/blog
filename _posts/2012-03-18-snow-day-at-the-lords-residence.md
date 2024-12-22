@@ -4,7 +4,7 @@ title: 'Snow day at the Lords&#8217; residence'
 date: '2012-03-18T13:43:16-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/03/18/snow-day-at-the-lords-residence/'
+guid: 'https://blog.devlord.io/2012/03/18/snow-day-at-the-lords-residence/'
 permalink: /2012/03/18/snow-day-at-the-lords-residence/
 activitypub_status:
     - federated

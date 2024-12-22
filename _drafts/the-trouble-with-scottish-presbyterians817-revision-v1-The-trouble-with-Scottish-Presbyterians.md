@@ -3,7 +3,7 @@ id: 2700
 title: 'The trouble with Scottish Presbyterians'
 date: '2024-03-13T17:27:50-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2700'
+guid: 'https://blog.devlord.io/?p=2700'
 permalink: '/?p=2700'
 ---
 

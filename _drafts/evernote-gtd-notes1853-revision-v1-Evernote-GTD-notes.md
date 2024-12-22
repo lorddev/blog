@@ -4,7 +4,7 @@ title: 'Evernote GTD notes'
 date: '2024-03-19T11:29:11-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2766'
+guid: 'https://blog.devlord.io/?p=2766'
 permalink: '/?p=2766'
 ---
 

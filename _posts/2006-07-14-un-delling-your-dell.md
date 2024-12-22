@@ -4,7 +4,7 @@ title: 'Un-Delling Your Dell'
 date: '2006-07-14T15:37:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2006/07/14/un-delling-your-dell/'
+guid: 'https://blog.devlord.io/2006/07/14/un-delling-your-dell/'
 permalink: /2006/07/14/un-delling-your-dell/
 activitypub_status:
     - federated

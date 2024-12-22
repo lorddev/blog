@@ -4,7 +4,7 @@ title: 'BSOD Lives!'
 date: '2008-07-09T05:59:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/07/09/bsod-lives/'
+guid: 'https://blog.devlord.io/2008/07/09/bsod-lives/'
 permalink: /2008/07/09/bsod-lives/
 activitypub_status:
     - federated

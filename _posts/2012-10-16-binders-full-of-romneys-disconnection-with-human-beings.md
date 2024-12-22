@@ -4,7 +4,7 @@ title: 'Binders full of Romney&#8217;s disconnection with human beings'
 date: '2012-10-16T20:52:23-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/10/16/binders-full-of-romneys-disconnection-with-human-beings/'
+guid: 'https://blog.devlord.io/2012/10/16/binders-full-of-romneys-disconnection-with-human-beings/'
 permalink: /2012/10/16/binders-full-of-romneys-disconnection-with-human-beings/
 activitypub_status:
     - federated

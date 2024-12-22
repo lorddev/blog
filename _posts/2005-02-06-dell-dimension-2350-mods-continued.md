@@ -4,7 +4,7 @@ title: 'Dell Dimension 2350 mods, continued&#8230;'
 date: '2005-02-06T03:34:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/02/06/dell-dimension-2350-mods-continued/'
+guid: 'https://blog.devlord.io/2005/02/06/dell-dimension-2350-mods-continued/'
 permalink: /2005/02/06/dell-dimension-2350-mods-continued/
 activitypub_status:
     - federated

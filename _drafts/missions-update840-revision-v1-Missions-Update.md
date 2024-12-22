@@ -4,7 +4,7 @@ title: 'Missions Update'
 date: '2024-03-10T11:50:56-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2526'
+guid: 'https://blog.devlord.io/?p=2526'
 permalink: '/?p=2526'
 ---
 

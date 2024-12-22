@@ -4,7 +4,7 @@ title: 'Eleven facts about guns in the U.S.'
 date: '2012-12-14T13:05:06-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/12/14/eleven-facts-about-guns-and-mass-shootings-in-the-united-states/'
+guid: 'https://blog.devlord.io/2012/12/14/eleven-facts-about-guns-and-mass-shootings-in-the-united-states/'
 permalink: /2012/12/14/eleven-facts-about-guns-and-mass-shootings-in-the-united-states/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Punk Rawk!!!'
 date: '2005-05-28T11:28:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2508'
+guid: 'https://blog.devlord.io/?p=2508'
 permalink: '/?p=2508'
 ---
 

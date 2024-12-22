@@ -4,7 +4,7 @@ title: 'Ecclesiastes 3:14-15 (ESV)'
 date: '2009-04-27T15:19:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/04/27/ecclesiastes-314-15-esv/'
+guid: 'https://blog.devlord.io/2009/04/27/ecclesiastes-314-15-esv/'
 permalink: /2009/04/27/ecclesiastes-314-15-esv/
 activitypub_status:
     - federated

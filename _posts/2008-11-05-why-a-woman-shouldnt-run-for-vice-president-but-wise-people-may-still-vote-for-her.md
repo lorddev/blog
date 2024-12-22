@@ -4,7 +4,7 @@ title: 'Why a Woman Shouldn&#8217;t Run for Vice President, but Wise People May 
 date: '2008-11-05T08:17:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/11/05/why-a-woman-shouldnt-run-for-vice-president-but-wise-people-may-still-vote-for-her/'
+guid: 'https://blog.devlord.io/2008/11/05/why-a-woman-shouldnt-run-for-vice-president-but-wise-people-may-still-vote-for-her/'
 permalink: /2008/11/05/why-a-woman-shouldnt-run-for-vice-president-but-wise-people-may-still-vote-for-her/
 activitypub_status:
     - federated

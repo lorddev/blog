@@ -4,7 +4,7 @@ title: 'How do you rate as a 1930s-era spouse?'
 date: '2008-06-09T20:44:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/06/09/how-do-you-rate-as-a-1930s-era-spouse/'
+guid: 'https://blog.devlord.io/2008/06/09/how-do-you-rate-as-a-1930s-era-spouse/'
 permalink: /2008/06/09/how-do-you-rate-as-a-1930s-era-spouse/
 activitypub_status:
     - federated

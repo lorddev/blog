@@ -4,7 +4,7 @@ title: 'Happy Firefox Download Day!'
 date: '2008-06-17T18:22:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/06/17/happy-firefox-download-day/'
+guid: 'https://blog.devlord.io/2008/06/17/happy-firefox-download-day/'
 permalink: /2008/06/17/happy-firefox-download-day/
 activitypub_status:
     - federated

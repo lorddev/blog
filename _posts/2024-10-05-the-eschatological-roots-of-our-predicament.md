@@ -5,7 +5,7 @@ date: '2024-10-05T17:27:30-07:00'
 author: 'Aaron Lord'
 excerpt: 'In many ways I think that Calvary Chapel and the movement it was part of the 1970s is responsible for the current right wing religious fanaticism that is engulfing country.'
 layout: post
-"guid: 'https://blog.devlord.io/?p=2882'
+guid: 'https://blog.devlord.io/?p=2882'
 permalink: /2024/10/05/the-eschatological-roots-of-our-predicament/
 ast-site-content-layout:
     - default

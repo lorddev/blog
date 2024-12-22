@@ -4,7 +4,7 @@ title: 'The Voice of the Martyrs &#8211; News'
 date: '2008-07-04T17:23:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2491'
+guid: 'https://blog.devlord.io/?p=2491'
 permalink: '/?p=2491'
 ---
 

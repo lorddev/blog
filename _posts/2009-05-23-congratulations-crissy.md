@@ -4,7 +4,7 @@ title: 'Congratulations Crissy!'
 date: '2009-05-23T16:04:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/05/23/congratulations-crissy/'
+guid: 'https://blog.devlord.io/2009/05/23/congratulations-crissy/'
 permalink: /2009/05/23/congratulations-crissy/
 activitypub_status:
     - federated

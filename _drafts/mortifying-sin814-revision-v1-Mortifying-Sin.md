@@ -4,7 +4,7 @@ title: 'Mortifying Sin'
 date: '2005-01-17T12:14:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2520'
+guid: 'https://blog.devlord.io/?p=2520'
 permalink: '/?p=2520'
 ---
 

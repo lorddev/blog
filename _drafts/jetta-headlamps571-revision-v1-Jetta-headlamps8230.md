@@ -4,7 +4,7 @@ title: 'Jetta headlamps&#8230;'
 date: '2008-08-13T02:39:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2484'
+guid: 'https://blog.devlord.io/?p=2484'
 permalink: '/?p=2484'
 ---
 

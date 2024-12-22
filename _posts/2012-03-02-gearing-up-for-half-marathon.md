@@ -4,7 +4,7 @@ title: 'Gearing up for Half Marathon'
 date: '2012-03-02T11:04:05-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/03/02/gearing-up-for-half-marathon/'
+guid: 'https://blog.devlord.io/2012/03/02/gearing-up-for-half-marathon/'
 permalink: /2012/03/02/gearing-up-for-half-marathon/
 activitypub_status:
     - federated

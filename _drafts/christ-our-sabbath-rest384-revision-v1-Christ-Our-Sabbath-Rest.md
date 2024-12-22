@@ -4,7 +4,7 @@ title: 'Christ Our Sabbath Rest'
 date: '2009-04-26T22:52:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2918'
+guid: 'https://blog.devlord.io/?p=2918'
 permalink: '/?p=2918'
 ---
 

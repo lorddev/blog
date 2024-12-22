@@ -4,7 +4,7 @@ title: '&quot;We have gone back to the old school&#8230;&quot;'
 date: '2009-01-03T01:04:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/01/03/we-have-gone-back-to-the-old-school/'
+guid: 'https://blog.devlord.io/2009/01/03/we-have-gone-back-to-the-old-school/'
 permalink: /2009/01/03/we-have-gone-back-to-the-old-school/
 activitypub_status:
     - federated

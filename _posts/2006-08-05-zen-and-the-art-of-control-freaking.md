@@ -4,7 +4,7 @@ title: 'Zen and the Art of Control Freaking'
 date: '2006-08-05T11:03:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2006/08/05/zen-and-the-art-of-control-freaking/'
+guid: 'https://blog.devlord.io/2006/08/05/zen-and-the-art-of-control-freaking/'
 permalink: /2006/08/05/zen-and-the-art-of-control-freaking/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Greengrass, Vol. 5: St. Paddy&#8217;s Edition'
 date: '2012-03-14T21:50:03-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/03/14/greengrass-vol-5-st-paddys-edition/'
+guid: 'https://blog.devlord.io/2012/03/14/greengrass-vol-5-st-paddys-edition/'
 permalink: /2012/03/14/greengrass-vol-5-st-paddys-edition/
 activitypub_status:
     - federated

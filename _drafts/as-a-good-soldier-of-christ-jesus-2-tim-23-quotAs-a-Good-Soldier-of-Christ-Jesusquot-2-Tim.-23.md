@@ -4,7 +4,7 @@ title: '&quot;As a Good Soldier of Christ Jesus&quot; (2 Tim. 2:3)'
 date: '2007-08-05T00:08:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/?p=692'
+guid: 'https://blog.devlord.io/?p=692'
 permalink: '/?p=692'
 blogger_blog:
     - mustfollow.blogspot.com

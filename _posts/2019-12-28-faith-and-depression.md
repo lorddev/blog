@@ -4,7 +4,7 @@ title: 'Faith and depression'
 date: '2019-12-28T11:38:47-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2019/12/28/faith-and-depression/'
+guid: 'https://blog.devlord.io/2019/12/28/faith-and-depression/'
 permalink: /2019/12/28/faith-and-depression/
 activitypub_status:
     - federated

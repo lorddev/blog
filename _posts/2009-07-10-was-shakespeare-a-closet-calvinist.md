@@ -4,7 +4,7 @@ title: 'Was Shakespeare a Closet Calvinist?'
 date: '2009-07-10T05:04:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/07/10/was-shakespeare-a-closet-calvinist/'
+guid: 'https://blog.devlord.io/2009/07/10/was-shakespeare-a-closet-calvinist/'
 permalink: /2009/07/10/was-shakespeare-a-closet-calvinist/
 activitypub_status:
     - federated

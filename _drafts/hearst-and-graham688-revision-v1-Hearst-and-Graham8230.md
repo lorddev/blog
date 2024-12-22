@@ -4,7 +4,7 @@ title: 'Hearst and Graham&#8230;'
 date: '2007-09-08T12:42:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2497'
+guid: 'https://blog.devlord.io/?p=2497'
 permalink: '/?p=2497'
 ---
 

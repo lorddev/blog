@@ -4,7 +4,7 @@ title: 'Reformation and Diversity'
 date: '2009-05-08T23:19:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/05/08/reformation-and-diversity/'
+guid: 'https://blog.devlord.io/2009/05/08/reformation-and-diversity/'
 permalink: /2009/05/08/reformation-and-diversity/
 activitypub_status:
     - federated

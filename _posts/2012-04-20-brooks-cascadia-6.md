@@ -4,7 +4,7 @@ title: 'Brooks Cascadia 6'
 date: '2012-04-20T11:49:06-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/04/20/brooks-cascadia-6/'
+guid: 'https://blog.devlord.io/2012/04/20/brooks-cascadia-6/'
 permalink: /2012/04/20/brooks-cascadia-6/
 activitypub_status:
     - federated

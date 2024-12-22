@@ -5,7 +5,7 @@ date: '2024-10-06T12:07:09-07:00'
 author: 'Aaron Lord'
 excerpt: 'Remember when Trump visited the town of "Pleasure" (our town''s name is Paradise, which also starts with the letter P and means something intrinsically nice) after the Camp Fire in 2018? He did a background check on us first.'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2892'
+guid: 'https://blog.devlord.io/?p=2892'
 permalink: '/?p=2892'
 footnotes:
     - ''

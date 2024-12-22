@@ -4,7 +4,7 @@ title: 'A Perfect Day'
 date: '2010-04-17T23:08:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2010/04/17/a-perfect-day/'
+guid: 'https://blog.devlord.io/2010/04/17/a-perfect-day/'
 permalink: /2010/04/17/a-perfect-day/
 activitypub_status:
     - federated

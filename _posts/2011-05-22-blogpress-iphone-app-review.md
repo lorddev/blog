@@ -4,7 +4,7 @@ title: 'BlogPress iPhone app review'
 date: '2011-05-22T01:26:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2011/05/22/blogpress-iphone-app-review/'
+guid: 'https://blog.devlord.io/2011/05/22/blogpress-iphone-app-review/'
 permalink: /2011/05/22/blogpress-iphone-app-review/
 activitypub_status:
     - federated

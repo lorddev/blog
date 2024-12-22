@@ -4,7 +4,7 @@ title: 'New blogging format'
 date: '2008-06-07T20:57:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/06/07/new-blogging-format/'
+guid: 'https://blog.devlord.io/2008/06/07/new-blogging-format/'
 permalink: /2008/06/07/new-blogging-format/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Natural Revelation and the Framework Hypothesis'
 date: '2024-03-10T19:33:21-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2340'
+guid: 'https://blog.devlord.io/?p=2340'
 permalink: '/?p=2340'
 footnotes:
     - ''

@@ -4,7 +4,7 @@ title: 'Eschatology Panel at Bethlehem Baptist Church'
 date: '2009-10-11T03:19:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/10/11/eschatology-panel-at-bethlehem-baptist-church/'
+guid: 'https://blog.devlord.io/2009/10/11/eschatology-panel-at-bethlehem-baptist-church/'
 permalink: /2009/10/11/eschatology-panel-at-bethlehem-baptist-church/
 activitypub_status:
     - federated

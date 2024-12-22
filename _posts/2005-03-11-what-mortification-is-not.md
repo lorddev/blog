@@ -4,7 +4,7 @@ title: '&quot;What Mortification Is Not&quot;'
 date: '2005-03-11T11:23:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/03/11/what-mortification-is-not/'
+guid: 'https://blog.devlord.io/2005/03/11/what-mortification-is-not/'
 permalink: /2005/03/11/what-mortification-is-not/
 activitypub_status:
     - federated

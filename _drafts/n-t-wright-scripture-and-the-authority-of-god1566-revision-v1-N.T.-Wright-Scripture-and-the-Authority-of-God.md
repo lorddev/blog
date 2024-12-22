@@ -4,7 +4,7 @@ title: 'N.T. Wright: Scripture and the Authority of God'
 date: '2024-03-13T16:34:54-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2660'
+guid: 'https://blog.devlord.io/?p=2660'
 permalink: '/?p=2660'
 footnotes:
     - ''

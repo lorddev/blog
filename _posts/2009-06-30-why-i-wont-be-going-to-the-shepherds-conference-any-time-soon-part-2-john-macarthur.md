@@ -4,7 +4,7 @@ title: 'Why I won&#8217;t be going to the Shepherd&#8217;s Conference any time s
 date: '2009-06-30T07:44:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/06/30/why-i-wont-be-going-to-the-shepherds-conference-any-time-soon-part-2-john-macarthur/'
+guid: 'https://blog.devlord.io/2009/06/30/why-i-wont-be-going-to-the-shepherds-conference-any-time-soon-part-2-john-macarthur/'
 permalink: /2009/06/30/why-i-wont-be-going-to-the-shepherds-conference-any-time-soon-part-2-john-macarthur/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'The Art of Singletasking'
 date: '2009-06-20T06:28:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/06/20/the-art-of-singletasking/'
+guid: 'https://blog.devlord.io/2009/06/20/the-art-of-singletasking/'
 permalink: /2009/06/20/the-art-of-singletasking/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Ray Ortlund, Jr. on the Lord&#8217;s Day'
 date: '2009-07-13T00:52:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/07/13/ray-ortlund-jr-on-the-lords-day/'
+guid: 'https://blog.devlord.io/2009/07/13/ray-ortlund-jr-on-the-lords-day/'
 permalink: /2009/07/13/ray-ortlund-jr-on-the-lords-day/
 activitypub_status:
     - federated

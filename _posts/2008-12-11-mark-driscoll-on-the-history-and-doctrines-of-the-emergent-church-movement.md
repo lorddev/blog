@@ -4,7 +4,7 @@ title: 'Mark Driscoll on the History and Doctrines of the Emergent Church Moveme
 date: '2008-12-11T04:10:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/12/11/mark-driscoll-on-the-history-and-doctrines-of-the-emergent-church-movement/'
+guid: 'https://blog.devlord.io/2008/12/11/mark-driscoll-on-the-history-and-doctrines-of-the-emergent-church-movement/'
 permalink: /2008/12/11/mark-driscoll-on-the-history-and-doctrines-of-the-emergent-church-movement/
 activitypub_status:
     - federated

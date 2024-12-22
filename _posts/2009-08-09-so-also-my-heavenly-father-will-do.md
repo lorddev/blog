@@ -4,7 +4,7 @@ title: '&quot;So also my heavenly Father will do&#8230;&quot;'
 date: '2009-08-09T05:45:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/08/09/so-also-my-heavenly-father-will-do/'
+guid: 'https://blog.devlord.io/2009/08/09/so-also-my-heavenly-father-will-do/'
 permalink: /2009/08/09/so-also-my-heavenly-father-will-do/
 activitypub_status:
     - federated

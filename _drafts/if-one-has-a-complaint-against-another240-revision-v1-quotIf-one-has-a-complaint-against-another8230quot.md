@@ -4,7 +4,7 @@ title: '&quot;If one has a complaint against another&#8230;&quot;'
 date: '2009-07-26T21:56:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2571'
+guid: 'https://blog.devlord.io/?p=2571'
 permalink: '/?p=2571'
 ---
 

@@ -3,7 +3,7 @@ id: 2635
 title: 'Chapter 2.5: God&#8217;s Freedom in Covenant'
 date: '2024-03-13T11:57:58-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2635'
+guid: 'https://blog.devlord.io/?p=2635'
 permalink: '/?p=2635'
 ---
 

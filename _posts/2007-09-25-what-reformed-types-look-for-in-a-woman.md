@@ -4,7 +4,7 @@ title: 'What Reformed-Types Look for in a Woman'
 date: '2007-09-25T16:19:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2007/09/25/what-reformed-types-look-for-in-a-woman/'
+guid: 'https://blog.devlord.io/2007/09/25/what-reformed-types-look-for-in-a-woman/'
 permalink: /2007/09/25/what-reformed-types-look-for-in-a-woman/
 activitypub_status:
     - federated

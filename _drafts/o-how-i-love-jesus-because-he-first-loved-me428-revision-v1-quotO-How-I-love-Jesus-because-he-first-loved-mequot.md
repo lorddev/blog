@@ -4,7 +4,7 @@ title: '&quot;O, How I love Jesus, because he first loved me&quot;'
 date: '2009-02-02T19:16:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2447'
+guid: 'https://blog.devlord.io/?p=2447'
 permalink: '/?p=2447'
 ---
 

@@ -4,7 +4,7 @@ title: 'Thoughts on the Film /Luther/'
 date: '2004-12-05T15:30:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2530'
+guid: 'https://blog.devlord.io/?p=2530'
 permalink: '/?p=2530'
 ---
 

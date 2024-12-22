@@ -4,7 +4,7 @@ title: 'Intentional Poverty'
 date: '2006-10-01T20:20:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2501'
+guid: 'https://blog.devlord.io/?p=2501'
 permalink: '/?p=2501'
 ---
 

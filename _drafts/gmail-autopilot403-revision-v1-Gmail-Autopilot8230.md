@@ -4,7 +4,7 @@ title: 'Gmail Autopilot&#8230;'
 date: '2009-04-01T16:42:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2473'
+guid: 'https://blog.devlord.io/?p=2473'
 permalink: '/?p=2473'
 ---
 

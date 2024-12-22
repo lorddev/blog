@@ -4,7 +4,7 @@ title: 'More than Five Points'
 date: '2010-03-19T17:56:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2010/03/19/more-than-five-points/'
+guid: 'https://blog.devlord.io/2010/03/19/more-than-five-points/'
 permalink: /2010/03/19/more-than-five-points/
 activitypub_status:
     - federated

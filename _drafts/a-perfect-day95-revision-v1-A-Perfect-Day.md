@@ -4,7 +4,7 @@ title: 'A Perfect Day'
 date: '2024-03-11T20:38:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2905'
+guid: 'https://blog.devlord.io/?p=2905'
 permalink: '/?p=2905'
 footnotes:
     - ''

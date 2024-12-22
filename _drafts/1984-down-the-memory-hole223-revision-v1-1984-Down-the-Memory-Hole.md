@@ -4,7 +4,7 @@ title: '1984 Down the Memory Hole'
 date: '2009-08-31T04:24:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2414'
+guid: 'https://blog.devlord.io/?p=2414'
 permalink: '/?p=2414'
 ---
 

@@ -4,7 +4,7 @@ title: 'Retro bluetooth handset'
 date: '2008-10-22T19:57:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/10/22/retro-bluetooth-handset/'
+guid: 'https://blog.devlord.io/2008/10/22/retro-bluetooth-handset/'
 permalink: /2008/10/22/retro-bluetooth-handset/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'More than Five Points'
 date: '2010-03-19T17:56:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2386'
+guid: 'https://blog.devlord.io/?p=2386'
 permalink: '/?p=2386'
 ---
 

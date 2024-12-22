@@ -4,7 +4,7 @@ title: 'Daddy date'
 date: '2010-04-17T17:41:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2010/04/17/daddy-date/'
+guid: 'https://blog.devlord.io/2010/04/17/daddy-date/'
 permalink: /2010/04/17/daddy-date/
 activitypub_status:
     - federate

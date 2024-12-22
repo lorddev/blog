@@ -4,7 +4,7 @@ title: 'The question is, what is a Mahnamahna?'
 date: '2005-01-31T21:45:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/01/31/the-question-is-what-is-a-mahnamahna/'
+guid: 'https://blog.devlord.io/2005/01/31/the-question-is-what-is-a-mahnamahna/'
 permalink: /2005/01/31/the-question-is-what-is-a-mahnamahna/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Béla Fleck, Edgar Meyer, Zakir Hussain'
 date: '2024-03-13T17:17:08-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2690'
+guid: 'https://blog.devlord.io/?p=2690'
 permalink: '/?p=2690'
 footnotes:
     - ''

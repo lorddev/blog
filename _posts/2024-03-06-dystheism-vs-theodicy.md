@@ -4,7 +4,7 @@ title: 'Dystheism vs. Theodicy'
 date: '2024-03-06T17:15:38-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2024/03/06/dystheism-vs-theodicy/'
+guid: 'https://blog.devlord.io/2024/03/06/dystheism-vs-theodicy/'
 permalink: /2024/03/06/dystheism-vs-theodicy/
 activitypub_status:
     - federated

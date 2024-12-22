@@ -4,7 +4,7 @@ title: 'passion&#8230;'
 date: '2024-03-19T11:34:53-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2779'
+guid: 'https://blog.devlord.io/?p=2779'
 permalink: '/?p=2779'
 ---
 

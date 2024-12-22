@@ -4,7 +4,7 @@ title: 'Why not “Mainline”?'
 date: '2011-06-06T00:10:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2011/06/06/why-not-mainline/'
+guid: 'https://blog.devlord.io/2011/06/06/why-not-mainline/'
 permalink: /2011/06/06/why-not-mainline/
 activitypub_status:
     - federated

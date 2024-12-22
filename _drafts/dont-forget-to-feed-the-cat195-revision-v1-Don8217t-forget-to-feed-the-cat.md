@@ -4,7 +4,7 @@ title: 'Don&#8217;t forget to feed the cat'
 date: '2009-10-27T23:23:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2561'
+guid: 'https://blog.devlord.io/?p=2561'
 permalink: '/?p=2561'
 ---
 

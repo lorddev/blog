@@ -4,7 +4,7 @@ title: 'Why I&#8217;m considering a VW GTI'
 date: '2009-04-16T17:32:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/04/16/why-im-considering-a-vw-gti/'
+guid: 'https://blog.devlord.io/2009/04/16/why-im-considering-a-vw-gti/'
 permalink: /2009/04/16/why-im-considering-a-vw-gti/
 activitypub_status:
     - federated

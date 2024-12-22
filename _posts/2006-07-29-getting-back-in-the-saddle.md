@@ -4,7 +4,7 @@ title: 'Getting back in the saddle'
 date: '2006-07-29T21:44:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2006/07/29/getting-back-in-the-saddle/'
+guid: 'https://blog.devlord.io/2006/07/29/getting-back-in-the-saddle/'
 permalink: /2006/07/29/getting-back-in-the-saddle/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Untitled Reusable Block'
 date: '2024-03-09T21:06:02-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2214'
+guid: 'https://blog.devlord.io/?p=2214'
 permalink: '/?p=2214'
 ---
 

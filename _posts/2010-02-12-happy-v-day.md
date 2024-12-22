@@ -4,7 +4,7 @@ title: 'Happy V Day'
 date: '2010-02-12T23:34:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2010/02/12/happy-v-day/'
+guid: 'https://blog.devlord.io/2010/02/12/happy-v-day/'
 permalink: /2010/02/12/happy-v-day/
 activitypub_status:
     - federated

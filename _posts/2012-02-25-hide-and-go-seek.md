@@ -4,7 +4,7 @@ title: Hide-and-Go-Seek
 date: '2012-02-25T11:41:53-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/02/25/hide-and-go-seek/'
+guid: 'https://blog.devlord.io/2012/02/25/hide-and-go-seek/'
 permalink: /2012/02/25/hide-and-go-seek/
 activitypub_status:
     - federated

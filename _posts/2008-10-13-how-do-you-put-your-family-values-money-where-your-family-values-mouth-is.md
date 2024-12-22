@@ -4,7 +4,7 @@ title: 'How do you put your family-values money where your family-values mouth i
 date: '2008-10-13T21:45:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/10/13/how-do-you-put-your-family-values-money-where-your-family-values-mouth-is/'
+guid: 'https://blog.devlord.io/2008/10/13/how-do-you-put-your-family-values-money-where-your-family-values-mouth-is/'
 permalink: /2008/10/13/how-do-you-put-your-family-values-money-where-your-family-values-mouth-is/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Annihilationism and Your Pet Cat'
 date: '2024-03-26T21:58:56-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/?p=2837'
+guid: 'https://blog.devlord.io/?p=2837'
 permalink: /2024/03/26/annihilationism-and-your-pet-cat/
 activitypub_status:
     - federated

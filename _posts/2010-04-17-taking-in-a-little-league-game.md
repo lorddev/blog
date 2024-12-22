@@ -4,7 +4,7 @@ title: 'Taking in a little league game'
 date: '2010-04-17T18:21:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2010/04/17/taking-in-a-little-league-game/'
+guid: 'https://blog.devlord.io/2010/04/17/taking-in-a-little-league-game/'
 permalink: /2010/04/17/taking-in-a-little-league-game/
 activitypub_status:
     - federated

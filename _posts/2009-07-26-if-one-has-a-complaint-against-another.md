@@ -4,7 +4,7 @@ title: '&quot;If one has a complaint against another&#8230;&quot;'
 date: '2009-07-26T21:56:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/07/26/if-one-has-a-complaint-against-another/'
+guid: 'https://blog.devlord.io/2009/07/26/if-one-has-a-complaint-against-another/'
 permalink: /2009/07/26/if-one-has-a-complaint-against-another/
 activitypub_status:
     - federated

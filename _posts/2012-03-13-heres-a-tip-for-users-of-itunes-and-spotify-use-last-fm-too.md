@@ -4,7 +4,7 @@ title: 'Here&#8217;s a tip for users of iTunes and Spotify: Use Last.fm too!'
 date: '2012-03-13T17:50:22-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/03/13/heres-a-tip-for-users-of-itunes-and-spotify-use-last-fm-too/'
+guid: 'https://blog.devlord.io/2012/03/13/heres-a-tip-for-users-of-itunes-and-spotify-use-last-fm-too/'
 permalink: /2012/03/13/heres-a-tip-for-users-of-itunes-and-spotify-use-last-fm-too/
 activitypub_status:
     - federated

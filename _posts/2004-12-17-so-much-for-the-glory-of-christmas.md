@@ -4,7 +4,7 @@ title: 'So much for &quot;The Glory of Christmas&quot;&#8230;'
 date: '2004-12-17T11:10:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2004/12/17/so-much-for-the-glory-of-christmas/'
+guid: 'https://blog.devlord.io/2004/12/17/so-much-for-the-glory-of-christmas/'
 permalink: /2004/12/17/so-much-for-the-glory-of-christmas/
 activitypub_status:
     - federate

@@ -4,7 +4,7 @@ title: 'Fixing a loose wheel on a reel mower'
 date: '2012-11-12T16:22:49-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/11/12/fixing-a-loose-wheel-on-a-reel-mower/'
+guid: 'https://blog.devlord.io/2012/11/12/fixing-a-loose-wheel-on-a-reel-mower/'
 permalink: /2012/11/12/fixing-a-loose-wheel-on-a-reel-mower/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Waiting in line at the Auctiva Family BBQ'
 date: '2008-07-19T03:00:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/07/19/waiting-in-line-at-the-auctiva-family-bbq/'
+guid: 'https://blog.devlord.io/2008/07/19/waiting-in-line-at-the-auctiva-family-bbq/'
 permalink: /2008/07/19/waiting-in-line-at-the-auctiva-family-bbq/
 activitypub_status:
     - federated

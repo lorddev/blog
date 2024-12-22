@@ -4,7 +4,7 @@ title: 'Feed Readers: Why I&#8217;m Switching'
 date: '2008-07-11T15:25:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2489'
+guid: 'https://blog.devlord.io/?p=2489'
 permalink: '/?p=2489'
 ---
 

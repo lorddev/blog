@@ -3,7 +3,7 @@ id: 2673
 title: 'First Mommy, Mommy First'
 date: '2024-03-13T16:55:38-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2673'
+guid: 'https://blog.devlord.io/?p=2673'
 permalink: '/?p=2673'
 ---
 

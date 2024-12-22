@@ -4,7 +4,7 @@ title: 'Trillian for iPhone update'
 date: '2010-03-26T02:54:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2383'
+guid: 'https://blog.devlord.io/?p=2383'
 permalink: '/?p=2383'
 ---
 

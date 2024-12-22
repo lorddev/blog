@@ -4,7 +4,7 @@ title: '&#8220;Weep with those who weep&#8221; (Rom. 12:15)'
 date: '2004-12-29T20:59:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2004/12/29/weep-with-those-who-weep-rom-1215/'
+guid: 'https://blog.devlord.io/2004/12/29/weep-with-those-who-weep-rom-1215/'
 permalink: /2004/12/29/weep-with-those-who-weep-rom-1215/
 activitypub_status:
     - federated

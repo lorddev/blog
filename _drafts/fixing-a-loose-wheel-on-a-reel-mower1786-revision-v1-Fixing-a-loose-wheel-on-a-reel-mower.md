@@ -4,7 +4,7 @@ title: 'Fixing a loose wheel on a reel mower'
 date: '2024-03-24T10:30:57-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2819'
+guid: 'https://blog.devlord.io/?p=2819'
 permalink: '/?p=2819'
 footnotes:
     - ''

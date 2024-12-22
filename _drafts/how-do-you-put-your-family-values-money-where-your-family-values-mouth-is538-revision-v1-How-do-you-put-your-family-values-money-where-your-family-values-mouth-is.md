@@ -3,7 +3,7 @@ id: 2693
 title: 'How do you put your family-values money where your family-values mouth is?'
 date: '2024-03-13T17:19:09-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2693'
+guid: 'https://blog.devlord.io/?p=2693'
 permalink: '/?p=2693'
 ---
 

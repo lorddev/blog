@@ -4,7 +4,7 @@ title: 'He learned church discipline from Johnny Mac'
 date: '2024-03-13T12:15:24-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2641'
+guid: 'https://blog.devlord.io/?p=2641'
 permalink: '/?p=2641'
 footnotes:
     - ''

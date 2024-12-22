@@ -4,7 +4,7 @@ title: 'Jon Hopkins: Insides'
 date: '2010-06-16T01:30:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2010/06/16/jon-hopkins-insides/'
+guid: 'https://blog.devlord.io/2010/06/16/jon-hopkins-insides/'
 permalink: /2010/06/16/jon-hopkins-insides/
 activitypub_status:
     - federated

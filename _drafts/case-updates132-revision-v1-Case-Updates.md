@@ -4,7 +4,7 @@ title: 'Case Updates'
 date: '2010-02-25T23:34:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2362'
+guid: 'https://blog.devlord.io/?p=2362'
 permalink: '/?p=2362'
 ---
 

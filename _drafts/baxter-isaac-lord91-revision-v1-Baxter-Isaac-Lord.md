@@ -4,7 +4,7 @@ title: 'Baxter Isaac Lord'
 date: '2024-03-10T19:41:07-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2345'
+guid: 'https://blog.devlord.io/?p=2345'
 permalink: '/?p=2345'
 ---
 

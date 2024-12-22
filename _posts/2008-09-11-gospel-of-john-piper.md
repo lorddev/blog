@@ -4,7 +4,7 @@ title: 'Gospel of John&#8230; Piper'
 date: '2008-09-11T05:39:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/09/11/gospel-of-john-piper/'
+guid: 'https://blog.devlord.io/2008/09/11/gospel-of-john-piper/'
 permalink: /2008/09/11/gospel-of-john-piper/
 activitypub_status:
     - federated

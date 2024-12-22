@@ -4,7 +4,7 @@ title: 'Owning your Accomplishments'
 date: '2024-03-27T12:58:55-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/?p=2842'
+guid: 'https://blog.devlord.io/?p=2842'
 permalink: /2024/03/27/owning-your-accomplishments/
 activitypub_status:
     - federated

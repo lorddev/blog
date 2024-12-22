@@ -4,7 +4,7 @@ title: 'Merry Exmas, Acirema!'
 date: '2004-12-07T07:42:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2529'
+guid: 'https://blog.devlord.io/?p=2529'
 permalink: '/?p=2529'
 ---
 

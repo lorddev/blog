@@ -4,7 +4,7 @@ title: 'Two Hermeneutics: Covenant Theology vs. Dispensationalism'
 date: '2024-10-09T12:43:56-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2943'
+guid: 'https://blog.devlord.io/?p=2943'
 permalink: '/?p=2943'
 footnotes:
     - ''

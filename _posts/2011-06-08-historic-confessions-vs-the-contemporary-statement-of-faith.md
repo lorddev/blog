@@ -4,7 +4,7 @@ title: 'Historic Confessions vs. the Contemporary Statement of Faith'
 date: '2011-06-08T06:45:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2011/06/08/historic-confessions-vs-the-contemporary-statement-of-faith/'
+guid: 'https://blog.devlord.io/2011/06/08/historic-confessions-vs-the-contemporary-statement-of-faith/'
 permalink: /2011/06/08/historic-confessions-vs-the-contemporary-statement-of-faith/
 activitypub_status:
     - federated

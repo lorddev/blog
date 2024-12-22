@@ -5,7 +5,7 @@ date: '2024-09-01T10:39:56-07:00'
 author: 'Aaron Lord'
 excerpt: 'We gave our lives to the church. Leaving the church was something we agonized over. After so much sacrifice, it hurts to just be dismissed as if we never counted.'
 layout: post
-"guid: 'https://blog.devlord.io/?p=2875'
+guid: 'https://blog.devlord.io/?p=2875'
 permalink: /2024/09/01/the-exvangelicals-loving-living-and-leaving-the-white-evangelical-church/
 activitypub_status:
     - federated

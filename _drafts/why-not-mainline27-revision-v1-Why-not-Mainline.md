@@ -4,7 +4,7 @@ title: 'Why not “Mainline”?'
 date: '2024-03-13T12:54:38-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2650'
+guid: 'https://blog.devlord.io/?p=2650'
 permalink: '/?p=2650'
 footnotes:
     - ''

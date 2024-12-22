@@ -4,7 +4,7 @@ title: 'Some family resemblance'
 date: '2010-05-24T16:14:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2010/05/24/some-family-resemblance/'
+guid: 'https://blog.devlord.io/2010/05/24/some-family-resemblance/'
 permalink: '/?p=88'
 activitypub_status:
     - federated

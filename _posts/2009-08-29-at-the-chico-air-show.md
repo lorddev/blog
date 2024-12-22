@@ -4,7 +4,7 @@ title: 'At the Chico Air Show'
 date: '2009-08-29T17:51:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/08/29/at-the-chico-air-show/'
+guid: 'https://blog.devlord.io/2009/08/29/at-the-chico-air-show/'
 permalink: /2009/08/29/at-the-chico-air-show/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Diversity and the Nature of the Church'
 date: '2024-03-10T19:17:35-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2309'
+guid: 'https://blog.devlord.io/?p=2309'
 permalink: '/?p=2309'
 ---
 

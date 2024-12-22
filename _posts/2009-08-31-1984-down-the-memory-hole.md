@@ -4,7 +4,7 @@ title: '1984 Down the Memory Hole'
 date: '2009-08-31T04:24:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/08/31/1984-down-the-memory-hole/'
+guid: 'https://blog.devlord.io/2009/08/31/1984-down-the-memory-hole/'
 permalink: /2009/08/31/1984-down-the-memory-hole/
 activitypub_status:
     - federated

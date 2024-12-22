@@ -4,7 +4,7 @@ title: 'Volitional Love'
 date: '2024-03-10T19:14:47-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2610'
+guid: 'https://blog.devlord.io/?p=2610'
 permalink: '/?p=2610'
 footnotes:
     - ''

@@ -4,7 +4,7 @@ title: 'My interrupted jog&#8230;'
 date: '2010-02-16T16:35:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2375'
+guid: 'https://blog.devlord.io/?p=2375'
 permalink: '/?p=2375'
 ---
 

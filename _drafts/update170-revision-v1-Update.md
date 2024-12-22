@@ -4,7 +4,7 @@ title: Update
 date: '2010-01-26T07:59:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2607'
+guid: 'https://blog.devlord.io/?p=2607'
 permalink: '/?p=2607'
 footnotes:
     - ''

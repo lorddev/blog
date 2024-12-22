@@ -4,7 +4,7 @@ title: 'Beautiful weather'
 date: '2009-12-07T05:50:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/12/07/beautiful-weather/'
+guid: 'https://blog.devlord.io/2009/12/07/beautiful-weather/'
 permalink: /2009/12/07/beautiful-weather/
 activitypub_status:
     - federated

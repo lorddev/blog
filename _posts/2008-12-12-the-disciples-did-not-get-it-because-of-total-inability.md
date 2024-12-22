@@ -4,7 +4,7 @@ title: 'The disciples did not get it because of Total Inability'
 date: '2008-12-12T20:32:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/12/12/the-disciples-did-not-get-it-because-of-total-inability/'
+guid: 'https://blog.devlord.io/2008/12/12/the-disciples-did-not-get-it-because-of-total-inability/'
 permalink: /2008/12/12/the-disciples-did-not-get-it-because-of-total-inability/
 activitypub_status:
     - federate

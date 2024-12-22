@@ -4,7 +4,7 @@ title: 'Required Reading'
 date: '2009-01-21T22:34:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/01/21/required-reading/'
+guid: 'https://blog.devlord.io/2009/01/21/required-reading/'
 permalink: /2009/01/21/required-reading/
 activitypub_status:
     - federated

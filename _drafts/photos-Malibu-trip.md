@@ -4,7 +4,7 @@ title: 'Malibu trip'
 date: '2005-05-16T23:35:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/05/16/photos/'
+guid: 'https://blog.devlord.io/2005/05/16/photos/'
 permalink: '/?p=752'
 activitypub_status:
     - federated

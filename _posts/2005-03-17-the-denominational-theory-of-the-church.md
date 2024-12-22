@@ -4,7 +4,7 @@ title: 'The Denominational Theory of the Church'
 date: '2005-03-17T11:22:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/03/17/the-denominational-theory-of-the-church/'
+guid: 'https://blog.devlord.io/2005/03/17/the-denominational-theory-of-the-church/'
 permalink: /2005/03/17/the-denominational-theory-of-the-church/
 activitypub_status:
     - federated

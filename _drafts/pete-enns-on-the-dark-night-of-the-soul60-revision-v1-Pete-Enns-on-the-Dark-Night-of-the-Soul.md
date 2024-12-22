@@ -4,7 +4,7 @@ title: 'Pete Enns on the Dark Night of the Soul'
 date: '2024-03-10T19:23:32-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2322'
+guid: 'https://blog.devlord.io/?p=2322'
 permalink: '/?p=2322'
 ---
 

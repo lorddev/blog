@@ -4,7 +4,7 @@ title: 'The Beauty of a Will Enslaved'
 date: '2008-07-31T01:20:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/07/31/the-beauty-of-a-will-enslaved/'
+guid: 'https://blog.devlord.io/2008/07/31/the-beauty-of-a-will-enslaved/'
 permalink: /2008/07/31/the-beauty-of-a-will-enslaved/
 activitypub_status:
     - federated

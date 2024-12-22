@@ -4,7 +4,7 @@ title: 'She loves her little gym!'
 date: '2009-05-09T18:50:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/05/09/she-loves-her-little-gym/'
+guid: 'https://blog.devlord.io/2009/05/09/she-loves-her-little-gym/'
 permalink: /2009/05/09/she-loves-her-little-gym/
 activitypub_status:
     - federated

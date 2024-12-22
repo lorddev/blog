@@ -4,7 +4,7 @@ title: 'Evernote GTD notes'
 date: '2013-03-22T09:01:45-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2013/03/22/evernote-gtd-notes/'
+guid: 'https://blog.devlord.io/2013/03/22/evernote-gtd-notes/'
 permalink: /2013/03/22/evernote-gtd-notes/
 activitypub_status:
     - federated

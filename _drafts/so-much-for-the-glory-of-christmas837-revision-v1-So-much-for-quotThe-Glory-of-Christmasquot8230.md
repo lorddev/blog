@@ -4,7 +4,7 @@ title: 'So much for &quot;The Glory of Christmas&quot;&#8230;'
 date: '2004-12-17T11:10:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2525'
+guid: 'https://blog.devlord.io/?p=2525'
 permalink: '/?p=2525'
 ---
 

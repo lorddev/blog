@@ -4,7 +4,7 @@ title: 'Natural Revelation and the Framework Hypothesis'
 date: '2010-07-01T05:21:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2010/07/01/natural-revelation-and-the-framework-hypothesis/'
+guid: 'https://blog.devlord.io/2010/07/01/natural-revelation-and-the-framework-hypothesis/'
 permalink: /2010/07/01/natural-revelation-and-the-framework-hypothesis/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Recovering from a &quot;Spiritual Tempest&quot;'
 date: '2009-07-13T17:02:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2575'
+guid: 'https://blog.devlord.io/?p=2575'
 permalink: '/?p=2575'
 ---
 

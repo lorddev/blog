@@ -4,7 +4,7 @@ title: 'Volitional Love'
 date: '2011-04-18T00:41:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2011/04/18/volitional-love/'
+guid: 'https://blog.devlord.io/2011/04/18/volitional-love/'
 permalink: /2011/04/18/volitional-love/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'We have a due date!'
 date: '2008-07-02T18:10:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/07/02/we-have-a-due-date/'
+guid: 'https://blog.devlord.io/2008/07/02/we-have-a-due-date/'
 permalink: /2008/07/02/we-have-a-due-date/
 activitypub_status:
     - federated

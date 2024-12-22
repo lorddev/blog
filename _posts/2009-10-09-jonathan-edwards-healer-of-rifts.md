@@ -4,7 +4,7 @@ title: 'Jonathan Edwards, Healer of Rifts'
 date: '2009-10-09T21:31:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/10/09/jonathan-edwards-healer-of-rifts/'
+guid: 'https://blog.devlord.io/2009/10/09/jonathan-edwards-healer-of-rifts/'
 permalink: /2009/10/09/jonathan-edwards-healer-of-rifts/
 activitypub_status:
     - federated

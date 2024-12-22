@@ -4,7 +4,7 @@ title: 'Five Months'
 date: '2008-06-13T03:09:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/06/13/five-months/'
+guid: 'https://blog.devlord.io/2008/06/13/five-months/'
 permalink: /2008/06/13/five-months/
 activitypub_status:
     - federated

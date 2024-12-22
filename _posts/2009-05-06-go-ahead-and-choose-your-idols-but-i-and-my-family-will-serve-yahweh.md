@@ -4,7 +4,7 @@ title: 'Go ahead and choose your idols&#8230; but I and my family will serve Yah
 date: '2009-05-06T23:02:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/05/06/go-ahead-and-choose-your-idols-but-i-and-my-family-will-serve-yahweh/'
+guid: 'https://blog.devlord.io/2009/05/06/go-ahead-and-choose-your-idols-but-i-and-my-family-will-serve-yahweh/'
 permalink: /2009/05/06/go-ahead-and-choose-your-idols-but-i-and-my-family-will-serve-yahweh/
 activitypub_status:
     - federated

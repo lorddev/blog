@@ -4,7 +4,7 @@ title: 'The difference seven years makes in the life of a believer, or how your 
 date: '2008-09-13T18:58:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/09/13/the-difference-seven-years-makes-in-the-life-of-a-believer-or-how-your-theology-affects-your-worship/'
+guid: 'https://blog.devlord.io/2008/09/13/the-difference-seven-years-makes-in-the-life-of-a-believer-or-how-your-theology-affects-your-worship/'
 permalink: /2008/09/13/the-difference-seven-years-makes-in-the-life-of-a-believer-or-how-your-theology-affects-your-worship/
 activitypub_status:
     - federated

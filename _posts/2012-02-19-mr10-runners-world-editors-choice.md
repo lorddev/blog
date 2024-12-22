@@ -4,7 +4,7 @@ title: 'MR10: Runner&#8217;s World Editor&#8217;s Choice'
 date: '2012-02-19T15:15:54-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/02/19/mr10-runners-world-editors-choice/'
+guid: 'https://blog.devlord.io/2012/02/19/mr10-runners-world-editors-choice/'
 permalink: /2012/02/19/mr10-runners-world-editors-choice/
 activitypub_status:
     - federated

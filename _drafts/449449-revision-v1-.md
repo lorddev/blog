@@ -2,7 +2,7 @@
 id: 2702
 date: '2024-03-13T17:30:25-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2702'
+guid: 'https://blog.devlord.io/?p=2702'
 permalink: '/?p=2702'
 ---
 

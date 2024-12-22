@@ -4,7 +4,7 @@ title: 'Nativitatis Sola Christos'
 date: '2008-12-01T21:26:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2459'
+guid: 'https://blog.devlord.io/?p=2459'
 permalink: '/?p=2459'
 ---
 

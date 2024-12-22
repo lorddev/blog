@@ -4,7 +4,7 @@ title: 'Links for Church Reform'
 date: '2010-03-08T16:00:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2613'
+guid: 'https://blog.devlord.io/?p=2613'
 permalink: '/?p=2613'
 ---
 

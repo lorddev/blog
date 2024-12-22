@@ -4,7 +4,7 @@ title: 'Romney’s Weekly Blunder'
 date: '2012-09-17T19:33:38-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/09/17/romneys-weekly-blunder/'
+guid: 'https://blog.devlord.io/2012/09/17/romneys-weekly-blunder/'
 permalink: /2012/09/17/romneys-weekly-blunder/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Plan A: Glory and Grace'
 date: '2008-12-08T07:56:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/12/08/plan-a-glory-and-grace/'
+guid: 'https://blog.devlord.io/2008/12/08/plan-a-glory-and-grace/'
 permalink: /2008/12/08/plan-a-glory-and-grace/
 activitypub_status:
     - federate

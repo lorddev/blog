@@ -4,7 +4,7 @@ title: 'He learned church discipline from Johnny Mac'
 date: '2009-01-22T03:43:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/01/22/he-learned-church-discipline-from-johnny-mac/'
+guid: 'https://blog.devlord.io/2009/01/22/he-learned-church-discipline-from-johnny-mac/'
 permalink: '/?p=435'
 activitypub_status:
     - federate

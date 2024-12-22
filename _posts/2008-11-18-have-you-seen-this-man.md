@@ -4,7 +4,7 @@ title: 'Have you seen this man?'
 date: '2008-11-18T07:17:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/11/18/have-you-seen-this-man/'
+guid: 'https://blog.devlord.io/2008/11/18/have-you-seen-this-man/'
 permalink: /2008/11/18/have-you-seen-this-man/
 activitypub_status:
     - federated

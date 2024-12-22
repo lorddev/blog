@@ -3,7 +3,7 @@ id: 2761
 title: 'Required Reading'
 date: '2024-03-18T17:09:23-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2761'
+guid: 'https://blog.devlord.io/?p=2761'
 permalink: '/?p=2761'
 ---
 

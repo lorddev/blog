@@ -4,7 +4,7 @@ title: 'Saint Nicholas of Myra'
 date: '2024-03-11T18:10:14-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2408'
+guid: 'https://blog.devlord.io/?p=2408'
 permalink: '/?p=2408'
 footnotes:
     - ''

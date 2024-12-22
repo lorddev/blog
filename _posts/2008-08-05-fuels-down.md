@@ -4,7 +4,7 @@ title: 'Fuel&#8217;s down!'
 date: '2008-08-05T03:23:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/08/05/fuels-down/'
+guid: 'https://blog.devlord.io/2008/08/05/fuels-down/'
 permalink: /2008/08/05/fuels-down/
 activitypub_status:
     - federated

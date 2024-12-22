@@ -4,7 +4,7 @@ title: Camera
 date: '2024-03-17T10:55:17-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2745'
+guid: 'https://blog.devlord.io/?p=2745'
 permalink: '/?p=2745'
 footnotes:
     - ''

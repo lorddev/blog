@@ -4,7 +4,7 @@ title: '&quot;Blessed are those who mourn&#8230;&quot;'
 date: '2009-07-24T00:35:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/07/24/blessed-are-those-who-mourn/'
+guid: 'https://blog.devlord.io/2009/07/24/blessed-are-those-who-mourn/'
 permalink: /2009/07/24/blessed-are-those-who-mourn/
 activitypub_status:
     - federated

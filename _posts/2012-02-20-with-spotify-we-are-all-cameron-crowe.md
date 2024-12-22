@@ -4,7 +4,7 @@ title: 'With Spotify, we are all Cameron Crowe'
 date: '2012-02-20T20:05:17-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/02/20/with-spotify-we-are-all-cameron-crowe/'
+guid: 'https://blog.devlord.io/2012/02/20/with-spotify-we-are-all-cameron-crowe/'
 permalink: /2012/02/20/with-spotify-we-are-all-cameron-crowe/
 activitypub_status:
     - federated

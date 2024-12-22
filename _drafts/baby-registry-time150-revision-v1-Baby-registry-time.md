@@ -4,7 +4,7 @@ title: 'Baby registry time!'
 date: '2010-02-15T00:23:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2377'
+guid: 'https://blog.devlord.io/?p=2377'
 permalink: '/?p=2377'
 ---
 

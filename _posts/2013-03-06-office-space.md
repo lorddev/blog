@@ -4,7 +4,7 @@ title: 'Office Space'
 date: '2013-03-06T18:24:12-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2013/03/06/office-space/'
+guid: 'https://blog.devlord.io/2013/03/06/office-space/'
 permalink: /2013/03/06/office-space/
 activitypub_status:
     - federated

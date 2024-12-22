@@ -4,7 +4,7 @@ title: 'Greengrass, Volume 8 (a Spotify playlist)'
 date: '2012-04-09T17:48:12-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/04/09/greengrass-volume-8-spotify/'
+guid: 'https://blog.devlord.io/2012/04/09/greengrass-volume-8-spotify/'
 permalink: /2012/04/09/greengrass-volume-8-spotify/
 activitypub_status:
     - federated

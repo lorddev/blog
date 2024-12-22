@@ -4,7 +4,7 @@ title: 'Concerning Fire Trauma'
 date: '2024-08-03T19:21:32-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2869'
+guid: 'https://blog.devlord.io/?p=2869'
 permalink: '/?p=2869'
 footnotes:
     - ''

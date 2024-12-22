@@ -4,7 +4,7 @@ title: 'Extending your EC2 boot drive in Windows 2008 R2'
 date: '2012-08-20T11:46:44-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/08/20/extending-your-ec2-boot-drive-in-windows-2008-r2/'
+guid: 'https://blog.devlord.io/2012/08/20/extending-your-ec2-boot-drive-in-windows-2008-r2/'
 permalink: /2012/08/20/extending-your-ec2-boot-drive-in-windows-2008-r2/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'The Resurrection of Believers: Already and Not Yet'
 date: '2009-10-25T01:36:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/10/25/the-resurrection-of-believers-already-and-not-yet/'
+guid: 'https://blog.devlord.io/2009/10/25/the-resurrection-of-believers-already-and-not-yet/'
 permalink: /2009/10/25/the-resurrection-of-believers-already-and-not-yet/
 activitypub_status:
     - federate

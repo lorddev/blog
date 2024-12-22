@@ -4,7 +4,7 @@ title: 'Concerning Fires'
 date: '2024-08-03T19:28:47-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/?p=2866'
+guid: 'https://blog.devlord.io/?p=2866'
 permalink: /2024/08/03/concerning-fires/
 activitypub_status:
     - federated

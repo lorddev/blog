@@ -4,7 +4,7 @@ title: 'Mark Driscoll on Planting Mars Hill'
 date: '2009-06-29T00:51:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2428'
+guid: 'https://blog.devlord.io/?p=2428'
 permalink: '/?p=2428'
 ---
 

@@ -4,7 +4,7 @@ title: 'Our Little Chargers Fan'
 date: '2009-08-30T00:15:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/08/30/our-little-chargers-fan/'
+guid: 'https://blog.devlord.io/2009/08/30/our-little-chargers-fan/'
 permalink: /2009/08/30/our-little-chargers-fan/
 activitypub_status:
     - federated

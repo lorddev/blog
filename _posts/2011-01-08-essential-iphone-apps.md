@@ -4,7 +4,7 @@ title: 'Essential iPhone Apps'
 date: '2011-01-08T22:59:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2011/01/08/essential-iphone-apps/'
+guid: 'https://blog.devlord.io/2011/01/08/essential-iphone-apps/'
 permalink: /2011/01/08/essential-iphone-apps/
 activitypub_status:
     - federated

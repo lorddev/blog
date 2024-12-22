@@ -4,7 +4,7 @@ title: 'Baxter Isaac Lord'
 date: '2010-05-24T09:48:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2010/05/24/baxter-isaac-lord/'
+guid: 'https://blog.devlord.io/2010/05/24/baxter-isaac-lord/'
 permalink: /2010/05/24/baxter-isaac-lord/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Cause of death'
 date: '2010-03-17T06:10:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2400'
+guid: 'https://blog.devlord.io/?p=2400'
 permalink: '/?p=2400'
 ---
 

@@ -4,7 +4,7 @@ title: 'GitHub: for a more social independence'
 date: '2012-09-03T20:36:24-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/09/03/github-for-a-more-social-independence/'
+guid: 'https://blog.devlord.io/2012/09/03/github-for-a-more-social-independence/'
 permalink: /2012/09/03/github-for-a-more-social-independence/
 activitypub_status:
     - federated

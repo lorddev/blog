@@ -3,7 +3,7 @@ id: 2667
 title: '&quot;The End of Christian America&quot;?'
 date: '2024-03-13T16:55:37-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2667'
+guid: 'https://blog.devlord.io/?p=2667'
 permalink: '/?p=2667'
 ---
 

@@ -4,7 +4,7 @@ title: 'The Order of God&#8217;s Eternal Elective Decrees, Part 2'
 date: '2008-12-13T06:23:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2926'
+guid: 'https://blog.devlord.io/?p=2926'
 permalink: '/?p=2926'
 ---
 

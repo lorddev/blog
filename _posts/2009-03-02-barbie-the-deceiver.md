@@ -4,7 +4,7 @@ title: 'Barbie the Deceiver'
 date: '2009-03-02T23:57:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/03/02/barbie-the-deceiver/'
+guid: 'https://blog.devlord.io/2009/03/02/barbie-the-deceiver/'
 permalink: /2009/03/02/barbie-the-deceiver/
 activitypub_status:
     - federated

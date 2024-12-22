@@ -4,7 +4,7 @@ title: '&quot;God and Foreign Relations&quot;'
 date: '2009-06-12T04:36:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/06/12/god-and-foreign-relations/'
+guid: 'https://blog.devlord.io/2009/06/12/god-and-foreign-relations/'
 permalink: /2009/06/12/god-and-foreign-relations/
 activitypub_status:
     - federated

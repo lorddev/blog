@@ -3,7 +3,7 @@ id: 2829
 title: 'Some still recognize a need for irrelevance&#8230;'
 date: '2024-03-24T10:46:24-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2829'
+guid: 'https://blog.devlord.io/?p=2829'
 permalink: '/?p=2829'
 ---
 

@@ -4,7 +4,7 @@ title: 'Saint Nicholas of Myra'
 date: '2009-12-08T04:57:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/12/08/saint-nicholas-of-myra/'
+guid: 'https://blog.devlord.io/2009/12/08/saint-nicholas-of-myra/'
 permalink: '/?p=176'
 activitypub_status:
     - federated

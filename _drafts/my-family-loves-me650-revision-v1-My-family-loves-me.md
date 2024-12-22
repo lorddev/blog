@@ -4,7 +4,7 @@ title: 'My family loves me!'
 date: '2024-03-19T11:47:08-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2788'
+guid: 'https://blog.devlord.io/?p=2788'
 permalink: '/?p=2788'
 ---
 

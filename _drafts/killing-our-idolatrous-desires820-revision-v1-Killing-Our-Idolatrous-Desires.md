@@ -3,7 +3,7 @@ id: 2825
 title: 'Killing Our Idolatrous Desires'
 date: '2024-03-24T10:43:44-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2825'
+guid: 'https://blog.devlord.io/?p=2825'
 permalink: '/?p=2825'
 ---
 

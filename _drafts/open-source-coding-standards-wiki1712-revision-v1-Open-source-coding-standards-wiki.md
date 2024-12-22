@@ -3,7 +3,7 @@ id: 2644
 title: 'Open-source coding standards wiki'
 date: '2024-03-13T12:26:11-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2644'
+guid: 'https://blog.devlord.io/?p=2644'
 permalink: '/?p=2644'
 ---
 

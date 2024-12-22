@@ -4,7 +4,7 @@ title: 'Holier Than No One'
 date: '2009-07-07T05:56:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/07/07/holier-than-no-one/'
+guid: 'https://blog.devlord.io/2009/07/07/holier-than-no-one/'
 permalink: /2009/07/07/holier-than-no-one/
 activitypub_status:
     - federated

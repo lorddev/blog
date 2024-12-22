@@ -4,7 +4,7 @@ title: 'What&#8217;s &quot;The Big Idea?&quot;'
 date: '2009-06-04T05:14:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/06/04/whats-the-big-idea/'
+guid: 'https://blog.devlord.io/2009/06/04/whats-the-big-idea/'
 permalink: /2009/06/04/whats-the-big-idea/
 activitypub_status:
     - federated

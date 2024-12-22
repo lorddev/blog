@@ -4,7 +4,7 @@ title: 'The Washington Post speaks the truth on climate change'
 date: '2012-03-26T10:14:46-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/03/26/the-washington-post-speaks-the-truth-on-climate-change/'
+guid: 'https://blog.devlord.io/2012/03/26/the-washington-post-speaks-the-truth-on-climate-change/'
 permalink: /2012/03/26/the-washington-post-speaks-the-truth-on-climate-change/
 activitypub_status:
     - federated

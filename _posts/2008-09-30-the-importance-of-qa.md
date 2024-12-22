@@ -4,7 +4,7 @@ title: 'The importance of QA'
 date: '2008-09-30T05:59:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/09/30/the-importance-of-qa/'
+guid: 'https://blog.devlord.io/2008/09/30/the-importance-of-qa/'
 permalink: /2008/09/30/the-importance-of-qa/
 activitypub_status:
     - federated

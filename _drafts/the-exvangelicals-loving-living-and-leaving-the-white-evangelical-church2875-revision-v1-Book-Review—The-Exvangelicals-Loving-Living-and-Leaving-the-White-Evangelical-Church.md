@@ -5,7 +5,7 @@ date: '2024-10-10T10:45:55-07:00'
 author: 'Aaron Lord'
 excerpt: 'We gave our lives to the church. Leaving the church was something we agonized over. After so much sacrifice, it hurts to just be dismissed as if we never counted.'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2960'
+guid: 'https://blog.devlord.io/?p=2960'
 permalink: '/?p=2960'
 footnotes:
     - ''

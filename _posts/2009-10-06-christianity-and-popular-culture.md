@@ -4,7 +4,7 @@ title: 'Christianity and Popular Culture'
 date: '2009-10-06T04:29:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/10/06/christianity-and-popular-culture/'
+guid: 'https://blog.devlord.io/2009/10/06/christianity-and-popular-culture/'
 permalink: /2009/10/06/christianity-and-popular-culture/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'The Ethics of Open Wi-Fi'
 date: '2005-07-17T00:47:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/07/17/the-ethics-of-open-wi-fi/'
+guid: 'https://blog.devlord.io/2005/07/17/the-ethics-of-open-wi-fi/'
 permalink: /2005/07/17/the-ethics-of-open-wi-fi/
 activitypub_status:
     - federated

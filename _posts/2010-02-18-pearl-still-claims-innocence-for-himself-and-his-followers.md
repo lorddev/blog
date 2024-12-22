@@ -4,7 +4,7 @@ title: 'Pearl still claims innocence, for himself and his followers'
 date: '2010-02-18T23:19:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2010/02/18/pearl-still-claims-innocence-for-himself-and-his-followers/'
+guid: 'https://blog.devlord.io/2010/02/18/pearl-still-claims-innocence-for-himself-and-his-followers/'
 permalink: /2010/02/18/pearl-still-claims-innocence-for-himself-and-his-followers/
 activitypub_status:
     - federated

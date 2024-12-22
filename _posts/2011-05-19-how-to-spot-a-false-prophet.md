@@ -4,7 +4,7 @@ title: 'How to spot a false prophet'
 date: '2011-05-19T17:44:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2011/05/19/how-to-spot-a-false-prophet/'
+guid: 'https://blog.devlord.io/2011/05/19/how-to-spot-a-false-prophet/'
 permalink: /2011/05/19/how-to-spot-a-false-prophet/
 activitypub_status:
     - federated

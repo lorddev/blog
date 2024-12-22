@@ -4,7 +4,7 @@ title: 'Bryson Befuddles Himself'
 date: '2007-06-11T22:14:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2007/06/11/bryson-befuddles-himself/'
+guid: 'https://blog.devlord.io/2007/06/11/bryson-befuddles-himself/'
 permalink: /2007/06/11/bryson-befuddles-himself/
 activitypub_status:
     - federated

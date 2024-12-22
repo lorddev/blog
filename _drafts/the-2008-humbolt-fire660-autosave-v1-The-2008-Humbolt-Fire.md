@@ -4,7 +4,7 @@ title: 'The 2008 Humbolt Fire'
 date: '2024-03-13T11:43:47-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2618'
+guid: 'https://blog.devlord.io/?p=2618'
 permalink: '/?p=2618'
 footnotes:
     - ''

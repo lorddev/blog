@@ -4,7 +4,7 @@ title: 'The disciples did not get it because of Total Inability'
 date: '2008-12-12T20:32:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2475'
+guid: 'https://blog.devlord.io/?p=2475'
 permalink: '/?p=2475'
 ---
 

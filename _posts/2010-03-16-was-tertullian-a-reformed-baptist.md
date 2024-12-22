@@ -4,7 +4,7 @@ title: 'Was Tertullian a Reformed Baptist?'
 date: '2010-03-16T06:44:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2010/03/16/was-tertullian-a-reformed-baptist/'
+guid: 'https://blog.devlord.io/2010/03/16/was-tertullian-a-reformed-baptist/'
 permalink: /2010/03/16/was-tertullian-a-reformed-baptist/
 activitypub_status:
     - federated

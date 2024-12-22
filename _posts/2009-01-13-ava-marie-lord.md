@@ -4,7 +4,7 @@ title: 'Ava Marie Lord'
 date: '2009-01-13T05:52:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/01/13/ava-marie-lord/'
+guid: 'https://blog.devlord.io/2009/01/13/ava-marie-lord/'
 permalink: /2009/01/13/ava-marie-lord/
 activitypub_status:
     - federated

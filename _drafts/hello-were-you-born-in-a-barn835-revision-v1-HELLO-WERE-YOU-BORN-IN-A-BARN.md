@@ -4,7 +4,7 @@ title: 'HELLO, WERE YOU BORN IN A BARN?!?'
 date: '2004-12-18T22:56:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2524'
+guid: 'https://blog.devlord.io/?p=2524'
 permalink: '/?p=2524'
 ---
 

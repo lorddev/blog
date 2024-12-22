@@ -4,7 +4,7 @@ title: 'Relief for Southeast Asia'
 date: '2024-03-10T11:50:43-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2258'
+guid: 'https://blog.devlord.io/?p=2258'
 permalink: '/?p=2258'
 ---
 

@@ -4,7 +4,7 @@ title: 'On Sunbathing'
 date: '2004-12-09T20:49:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2004/12/09/on-sunbathing/'
+guid: 'https://blog.devlord.io/2004/12/09/on-sunbathing/'
 permalink: /2004/12/09/on-sunbathing/
 activitypub_status:
     - federated

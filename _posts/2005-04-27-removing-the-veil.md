@@ -4,7 +4,7 @@ title: '&quot;Removing the Veil&quot;'
 date: '2005-04-27T17:39:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/04/27/removing-the-veil/'
+guid: 'https://blog.devlord.io/2005/04/27/removing-the-veil/'
 permalink: /2005/04/27/removing-the-veil/
 activitypub_status:
     - federated

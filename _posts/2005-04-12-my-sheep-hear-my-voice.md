@@ -4,7 +4,7 @@ title: '&#8216;My sheep hear my voice&#8217;'
 date: '2005-04-12T09:34:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/04/12/my-sheep-hear-my-voice/'
+guid: 'https://blog.devlord.io/2005/04/12/my-sheep-hear-my-voice/'
 permalink: /2005/04/12/my-sheep-hear-my-voice/
 activitypub_status:
     - federate

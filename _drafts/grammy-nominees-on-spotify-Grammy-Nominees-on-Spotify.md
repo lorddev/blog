@@ -4,7 +4,7 @@ title: 'Grammy Nominees on Spotify'
 date: '2012-12-09T18:32:35-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/?p=1798'
+guid: 'https://blog.devlord.io/?p=1798'
 permalink: '/?p=1798'
 geo_latitude:
     - '39.777131'

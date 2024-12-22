@@ -4,7 +4,7 @@ title: 'Abbreviations Considered Harmful'
 date: '2012-07-07T22:08:09-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/07/07/abbreviations-considered-harmful/'
+guid: 'https://blog.devlord.io/2012/07/07/abbreviations-considered-harmful/'
 permalink: /2012/07/07/abbreviations-considered-harmful/
 activitypub_status:
     - federated

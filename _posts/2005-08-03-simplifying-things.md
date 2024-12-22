@@ -4,7 +4,7 @@ title: 'Simplifying things'
 date: '2005-08-03T06:36:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/08/03/simplifying-things/'
+guid: 'https://blog.devlord.io/2005/08/03/simplifying-things/'
 permalink: /2005/08/03/simplifying-things/
 activitypub_status:
     - federated

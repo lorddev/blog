@@ -4,7 +4,7 @@ title: 'Jacob&#8217;s Presumption'
 date: '2004-11-12T02:55:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2004/11/12/jacobs-presumption/'
+guid: 'https://blog.devlord.io/2004/11/12/jacobs-presumption/'
 permalink: /2004/11/12/jacobs-presumption/
 activitypub_status:
     - federated

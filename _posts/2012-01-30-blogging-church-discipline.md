@@ -4,7 +4,7 @@ title: 'Blogging Church Discipline'
 date: '2012-01-30T21:49:13-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/01/30/blogging-church-discipline/'
+guid: 'https://blog.devlord.io/2012/01/30/blogging-church-discipline/'
 permalink: /2012/01/30/blogging-church-discipline/
 activitypub_status:
     - federated

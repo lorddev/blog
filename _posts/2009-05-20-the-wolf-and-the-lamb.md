@@ -4,7 +4,7 @@ title: 'The Wolf and the Lamb'
 date: '2009-05-20T19:13:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/05/20/the-wolf-and-the-lamb/'
+guid: 'https://blog.devlord.io/2009/05/20/the-wolf-and-the-lamb/'
 permalink: /2009/05/20/the-wolf-and-the-lamb/
 activitypub_status:
     - federated

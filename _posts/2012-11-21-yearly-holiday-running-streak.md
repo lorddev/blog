@@ -4,7 +4,7 @@ title: 'Yearly Holiday Running Streak'
 date: '2012-11-21T21:19:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/11/21/yearly-holiday-running-streak/'
+guid: 'https://blog.devlord.io/2012/11/21/yearly-holiday-running-streak/'
 permalink: /2012/11/21/yearly-holiday-running-streak/
 activitypub_status:
     - federated

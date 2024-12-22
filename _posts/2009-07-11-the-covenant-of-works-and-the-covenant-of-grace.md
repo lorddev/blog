@@ -4,7 +4,7 @@ title: 'The Covenant of Works and the Covenant of Grace'
 date: '2009-07-11T06:38:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/07/11/the-covenant-of-works-and-the-covenant-of-grace/'
+guid: 'https://blog.devlord.io/2009/07/11/the-covenant-of-works-and-the-covenant-of-grace/'
 permalink: /2009/07/11/the-covenant-of-works-and-the-covenant-of-grace/
 activitypub_status:
     - federated

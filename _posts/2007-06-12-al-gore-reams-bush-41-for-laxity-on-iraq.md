@@ -4,7 +4,7 @@ title: 'Al Gore Reams Bush 41 for Laxity on Iraq'
 date: '2007-06-12T20:25:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2007/06/12/al-gore-reams-bush-41-for-laxity-on-iraq/'
+guid: 'https://blog.devlord.io/2007/06/12/al-gore-reams-bush-41-for-laxity-on-iraq/'
 permalink: /2007/06/12/al-gore-reams-bush-41-for-laxity-on-iraq/
 activitypub_status:
     - federated

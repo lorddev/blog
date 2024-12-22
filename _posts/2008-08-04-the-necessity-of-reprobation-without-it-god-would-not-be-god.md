@@ -4,7 +4,7 @@ title: 'The Necessity of Reprobation: without it, God would not be God'
 date: '2008-08-04T04:57:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/08/04/the-necessity-of-reprobation-without-it-god-would-not-be-god/'
+guid: 'https://blog.devlord.io/2008/08/04/the-necessity-of-reprobation-without-it-god-would-not-be-god/'
 permalink: /2008/08/04/the-necessity-of-reprobation-without-it-god-would-not-be-god/
 activitypub_status:
     - federated

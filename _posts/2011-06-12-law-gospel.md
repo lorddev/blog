@@ -4,7 +4,7 @@ title: 'Law &amp; Gospel'
 date: '2011-06-12T19:36:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2011/06/12/law-gospel/'
+guid: 'https://blog.devlord.io/2011/06/12/law-gospel/'
 permalink: /2011/06/12/law-gospel/
 activitypub_status:
     - federated

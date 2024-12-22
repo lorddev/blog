@@ -4,7 +4,7 @@ title: 'Grace, Restoration, and Blank Slates'
 date: '2005-02-06T01:10:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/02/06/grace-restoration-and-blank-slates/'
+guid: 'https://blog.devlord.io/2005/02/06/grace-restoration-and-blank-slates/'
 permalink: /2005/02/06/grace-restoration-and-blank-slates/
 activitypub_status:
     - federated

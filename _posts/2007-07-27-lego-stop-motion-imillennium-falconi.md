@@ -4,7 +4,7 @@ title: 'Lego stop-motion &lt;i&gt;Millennium Falcon&lt;/i&gt;'
 date: '2007-07-27T23:47:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2007/07/27/lego-stop-motion-imillennium-falconi/'
+guid: 'https://blog.devlord.io/2007/07/27/lego-stop-motion-imillennium-falconi/'
 permalink: /2007/07/27/lego-stop-motion-imillennium-falconi/
 activitypub_status:
     - federated

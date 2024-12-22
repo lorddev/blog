@@ -3,7 +3,7 @@ id: 2672
 title: '&quot;Do I offend?&quot;'
 date: '2024-03-13T16:55:37-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2672'
+guid: 'https://blog.devlord.io/?p=2672'
 permalink: '/?p=2672'
 ---
 

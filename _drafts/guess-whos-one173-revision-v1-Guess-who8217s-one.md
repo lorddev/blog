@@ -4,7 +4,7 @@ title: 'Guess who&#8217;s one!'
 date: '2010-01-16T22:28:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2407'
+guid: 'https://blog.devlord.io/?p=2407'
 permalink: '/?p=2407'
 ---
 

@@ -4,7 +4,7 @@ title: 'Résumé / CV &#8211; Aaron Lord, .NET dev since 1.0'
 date: '2024-03-10T19:10:32-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2297'
+guid: 'https://blog.devlord.io/?p=2297'
 permalink: '/?p=2297'
 footnotes:
     - ''

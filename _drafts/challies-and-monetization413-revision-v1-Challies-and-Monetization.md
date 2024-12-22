@@ -3,7 +3,7 @@ id: 2831
 title: 'Challies and Monetization'
 date: '2024-03-24T10:47:51-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2831'
+guid: 'https://blog.devlord.io/?p=2831'
 permalink: '/?p=2831'
 ---
 

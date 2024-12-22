@@ -4,7 +4,7 @@ title: 'A Time to Kill&#8230;'
 date: '2009-06-08T20:07:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/06/08/a-time-to-kill/'
+guid: 'https://blog.devlord.io/2009/06/08/a-time-to-kill/'
 permalink: /2009/06/08/a-time-to-kill/
 activitypub_status:
     - federated

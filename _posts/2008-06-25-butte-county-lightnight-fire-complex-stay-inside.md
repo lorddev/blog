@@ -4,7 +4,7 @@ title: 'Butte County Lightning Fire Complex &#8211; Stay Inside!'
 date: '2008-06-25T17:55:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/06/25/butte-county-lightnight-fire-complex-stay-inside/'
+guid: 'https://blog.devlord.io/2008/06/25/butte-county-lightnight-fire-complex-stay-inside/'
 permalink: /2008/06/25/butte-county-lightnight-fire-complex-stay-inside/
 activitypub_status:
     - federated

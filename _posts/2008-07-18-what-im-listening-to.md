@@ -4,7 +4,7 @@ title: 'What I&#8217;m listening to'
 date: '2008-07-18T17:27:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/07/18/what-im-listening-to/'
+guid: 'https://blog.devlord.io/2008/07/18/what-im-listening-to/'
 permalink: /2008/07/18/what-im-listening-to/
 activitypub_status:
     - federated

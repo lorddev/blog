@@ -4,7 +4,7 @@ title: 'Driscoll&#8217;s profile of Patricius'
 date: '2009-03-17T17:50:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/03/17/driscolls-profile-of-patricius/'
+guid: 'https://blog.devlord.io/2009/03/17/driscolls-profile-of-patricius/'
 permalink: /2009/03/17/driscolls-profile-of-patricius/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: '&quot;The Blessedness of Possessing Nothing&quot;'
 date: '2005-02-12T23:06:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/02/12/the-blessedness-of-possessing-nothing/'
+guid: 'https://blog.devlord.io/2005/02/12/the-blessedness-of-possessing-nothing/'
 permalink: /2005/02/12/the-blessedness-of-possessing-nothing/
 activitypub_status:
     - federated

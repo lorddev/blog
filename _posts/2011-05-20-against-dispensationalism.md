@@ -4,7 +4,7 @@ title: 'Against Dispensationalism'
 date: '2011-05-20T20:00:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2011/05/20/against-dispensationalism/'
+guid: 'https://blog.devlord.io/2011/05/20/against-dispensationalism/'
 permalink: /2011/05/20/against-dispensationalism/
 activitypub_status:
     - federated

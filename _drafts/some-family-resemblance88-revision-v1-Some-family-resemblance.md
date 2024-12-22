@@ -4,7 +4,7 @@ title: 'Some family resemblance'
 date: '2024-03-10T19:40:23-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2343'
+guid: 'https://blog.devlord.io/?p=2343'
 permalink: '/?p=2343'
 footnotes:
     - ''

@@ -4,7 +4,7 @@ title: 'The Bridal Shower Game'
 date: '2007-12-09T02:45:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2007/12/09/the-bridal-shower-game/'
+guid: 'https://blog.devlord.io/2007/12/09/the-bridal-shower-game/'
 permalink: /2007/12/09/the-bridal-shower-game/
 activitypub_status:
     - federated

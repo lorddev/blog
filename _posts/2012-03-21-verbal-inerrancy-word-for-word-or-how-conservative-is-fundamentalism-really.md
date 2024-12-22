@@ -4,7 +4,7 @@ title: 'Verbal Inerrancy, Word for Word, or, How Conservative is Fundamentalism,
 date: '2012-03-21T11:04:08-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/03/21/verbal-inerrancy-word-for-word-or-how-conservative-is-fundamentalism-really/'
+guid: 'https://blog.devlord.io/2012/03/21/verbal-inerrancy-word-for-word-or-how-conservative-is-fundamentalism-really/'
 permalink: /2012/03/21/verbal-inerrancy-word-for-word-or-how-conservative-is-fundamentalism-really/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Ava&#8217;s feeding herself!'
 date: '2009-05-06T06:04:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2916'
+guid: 'https://blog.devlord.io/?p=2916'
 permalink: '/?p=2916'
 ---
 

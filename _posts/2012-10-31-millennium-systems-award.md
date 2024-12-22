@@ -4,7 +4,7 @@ title: 'Millennium Systems award'
 date: '2012-10-31T08:51:17-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/10/31/millennium-systems-award/'
+guid: 'https://blog.devlord.io/2012/10/31/millennium-systems-award/'
 permalink: /2012/10/31/millennium-systems-award/
 activitypub_status:
     - federated

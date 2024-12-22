@@ -4,7 +4,7 @@ title: 'The Dabbling Imagination'
 date: '2012-07-17T21:46:22-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/07/17/the-dabbling-imagination/'
+guid: 'https://blog.devlord.io/2012/07/17/the-dabbling-imagination/'
 permalink: /2012/07/17/the-dabbling-imagination/
 activitypub_status:
     - federated

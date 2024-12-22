@@ -4,7 +4,7 @@ title: 'The Divine Right of Authoritarianism?'
 date: '2024-03-17T11:09:12-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2752'
+guid: 'https://blog.devlord.io/?p=2752'
 permalink: '/?p=2752'
 footnotes:
     - ''

@@ -4,7 +4,7 @@ title: 'What the LCMS says about Body Modification'
 date: '2009-09-15T05:46:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/09/15/what-the-lcms-says-about-body-modification/'
+guid: 'https://blog.devlord.io/2009/09/15/what-the-lcms-says-about-body-modification/'
 permalink: /2009/09/15/what-the-lcms-says-about-body-modification/
 activitypub_status:
     - federated

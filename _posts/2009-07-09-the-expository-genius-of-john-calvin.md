@@ -4,7 +4,7 @@ title: 'The Expository Genius of John Calvin'
 date: '2009-07-09T23:19:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/07/09/the-expository-genius-of-john-calvin/'
+guid: 'https://blog.devlord.io/2009/07/09/the-expository-genius-of-john-calvin/'
 permalink: /2009/07/09/the-expository-genius-of-john-calvin/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'The Odyssey of Theodicy'
 date: '2023-10-29T10:49:22-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2023/10/29/the-odyssey-of-theodicy/'
+guid: 'https://blog.devlord.io/2023/10/29/the-odyssey-of-theodicy/'
 permalink: /2023/10/29/the-odyssey-of-theodicy/
 activitypub_status:
     - federated

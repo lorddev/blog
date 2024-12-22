@@ -4,7 +4,7 @@ title: 'New blog launched for a buddy'
 date: '2005-02-03T19:08:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/02/03/new-blog-launched-for-a-buddy/'
+guid: 'https://blog.devlord.io/2005/02/03/new-blog-launched-for-a-buddy/'
 permalink: /2005/02/03/new-blog-launched-for-a-buddy/
 activitypub_status:
     - federated

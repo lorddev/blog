@@ -4,7 +4,7 @@ title: 'Praise him with the κιθάρα&#8230;'
 date: '2010-03-02T07:57:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2010/03/02/praise-him-with-the-%ce%ba%ce%b9%ce%b8%ce%ac%cf%81%ce%b1/'
+guid: 'https://blog.devlord.io/2010/03/02/praise-him-with-the-%ce%ba%ce%b9%ce%b8%ce%ac%cf%81%ce%b1/'
 permalink: /2010/03/02/praise-him-with-the-%ce%ba%ce%b9%ce%b8%ce%ac%cf%81%ce%b1/
 activitypub_status:
     - federated

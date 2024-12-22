@@ -4,7 +4,7 @@ title: 'Best Practices'
 date: '2024-03-10T17:40:27-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2276'
+guid: 'https://blog.devlord.io/?p=2276'
 permalink: '/?p=2276'
 footnotes:
     - ''

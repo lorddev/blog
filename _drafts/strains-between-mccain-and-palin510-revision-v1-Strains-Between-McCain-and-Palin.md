@@ -4,7 +4,7 @@ title: 'Strains Between McCain and Palin'
 date: '2008-11-06T18:49:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2460'
+guid: 'https://blog.devlord.io/?p=2460'
 permalink: '/?p=2460'
 ---
 

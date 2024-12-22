@@ -4,7 +4,7 @@ title: 'The Tinkerer&#8217;s Gracious Wife'
 date: '2009-03-29T16:22:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2922'
+guid: 'https://blog.devlord.io/?p=2922'
 permalink: '/?p=2922'
 ---
 

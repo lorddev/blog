@@ -4,7 +4,7 @@ title: 'Google finally produces Blogger iOS app'
 date: '2011-09-15T19:11:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2011/09/15/google-finally-produces-blogger-ios-app/'
+guid: 'https://blog.devlord.io/2011/09/15/google-finally-produces-blogger-ios-app/'
 permalink: /2011/09/15/google-finally-produces-blogger-ios-app/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Sam Waldron on Adopting the 1689 LBC'
 date: '2009-04-15T21:44:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/04/15/sam-waldron-on-adopting-the-1689-lbc/'
+guid: 'https://blog.devlord.io/2009/04/15/sam-waldron-on-adopting-the-1689-lbc/'
 permalink: /2009/04/15/sam-waldron-on-adopting-the-1689-lbc/
 activitypub_status:
     - federated

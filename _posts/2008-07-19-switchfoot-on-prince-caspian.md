@@ -4,7 +4,7 @@ title: 'Switchfoot on Prince Caspian'
 date: '2008-07-19T21:30:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/07/19/switchfoot-on-prince-caspian/'
+guid: 'https://blog.devlord.io/2008/07/19/switchfoot-on-prince-caspian/'
 permalink: /2008/07/19/switchfoot-on-prince-caspian/
 activitypub_status:
     - federated

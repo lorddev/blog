@@ -4,7 +4,7 @@ title: 'New blogging format'
 date: '2008-06-07T20:57:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2496'
+guid: 'https://blog.devlord.io/?p=2496'
 permalink: '/?p=2496'
 ---
 

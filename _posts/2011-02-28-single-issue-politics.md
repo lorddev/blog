@@ -4,7 +4,7 @@ title: 'Single-Issue Politics'
 date: '2011-02-28T05:50:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2011/02/28/single-issue-politics/'
+guid: 'https://blog.devlord.io/2011/02/28/single-issue-politics/'
 permalink: /2011/02/28/single-issue-politics/
 activitypub_status:
     - federated

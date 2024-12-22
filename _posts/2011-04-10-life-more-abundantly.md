@@ -4,7 +4,7 @@ title: 'Life More Abundantly'
 date: '2011-04-10T22:16:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2011/04/10/life-more-abundantly/'
+guid: 'https://blog.devlord.io/2011/04/10/life-more-abundantly/'
 permalink: /2011/04/10/life-more-abundantly/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Saturday morning Photo Booth'
 date: '2009-04-11T17:24:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/04/11/saturday-morning-photo-booth/'
+guid: 'https://blog.devlord.io/2009/04/11/saturday-morning-photo-booth/'
 permalink: /2009/04/11/saturday-morning-photo-booth/
 activitypub_status:
     - federated

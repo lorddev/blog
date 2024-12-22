@@ -4,7 +4,7 @@ title: 'Strains Between McCain and Palin'
 date: '2008-11-06T18:49:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/11/06/strains-between-mccain-and-palin/'
+guid: 'https://blog.devlord.io/2008/11/06/strains-between-mccain-and-palin/'
 permalink: /2008/11/06/strains-between-mccain-and-palin/
 activitypub_status:
     - federated

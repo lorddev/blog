@@ -4,7 +4,7 @@ title: 'Google Latitude: It Works!'
 date: '2009-11-23T20:52:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2410'
+guid: 'https://blog.devlord.io/?p=2410'
 permalink: '/?p=2410'
 ---
 

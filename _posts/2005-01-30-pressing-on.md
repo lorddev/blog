@@ -4,7 +4,7 @@ title: 'Pressing On&#8230;'
 date: '2005-01-30T22:31:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/01/30/pressing-on/'
+guid: 'https://blog.devlord.io/2005/01/30/pressing-on/'
 permalink: /2005/01/30/pressing-on/
 activitypub_status:
     - federate

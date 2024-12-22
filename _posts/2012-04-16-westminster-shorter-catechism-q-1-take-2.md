@@ -4,7 +4,7 @@ title: 'Westminster Shorter Catechism, Q. 1 (Take 2)'
 date: '2012-04-16T09:01:37-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/04/16/westminster-shorter-catechism-q-1-take-2/'
+guid: 'https://blog.devlord.io/2012/04/16/westminster-shorter-catechism-q-1-take-2/'
 permalink: /2012/04/16/westminster-shorter-catechism-q-1-take-2/
 activitypub_status:
     - federated

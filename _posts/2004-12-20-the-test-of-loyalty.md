@@ -4,7 +4,7 @@ title: '&quot;The Test of Loyalty&quot;'
 date: '2004-12-20T11:30:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2004/12/20/the-test-of-loyalty/'
+guid: 'https://blog.devlord.io/2004/12/20/the-test-of-loyalty/'
 permalink: /2004/12/20/the-test-of-loyalty/
 activitypub_status:
     - federated

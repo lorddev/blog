@@ -4,7 +4,7 @@ title: 'A Chronology of Deconstruction'
 date: '2024-03-12T18:56:09-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2585'
+guid: 'https://blog.devlord.io/?p=2585'
 permalink: '/?p=2585'
 footnotes:
     - ''

@@ -4,7 +4,7 @@ title: 'Praise him with the κιθάρα&#8230;'
 date: '2010-03-02T07:57:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2360'
+guid: 'https://blog.devlord.io/?p=2360'
 permalink: '/?p=2360'
 ---
 

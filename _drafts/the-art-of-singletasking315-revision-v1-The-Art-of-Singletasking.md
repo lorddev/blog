@@ -4,7 +4,7 @@ title: 'The Art of Singletasking'
 date: '2009-06-20T06:28:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2431'
+guid: 'https://blog.devlord.io/?p=2431'
 permalink: '/?p=2431'
 ---
 

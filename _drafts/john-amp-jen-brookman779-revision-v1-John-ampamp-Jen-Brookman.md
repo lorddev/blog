@@ -4,7 +4,7 @@ title: 'John &amp;amp; Jen Brookman'
 date: '2005-03-17T10:59:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2515'
+guid: 'https://blog.devlord.io/?p=2515'
 permalink: '/?p=2515'
 ---
 

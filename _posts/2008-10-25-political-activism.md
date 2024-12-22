@@ -4,7 +4,7 @@ title: 'Political Activism'
 date: '2008-10-25T21:46:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/10/25/political-activism/'
+guid: 'https://blog.devlord.io/2008/10/25/political-activism/'
 permalink: /2008/10/25/political-activism/
 activitypub_status:
     - federated

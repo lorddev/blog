@@ -4,7 +4,7 @@ title: 'Our beautiful, romantic new bed/ding'
 date: '2008-06-19T05:52:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/06/19/our-beautiful-romantic-new-bedding/'
+guid: 'https://blog.devlord.io/2008/06/19/our-beautiful-romantic-new-bedding/'
 permalink: /2008/06/19/our-beautiful-romantic-new-bedding/
 activitypub_status:
     - federated

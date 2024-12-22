@@ -4,7 +4,7 @@ title: 'A Reformed identity'
 date: '2010-02-14T23:22:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2392'
+guid: 'https://blog.devlord.io/?p=2392'
 permalink: '/?p=2392'
 ---
 

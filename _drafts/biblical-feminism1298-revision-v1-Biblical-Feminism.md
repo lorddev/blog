@@ -3,7 +3,7 @@ id: 2662
 title: 'Biblical Feminism'
 date: '2024-03-13T16:38:41-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2662'
+guid: 'https://blog.devlord.io/?p=2662'
 permalink: '/?p=2662'
 ---
 

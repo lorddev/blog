@@ -4,7 +4,7 @@ title: 'Saturday morning Photo Booth'
 date: '2009-04-11T17:24:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2920'
+guid: 'https://blog.devlord.io/?p=2920'
 permalink: '/?p=2920'
 ---
 

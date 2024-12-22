@@ -4,7 +4,7 @@ title: 'Greengrass, Volume 1'
 date: '2012-02-21T12:30:16-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/02/21/greengrass-volume-1/'
+guid: 'https://blog.devlord.io/2012/02/21/greengrass-volume-1/'
 permalink: /2012/02/21/greengrass-volume-1/
 activitypub_status:
     - federated

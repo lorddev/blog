@@ -4,7 +4,7 @@ title: 'My great web hosts&#8230;'
 date: '2004-12-02T13:45:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2004/12/02/my-great-web-hosts/'
+guid: 'https://blog.devlord.io/2004/12/02/my-great-web-hosts/'
 permalink: /2004/12/02/my-great-web-hosts/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Biblical Feminism'
 date: '2012-03-01T18:44:04-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2012/03/01/biblical-feminism/'
+guid: 'https://blog.devlord.io/2012/03/01/biblical-feminism/'
 permalink: /2012/03/01/biblical-feminism/
 activitypub_status:
     - federated

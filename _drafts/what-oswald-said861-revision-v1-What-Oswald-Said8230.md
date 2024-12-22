@@ -3,7 +3,7 @@ id: 2645
 title: 'What Oswald Said&#8230;'
 date: '2024-03-13T12:29:22-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2645'
+guid: 'https://blog.devlord.io/?p=2645'
 permalink: '/?p=2645'
 ---
 

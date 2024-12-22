@@ -4,7 +4,7 @@ title: 'Jetta headlamps&#8230;'
 date: '2008-08-13T02:39:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2008/08/13/jetta-headlamps/'
+guid: 'https://blog.devlord.io/2008/08/13/jetta-headlamps/'
 permalink: /2008/08/13/jetta-headlamps/
 activitypub_status:
     - federated

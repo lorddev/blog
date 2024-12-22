@@ -4,7 +4,7 @@ title: 'Rethinking my GTD strategy'
 date: '2013-07-01T22:36:04-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2013/07/01/rethinking-my-gtd-strategy/'
+guid: 'https://blog.devlord.io/2013/07/01/rethinking-my-gtd-strategy/'
 permalink: /2013/07/01/rethinking-my-gtd-strategy/
 activitypub_status:
     - federated

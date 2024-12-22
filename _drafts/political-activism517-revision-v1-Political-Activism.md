@@ -4,7 +4,7 @@ title: 'Political Activism'
 date: '2008-10-25T21:46:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2462'
+guid: 'https://blog.devlord.io/?p=2462'
 permalink: '/?p=2462'
 ---
 

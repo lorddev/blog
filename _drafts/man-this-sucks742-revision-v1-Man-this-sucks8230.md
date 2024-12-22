@@ -4,7 +4,7 @@ title: 'Man, this sucks&#8230;'
 date: '2005-07-27T22:53:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2505'
+guid: 'https://blog.devlord.io/?p=2505'
 permalink: '/?p=2505'
 ---
 

@@ -4,7 +4,7 @@ title: 'Kim Riddlebarger on &quot;Issues, etc.&quot;'
 date: '2009-07-20T00:20:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/07/20/kim-riddlebarger-on-issues-etc/'
+guid: 'https://blog.devlord.io/2009/07/20/kim-riddlebarger-on-issues-etc/'
 permalink: /2009/07/20/kim-riddlebarger-on-issues-etc/
 activitypub_status:
     - federate

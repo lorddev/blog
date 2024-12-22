@@ -4,7 +4,7 @@ title: 'The good news&#8230; part 2'
 date: '2006-10-08T14:33:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2006/10/08/the-good-news-part-2/'
+guid: 'https://blog.devlord.io/2006/10/08/the-good-news-part-2/'
 permalink: /2006/10/08/the-good-news-part-2/
 activitypub_status:
     - federated

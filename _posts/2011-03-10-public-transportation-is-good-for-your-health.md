@@ -4,7 +4,7 @@ title: 'Public transportation is good for your health'
 date: '2011-03-10T19:59:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2011/03/10/public-transportation-is-good-for-your-health/'
+guid: 'https://blog.devlord.io/2011/03/10/public-transportation-is-good-for-your-health/'
 permalink: /2011/03/10/public-transportation-is-good-for-your-health/
 activitypub_status:
     - federate

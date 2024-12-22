@@ -4,7 +4,7 @@ title: 'Is your church a stench in God&#8217;s nostrils?'
 date: '2008-09-22T17:52:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2478'
+guid: 'https://blog.devlord.io/?p=2478'
 permalink: '/?p=2478'
 ---
 

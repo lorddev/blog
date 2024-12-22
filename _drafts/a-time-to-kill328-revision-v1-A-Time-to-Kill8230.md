@@ -3,7 +3,7 @@ id: 2670
 title: 'A Time to Kill&#8230;'
 date: '2024-03-13T16:55:37-07:00'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2670'
+guid: 'https://blog.devlord.io/?p=2670'
 permalink: '/?p=2670'
 ---
 

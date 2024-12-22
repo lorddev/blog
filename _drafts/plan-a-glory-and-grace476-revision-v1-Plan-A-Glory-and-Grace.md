@@ -4,7 +4,7 @@ title: 'Plan A: Glory and Grace'
 date: '2008-12-08T07:56:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2456'
+guid: 'https://blog.devlord.io/?p=2456'
 permalink: '/?p=2456'
 ---
 

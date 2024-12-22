@@ -4,7 +4,7 @@ title: '&quot;As far as the east is from the west&#8230;&quot;'
 date: '2004-11-04T21:17:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2004/11/04/as-far-as-the-east-is-from-the-west/'
+guid: 'https://blog.devlord.io/2004/11/04/as-far-as-the-east-is-from-the-west/'
 permalink: /2004/11/04/as-far-as-the-east-is-from-the-west/
 activitypub_status:
     - federated

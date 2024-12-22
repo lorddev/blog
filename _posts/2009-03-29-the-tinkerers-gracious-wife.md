@@ -4,7 +4,7 @@ title: 'The Tinkerer&#8217;s Gracious Wife'
 date: '2009-03-29T16:22:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2009/03/29/the-tinkerers-gracious-wife/'
+guid: 'https://blog.devlord.io/2009/03/29/the-tinkerers-gracious-wife/'
 permalink: /2009/03/29/the-tinkerers-gracious-wife/
 activitypub_status:
     - federated

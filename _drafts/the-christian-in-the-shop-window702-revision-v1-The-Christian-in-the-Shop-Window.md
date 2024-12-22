@@ -4,7 +4,7 @@ title: 'The Christian in the Shop Window'
 date: '2006-10-19T10:44:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2499'
+guid: 'https://blog.devlord.io/?p=2499'
 permalink: '/?p=2499'
 ---
 

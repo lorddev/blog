@@ -4,7 +4,7 @@ title: 'Defending Democracy from Christian Nationalists'
 date: '2023-12-31T09:42:14-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2023/12/31/defending-democracy-from-christian-nationalists/'
+guid: 'https://blog.devlord.io/2023/12/31/defending-democracy-from-christian-nationalists/'
 permalink: /2023/12/31/defending-democracy-from-christian-nationalists/
 activitypub_status:
     - federated

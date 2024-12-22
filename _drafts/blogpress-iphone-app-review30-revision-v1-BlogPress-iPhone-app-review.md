@@ -4,7 +4,7 @@ title: 'BlogPress iPhone app review'
 date: '2024-03-10T19:13:55-07:00'
 author: 'Aaron Lord'
 layout: revision
-"guid: 'https://blog.devlord.io/?p=2302'
+guid: 'https://blog.devlord.io/?p=2302'
 permalink: '/?p=2302'
 ---
 

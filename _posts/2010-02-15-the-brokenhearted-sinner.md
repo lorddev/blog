@@ -4,7 +4,7 @@ title: 'The brokenhearted sinner'
 date: '2010-02-15T21:36:00-08:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2010/02/15/the-brokenhearted-sinner/'
+guid: 'https://blog.devlord.io/2010/02/15/the-brokenhearted-sinner/'
 permalink: /2010/02/15/the-brokenhearted-sinner/
 activitypub_status:
     - federated

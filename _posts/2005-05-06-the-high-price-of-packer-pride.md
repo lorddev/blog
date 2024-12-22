@@ -4,7 +4,7 @@ title: 'The High Price of Packer Pride'
 date: '2005-05-06T00:24:00-07:00'
 author: 'Aaron Lord'
 layout: post
-"guid: 'https://blog.devlord.io/2005/05/06/the-high-price-of-packer-pride/'
+guid: 'https://blog.devlord.io/2005/05/06/the-high-price-of-packer-pride/'
 permalink: /2005/05/06/the-high-price-of-packer-pride/
 activitypub_status:
     - federated
