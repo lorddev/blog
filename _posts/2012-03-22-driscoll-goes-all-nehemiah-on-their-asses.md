@@ -19,7 +19,7 @@ tags:
 format: standard
 ---
 
-[youtube http://www.youtube.com/watch?v=YE3FHMTAWHY&amp;t=0&amp;w=420&amp;h=315]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YE3FHMTAWHY?si=C_1_uYBELrE76YbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This is not Reformed polity.
 

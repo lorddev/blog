@@ -23,4 +23,5 @@ tags:
 format: image
 ---
 
-<a href="/assets/img/2011/10/sproles_teams.jpg"><img src="/assets/img/2011/10/sproles_teams.jpg?w=300" border="0" alt="" /></a><div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>
+<a href="/assets/img/2011/10/sproles_teams.jpg"><img src="/assets/img/2011/10/sproles_teams.jpg?w=300" border="0" alt="" /></a>  
+*Darren Sproles making a play*

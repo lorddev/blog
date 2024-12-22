@@ -18,7 +18,6 @@ categories:
     - 'Reformed Theology'
     - Religion
 tags:
-    - sanctification
     - scripture
 format: aside
 ---

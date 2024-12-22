@@ -14,7 +14,7 @@ categories:
     - Programming
     - Technology
 tags:
-    - amazon-ec2
+    - 'cloud computing'
     - asp.net
     - freelancing
 ---

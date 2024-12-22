@@ -17,8 +17,6 @@ blogger_f316279e632a22cbc8478bd21b80f9b4_permalink:
 categories:
     - 'Book Reviews'
     - 'Reformed Theology'
-tags:
-    - literature
 format: link
 ---
 

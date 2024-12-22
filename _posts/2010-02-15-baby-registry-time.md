@@ -18,7 +18,6 @@ categories:
     - Family
     - Parenthood
 tags:
-    - babies
     - Baxter
 ---
 

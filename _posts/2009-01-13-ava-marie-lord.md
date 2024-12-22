@@ -17,11 +17,10 @@ blogger_f316279e632a22cbc8478bd21b80f9b4_permalink:
 ryu_tonesque:
     - 'a:2:{s:5:"color";s:6:"6d584a";s:8:"contrast";s:11:"255,255,255";}'
 categories:
-    - Parenthood
+    - Family
 tags:
     - Ava
     - Christina
-    - Family
 format: image
 ---
 

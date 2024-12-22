@@ -14,9 +14,7 @@ categories:
     - Programming
     - Technology
 tags:
-    - 'amazon web services'
     - 'cloud computing'
-    - ec2
     - ipad
     - 'visual studio'
 format: standard

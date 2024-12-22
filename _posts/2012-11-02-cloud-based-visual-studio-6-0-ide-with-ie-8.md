@@ -15,7 +15,7 @@ tagazine-media:
 categories:
     - Programming
 tags:
-    - cloud
+    - 'cloud computing'
 ---
 
 <p>I've created an Amazon EC2 AMI disk image with Visual Studio 6.0/Interdev installed on it (SP 6). This product is no longer supported by Microsoft. Since I took the time to find the installer and get a version up and running I thought it would be helpful if I let others use it as well. The AMI ID is ami-60163025. You can search for it in the EC2 console's AMIs under "public images" for Windows. It's in the West/Northern California zone.</p>

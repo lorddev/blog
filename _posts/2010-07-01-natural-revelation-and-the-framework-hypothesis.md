@@ -31,7 +31,6 @@ categories:
 tags:
     - evolution
     - exegesis
-    - Genesis
     - hermeneutics
 ---
 

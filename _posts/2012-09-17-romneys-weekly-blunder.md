@@ -14,7 +14,6 @@ categories:
     - 'Random Rants'
     - 'Social Justice'
 tags:
-    - 'current events'
     - politics
 ---
 
