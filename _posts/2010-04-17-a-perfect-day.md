@@ -26,6 +26,7 @@ astra-migrate-meta-layouts:
     - set
 footnotes:
     - ''
+cover-img: /assets/img/2010/04/img_0850.jpg
 image: /assets/img/2010/04/img_0850.jpg
 categories:
     - Parenthood
