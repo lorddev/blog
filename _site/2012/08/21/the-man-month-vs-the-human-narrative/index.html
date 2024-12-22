@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Beautiful Jekyll 6.0.1 | Copyright Dean Attali 2023 -->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  
+
+  
+
+  <title>The Man-Month vs. the Human Narrative</title>
+
+  
+  <meta name="author" content="Aaron Lord">
+  
+
+  <meta name="description" content="Jef Claes, creator of 2011’s spring sensation arealdeveloper.com, just tweeted a link to a blog on the issue of developer turnover, by Erik Dietrich. This is a topic I’ve considered blogging about, and have probably hinted at in the past. But I’ll let Erik speak for us all. Erik says...">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+
+    
+      
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic">
+
+
+    
+      
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800">
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/assets/css/bootstrap-social.css">
+    
+      <link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+    
+  
+
+  
+
+  
+  
+  
+
+  
+
+  
+  <meta property="og:site_name" content="I must follow, if I can">
+  <meta property="og:title" content="The Man-Month vs. the Human Narrative">
+  <meta property="og:description" content="Jef Claes, creator of 2011’s spring sensation arealdeveloper.com, just tweeted a link to a blog on the issue of developer turnover, by Erik Dietrich. This is a topic I’ve considered blogging about, and have probably hinted at in the past. But I’ll let Erik speak for us all. Erik says...">
+
+  
+  <meta property="og:image" content="http://localhost:4000/assets/img/avatar.jpeg">
+  
+
+  
+  <meta property="og:type" content="article">
+  <meta property="og:article:author" content="Aaron Lord">
+  <meta property="og:article:published_time" content="2012-08-21T21:38:05-07:00">
+  <meta property="og:url" content="http://localhost:4000/2012/08/21/the-man-month-vs-the-human-narrative/">
+  <link rel="canonical" href="http://localhost:4000/2012/08/21/the-man-month-vs-the-human-narrative/">
+  
+
+  
+  <meta name="twitter:card" content="summary">
+  
+  <meta name="twitter:site" content="@">
+  <meta name="twitter:creator" content="@">
+
+  <meta property="twitter:title" content="The Man-Month vs. the Human Narrative">
+  <meta property="twitter:description" content="Jef Claes, creator of 2011’s spring sensation arealdeveloper.com, just tweeted a link to a blog on the issue of developer turnover, by Erik Dietrich. This is a topic I’ve considered blogging about, and have probably hinted at in the past. But I’ll let Erik speak for us all. Erik says...">
+
+  
+  <meta name="twitter:image" content="http://localhost:4000/assets/img/avatar.jpeg">
+  
+
+  
+
+
+  
+
+  
+
+</head>
+
+
+<body>
+
+  
+
+
+  <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom top-nav-regular"><a class="navbar-brand" href="http://localhost:4000/">I must follow, if I can</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="main-navbar">
+    <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/about">About Me</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/resume">Resume</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://devlord.io">Website</a>
+          </li></ul>
+  </div>
+
+  
+
+  
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        <a href="http://localhost:4000/">
+          <img alt="Navigation bar avatar" class="avatar-img" src="/assets/img/avatar.jpeg" />
+        </a>
+      </div>
+    </div>
+  
+
+</nav>
+
+
+
+
+
+  <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container-md">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+        <div class="post-heading">
+          <h1>The Man-Month vs. the Human Narrative</h1>
+          
+
+          
+            <span class="post-meta">Posted on August 21, 2012</span>
+            
+            
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+
+<div class=" container-md ">
+  <div class="row">
+    <div class=" col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 ">
+
+      
+
+      
+
+      <article role="main" class="blog-post">
+        <p>Jef Claes, creator of 2011’s spring sensation <a href="http://www.jefclaes.be/2011/04/arealdevelopercom.html">arealdeveloper.com</a>, just tweeted a link to a blog on the issue of <a href="http://www.daedtech.com/how-to-keep-your-best-programmers">developer turnover</a>, by Erik Dietrich. This is a topic I’ve considered blogging about, and have probably hinted at in the past. But I’ll let Erik speak for us all.</p>
+
+<p>Erik says one reason talented individuals might leave is that they may be “tired of less talented people in [unearned] positions of [relative] … authority telling them to do things — things that are ‘frequent[ly unwise]’. There is an actual inversion of pecking order as found in meritocracies and this leads to a dysfunctional situation.” Scott Rosenberg writes in <em>Dreaming in Code</em> about how suits often find managing developers as akin to herding cats. There’s a certain hacker culture to this field, a culture that so many still don’t “get.” One thing about geeks is the way they recognize elites and give them props for their skills. This is how Microsoft MVPs are chosen, how employees at Amazon are promoted, and how moderators on Stack Exchange and countless other online forums are picked.</p>
+
+<p>He also quotes Alex Papadimoulis’s description of the “Value Apex”, which I certainly identify with as I consider the presence of “room to grow” a vital selling point for any organization. Jef describes it as a need for a competent mentor. In some companies, either due to turnover rate or personal growth, you’ll eventually get to a point where there’s no one left who’s got madder skillz than yours.</p>
+
+<p>And you’ll start looking for greener grass.</p>
+
+<p>The point of the essay is to emphasize developers’ desire for autonomy and need for self-actualization. While Dale Carnegie says we ought to always refer to potential employers and customers in terms of what benefit it will bring to them—and certainly this is true in how independent developers interact with their clients—what a developer really wants out of their <em>life station</em> is an answer to the question: “what kind of dev will this help me to be?” Will the answer to that question more closely resemble the cubicle-dwelling “Thomas A. Anderson” in <em>The Matrix,</em> “program writer for a respectable software company” who “help[s his] landlady take out her garbage” (disdainful eyebrow) or his night-time hacker alter-ego Neo?</p>
+
+<p>“One of these lives has a future, and one of them does not.”</p>
+
+<p>When you hire or manage a developer, you are helping them write their life’s story. What kind of narrative is it going to be? Are they going to find a real sense of purpose? Or do you just want to use them and get your “man-months” out of them to fill in your fancy reports?</p>
+
+<p>P.S. <em>Where’s my damn watch?</em></p>
+
+      </article>
+
+      
+        <div class="blog-tags">
+          <span>Tags:</span>
+          
+            <a href="/tags#freelancing">freelancing</a>
+          
+            <a href="/tags#turnover">turnover</a>
+          
+            <a href="/tags#web development">web development</a>
+          
+        </div>
+      
+
+      
+
+      
+
+      <ul class="pagination blog-pager">
+        
+        <li class="page-item previous">
+          <a class="page-link" href="/2012/08/20/extending-your-ec2-boot-drive-in-windows-2008-r2/" data-toggle="tooltip" data-placement="top" title="Extending your EC2 boot drive in Windows 2008 R2">&larr; Previous Post</a>
+        </li>
+        
+        
+        <li class="page-item next">
+          <a class="page-link" href="/2012/09/03/github-for-a-more-social-independence/" data-toggle="tooltip" data-placement="top" title="GitHub: for a more social independence">Next Post &rarr;</a>
+        </li>
+        
+      </ul>
+      
+
+    </div>
+  </div>
+</div>
+
+
+  <footer>
+  <div class="container-md beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      <ul class="list-inline text-center footer-links"><li class="list-inline-item">
+    <a href="https://github.com/lorddev" title="GitHub">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">GitHub</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://linkedin.com/in/aaronjlord" title="LinkedIn">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">LinkedIn</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://stackoverflow.com/users/16454/devlord" title="StackOverflow">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-stack-overflow fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">StackOverflow</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a rel="me" href="https://hachyderm.io/@devlord" title="Mastodon">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-mastodon fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Mastodon</span>
+    </a>
+  </li></ul>
+
+      
+      <p class="copyright text-muted">
+      
+        Aaron Lord
+        &nbsp;&bull;&nbsp;
+      
+      2024
+
+      
+        &nbsp;&bull;&nbsp;
+        <span class="author-site">
+          <a href="http://localhost:4000/">devlord.io</a>
+        </span>
+      
+
+      
+
+      
+
+      </p>
+      <p class="theme-by text-muted">
+        Powered by
+        <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
+      </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+  
+  
+    
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+
+
+  
+    
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+
+  
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/assets/js/beautifuljekyll.js"></script>
+    
+  
+
+
+
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+---
+id: 2783
+title: 'Simplifying things'
+date: '2024-03-19T11:36:16-07:00'
+author: 'Aaron Lord'
+layout: revision
+guid: 'https://www.devlord.io/blog/?p=2783'
+permalink: '/?p=2783'
+---
+
+Quote:<br /><blockquote>Be it for the praise of other Christians, or just to get them off your back, the desire to have people praise your progress in the faith can be just as vain as the need to be seen as a success by your peers, or society, or any of those other forms of "acceptable" ego-stroking. Since the very essence of God's grace is that He has given us unmerited mercy in return for our wickedness, ego should have nothing to do with our growth as Christians. I believe that taking pride in driving a better car or having a nicer house than your neighbor is no less a matter of pride as the desire to hear other Christians praise your so-called godliness. While it's good to encourage others by maturing in your faith, just as the spiritual maturity of those around us is encouraging, it's also easy to get off track. I'm talking about that need for a spiritual "Atta-boy!" or a better seat in church on Sunday, or the always dangerous acceptance into that inner circle of "church staff." (No, I don't think that the position of a church staff member is evil. I just know that if Christianity is treated like a social club, it often has the same entanglements as one. From someone who spent half of his life growing up in churches, I can say it happens, and more often than you might think.) - Mark Salomon, <i>Simplicity</i></blockquote>I am no longer on church staff.  Please pray for me.  As far as my heart goes, He has been preparing me for this.  I can totally see his hand in it, but I was just expecting him to have things all lined up before he pulled the rug out from under me.  Pray that God will return me to successful independent-contractorship and bring me some clients, and pray that he would lead me where to go from here in terms of ministry and church community, etc.<div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>

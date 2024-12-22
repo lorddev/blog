@@ -1,0 +1,24 @@
+---
+id: 1359
+title: 'Authority vs. Authorship'
+date: '2012-03-22T12:47:40-07:00'
+author: 'Aaron Lord'
+layout: post
+guid: 'https://www.devlord.io/blog/2012/03/22/authority-vs-authorship/'
+permalink: /2012/03/22/authority-vs-authorship/
+activitypub_status:
+    - federated
+publicize_results:
+    - 'a:1:{s:7:"twitter";a:1:{i:246010580;a:2:{s:7:"user_id";s:4:"a1rd";s:7:"post_id";s:18:"182931608448417794";}}}'
+categories:
+    - 'Reformed Theology'
+tags:
+    - fundamentalism
+    - 'higher criticism'
+    - scripture
+---
+
+As part of the current discussion on the origins of the Fundamentalism/Modernism controversy, I present the following paragraph from Charles Augustus Briggs's address at Union Theological Seminary in 1891, <em>The Authority of Holy Scripture</em>.
+<blockquote>The third barrier is the authenticity of the Scriptures. The only authenticity we are concerned about in seeking for the divine authority of the Scriptures is <em>divine authenticity</em>, and yet many theologians have insisted that we must prove that the Scriptures were written by or under the superintendence of prophets and apostles. Refusing to build on the authority of the living Church, they have sought an authority in the dead Church; abandoning the authority of institutional Christianity, they have sought a prop in floating traditions. These traditions assign authors to all the books of the Bible, and on the authority of these human authors, it is claimed that the Bible is divine. These theologians seem altogether unconscious of the circle of reasoning they are making. They prove the authority of the Bible from the authority of its authors. But what do we know of the authors apart from the Bible itself? Apart from the sacred writings,— Moses and David, Paul and Peter, would be no more to us than Confucius or Sakya Muni. They were leaders of men, but how do we know that they were called of God to speak divine words to us? The only way in which we can prove their authority is from their writings, and yet we are asked to accept the authority of the writings on the authority of these authors. When such fallacies are thrust in the faces of men seeking divine authority in the Bible, is it strange that so many turn away in disgust? It is just here that the Higher Criticism has proved such a terror in our times. Traditionalists are crying out that it is destroying the Bible, because it is exposing their fallacies and follies. It may be regarded as the certain result of the science of the Higher Criticism that Moses did not write the Pentateuch or Job; Ezra did not write the Chronicles, Ezra, or Nehemiah; Jeremiah did not write the Kings or Lamentations; David did not write the Psalter, but only a few of the Psalms; Solomon did not write the Song of Songs or Ecclesiastes, and only a portion of the Proverbs; Isaiah did not write half of the book that bears his name. The great mass of the Old Testament was written by authors whose names or connection with their writings are lost in oblivion. If this is destroying the Bible, the Bible is destroyed already. But who tells us that these traditional names were the authors of the Bible? The Bible itself? The creeds of the Church? Any reliable historical testimony? None of these! Pure, conjectural tradition! Nothing more! We are not prepared to build our faith for time and eternity upon such uncertainties as these. We desire to know whether the Bible came from God, and it is not of any great importance that we should know the names of those worthies chosen by God to mediate His' revelation. It is possible that there is a providential purpose in the withholding of these names, in order that men might have no excuse for building on human authority, and so should be forced to resort to divine authority. It will ere long become clear to the Christian people that the Higher Criticism has rendered an inestimable service to this generation and to the generations to come. What has been destroyed has been the fallacies and conceits of theologians; the obstructions that have barred the way of literary men from the Bible. Higher Criticism has forced its way into the Bible itself and brought us face to face with the holy contents, so that we may see and know whether they are divine or not. Higher Criticism has not contravened any decision of any Christian council, or any creed of any Church, or any statement of Scripture itself. It has rather brought the long-neglected statement of the Westminster Confession into prominence:
+<blockquote>The authority of the Holy Scripture, for which it ought to be believed and obeyed, dependeth not upon the testimony of any man or church, but wholly upon God (who is truth itself), the author thereof; and therefore it is to be received, because it is the word of God.</blockquote>
+</blockquote>
