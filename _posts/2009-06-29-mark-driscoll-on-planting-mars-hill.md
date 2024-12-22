@@ -37,4 +37,4 @@ As it was, by the grace of God we have made it, and by the grace of God I am lea
 
 And the people to whom Peter is writing, they went with Plan A: humility, patience, subjecting themselves to the elders, God raised them up in time. By the historical record, after the first generation of leaders died and Peter himself was crucified upside-down, the church not only continued to exist, this multi-campus church, it flourished and expanded and other congregations were started. So much so, that, by the fourth century, it had been host to multiple significant theological early-church councils. It had contributed to the theological precision and protection of the Church that has served us all in the days ensuing.</blockquote>
 Mark Driscoll, <a href="http://www.marshillchurch.org/media/trial/humble-christians">"Humble Christians"</a>(1 Pt. 5:5b), sermon, March 17, 2009
-<div class="blogger-post-footer"><img src="https://www.devlord.io/blog/mark-driscoll-on-planting-mars-hill/"" width="1" height="1" /></div>
+<div class="blogger-post-footer"><img src="/mark-driscoll-on-planting-mars-hill/"" width="1" height="1" /></div>

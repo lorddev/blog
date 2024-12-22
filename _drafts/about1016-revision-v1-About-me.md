@@ -28,11 +28,11 @@ footnotes:
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a title="A Chronology of Deconstruction" href="https://www.devlord.io/blog/2019/12/07/a-chronology-of-deconstruction/">A Chronology of Deconstruction</a></li>
+<li><a title="A Chronology of Deconstruction" href="/2019/12/07/a-chronology-of-deconstruction/">A Chronology of Deconstruction</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://www.devlord.io/blog/2024/03/27/owning-your-accomplishments/">Owning Your Accomplishments</a></li>
+<li><a href="/2024/03/27/owning-your-accomplishments/">Owning Your Accomplishments</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 

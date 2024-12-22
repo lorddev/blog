@@ -37,8 +37,8 @@ The covenant framework helps us to read the Old and New Testaments together. It 
 Posts in this series:
 <ul>
  	<li>What's "The Big Idea?"</li>
- 	<li><a href="https://www.devlord.io/blog/2009/06/12/god-and-foreign-relations/">"God and Foreign Relations"</a></li>
- 	<li><a href="https://www.devlord.io/blog/2009/07/01/chapter-2-5-gods-freedom-in-covenant/">Chapter 2.5: God's Freedom in Covenant</a></li>
- 	<li><a href="https://www.devlord.io/blog/2009/07/11/the-covenant-of-works-and-the-covenant-of-grace/">The Covenant of Works and the Covenant of Grace</a></li>
+ 	<li><a href="/2009/06/12/god-and-foreign-relations/">"God and Foreign Relations"</a></li>
+ 	<li><a href="/2009/07/01/chapter-2-5-gods-freedom-in-covenant/">Chapter 2.5: God's Freedom in Covenant</a></li>
+ 	<li><a href="/2009/07/11/the-covenant-of-works-and-the-covenant-of-grace/">The Covenant of Works and the Covenant of Grace</a></li>
 </ul>
 <div class="blogger-post-footer"></div>

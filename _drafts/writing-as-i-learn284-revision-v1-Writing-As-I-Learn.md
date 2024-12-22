@@ -8,4 +8,4 @@ guid: 'https://www.devlord.io/blog/?p=2577'
 permalink: '/?p=2577'
 ---
 
-"I count myself one of the number of those who write as they learn and  <br>learn as they write."<br>-- John Calvin, quoting Augustine, in The Institutes, p. 5<p>HT: John Piper, "The Pastor As Scholar", sermon<p>Sent from my iPhone<div class="blogger-post-footer"><img width='1' height='1' src="https://www.devlord.io/blog/writing-as-i-learn/"' /></div>
+"I count myself one of the number of those who write as they learn and  <br>learn as they write."<br>-- John Calvin, quoting Augustine, in The Institutes, p. 5<p>HT: John Piper, "The Pastor As Scholar", sermon<p>Sent from my iPhone<div class="blogger-post-footer"><img width='1' height='1' src="/writing-as-i-learn/"' /></div>

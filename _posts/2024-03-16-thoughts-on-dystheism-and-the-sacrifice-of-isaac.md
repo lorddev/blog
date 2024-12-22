@@ -163,6 +163,6 @@ tags:
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li><a href="https://www.devlord.io/blog/2024/03/06/dystheism-vs-theodicy/" title="Dystheism vs. Theodicy">Dystheism vs. Theodicy</a></li>
+<li><a href="/2024/03/06/dystheism-vs-theodicy/" title="Dystheism vs. Theodicy">Dystheism vs. Theodicy</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->

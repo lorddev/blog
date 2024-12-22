@@ -91,6 +91,6 @@ format: standard
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>I've linked to it <a href="https://www.devlord.io/blog/2011/06/10/the-marks-of-an-abusive-church/">before</a>, but it's worth doing it again. Ronald M. Enroth's book <em>Churches That Abuse</em> is available <a href="http://www.ccel.us/churches.toc.html">online in its entirety</a>. I used <a href="http://itunes.apple.com/us/app/instapaper/id288545208">Instapaper</a> to read the whole thing, and I was quite amazed as I found I could relate to almost every single chapter.</li>
+<li>I've linked to it <a href="/2011/06/10/the-marks-of-an-abusive-church/">before</a>, but it's worth doing it again. Ronald M. Enroth's book <em>Churches That Abuse</em> is available <a href="http://www.ccel.us/churches.toc.html">online in its entirety</a>. I used <a href="http://itunes.apple.com/us/app/instapaper/id288545208">Instapaper</a> to read the whole thing, and I was quite amazed as I found I could relate to almost every single chapter.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->

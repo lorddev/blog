@@ -8,4 +8,4 @@ guid: 'https://www.devlord.io/blog/?p=2923'
 permalink: '/?p=2923'
 ---
 
-<div class="blogger-post-footer"><img width='1' height='1' src="https://www.devlord.io/blog/2009/01/23/life-imagine-the-potential/"' /></div>
+<div class="blogger-post-footer"><img width='1' height='1' src="/2009/01/23/life-imagine-the-potential/"' /></div>

@@ -20,4 +20,4 @@ categories:
     - Politics
 ---
 
-<div class="blogger-post-footer"><img width='1' height='1' src="https://www.devlord.io/blog/2009/01/23/life-imagine-the-potential/"' /></div>
+<div class="blogger-post-footer"><img width='1' height='1' src="/2009/01/23/life-imagine-the-potential/"' /></div>

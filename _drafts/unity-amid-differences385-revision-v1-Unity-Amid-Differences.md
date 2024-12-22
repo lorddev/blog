@@ -15,4 +15,4 @@ Their staff recently had their annual pastors and wives retreat, which is intend
 On the subject of unity amid differences, I am reminded of John Calvin, who was strongly convicted that churches should celebrate the Lord's Supper every Lord's Day, but was opposed on this subject by the leadership in Geneva because weekly communion too easily reminded them of the Catholic Mass. He did not make an uproar about this but simply laid the foundation for his stance in his theological writings and left it up to the Sovereign Lord to work on the hearts of the congregation.
 
 S.D.G.
-<div class="blogger-post-footer"><img src="https://www.devlord.io/blog/2009/04/18/unity-amid-differences/"" width="1" height="1" /></div>
+<div class="blogger-post-footer"><img src="/2009/04/18/unity-amid-differences/"" width="1" height="1" /></div>

@@ -18,4 +18,4 @@ categories:
     - General
 ---
 
-<p class="mobile-photo"><a href="/assets/img/2011/10/photo-729754.jpg"><img src="/assets/img/2011/10/photo-729754.jpg?w=300" border="0" alt="" /></a></p><div class="blogger-post-footer"><img width='1' height='1' src="https://www.devlord.io/blog/at-the-chico-air-show/"' /></div>
+<p class="mobile-photo"><a href="/assets/img/2011/10/photo-729754.jpg"><img src="/assets/img/2011/10/photo-729754.jpg?w=300" border="0" alt="" /></a></p><div class="blogger-post-footer"><img width='1' height='1' src="/at-the-chico-air-show/"' /></div>

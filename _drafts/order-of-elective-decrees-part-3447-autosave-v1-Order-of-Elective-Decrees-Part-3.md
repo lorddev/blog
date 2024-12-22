@@ -74,7 +74,7 @@ footnotes:
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li><a href="https://www.devlord.io/blog/2008/11/29/the-order-of-gods-eternal-elective-decrees-part-1/">The Order of God's Eternal Elective Decrees, Part 1</a></li>
+<li><a href="/2008/11/29/the-order-of-gods-eternal-elective-decrees-part-1/">The Order of God's Eternal Elective Decrees, Part 1</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -82,7 +82,7 @@ footnotes:
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><a href="https://www.devlord.io/blog/2008/12/13/the-order-of-gods-eternal-elective-decrees-part-2/" title="">The Order of God's Eternal Elective Decrees, Part 2</a></li>
+<li><a href="/2008/12/13/the-order-of-gods-eternal-elective-decrees-part-2/" title="">The Order of God's Eternal Elective Decrees, Part 2</a></li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 

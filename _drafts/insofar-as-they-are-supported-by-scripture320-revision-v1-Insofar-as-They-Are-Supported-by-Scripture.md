@@ -9,7 +9,7 @@ permalink: '/?p=2625'
 
 The Reformed Confessions can only stand insofar as they are supported by Scripture.
 
-I want to tie together some of the recent topics I've been covering, including my comment in <a href="https://www.devlord.io/blog/2009/06/04/whats-the-big-idea/">a previous post</a> that the Five Points of Calvinism are "only the beginning of what Reformed theology is all about," as well as my research into John MacArthur's regretable 2007 sermon, "Why Every Self-respecting Calvinist is a Premillennialist."
+I want to tie together some of the recent topics I've been covering, including my comment in <a href="/2009/06/04/whats-the-big-idea/">a previous post</a> that the Five Points of Calvinism are "only the beginning of what Reformed theology is all about," as well as my research into John MacArthur's regretable 2007 sermon, "Why Every Self-respecting Calvinist is a Premillennialist."
 
 I "happened upon" <a href="http://kimriddlebarger.squarespace.com/the-latest-post/2007/3/13/why-john-macarthur-is-not-reformed.html#comment723422">an article</a> on Kim Riddlebarger's website called, "Why John MacArthur Is Not 'Reformed'", which I found very interesting and I also recommend to you. He quotes an essay from Richard Muller in 1993, and I also recommend clicking through to read that article as well.
 
@@ -28,4 +28,4 @@ When Paul speaks of baptism in this manner, in this passage as well as others, i
 Finally, paedobaptists speak of those cases in Acts where it says so-and-so was baptized, "he and his household." Even some Reformed paedobaptists I have read acknowledge that there is nothing in these passages to indicate that the familes being discussed had any infants in them. Furthermore, I would cite Acts 18:8, which says that Crispus "<em>believed</em> in the Lord, together with his entire household." This indicates either that "entire household" is a figure of speech, or that Crispus did not, in fact, have infants in his family.
 
 Covenant and Reformed Christians, please recognize the arguments of Reformed Baptists, and don't just lump us in with John MacArthur and write us off as non-Calvinistic.
-<div class="blogger-post-footer"><img src="https://www.devlord.io/blog/insofar-as-they-are-supported-by-scripture/"" width="1" height="1" /></div>
+<div class="blogger-post-footer"><img src="/insofar-as-they-are-supported-by-scripture/"" width="1" height="1" /></div>

@@ -63,4 +63,4 @@ Ramsey said that since this is an alleged homicide, the Schatzes are facing a li
 He said cases like this are wrenching for everyone involved. The district attorney's office is assisting police with the investigation. An autopsy will be conducted Wednesday, said Butte County Sheriff's Office Lt. Dennis Cooley. He said if it is proven that the child died of cardiac arrest, he would have to have a doctor explain how it is possible for a 7-year-old girl to be beaten into a heart attack.
 
 Anyone with information regarding the incident is encouraged to call the Paradise Police Department at 872-6241. The Post will update the story as new information is made available.
-<div class="blogger-post-footer"><img src="https://www.devlord.io/blog/fear-not-you-are-of-more-value-than-many-sparrows/" width="1" height="1" /></div>
+<div class="blogger-post-footer"><img src="/fear-not-you-are-of-more-value-than-many-sparrows/" width="1" height="1" /></div>

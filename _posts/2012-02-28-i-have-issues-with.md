@@ -55,14 +55,14 @@ For a long time I actually thought you couldn't be a Democrat—much less a <em>
 
 In the spring and summer of 2011 I produced an eight-part series, practically a year in the making. This should give you a pretty good idea where I'm coming from.
 
-<a href="https://www.devlord.io/blog/2011/06/06/why-not-mainline/">Why not "Mainline"?</a>
-<a href="https://www.devlord.io/blog/2011/06/06/diversity-and-the-nature-of-the-church/">Diversity and the Nature of the Church</a>
+<a href="/2011/06/06/why-not-mainline/">Why not "Mainline"?</a>
+<a href="/2011/06/06/diversity-and-the-nature-of-the-church/">Diversity and the Nature of the Church</a>
 <a href="/blog/2011/06/08/historic-confessions-vs-the-contemporary-statement-of-faith/">Historic Confessions vs. the Contemporary "Statement of Faith"</a>
-<a href="https://www.devlord.io/blog/2011/06/10/the-marks-of-an-abusive-church/">The Marks of an Abusive Church</a>
-<a href="https://www.devlord.io/blog/2011/06/11/attributes-of-a-healthy-church/">Attributes of a Healthy Church</a>
-<a href="https://www.devlord.io/blog/2011/06/12/law-gospel/">Law &amp; Gospel</a>
+<a href="/2011/06/10/the-marks-of-an-abusive-church/">The Marks of an Abusive Church</a>
+<a href="/2011/06/11/attributes-of-a-healthy-church/">Attributes of a Healthy Church</a>
+<a href="/2011/06/12/law-gospel/">Law &amp; Gospel</a>
 <a href="/blog/social-justice-and-the-christian/">Social Justice and the Christian</a>
-<a href="https://www.devlord.io/blog/2011/07/26/two-kingdoms-natural-law-common-grace-and-the-spiritual-nature-of-the-church/">Two Kingdoms: Natural Law, Common Grace and the Spiritual Nature of the Church</a>
+<a href="/2011/07/26/two-kingdoms-natural-law-common-grace-and-the-spiritual-nature-of-the-church/">Two Kingdoms: Natural Law, Common Grace and the Spiritual Nature of the Church</a>
 
 The series above was produced over the course of a whole year, then published weekly over two months last summer, in long form. Coming posts will be more dynamic, consisting of shorter segments where the end isn't so much seen from the start, because I haven't written it yet.
 

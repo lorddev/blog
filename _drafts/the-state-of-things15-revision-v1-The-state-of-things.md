@@ -8,4 +8,4 @@ guid: 'https://www.devlord.io/blog/?p=2277'
 permalink: '/?p=2277'
 ---
 
-Just wanted to say, it's hard to get yourself to post on Blogger when you have Google+...<br /><br />Posted from my iPhone<br /><div class="blogger-post-footer"><img width='1' height='1' src="https://www.devlord.io/blog/the-state-of-things/"' /></div>
+Just wanted to say, it's hard to get yourself to post on Blogger when you have Google+...<br /><br />Posted from my iPhone<br /><div class="blogger-post-footer"><img width='1' height='1' src="/the-state-of-things/"' /></div>

@@ -99,5 +99,5 @@ footnotes:
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>There are other books, memoirs and <a href="https://www.devlord.io/blog/2024/03/12/the-kingdom-the-power-and-the-glory-book-review/">warnings against Christian Nationalism</a>, but once I read the above I was thoroughly deconverted. This list is intended to reflect my personal journey 11 years ago.</p>
+<p>There are other books, memoirs and <a href="/2024/03/12/the-kingdom-the-power-and-the-glory-book-review/">warnings against Christian Nationalism</a>, but once I read the above I was thoroughly deconverted. This list is intended to reflect my personal journey 11 years ago.</p>
 <!-- /wp:paragraph -->

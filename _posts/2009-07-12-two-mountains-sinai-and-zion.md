@@ -68,6 +68,6 @@ We are not saved by our works, but by unconditional grace of God.  But our regen
 
 Posts in this series:<br />
 
-<ul><li><a href="https://www.devlord.io/blog/2009/06/04/whats-the-big-idea/">What's "The Big Idea?"</a><br /></li><li><a href="https://www.devlord.io/blog/2009/06/12/god-and-foreign-relations/">"God and Foreign Relations"</a></li><li><a href="https://www.devlord.io/blog/2009/07/01/chapter-2-5-gods-freedom-in-covenant/">Chapter 2.5: God's Freedom in Covenant</a></li><li><a href="https://www.devlord.io/blog/2009/07/11/the-covenant-of-works-and-the-covenant-of-grace/">The Covenant of Works and the Covenant of Grace</a></li><li>Two Mountains: Sinai and Zion</li></ul>
+<ul><li><a href="/2009/06/04/whats-the-big-idea/">What's "The Big Idea?"</a><br /></li><li><a href="/2009/06/12/god-and-foreign-relations/">"God and Foreign Relations"</a></li><li><a href="/2009/07/01/chapter-2-5-gods-freedom-in-covenant/">Chapter 2.5: God's Freedom in Covenant</a></li><li><a href="/2009/07/11/the-covenant-of-works-and-the-covenant-of-grace/">The Covenant of Works and the Covenant of Grace</a></li><li>Two Mountains: Sinai and Zion</li></ul>
 
 <div class="blogger-post-footer"><img width='1' height='1' src='https://blogger.googleusercontent.com/tracker/2602771351651662379-5814134203275852544?l=mustfollow.blogspot.com' alt='' /></div>

@@ -67,4 +67,4 @@ All of the decrees are eternal. God’s mind does not work like ours—or rather
 
 “Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments and how inscrutable his ways!” (Rom. 11:33, ESV)
 
-<div class="blogger-post-footer"><img src="https://www.devlord.io/blog/2008/11/29/the-order-of-gods-eternal-elective-decrees-part-1/"" width="1" height="1" /></div>
+<div class="blogger-post-footer"><img src="/2008/11/29/the-order-of-gods-eternal-elective-decrees-part-1/"" width="1" height="1" /></div>

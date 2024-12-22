@@ -25,4 +25,4 @@ Jon Bloom on recovering from a "spiritual tempest":
 My experience is that God brings deliverance from these things gradually. Because his purpose is to strengthen faith and character. A different analogy: it is similar to endurance and strength training. It's the adversity of the struggle that builds spiritual understanding, muscle, and endurance. And it generally takes longer and is more difficult and painful than we imagine at first.
 
 <a href="http://www.desiringgod.org/Blog/1908_How_Long_Will_This_Last/">Read it here</a>
-<div class="blogger-post-footer"><img src="https://www.devlord.io/blog/recovering-from-a-spiritual-tempest/"" width="1" height="1" /></div>
+<div class="blogger-post-footer"><img src="/recovering-from-a-spiritual-tempest/"" width="1" height="1" /></div>

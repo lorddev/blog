@@ -21,7 +21,7 @@ tags:
     - 'john macarthur'
 ---
 
-When I started working on <a href="https://www.devlord.io/blog/2009/06/30/why-i-wont-be-going-to-the-shepherds-conference-anytime-soon-part-1-phil-johnson/">my last post</a> 3 months ago, I quickly realized the two major issues from the Shepherd's Conference were John MacArthur's eschatology and Phil Johnson's treatment of Mark Driscoll. I decided to separate these issues into two separate posts.
+When I started working on <a href="/2009/06/30/why-i-wont-be-going-to-the-shepherds-conference-anytime-soon-part-1-phil-johnson/">my last post</a> 3 months ago, I quickly realized the two major issues from the Shepherd's Conference were John MacArthur's eschatology and Phil Johnson's treatment of Mark Driscoll. I decided to separate these issues into two separate posts.
 
 I am troubled by John MacArthur's eschatology, which tends to come up more often than it should. He is a great preacher when he's preaching through the Bible verse-by-verse, but at the Shepherd's Conference he gets to speak on his pet subjects, and I think he does so irresponsibly. A few years ago it was his Dispensational Premillennialism, and his claim that those who don't see things his way aren't good Calvinists. This has been <a href="http://kimriddlebarger.squarespace.com/the-latest-post/2007/3/13/why-john-macarthur-is-not-reformed.html#comment723422">addressed</a> by many <a href="http://apologus.wordpress.com/2007/06/27/every-self-professed-calvinist-should-be-what%22/">others</a>, so I won't go into it right now. This year, the issue was his interpretation of Genesis 1, but this message was just as much influenced by his eschatology as the Dispensational one a couple years earlier.
 
