@@ -30,7 +30,6 @@ categories:
     - 'Reformed Theology'
 tags:
     - '1689'
-    - '3'
     - 'covenant theology'
     - 'Reformed Baptist'
     - 'the Lord''s day'

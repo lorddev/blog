@@ -16,7 +16,6 @@ categories:
 tags:
     - asp.net
     - design
-    - twitter-bootstrap
     - 'web development'
 ---
 

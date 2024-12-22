@@ -14,7 +14,7 @@ categories:
     - Running
 tags:
     - 'gear reviews'
-    - Saucony
+    - 'running shoes'
 ---
 
 <p style="text-align:center;"><a href="/assets/img/2011/12/20111226-120702.jpg"><img class="size-full aligncenter" src="/assets/img/2011/12/20111226-120702.jpg" alt="20111226-120702.jpg" width="695" height="480" /></a></p>

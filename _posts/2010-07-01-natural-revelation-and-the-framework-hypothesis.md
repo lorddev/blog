@@ -29,7 +29,6 @@ footnotes:
 categories:
     - 'Reformed Theology'
 tags:
-    - 2b00ff
     - evolution
     - exegesis
     - Genesis

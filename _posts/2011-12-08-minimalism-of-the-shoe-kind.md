@@ -13,9 +13,7 @@ publicize_results:
 categories:
     - Running
 tags:
-    - Merrell
     - 'minimalist footwear'
-    - 'New Balance'
 format: standard
 ---
 

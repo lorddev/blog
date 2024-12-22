@@ -26,8 +26,6 @@ footnotes:
     - ''
 categories:
     - General
-tags:
-    - videoblog
 ---
 
 These are my thoughts on Mark Driscoll's so-called "banned church planting video" which I saw three months ago. I haven't played WOW since.

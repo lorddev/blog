@@ -17,7 +17,6 @@ tags:
     - Ava
     - catechism
     - presbyterian
-    - video
 ---
 
 [youtube http://www.youtube.com/watch?v=8FRwAic8Qr8?rel=0]

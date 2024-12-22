@@ -17,7 +17,6 @@ tags:
     - amazon-ec2
     - asp.net
     - freelancing
-    - windows
 ---
 
 When you set up a new instance in the cloud <a href="http://mustfollow.wordpress.com/2012/07/09/visual-studio-in-the-cloudcod/">on Amazon's EC2 service</a>, if you use the standard snapshots for Windows 2008 R2 hosting with SQL Server, you will find that your C: drive is much smaller than you expected it to be. Basically, you're maxed out at capacity as soon as you upgrade Visual Studio. A few times a day you'll receive notifications in the system tray about how the drive is running out of disk space. My first attempt to solve this problem involved attaching an EBS volume as a D: drive, and using that for all of my downloads and SVN working copies. But even when I tried to uninstall some of the default applications (e.g. the C++ 2008 runtime, which I have no use for), I found that it didn't keep the drive from filling up. So I decided it was time to take a snapshot of the current state of my machine and see what I could do to grow that volume.

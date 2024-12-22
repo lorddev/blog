@@ -19,7 +19,6 @@ tags:
     - celtic
     - fiddle
     - spotify
-    - 'the pogues'
 format: standard
 ---
 

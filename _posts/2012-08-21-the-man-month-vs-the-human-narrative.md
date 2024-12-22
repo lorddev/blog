@@ -17,7 +17,6 @@ categories:
     - Work
 tags:
     - freelancing
-    - turnover
     - 'web development'
 ---
 
