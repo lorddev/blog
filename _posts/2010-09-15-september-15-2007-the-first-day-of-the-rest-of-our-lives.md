@@ -4,7 +4,7 @@ title: 'September 15, 2007, the first day of the rest of our lives'
 date: '2010-09-15T17:40:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/09/15/september-15-2007-the-first-day-of-the-rest-of-our-lives/'
+"guid: 'https://blog.devlord.io/2010/09/15/september-15-2007-the-first-day-of-the-rest-of-our-lives/'
 permalink: /2010/09/15/september-15-2007-the-first-day-of-the-rest-of-our-lives/
 activitypub_status:
     - federated

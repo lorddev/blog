@@ -4,7 +4,7 @@ title: 'A piece of bluegrbutt history&#8230;'
 date: '2008-10-21T16:59:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/10/21/a-piece-of-bluegrbutt-history/'
+"guid: 'https://blog.devlord.io/2008/10/21/a-piece-of-bluegrbutt-history/'
 permalink: /2008/10/21/a-piece-of-bluegrbutt-history/
 activitypub_status:
     - federate

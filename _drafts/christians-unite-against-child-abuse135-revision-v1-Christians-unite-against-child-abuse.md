@@ -3,7 +3,7 @@ id: 2695
 title: 'Christians unite against child abuse'
 date: '2024-03-13T17:20:13-07:00'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2695'
+"guid: 'https://blog.devlord.io/?p=2695'
 permalink: '/?p=2695'
 ---
 

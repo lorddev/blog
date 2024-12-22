@@ -4,7 +4,7 @@ title: 'CT and the Christian Sabbath'
 date: '2024-03-10T19:03:37-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2429'
+"guid: 'https://blog.devlord.io/?p=2429'
 permalink: '/?p=2429'
 footnotes:
     - ''

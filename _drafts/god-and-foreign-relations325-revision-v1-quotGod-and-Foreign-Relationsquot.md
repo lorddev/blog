@@ -3,7 +3,7 @@ id: 2634
 title: '&quot;God and Foreign Relations&quot;'
 date: '2024-03-13T11:57:58-07:00'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2634'
+"guid: 'https://blog.devlord.io/?p=2634'
 permalink: '/?p=2634'
 ---
 

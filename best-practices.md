@@ -4,7 +4,7 @@ title: 'Best Practices'
 date: '2012-09-07T08:00:41-07:00'
 author: 'Aaron Lord'
 layout: page
-guid: 'https://www.devlord.io/blog/best-practices/'
+"guid: 'https://blog.devlord.io/best-practices/'
 ast-site-content-layout:
     - default
 theme-transparent-header-meta:

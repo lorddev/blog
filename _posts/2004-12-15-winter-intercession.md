@@ -4,7 +4,7 @@ title: 'Winter Intercession'
 date: '2004-12-15T22:24:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2004/12/15/winter-intercession/'
+"guid: 'https://blog.devlord.io/2004/12/15/winter-intercession/'
 permalink: /2004/12/15/winter-intercession/
 activitypub_status:
     - federated

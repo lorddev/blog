@@ -4,7 +4,7 @@ title: 'It&#8217;s not just our company&#8230;'
 date: '2008-07-18T06:07:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/07/18/its-not-just-our-company/'
+"guid: 'https://blog.devlord.io/2008/07/18/its-not-just-our-company/'
 permalink: /2008/07/18/its-not-just-our-company/
 activitypub_status:
     - federated

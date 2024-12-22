@@ -4,7 +4,7 @@ title: 'Speaking of Ebenezer&#8230;'
 date: '2008-09-17T06:25:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/09/17/speaking-of-ebenezer/'
+"guid: 'https://blog.devlord.io/2008/09/17/speaking-of-ebenezer/'
 permalink: /2008/09/17/speaking-of-ebenezer/
 activitypub_status:
     - federated

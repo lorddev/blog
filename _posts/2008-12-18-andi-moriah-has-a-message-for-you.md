@@ -4,7 +4,7 @@ title: 'Andi, Moriah has a message for you!'
 date: '2008-12-18T04:43:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/12/18/andi-moriah-has-a-message-for-you/'
+"guid: 'https://blog.devlord.io/2008/12/18/andi-moriah-has-a-message-for-you/'
 permalink: /2008/12/18/andi-moriah-has-a-message-for-you/
 activitypub_status:
     - federated

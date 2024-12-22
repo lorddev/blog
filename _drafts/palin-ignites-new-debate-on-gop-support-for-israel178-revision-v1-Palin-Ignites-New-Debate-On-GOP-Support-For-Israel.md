@@ -4,7 +4,7 @@ title: 'Palin Ignites New Debate On GOP Support For Israel'
 date: '2009-12-07T01:02:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2409'
+"guid: 'https://blog.devlord.io/?p=2409'
 permalink: '/?p=2409'
 ---
 

@@ -4,7 +4,7 @@ title: 'Go, live your dream/Your dream stinks'
 date: '2012-07-28T19:49:38-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/07/28/go-live-your-dreamyour-dream-stinks/'
+"guid: 'https://blog.devlord.io/2012/07/28/go-live-your-dreamyour-dream-stinks/'
 permalink: /2012/07/28/go-live-your-dreamyour-dream-stinks/
 activitypub_status:
     - federated

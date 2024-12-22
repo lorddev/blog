@@ -4,7 +4,7 @@ title: 'I Have Issues With&#8230;'
 date: '2012-02-28T21:22:08-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/02/28/i-have-issues-with/'
+"guid: 'https://blog.devlord.io/2012/02/28/i-have-issues-with/'
 permalink: /2012/02/28/i-have-issues-with/
 activitypub_status:
     - federated

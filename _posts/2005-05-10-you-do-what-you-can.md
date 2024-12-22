@@ -4,7 +4,7 @@ title: 'You do what you can&#8230;'
 date: '2005-05-10T15:06:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2005/05/10/you-do-what-you-can/'
+"guid: 'https://blog.devlord.io/2005/05/10/you-do-what-you-can/'
 permalink: /2005/05/10/you-do-what-you-can/
 activitypub_status:
     - federated

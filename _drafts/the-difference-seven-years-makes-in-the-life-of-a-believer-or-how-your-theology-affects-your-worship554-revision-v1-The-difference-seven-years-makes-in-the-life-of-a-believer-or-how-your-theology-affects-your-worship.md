@@ -4,7 +4,7 @@ title: 'The difference seven years makes in the life of a believer, or how your 
 date: '2024-03-19T11:34:53-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2778'
+"guid: 'https://blog.devlord.io/?p=2778'
 permalink: '/?p=2778'
 ---
 

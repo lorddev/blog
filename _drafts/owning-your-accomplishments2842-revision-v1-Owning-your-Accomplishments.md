@@ -4,7 +4,7 @@ title: 'Owning your Accomplishments'
 date: '2024-10-12T22:28:24-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2970'
+"guid: 'https://blog.devlord.io/?p=2970'
 permalink: '/?p=2970'
 footnotes:
     - ''

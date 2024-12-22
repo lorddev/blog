@@ -4,7 +4,7 @@ title: 'The Two Kingdoms and the Death of Bin Laden'
 date: '2024-03-10T19:14:41-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2304'
+"guid: 'https://blog.devlord.io/?p=2304'
 permalink: '/?p=2304'
 ---
 

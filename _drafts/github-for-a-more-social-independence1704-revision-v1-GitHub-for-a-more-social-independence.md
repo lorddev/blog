@@ -4,7 +4,7 @@ title: 'GitHub: for a more social independence'
 date: '2024-03-19T11:29:11-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2769'
+"guid: 'https://blog.devlord.io/?p=2769'
 permalink: '/?p=2769'
 ---
 

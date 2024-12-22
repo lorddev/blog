@@ -4,7 +4,7 @@ title: 'The telecommuter&#8217;s whiteboard'
 date: '2012-11-02T21:51:08-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/11/02/the-telecommuting-whiteboard/'
+"guid: 'https://blog.devlord.io/2012/11/02/the-telecommuting-whiteboard/'
 permalink: /2012/11/02/the-telecommuting-whiteboard/
 activitypub_status:
     - federated

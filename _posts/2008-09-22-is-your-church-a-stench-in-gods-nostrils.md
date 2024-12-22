@@ -4,7 +4,7 @@ title: 'Is your church a stench in God&#8217;s nostrils?'
 date: '2008-09-22T17:52:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/09/22/is-your-church-a-stench-in-gods-nostrils/'
+"guid: 'https://blog.devlord.io/2008/09/22/is-your-church-a-stench-in-gods-nostrils/'
 permalink: /2008/09/22/is-your-church-a-stench-in-gods-nostrils/
 activitypub_status:
     - federated

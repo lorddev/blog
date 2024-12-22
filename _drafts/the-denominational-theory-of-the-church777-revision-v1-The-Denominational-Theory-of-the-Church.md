@@ -4,7 +4,7 @@ title: 'The Denominational Theory of the Church'
 date: '2005-03-17T11:22:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2514'
+"guid: 'https://blog.devlord.io/?p=2514'
 permalink: '/?p=2514'
 ---
 

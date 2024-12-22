@@ -4,7 +4,7 @@ title: 'Septembeard.org raising money for Cancer Research'
 date: '2024-03-13T17:26:26-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2699'
+"guid: 'https://blog.devlord.io/?p=2699'
 permalink: '/?p=2699'
 footnotes:
     - ''

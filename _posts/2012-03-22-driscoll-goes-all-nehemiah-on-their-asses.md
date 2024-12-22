@@ -4,7 +4,7 @@ title: 'Driscoll goes all Nehemiah on their asses'
 date: '2012-03-22T19:38:40-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/03/22/driscoll-goes-all-nehemiah-on-their-asses/'
+"guid: 'https://blog.devlord.io/2012/03/22/driscoll-goes-all-nehemiah-on-their-asses/'
 permalink: /2012/03/22/driscoll-goes-all-nehemiah-on-their-asses/
 activitypub_status:
     - federated

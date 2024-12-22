@@ -4,7 +4,7 @@ title: 'Man, this sucks&#8230;'
 date: '2005-07-27T22:53:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2005/07/27/man-this-sucks/'
+"guid: 'https://blog.devlord.io/2005/07/27/man-this-sucks/'
 permalink: /2005/07/27/man-this-sucks/
 activitypub_status:
     - federate

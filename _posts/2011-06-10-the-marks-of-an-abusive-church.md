@@ -4,7 +4,7 @@ title: 'The Marks of an Abusive Church'
 date: '2011-06-10T06:37:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2011/06/10/the-marks-of-an-abusive-church/'
+"guid: 'https://blog.devlord.io/2011/06/10/the-marks-of-an-abusive-church/'
 permalink: /2011/06/10/the-marks-of-an-abusive-church/
 activitypub_status:
     - federated

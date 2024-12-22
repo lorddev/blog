@@ -4,7 +4,7 @@ title: '&quot;My kingdom is not of this world&#8230;&quot;'
 date: '2009-10-18T04:38:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/10/18/my-kingdom-is-not-of-this-world/'
+"guid: 'https://blog.devlord.io/2009/10/18/my-kingdom-is-not-of-this-world/'
 permalink: /2009/10/18/my-kingdom-is-not-of-this-world/
 activitypub_status:
     - federated

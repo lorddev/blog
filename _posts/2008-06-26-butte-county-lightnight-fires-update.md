@@ -4,7 +4,7 @@ title: 'Butte County Lightning Fires Update'
 date: '2008-06-26T21:05:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/06/26/butte-county-lightnight-fires-update/'
+"guid: 'https://blog.devlord.io/2008/06/26/butte-county-lightnight-fires-update/'
 permalink: /2008/06/26/butte-county-lightnight-fires-update/
 activitypub_status:
     - federated

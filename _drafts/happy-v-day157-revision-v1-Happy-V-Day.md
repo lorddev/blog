@@ -4,7 +4,7 @@ title: 'Happy V Day'
 date: '2010-02-12T23:34:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2395'
+"guid: 'https://blog.devlord.io/?p=2395'
 permalink: '/?p=2395'
 ---
 

@@ -3,7 +3,7 @@ id: 2823
 title: 'You do what you can&#8230;'
 date: '2024-03-24T10:41:09-07:00'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2823'
+"guid: 'https://blog.devlord.io/?p=2823'
 permalink: '/?p=2823'
 ---
 

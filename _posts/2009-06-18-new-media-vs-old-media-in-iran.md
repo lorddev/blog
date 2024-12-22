@@ -4,7 +4,7 @@ title: 'New Media vs. Old Media in Iran'
 date: '2009-06-18T18:39:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/06/18/new-media-vs-old-media-in-iran/'
+"guid: 'https://blog.devlord.io/2009/06/18/new-media-vs-old-media-in-iran/'
 permalink: /2009/06/18/new-media-vs-old-media-in-iran/
 activitypub_status:
     - federate

@@ -4,7 +4,7 @@ title: 'Church Discipline Run Amok'
 date: '2008-12-09T21:43:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/12/09/church-discipline-run-amok/'
+"guid: 'https://blog.devlord.io/2008/12/09/church-discipline-run-amok/'
 permalink: /2008/12/09/church-discipline-run-amok/
 activitypub_status:
     - federated

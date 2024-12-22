@@ -4,7 +4,7 @@ title: 'Thabiti says it&#8217;s Pastor Appreciation Month!'
 date: '2008-10-14T06:29:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2465'
+"guid: 'https://blog.devlord.io/?p=2465'
 permalink: '/?p=2465'
 ---
 

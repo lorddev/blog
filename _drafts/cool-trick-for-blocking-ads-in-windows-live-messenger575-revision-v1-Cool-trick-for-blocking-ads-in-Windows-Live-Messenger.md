@@ -4,7 +4,7 @@ title: 'Cool trick for blocking ads in Windows Live Messenger'
 date: '2008-08-08T19:18:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2485'
+"guid: 'https://blog.devlord.io/?p=2485'
 permalink: '/?p=2485'
 ---
 

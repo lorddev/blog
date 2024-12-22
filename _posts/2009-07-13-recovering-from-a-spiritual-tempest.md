@@ -4,7 +4,7 @@ title: 'Recovering from a &quot;Spiritual Tempest&quot;'
 date: '2009-07-13T17:02:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/07/13/recovering-from-a-spiritual-tempest/'
+"guid: 'https://blog.devlord.io/2009/07/13/recovering-from-a-spiritual-tempest/'
 permalink: /2009/07/13/recovering-from-a-spiritual-tempest/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Corporal Punishment and the Two Kingdoms'
 date: '2010-02-08T08:56:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2396'
+"guid: 'https://blog.devlord.io/?p=2396'
 permalink: '/?p=2396'
 ---
 

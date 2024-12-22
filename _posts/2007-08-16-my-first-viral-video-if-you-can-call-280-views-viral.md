@@ -4,7 +4,7 @@ title: 'My first viral video (if you can call 280 views viral&#8230;)'
 date: '2007-08-16T22:14:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2007/08/16/my-first-viral-video-if-you-can-call-280-views-viral/'
+"guid: 'https://blog.devlord.io/2007/08/16/my-first-viral-video-if-you-can-call-280-views-viral/'
 permalink: /2007/08/16/my-first-viral-video-if-you-can-call-280-views-viral/
 activitypub_status:
     - federated

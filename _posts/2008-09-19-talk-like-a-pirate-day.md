@@ -4,7 +4,7 @@ title: 'Talk Like a Pirate Day!'
 date: '2008-09-19T18:54:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/09/19/talk-like-a-pirate-day/'
+"guid: 'https://blog.devlord.io/2008/09/19/talk-like-a-pirate-day/'
 permalink: /2008/09/19/talk-like-a-pirate-day/
 activitypub_status:
     - federated

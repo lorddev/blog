@@ -4,7 +4,7 @@ title: 'John &amp;amp; Jen Brookman'
 date: '2005-03-17T10:59:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2005/03/17/john-amp-jen-brookman/'
+"guid: 'https://blog.devlord.io/2005/03/17/john-amp-jen-brookman/'
 permalink: /2005/03/17/john-amp-jen-brookman/
 activitypub_status:
     - federate

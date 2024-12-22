@@ -4,7 +4,7 @@ title: 'The End for Which God Created the World'
 date: '2008-07-31T16:46:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/07/31/the-end-for-which-god-created-the-world/'
+"guid: 'https://blog.devlord.io/2008/07/31/the-end-for-which-god-created-the-world/'
 permalink: /2008/07/31/the-end-for-which-god-created-the-world/
 activitypub_status:
     - federate

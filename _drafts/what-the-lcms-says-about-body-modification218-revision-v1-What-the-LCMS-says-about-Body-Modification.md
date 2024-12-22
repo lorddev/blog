@@ -4,7 +4,7 @@ title: 'What the LCMS says about Body Modification'
 date: '2009-09-15T05:46:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2909'
+"guid: 'https://blog.devlord.io/?p=2909'
 permalink: '/?p=2909'
 ---
 

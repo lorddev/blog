@@ -4,7 +4,7 @@ title: 'Huh?'
 date: '2009-08-19T02:37:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2415'
+"guid: 'https://blog.devlord.io/?p=2415'
 permalink: '/?p=2415'
 ---
 

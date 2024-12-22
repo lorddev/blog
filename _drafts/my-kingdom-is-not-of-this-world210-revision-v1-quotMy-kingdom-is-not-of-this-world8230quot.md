@@ -3,7 +3,7 @@ id: 2696
 title: '&quot;My kingdom is not of this world&#8230;&quot;'
 date: '2024-03-13T17:23:53-07:00'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2696'
+"guid: 'https://blog.devlord.io/?p=2696'
 permalink: '/?p=2696'
 ---
 

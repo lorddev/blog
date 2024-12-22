@@ -4,7 +4,7 @@ title: 'Sometimes You Can&#8217;t Make it on Your Own'
 date: '2004-11-24T20:00:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2004/11/24/sometimes-you-cant-make-it-on-your-own/'
+"guid: 'https://blog.devlord.io/2004/11/24/sometimes-you-cant-make-it-on-your-own/'
 permalink: /2004/11/24/sometimes-you-cant-make-it-on-your-own/
 activitypub_status:
     - federated

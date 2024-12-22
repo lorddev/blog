@@ -4,7 +4,7 @@ title: 'Clichés are so cliché&#8230;'
 date: '2007-07-25T14:33:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2007/07/25/cliches-are-so-cliche/'
+"guid: 'https://blog.devlord.io/2007/07/25/cliches-are-so-cliche/'
 permalink: /2007/07/25/cliches-are-so-cliche/
 activitypub_status:
     - federated

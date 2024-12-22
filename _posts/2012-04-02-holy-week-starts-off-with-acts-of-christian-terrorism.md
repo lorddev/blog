@@ -4,7 +4,7 @@ title: 'Holy Week starts off with acts of Christian terrorism'
 date: '2012-04-02T13:26:28-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/04/02/holy-week-starts-off-with-acts-of-christian-terrorism/'
+"guid: 'https://blog.devlord.io/2012/04/02/holy-week-starts-off-with-acts-of-christian-terrorism/'
 permalink: /2012/04/02/holy-week-starts-off-with-acts-of-christian-terrorism/
 activitypub_status:
     - federated

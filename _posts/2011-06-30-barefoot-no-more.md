@@ -4,7 +4,7 @@ title: 'Barefoot no more'
 date: '2011-06-30T22:43:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2011/06/30/barefoot-no-more/'
+"guid: 'https://blog.devlord.io/2011/06/30/barefoot-no-more/'
 permalink: /2011/06/30/barefoot-no-more/
 activitypub_status:
     - federated

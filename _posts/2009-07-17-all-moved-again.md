@@ -4,7 +4,7 @@ title: 'All moved! (again)'
 date: '2009-07-17T23:04:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/07/17/all-moved-again/'
+"guid: 'https://blog.devlord.io/2009/07/17/all-moved-again/'
 permalink: /2009/07/17/all-moved-again/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Kill Your IE!'
 date: '2004-12-04T15:53:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2531'
+"guid: 'https://blog.devlord.io/?p=2531'
 permalink: '/?p=2531'
 ---
 

@@ -4,7 +4,7 @@ title: 'Music for fun vs. music for religion'
 date: '2024-03-23T10:29:21-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2810'
+"guid: 'https://blog.devlord.io/?p=2810'
 permalink: '/?p=2810'
 footnotes:
     - ''

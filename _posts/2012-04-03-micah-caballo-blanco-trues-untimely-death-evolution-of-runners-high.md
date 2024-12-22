@@ -4,7 +4,7 @@ title: 'Micah &#8220;Caballo Blanco&#8221; True&#8217;s Untimely Death; Evolutio
 date: '2012-04-03T16:47:03-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/04/03/micah-caballo-blanco-trues-untimely-death-evolution-of-runners-high/'
+"guid: 'https://blog.devlord.io/2012/04/03/micah-caballo-blanco-trues-untimely-death-evolution-of-runners-high/'
 permalink: /2012/04/03/micah-caballo-blanco-trues-untimely-death-evolution-of-runners-high/
 activitypub_status:
     - federated

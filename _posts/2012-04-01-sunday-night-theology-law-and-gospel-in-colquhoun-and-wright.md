@@ -4,7 +4,7 @@ title: 'Sunday Night Theology: Law and Gospel in Colquhoun and Wright'
 date: '2012-04-01T22:11:26-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/04/01/sunday-night-theology-law-and-gospel-in-colquhoun-and-wright/'
+"guid: 'https://blog.devlord.io/2012/04/01/sunday-night-theology-law-and-gospel-in-colquhoun-and-wright/'
 permalink: /2012/04/01/sunday-night-theology-law-and-gospel-in-colquhoun-and-wright/
 activitypub_status:
     - federated

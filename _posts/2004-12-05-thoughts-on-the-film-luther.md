@@ -4,7 +4,7 @@ title: 'Thoughts on the Film /Luther/'
 date: '2004-12-05T15:30:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2004/12/05/thoughts-on-the-film-luther/'
+"guid: 'https://blog.devlord.io/2004/12/05/thoughts-on-the-film-luther/'
 permalink: /2004/12/05/thoughts-on-the-film-luther/
 activitypub_status:
     - federate

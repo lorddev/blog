@@ -4,7 +4,7 @@ title: 'Church Discipline Run Amok'
 date: '2008-12-09T21:43:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2476'
+"guid: 'https://blog.devlord.io/?p=2476'
 permalink: '/?p=2476'
 ---
 

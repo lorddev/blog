@@ -4,7 +4,7 @@ title: 'Butte county parents plead guilty'
 date: '2024-03-10T19:05:18-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2291'
+"guid: 'https://blog.devlord.io/?p=2291'
 permalink: '/?p=2291'
 footnotes:
     - ''

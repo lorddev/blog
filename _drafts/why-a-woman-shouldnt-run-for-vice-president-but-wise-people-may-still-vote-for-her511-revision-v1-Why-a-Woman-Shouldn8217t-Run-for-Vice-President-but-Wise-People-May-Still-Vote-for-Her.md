@@ -4,7 +4,7 @@ title: 'Why a Woman Shouldn&#8217;t Run for Vice President, but Wise People May 
 date: '2008-11-05T08:17:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2461'
+"guid: 'https://blog.devlord.io/?p=2461'
 permalink: '/?p=2461'
 ---
 

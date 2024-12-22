@@ -4,7 +4,7 @@ title: 'mustfollow.blog moved to blog.lorddev.com'
 date: '2024-03-10T11:46:59-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2254'
+"guid: 'https://blog.devlord.io/?p=2254'
 permalink: '/?p=2254'
 footnotes:
     - ''

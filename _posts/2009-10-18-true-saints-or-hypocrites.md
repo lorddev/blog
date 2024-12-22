@@ -4,7 +4,7 @@ title: 'True Saints or Hypocrites?'
 date: '2009-10-18T17:57:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/10/18/true-saints-or-hypocrites/'
+"guid: 'https://blog.devlord.io/2009/10/18/true-saints-or-hypocrites/'
 permalink: /2009/10/18/true-saints-or-hypocrites/
 activitypub_status:
     - federated

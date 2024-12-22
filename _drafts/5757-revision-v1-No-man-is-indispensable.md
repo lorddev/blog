@@ -4,7 +4,7 @@ title: 'No man is indispensable'
 date: '2024-03-17T10:52:02-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2736'
+"guid: 'https://blog.devlord.io/?p=2736'
 permalink: '/?p=2736'
 footnotes:
     - ''

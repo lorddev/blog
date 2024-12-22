@@ -4,7 +4,7 @@ title: 'Elders in every church&#8230;'
 date: '2009-05-28T04:45:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/05/28/elders-in-every-church/'
+"guid: 'https://blog.devlord.io/2009/05/28/elders-in-every-church/'
 permalink: /2009/05/28/elders-in-every-church/
 activitypub_status:
     - federated

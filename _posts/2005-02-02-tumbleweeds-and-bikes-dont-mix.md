@@ -4,7 +4,7 @@ title: 'Tumbleweeds and bikes don&#8217;t mix&#8230;'
 date: '2005-02-02T11:58:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2005/02/02/tumbleweeds-and-bikes-dont-mix/'
+"guid: 'https://blog.devlord.io/2005/02/02/tumbleweeds-and-bikes-dont-mix/'
 permalink: /2005/02/02/tumbleweeds-and-bikes-dont-mix/
 activitypub_status:
     - federated

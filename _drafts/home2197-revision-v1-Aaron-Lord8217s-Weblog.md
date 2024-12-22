@@ -4,7 +4,7 @@ title: 'Aaron Lord&#8217;s Weblog'
 date: '2024-10-07T17:48:11-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2935'
+"guid: 'https://blog.devlord.io/?p=2935'
 permalink: '/?p=2935'
 ---
 

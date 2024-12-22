@@ -4,7 +4,7 @@ title: 'Why I&#8217;m considering a VW GTI'
 date: '2024-03-10T12:36:49-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2267'
+"guid: 'https://blog.devlord.io/?p=2267'
 permalink: '/?p=2267'
 footnotes:
     - ''

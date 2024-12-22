@@ -4,7 +4,7 @@ title: 'I have become a theistic evolutionist'
 date: '2012-03-19T09:58:57-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/03/19/i-have-become-a-theistic-evolutionist/'
+"guid: 'https://blog.devlord.io/2012/03/19/i-have-become-a-theistic-evolutionist/'
 permalink: /2012/03/19/i-have-become-a-theistic-evolutionist/
 activitypub_status:
     - federated

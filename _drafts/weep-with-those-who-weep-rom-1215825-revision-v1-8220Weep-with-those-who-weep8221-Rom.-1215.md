@@ -3,7 +3,7 @@ id: 2834
 title: '&#8220;Weep with those who weep&#8221; (Rom. 12:15)'
 date: '2024-03-24T10:49:53-07:00'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2834'
+"guid: 'https://blog.devlord.io/?p=2834'
 permalink: '/?p=2834'
 ---
 

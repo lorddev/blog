@@ -4,7 +4,7 @@ title: 'The Current Sub-Saharan Famine'
 date: '2024-03-10T11:49:18-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2255'
+"guid: 'https://blog.devlord.io/?p=2255'
 permalink: '/?p=2255'
 ---
 

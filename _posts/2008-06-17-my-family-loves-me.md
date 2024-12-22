@@ -4,7 +4,7 @@ title: 'My family loves me!'
 date: '2008-06-17T20:27:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/06/17/my-family-loves-me/'
+"guid: 'https://blog.devlord.io/2008/06/17/my-family-loves-me/'
 permalink: /2008/06/17/my-family-loves-me/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'About me'
 date: '2024-10-07T18:08:29-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2941'
+"guid: 'https://blog.devlord.io/?p=2941'
 permalink: '/?p=2941'
 footnotes:
     - ''

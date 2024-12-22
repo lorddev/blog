@@ -4,7 +4,7 @@ title: 'Summer of &#8217;13 playlist'
 date: '2024-03-24T17:07:04-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2835'
+"guid: 'https://blog.devlord.io/?p=2835'
 permalink: '/?p=2835'
 footnotes:
     - ''

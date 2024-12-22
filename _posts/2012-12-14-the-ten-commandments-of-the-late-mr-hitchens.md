@@ -4,7 +4,7 @@ title: 'The Ten Commandments of the Late Mr. Hitchens'
 date: '2012-12-14T15:28:57-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/12/14/the-ten-commandments-of-the-late-mr-hitchens/'
+"guid: 'https://blog.devlord.io/2012/12/14/the-ten-commandments-of-the-late-mr-hitchens/'
 permalink: /2012/12/14/the-ten-commandments-of-the-late-mr-hitchens/
 activitypub_status:
     - federated

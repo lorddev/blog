@@ -4,7 +4,7 @@ title: 'Local DA provides more details to the big city reporters'
 date: '2010-02-19T04:48:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2401'
+"guid: 'https://blog.devlord.io/?p=2401'
 permalink: '/?p=2401'
 footnotes:
     - ''

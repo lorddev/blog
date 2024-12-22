@@ -4,7 +4,7 @@ title: 'Thanksgiving Prayer'
 date: '2011-11-25T00:35:03-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2011/11/25/thanksgiving-prayer/'
+"guid: 'https://blog.devlord.io/2011/11/25/thanksgiving-prayer/'
 permalink: /2011/11/25/thanksgiving-prayer/
 activitypub_status:
     - federated

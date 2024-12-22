@@ -4,7 +4,7 @@ title: 'Wisdom Teeth, or My Mouth Hurts Really Bad'
 date: '2006-07-14T06:54:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2504'
+"guid: 'https://blog.devlord.io/?p=2504'
 permalink: '/?p=2504'
 ---
 

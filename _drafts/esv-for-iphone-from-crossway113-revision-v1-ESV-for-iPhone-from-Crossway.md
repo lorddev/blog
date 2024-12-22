@@ -4,7 +4,7 @@ title: 'ESV for iPhone from Crossway'
 date: '2010-03-18T21:31:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2387'
+"guid: 'https://blog.devlord.io/?p=2387'
 permalink: '/?p=2387'
 ---
 

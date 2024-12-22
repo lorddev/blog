@@ -4,7 +4,7 @@ title: 'My new zippy commuter!'
 date: '2010-04-09T00:34:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2906'
+"guid: 'https://blog.devlord.io/?p=2906'
 permalink: '/?p=2906'
 ---
 

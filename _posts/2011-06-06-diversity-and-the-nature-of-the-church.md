@@ -4,7 +4,7 @@ title: 'Diversity and the Nature of the Church'
 date: '2011-06-06T22:02:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2011/06/06/diversity-and-the-nature-of-the-church/'
+"guid: 'https://blog.devlord.io/2011/06/06/diversity-and-the-nature-of-the-church/'
 permalink: /2011/06/06/diversity-and-the-nature-of-the-church/
 activitypub_status:
     - federated

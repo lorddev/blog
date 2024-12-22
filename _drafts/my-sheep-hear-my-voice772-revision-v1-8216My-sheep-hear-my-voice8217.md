@@ -4,7 +4,7 @@ title: '&#8216;My sheep hear my voice&#8217;'
 date: '2005-04-12T09:34:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2513'
+"guid: 'https://blog.devlord.io/?p=2513'
 permalink: '/?p=2513'
 ---
 

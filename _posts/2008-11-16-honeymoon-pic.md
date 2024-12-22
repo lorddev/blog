@@ -4,7 +4,7 @@ title: 'Honeymoon pic'
 date: '2008-11-16T08:24:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/11/16/honeymoon-pic/'
+"guid: 'https://blog.devlord.io/2008/11/16/honeymoon-pic/'
 permalink: /2008/11/16/honeymoon-pic/
 activitypub_status:
     - federated

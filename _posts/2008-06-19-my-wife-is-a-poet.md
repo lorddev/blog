@@ -4,7 +4,7 @@ title: 'My wife is a poet'
 date: '2008-06-19T04:26:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/06/19/my-wife-is-a-poet/'
+"guid: 'https://blog.devlord.io/2008/06/19/my-wife-is-a-poet/'
 permalink: /2008/06/19/my-wife-is-a-poet/
 activitypub_status:
     - federated

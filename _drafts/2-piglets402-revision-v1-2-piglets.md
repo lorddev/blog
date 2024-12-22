@@ -4,7 +4,7 @@ title: '2 piglets'
 date: '2009-04-02T19:36:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2442'
+"guid: 'https://blog.devlord.io/?p=2442'
 permalink: '/?p=2442'
 ---
 

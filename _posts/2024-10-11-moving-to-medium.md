@@ -4,7 +4,7 @@ title: 'Moving to Medium'
 date: '2024-10-11T13:29:10-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/?p=2950'
+"guid: 'https://blog.devlord.io/?p=2950'
 permalink: /2024/10/11/moving-to-medium/
 ast-site-content-layout:
     - default

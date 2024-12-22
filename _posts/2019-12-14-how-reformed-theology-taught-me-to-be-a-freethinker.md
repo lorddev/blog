@@ -4,7 +4,7 @@ title: 'How Reformed Theology taught me to be a Freethinker'
 date: '2019-12-14T12:04:55-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2019/12/14/how-reformed-theology-taught-me-to-be-a-freethinker/'
+"guid: 'https://blog.devlord.io/2019/12/14/how-reformed-theology-taught-me-to-be-a-freethinker/'
 permalink: /2019/12/14/how-reformed-theology-taught-me-to-be-a-freethinker/
 activitypub_status:
     - federated

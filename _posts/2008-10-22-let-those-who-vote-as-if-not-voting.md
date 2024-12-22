@@ -4,7 +4,7 @@ title: '&quot;Let those who vote, as if not voting&#8230;&quot;'
 date: '2008-10-22T20:17:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/10/22/let-those-who-vote-as-if-not-voting/'
+"guid: 'https://blog.devlord.io/2008/10/22/let-those-who-vote-as-if-not-voting/'
 permalink: /2008/10/22/let-those-who-vote-as-if-not-voting/
 activitypub_status:
     - federate

@@ -4,7 +4,7 @@ title: 'Bonus Baseball in San Francisco'
 date: '2006-07-23T22:11:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2502'
+"guid: 'https://blog.devlord.io/?p=2502'
 permalink: '/?p=2502'
 ---
 

@@ -4,7 +4,7 @@ title: 'Happy Firefox Download Day!'
 date: '2008-06-17T18:22:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2617'
+"guid: 'https://blog.devlord.io/?p=2617'
 permalink: '/?p=2617'
 ---
 

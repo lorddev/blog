@@ -4,7 +4,7 @@ title: 'Top 5 Gadgets that could get you arrested&#8230;'
 date: '2008-08-30T00:19:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/08/30/top-5-gadgets-that-could-get-you-arrested/'
+"guid: 'https://blog.devlord.io/2008/08/30/top-5-gadgets-that-could-get-you-arrested/'
 permalink: /2008/08/30/top-5-gadgets-that-could-get-you-arrested/
 activitypub_status:
     - federated

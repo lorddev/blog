@@ -4,7 +4,7 @@ title: 'Big news and stuff&#8230;'
 date: '2007-10-16T00:35:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2007/10/16/big-news-and-stuff/'
+"guid: 'https://blog.devlord.io/2007/10/16/big-news-and-stuff/'
 permalink: /2007/10/16/big-news-and-stuff/
 activitypub_status:
     - federated

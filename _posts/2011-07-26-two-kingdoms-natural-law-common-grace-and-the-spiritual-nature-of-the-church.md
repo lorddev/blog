@@ -4,7 +4,7 @@ title: 'Two Kingdoms: Natural Law, Common Grace and the Spiritual Nature of the 
 date: '2011-07-26T05:21:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2011/07/26/two-kingdoms-natural-law-common-grace-and-the-spiritual-nature-of-the-church/'
+"guid: 'https://blog.devlord.io/2011/07/26/two-kingdoms-natural-law-common-grace-and-the-spiritual-nature-of-the-church/'
 permalink: /2011/07/26/two-kingdoms-natural-law-common-grace-and-the-spiritual-nature-of-the-church/
 activitypub_status:
     - federated

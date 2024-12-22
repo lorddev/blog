@@ -4,7 +4,7 @@ title: 'Cloud-based Visual Studio 6.0 IDE with IE 8'
 date: '2012-11-02T10:59:22-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/11/02/cloud-based-visual-studio-6-0-ide-with-ie-8/'
+"guid: 'https://blog.devlord.io/2012/11/02/cloud-based-visual-studio-6-0-ide-with-ie-8/'
 permalink: /2012/11/02/cloud-based-visual-studio-6-0-ide-with-ie-8/
 activitypub_status:
     - federated

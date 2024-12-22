@@ -4,7 +4,7 @@ title: 'Kinvaras Were Meant to Have Thin Insoles'
 date: '2011-12-26T12:27:33-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2011/12/26/kinvaras-were-meant-to-have-thin-insoles/'
+"guid: 'https://blog.devlord.io/2011/12/26/kinvaras-were-meant-to-have-thin-insoles/'
 permalink: /2011/12/26/kinvaras-were-meant-to-have-thin-insoles/
 activitypub_status:
     - federated

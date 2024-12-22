@@ -4,7 +4,7 @@ title: 'Cause of death'
 date: '2010-03-17T06:10:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/03/17/cause-of-death/'
+"guid: 'https://blog.devlord.io/2010/03/17/cause-of-death/'
 permalink: /2010/03/17/cause-of-death/
 activitypub_status:
     - federated

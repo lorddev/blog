@@ -4,7 +4,7 @@ title: 'Shakespeare as a Christian Writer'
 date: '2009-06-25T03:16:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2430'
+"guid: 'https://blog.devlord.io/?p=2430'
 permalink: '/?p=2430'
 ---
 

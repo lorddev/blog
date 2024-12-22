@@ -4,7 +4,7 @@ title: 'Challies: &quot;Every Word of God&quot;'
 date: '2008-07-07T15:47:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/07/07/challies-every-word-of-god/'
+"guid: 'https://blog.devlord.io/2008/07/07/challies-every-word-of-god/'
 permalink: /2008/07/07/challies-every-word-of-god/
 activitypub_status:
     - federated

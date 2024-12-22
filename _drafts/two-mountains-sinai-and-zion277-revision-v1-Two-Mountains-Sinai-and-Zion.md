@@ -3,7 +3,7 @@ id: 2636
 title: 'Two Mountains: Sinai and Zion'
 date: '2024-03-13T11:57:58-07:00'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2636'
+"guid: 'https://blog.devlord.io/?p=2636'
 permalink: '/?p=2636'
 ---
 

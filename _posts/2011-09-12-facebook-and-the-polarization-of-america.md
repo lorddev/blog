@@ -4,7 +4,7 @@ title: 'Facebook and the Polarization of America'
 date: '2011-09-12T02:39:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2011/09/12/facebook-and-the-polarization-of-america/'
+"guid: 'https://blog.devlord.io/2011/09/12/facebook-and-the-polarization-of-america/'
 permalink: /2011/09/12/facebook-and-the-polarization-of-america/
 activitypub_status:
     - federated

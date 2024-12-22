@@ -4,7 +4,7 @@ title: 'Public transit #fail'
 date: '2024-03-10T19:19:10-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2313'
+"guid: 'https://blog.devlord.io/?p=2313'
 permalink: '/?p=2313'
 ---
 

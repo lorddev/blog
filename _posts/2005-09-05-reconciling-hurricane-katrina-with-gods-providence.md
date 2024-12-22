@@ -4,7 +4,7 @@ title: 'Reconciling Hurricane Katrina with God&#8217;s Providence'
 date: '2005-09-05T23:16:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2005/09/05/reconciling-hurricane-katrina-with-gods-providence/'
+"guid: 'https://blog.devlord.io/2005/09/05/reconciling-hurricane-katrina-with-gods-providence/'
 permalink: /2005/09/05/reconciling-hurricane-katrina-with-gods-providence/
 activitypub_status:
     - federated

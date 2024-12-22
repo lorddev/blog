@@ -4,7 +4,7 @@ title: 'Baxter on Monergistic Soteriology'
 date: '2008-11-14T07:01:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/11/14/baxter-on-monergistic-soteriology/'
+"guid: 'https://blog.devlord.io/2008/11/14/baxter-on-monergistic-soteriology/'
 permalink: /2008/11/14/baxter-on-monergistic-soteriology/
 activitypub_status:
     - federated

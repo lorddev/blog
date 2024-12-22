@@ -4,7 +4,7 @@ title: 'Don&#8217;t waste your life playing Guitar Hero when you could be learni
 date: '2009-02-05T02:35:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/02/05/dont-waste-your-life-playing-guitar-hero-when-you-could-be-learning-guitar-for-real/'
+"guid: 'https://blog.devlord.io/2009/02/05/dont-waste-your-life-playing-guitar-hero-when-you-could-be-learning-guitar-for-real/'
 permalink: /2009/02/05/dont-waste-your-life-playing-guitar-hero-when-you-could-be-learning-guitar-for-real/
 activitypub_status:
     - federated

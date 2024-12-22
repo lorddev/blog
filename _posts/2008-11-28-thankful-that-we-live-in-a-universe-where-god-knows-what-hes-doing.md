@@ -4,7 +4,7 @@ title: 'Thankful that we live in a universe where God knows what he&#8217;s doin
 date: '2008-11-28T06:09:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/11/28/thankful-that-we-live-in-a-universe-where-god-knows-what-hes-doing/'
+"guid: 'https://blog.devlord.io/2008/11/28/thankful-that-we-live-in-a-universe-where-god-knows-what-hes-doing/'
 permalink: /2008/11/28/thankful-that-we-live-in-a-universe-where-god-knows-what-hes-doing/
 activitypub_status:
     - federated

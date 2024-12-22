@@ -4,7 +4,7 @@ title: 'Words for the Wind'
 date: '2009-06-04T18:47:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/06/04/words-for-the-wind/'
+"guid: 'https://blog.devlord.io/2009/06/04/words-for-the-wind/'
 permalink: /2009/06/04/words-for-the-wind/
 activitypub_status:
     - federated

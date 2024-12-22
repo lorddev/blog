@@ -4,7 +4,7 @@ title: 'Feed Readers: Why I&#8217;m Switching'
 date: '2008-07-11T15:25:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/07/11/feed-readers-why-im-switching/'
+"guid: 'https://blog.devlord.io/2008/07/11/feed-readers-why-im-switching/'
 permalink: /2008/07/11/feed-readers-why-im-switching/
 activitypub_status:
     - federated

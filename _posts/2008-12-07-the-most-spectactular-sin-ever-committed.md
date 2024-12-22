@@ -4,7 +4,7 @@ title: 'The most spectactular sin ever committed'
 date: '2008-12-07T03:17:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/12/07/the-most-spectactular-sin-ever-committed/'
+"guid: 'https://blog.devlord.io/2008/12/07/the-most-spectactular-sin-ever-committed/'
 permalink: /2008/12/07/the-most-spectactular-sin-ever-committed/
 activitypub_status:
     - federated

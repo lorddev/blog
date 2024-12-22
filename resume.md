@@ -4,7 +4,7 @@ title: 'Résumé / CV &#8211; Aaron Lord'
 date: '2012-07-10T22:24:37-07:00'
 author: 'Aaron Lord'
 layout: page
-guid: 'https://www.devlord.io/blog/resume/'
+"guid: 'https://blog.devlord.io/resume/'
 ast-site-content-layout:
     - default
 theme-transparent-header-meta:

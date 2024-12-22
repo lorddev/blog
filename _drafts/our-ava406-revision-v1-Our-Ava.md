@@ -4,7 +4,7 @@ title: 'Our Ava'
 date: '2009-03-31T04:55:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2921'
+"guid: 'https://blog.devlord.io/?p=2921'
 permalink: '/?p=2921'
 ---
 

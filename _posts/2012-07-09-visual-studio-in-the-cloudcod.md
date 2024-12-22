@@ -4,7 +4,7 @@ title: 'Visual Studio in the Cloud'
 date: '2012-07-09T19:51:22-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/07/09/visual-studio-in-the-cloudcod/'
+"guid: 'https://blog.devlord.io/2012/07/09/visual-studio-in-the-cloudcod/'
 permalink: /2012/07/09/visual-studio-in-the-cloudcod/
 activitypub_status:
     - federated

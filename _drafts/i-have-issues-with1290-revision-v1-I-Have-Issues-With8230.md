@@ -4,7 +4,7 @@ title: 'I Have Issues With&#8230;'
 date: '2024-03-13T16:22:50-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2845'
+"guid: 'https://blog.devlord.io/?p=2845'
 permalink: '/?p=2845'
 footnotes:
     - ''

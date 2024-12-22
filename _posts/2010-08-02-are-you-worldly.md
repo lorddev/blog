@@ -4,7 +4,7 @@ title: 'Are you worldly?'
 date: '2010-08-02T23:29:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/08/02/are-you-worldly/'
+"guid: 'https://blog.devlord.io/2010/08/02/are-you-worldly/'
 permalink: /2010/08/02/are-you-worldly/
 activitypub_status:
     - federated

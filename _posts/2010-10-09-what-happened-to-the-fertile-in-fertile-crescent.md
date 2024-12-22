@@ -4,7 +4,7 @@ title: 'What Happened to the Fertile in Fertile Crescent?'
 date: '2010-10-09T20:52:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/10/09/what-happened-to-the-fertile-in-fertile-crescent/'
+"guid: 'https://blog.devlord.io/2010/10/09/what-happened-to-the-fertile-in-fertile-crescent/'
 permalink: /2010/10/09/what-happened-to-the-fertile-in-fertile-crescent/
 activitypub_status:
     - federated

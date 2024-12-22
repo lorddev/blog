@@ -4,7 +4,7 @@ title: 'John Piper on the Prosperity Gospel'
 date: '2008-09-05T03:17:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/09/05/john-piper-on-the-prosperity-gospel/'
+"guid: 'https://blog.devlord.io/2008/09/05/john-piper-on-the-prosperity-gospel/'
 permalink: /2008/09/05/john-piper-on-the-prosperity-gospel/
 activitypub_status:
     - federated

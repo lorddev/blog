@@ -4,7 +4,7 @@ title: 'The Solidarity of Humanity'
 date: '2009-05-26T00:17:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/05/26/the-solidarity-of-humanity/'
+"guid: 'https://blog.devlord.io/2009/05/26/the-solidarity-of-humanity/'
 permalink: /2009/05/26/the-solidarity-of-humanity/
 activitypub_status:
     - federated

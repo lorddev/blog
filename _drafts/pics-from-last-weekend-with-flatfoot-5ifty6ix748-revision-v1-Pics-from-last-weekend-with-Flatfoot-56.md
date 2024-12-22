@@ -4,7 +4,7 @@ title: 'Pics from last weekend with Flatfoot 56'
 date: '2024-03-11T18:41:37-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2507'
+"guid: 'https://blog.devlord.io/?p=2507'
 permalink: '/?p=2507'
 footnotes:
     - ''

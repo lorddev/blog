@@ -4,7 +4,7 @@ title: 'Do not destroy the work of God'
 date: '2009-05-11T20:02:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/05/11/do-not-destroy-the-work-of-god/'
+"guid: 'https://blog.devlord.io/2009/05/11/do-not-destroy-the-work-of-god/'
 permalink: /2009/05/11/do-not-destroy-the-work-of-god/
 activitypub_status:
     - federated

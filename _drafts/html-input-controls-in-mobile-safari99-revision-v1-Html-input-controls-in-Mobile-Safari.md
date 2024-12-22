@@ -4,7 +4,7 @@ title: 'Html input controls in Mobile Safari'
 date: '2010-04-12T19:21:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2382'
+"guid: 'https://blog.devlord.io/?p=2382'
 permalink: '/?p=2382'
 ---
 

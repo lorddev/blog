@@ -4,7 +4,7 @@ title: 'Educational technology'
 date: '2008-10-19T23:55:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/10/19/educational-technology/'
+"guid: 'https://blog.devlord.io/2008/10/19/educational-technology/'
 permalink: /2008/10/19/educational-technology/
 activitypub_status:
     - federated

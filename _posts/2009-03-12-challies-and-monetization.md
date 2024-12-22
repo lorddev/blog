@@ -4,7 +4,7 @@ title: 'Challies and Monetization'
 date: '2009-03-12T06:36:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/03/12/challies-and-monetization/'
+"guid: 'https://blog.devlord.io/2009/03/12/challies-and-monetization/'
 permalink: /2009/03/12/challies-and-monetization/
 activitypub_status:
     - federated

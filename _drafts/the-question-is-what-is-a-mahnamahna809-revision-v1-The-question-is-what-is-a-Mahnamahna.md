@@ -4,7 +4,7 @@ title: 'The question is, what is a Mahnamahna?'
 date: '2005-01-31T21:45:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2518'
+"guid: 'https://blog.devlord.io/?p=2518'
 permalink: '/?p=2518'
 ---
 

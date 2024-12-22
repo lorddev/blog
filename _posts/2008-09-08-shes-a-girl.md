@@ -4,7 +4,7 @@ title: 'She&#8217;s a girl!'
 date: '2008-09-08T18:15:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/09/08/shes-a-girl/'
+"guid: 'https://blog.devlord.io/2008/09/08/shes-a-girl/'
 permalink: /2008/09/08/shes-a-girl/
 activitypub_status:
     - federated

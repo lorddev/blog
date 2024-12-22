@@ -4,7 +4,7 @@ title: 'Some still recognize a need for irrelevance&#8230;'
 date: '2004-12-11T00:26:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2004/12/11/some-still-recognize-a-need-for-irrelevance/'
+"guid: 'https://blog.devlord.io/2004/12/11/some-still-recognize-a-need-for-irrelevance/'
 permalink: /2004/12/11/some-still-recognize-a-need-for-irrelevance/
 activitypub_status:
     - federated

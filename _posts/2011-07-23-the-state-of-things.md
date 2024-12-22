@@ -4,7 +4,7 @@ title: 'The state of things'
 date: '2011-07-23T03:53:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2011/07/23/the-state-of-things/'
+"guid: 'https://blog.devlord.io/2011/07/23/the-state-of-things/'
 permalink: /2011/07/23/the-state-of-things/
 activitypub_status:
     - federated

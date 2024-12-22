@@ -4,7 +4,7 @@ title: 'Plan A: Glory and Grace (audio)'
 date: '2024-03-13T17:40:45-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2712'
+"guid: 'https://blog.devlord.io/?p=2712'
 permalink: '/?p=2712'
 footnotes:
     - ''

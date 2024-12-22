@@ -4,7 +4,7 @@ title: 'eBuddy for iPhone'
 date: '2009-07-10T23:37:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/07/10/ebuddy-for-iphone/'
+"guid: 'https://blog.devlord.io/2009/07/10/ebuddy-for-iphone/'
 permalink: /2009/07/10/ebuddy-for-iphone/
 activitypub_status:
     - federated

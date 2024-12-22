@@ -4,7 +4,7 @@ title: 'Charles A. Briggs on Bibliolatry'
 date: '2012-03-17T21:17:57-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/03/17/charles-a-briggs-on-bibliolatry/'
+"guid: 'https://blog.devlord.io/2012/03/17/charles-a-briggs-on-bibliolatry/'
 permalink: /2012/03/17/charles-a-briggs-on-bibliolatry/
 activitypub_status:
     - federated

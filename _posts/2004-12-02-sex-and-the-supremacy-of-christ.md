@@ -4,7 +4,7 @@ title: 'Sex and the Supremacy of Christ'
 date: '2004-12-02T00:17:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2004/12/02/sex-and-the-supremacy-of-christ/'
+"guid: 'https://blog.devlord.io/2004/12/02/sex-and-the-supremacy-of-christ/'
 permalink: /2004/12/02/sex-and-the-supremacy-of-christ/
 activitypub_status:
     - federated

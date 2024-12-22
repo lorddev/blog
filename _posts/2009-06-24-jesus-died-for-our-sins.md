@@ -4,7 +4,7 @@ title: 'Jesus died for our sins'
 date: '2009-06-24T06:27:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/06/24/jesus-died-for-our-sins/'
+"guid: 'https://blog.devlord.io/2009/06/24/jesus-died-for-our-sins/'
 permalink: /2009/06/24/jesus-died-for-our-sins/
 activitypub_status:
     - federated

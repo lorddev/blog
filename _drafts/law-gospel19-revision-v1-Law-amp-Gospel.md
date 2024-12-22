@@ -4,7 +4,7 @@ title: 'Law &amp; Gospel'
 date: '2024-03-10T18:58:22-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2286'
+"guid: 'https://blog.devlord.io/?p=2286'
 permalink: '/?p=2286'
 ---
 

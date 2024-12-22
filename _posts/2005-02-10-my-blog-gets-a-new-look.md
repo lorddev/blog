@@ -4,7 +4,7 @@ title: 'My blog gets a new look'
 date: '2005-02-10T13:00:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2005/02/10/my-blog-gets-a-new-look/'
+"guid: 'https://blog.devlord.io/2005/02/10/my-blog-gets-a-new-look/'
 permalink: /2005/02/10/my-blog-gets-a-new-look/
 activitypub_status:
     - federated

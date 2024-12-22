@@ -4,7 +4,7 @@ title: 'Unity Amid Differences'
 date: '2009-04-18T20:37:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2919'
+"guid: 'https://blog.devlord.io/?p=2919'
 permalink: '/?p=2919'
 ---
 

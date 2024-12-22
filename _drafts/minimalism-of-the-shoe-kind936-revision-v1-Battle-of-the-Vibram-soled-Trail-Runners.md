@@ -3,7 +3,7 @@ id: 2817
 title: 'Battle of the Vibram-soled Trail Runners'
 date: '2024-03-24T10:24:07-07:00'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2817'
+"guid: 'https://blog.devlord.io/?p=2817'
 permalink: '/?p=2817'
 ---
 

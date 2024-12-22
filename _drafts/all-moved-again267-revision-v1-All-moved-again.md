@@ -4,7 +4,7 @@ title: 'All moved! (again)'
 date: '2009-07-17T23:04:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2424'
+"guid: 'https://blog.devlord.io/?p=2424'
 permalink: '/?p=2424'
 ---
 

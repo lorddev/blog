@@ -4,7 +4,7 @@ title: 'The New Calvinism is making a global impact'
 date: '2009-03-12T19:58:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/03/12/the-new-calvinism-is-making-a-global-impact/'
+"guid: 'https://blog.devlord.io/2009/03/12/the-new-calvinism-is-making-a-global-impact/'
 permalink: /2009/03/12/the-new-calvinism-is-making-a-global-impact/
 activitypub_status:
     - federated

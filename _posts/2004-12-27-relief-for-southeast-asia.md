@@ -4,7 +4,7 @@ title: 'Relief for Southeast Asia'
 date: '2004-12-27T00:14:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2004/12/27/relief-for-southeast-asia/'
+"guid: 'https://blog.devlord.io/2004/12/27/relief-for-southeast-asia/'
 permalink: /2004/12/27/relief-for-southeast-asia/
 activitypub_status:
     - federated

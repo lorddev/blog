@@ -4,7 +4,7 @@ title: 'How Reformed Theology taught me to be a Freethinker'
 date: '2024-03-30T10:20:04-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2858'
+"guid: 'https://blog.devlord.io/?p=2858'
 permalink: '/?p=2858'
 ---
 

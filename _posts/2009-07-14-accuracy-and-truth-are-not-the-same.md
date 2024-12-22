@@ -4,7 +4,7 @@ title: 'Accuracy and Truth Are Not the Same'
 date: '2009-07-14T17:02:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/07/14/accuracy-and-truth-are-not-the-same/'
+"guid: 'https://blog.devlord.io/2009/07/14/accuracy-and-truth-are-not-the-same/'
 permalink: /2009/07/14/accuracy-and-truth-are-not-the-same/
 activitypub_status:
     - federated

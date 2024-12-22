@@ -4,7 +4,7 @@ title: 'Two Kingdoms: Natural Law, Common Grace and the Spiritual Nature of the 
 date: '2024-03-10T17:44:57-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2280'
+"guid: 'https://blog.devlord.io/?p=2280'
 permalink: '/?p=2280'
 ---
 

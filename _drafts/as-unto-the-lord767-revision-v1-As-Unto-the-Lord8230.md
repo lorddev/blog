@@ -4,7 +4,7 @@ title: 'As Unto the Lord&#8230;'
 date: '2005-04-25T17:36:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2512'
+"guid: 'https://blog.devlord.io/?p=2512'
 permalink: '/?p=2512'
 ---
 

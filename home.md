@@ -4,7 +4,7 @@ title: 'Aaron Lord&#8217;s Weblog'
 date: '2020-05-12T03:43:03-07:00'
 author: 'Aaron Lord'
 layout: page
-guid: 'https://www.devlord.io/blog/home/'
+"guid: 'https://blog.devlord.io/home/'
 site-post-title:
     - disabled
 site-sidebar-layout:

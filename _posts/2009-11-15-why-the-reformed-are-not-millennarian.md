@@ -4,7 +4,7 @@ title: 'Why the Reformed are not Millennarian'
 date: '2009-11-15T22:21:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/11/15/why-the-reformed-are-not-millennarian/'
+"guid: 'https://blog.devlord.io/2009/11/15/why-the-reformed-are-not-millennarian/'
 permalink: /2009/11/15/why-the-reformed-are-not-millennarian/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Modding a Dell'
 date: '2005-01-30T23:13:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2005/01/30/modding-a-dell/'
+"guid: 'https://blog.devlord.io/2005/01/30/modding-a-dell/'
 permalink: /2005/01/30/modding-a-dell/
 activitypub_status:
     - federated

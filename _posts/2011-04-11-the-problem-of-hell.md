@@ -4,7 +4,7 @@ title: 'The Problem of Hell'
 date: '2011-04-11T05:38:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2011/04/11/the-problem-of-hell/'
+"guid: 'https://blog.devlord.io/2011/04/11/the-problem-of-hell/'
 permalink: /2011/04/11/the-problem-of-hell/
 activitypub_status:
     - federated

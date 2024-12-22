@@ -4,7 +4,7 @@ title: 'The Lord&#8217;s Day in The Valley of Vision'
 date: '2024-03-19T11:32:44-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2912'
+"guid: 'https://blog.devlord.io/?p=2912'
 permalink: '/?p=2912'
 ---
 

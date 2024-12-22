@@ -4,7 +4,7 @@ title: 'Open-source coding standards wiki'
 date: '2012-09-06T15:54:18-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/09/06/open-source-coding-standards-wiki/'
+"guid: 'https://blog.devlord.io/2012/09/06/open-source-coding-standards-wiki/'
 permalink: /2012/09/06/open-source-coding-standards-wiki/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Pete Enns on the Dark Night of the Soul'
 date: '2010-09-23T21:15:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/09/23/pete-enns-on-the-dark-night-of-the-soul/'
+"guid: 'https://blog.devlord.io/2010/09/23/pete-enns-on-the-dark-night-of-the-soul/'
 permalink: /2010/09/23/pete-enns-on-the-dark-night-of-the-soul/
 activitypub_status:
     - federated

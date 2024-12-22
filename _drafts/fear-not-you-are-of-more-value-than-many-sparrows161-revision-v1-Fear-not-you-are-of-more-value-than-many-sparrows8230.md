@@ -4,7 +4,7 @@ title: 'Fear not; you are of more value than many sparrows&#8230;'
 date: '2024-03-12T12:47:35-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2559'
+"guid: 'https://blog.devlord.io/?p=2559'
 permalink: '/?p=2559'
 footnotes:
     - ''

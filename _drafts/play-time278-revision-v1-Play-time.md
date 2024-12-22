@@ -4,7 +4,7 @@ title: 'Play time'
 date: '2009-07-11T18:31:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2576'
+"guid: 'https://blog.devlord.io/?p=2576'
 permalink: '/?p=2576'
 ---
 

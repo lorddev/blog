@@ -4,7 +4,7 @@ title: 'Podcast setup, Old-skool'
 date: '2008-07-28T01:43:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/07/28/podcast-setup-old-skool/'
+"guid: 'https://blog.devlord.io/2008/07/28/podcast-setup-old-skool/'
 permalink: /2008/07/28/podcast-setup-old-skool/
 activitypub_status:
     - federated

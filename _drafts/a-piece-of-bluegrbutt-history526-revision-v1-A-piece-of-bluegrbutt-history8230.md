@@ -4,7 +4,7 @@ title: 'A piece of bluegrbutt history&#8230;'
 date: '2008-10-21T16:59:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2464'
+"guid: 'https://blog.devlord.io/?p=2464'
 permalink: '/?p=2464'
 ---
 

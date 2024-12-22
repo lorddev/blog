@@ -4,7 +4,7 @@ title: 'My great web hosts&#8230;'
 date: '2004-12-02T13:45:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2532'
+"guid: 'https://blog.devlord.io/?p=2532'
 permalink: '/?p=2532'
 ---
 

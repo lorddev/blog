@@ -4,7 +4,7 @@ title: 'Podcasts on the iPhone'
 date: '2008-11-21T07:43:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/11/21/podcasts-on-the-iphone/'
+"guid: 'https://blog.devlord.io/2008/11/21/podcasts-on-the-iphone/'
 permalink: /2008/11/21/podcasts-on-the-iphone/
 activitypub_status:
     - federated

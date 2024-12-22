@@ -4,7 +4,7 @@ title: 'iPhone 3G vs. Wi-Fi comparison'
 date: '2008-07-29T05:20:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/07/29/iphone-3g-vs-wi-fi-comparison/'
+"guid: 'https://blog.devlord.io/2008/07/29/iphone-3g-vs-wi-fi-comparison/'
 permalink: /2008/07/29/iphone-3g-vs-wi-fi-comparison/
 activitypub_status:
     - federated

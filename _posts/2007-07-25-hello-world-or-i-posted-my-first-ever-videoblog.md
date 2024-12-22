@@ -4,7 +4,7 @@ title: 'Hello, World (or, I posted my first ever videoblog)'
 date: '2007-07-25T23:24:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2007/07/25/hello-world-or-i-posted-my-first-ever-videoblog/'
+"guid: 'https://blog.devlord.io/2007/07/25/hello-world-or-i-posted-my-first-ever-videoblog/'
 permalink: /2007/07/25/hello-world-or-i-posted-my-first-ever-videoblog/
 activitypub_status:
     - federated

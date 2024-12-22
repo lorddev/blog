@@ -4,7 +4,7 @@ title: 'Calendar Synchronization'
 date: '2008-10-02T18:28:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/10/02/calendar-synchronization/'
+"guid: 'https://blog.devlord.io/2008/10/02/calendar-synchronization/'
 permalink: /2008/10/02/calendar-synchronization/
 activitypub_status:
     - federated

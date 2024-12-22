@@ -4,7 +4,7 @@ title: 'The Initiative Against Despair'
 date: '2005-02-18T08:41:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2516'
+"guid: 'https://blog.devlord.io/?p=2516'
 permalink: '/?p=2516'
 ---
 

@@ -4,7 +4,7 @@ title: 'Our Future Hope!'
 date: '2004-12-31T00:14:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2523'
+"guid: 'https://blog.devlord.io/?p=2523'
 permalink: '/?p=2523'
 ---
 

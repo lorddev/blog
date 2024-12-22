@@ -4,7 +4,7 @@ title: 'Clark on Two-Level Subscription'
 date: '2010-02-20T05:44:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2391'
+"guid: 'https://blog.devlord.io/?p=2391'
 permalink: '/?p=2391'
 ---
 

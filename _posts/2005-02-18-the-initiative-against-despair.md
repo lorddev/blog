@@ -4,7 +4,7 @@ title: 'The Initiative Against Despair'
 date: '2005-02-18T08:41:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2005/02/18/the-initiative-against-despair/'
+"guid: 'https://blog.devlord.io/2005/02/18/the-initiative-against-despair/'
 permalink: /2005/02/18/the-initiative-against-despair/
 activitypub_status:
     - federated

@@ -3,7 +3,7 @@ id: 2824
 title: 'Why I won&#8217;t be going to the Shepherd&#8217;s Conference anytime soon, part 1: Phil Johnson'
 date: '2024-03-24T10:41:49-07:00'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2824'
+"guid: 'https://blog.devlord.io/?p=2824'
 permalink: '/?p=2824'
 ---
 

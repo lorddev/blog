@@ -4,7 +4,7 @@ title: 'Beautiful weather'
 date: '2009-12-07T05:50:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2910'
+"guid: 'https://blog.devlord.io/?p=2910'
 permalink: '/?p=2910'
 ---
 

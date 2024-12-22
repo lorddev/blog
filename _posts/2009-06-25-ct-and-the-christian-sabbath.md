@@ -4,7 +4,7 @@ title: 'CT and the Christian Sabbath'
 date: '2009-06-25T06:02:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/06/25/ct-and-the-christian-sabbath/'
+"guid: 'https://blog.devlord.io/2009/06/25/ct-and-the-christian-sabbath/'
 permalink: /2009/06/25/ct-and-the-christian-sabbath/
 activitypub_status:
     - federated

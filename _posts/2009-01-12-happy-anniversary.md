@@ -4,7 +4,7 @@ title: 'Happy Anniversary!'
 date: '2009-01-12T23:07:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/01/12/happy-anniversary/'
+"guid: 'https://blog.devlord.io/2009/01/12/happy-anniversary/'
 permalink: /2009/01/12/happy-anniversary/
 activitypub_status:
     - federated

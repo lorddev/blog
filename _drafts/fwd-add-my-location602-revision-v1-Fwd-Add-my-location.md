@@ -4,7 +4,7 @@ title: 'Fwd: Add my location'
 date: '2008-07-18T18:23:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2487'
+"guid: 'https://blog.devlord.io/?p=2487'
 permalink: '/?p=2487'
 ---
 

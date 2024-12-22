@@ -4,7 +4,7 @@ title: 'Today&#8217;s playlist'
 date: '2013-07-17T09:42:14-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2013/07/17/todays-playlist/'
+"guid: 'https://blog.devlord.io/2013/07/17/todays-playlist/'
 permalink: /2013/07/17/todays-playlist/
 activitypub_status:
     - federated

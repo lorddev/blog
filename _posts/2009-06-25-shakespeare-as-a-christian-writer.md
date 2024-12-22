@@ -4,7 +4,7 @@ title: 'Shakespeare as a Christian Writer'
 date: '2009-06-25T03:16:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/06/25/shakespeare-as-a-christian-writer/'
+"guid: 'https://blog.devlord.io/2009/06/25/shakespeare-as-a-christian-writer/'
 permalink: /2009/06/25/shakespeare-as-a-christian-writer/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'The trouble with Scottish Presbyterians'
 date: '2005-01-11T20:05:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2005/01/11/the-trouble-with-scottish-presbyterians/'
+"guid: 'https://blog.devlord.io/2005/01/11/the-trouble-with-scottish-presbyterians/'
 permalink: /2005/01/11/the-trouble-with-scottish-presbyterians/
 activitypub_status:
     - federated

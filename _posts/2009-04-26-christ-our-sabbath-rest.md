@@ -4,7 +4,7 @@ title: 'Christ Our Sabbath Rest'
 date: '2009-04-26T22:52:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/04/26/christ-our-sabbath-rest/'
+"guid: 'https://blog.devlord.io/2009/04/26/christ-our-sabbath-rest/'
 permalink: /2009/04/26/christ-our-sabbath-rest/
 activitypub_status:
     - federate

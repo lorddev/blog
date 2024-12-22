@@ -4,7 +4,7 @@ title: 'Foundations of Grace'
 date: '2008-06-12T05:18:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/06/12/foundations-of-grace/'
+"guid: 'https://blog.devlord.io/2008/06/12/foundations-of-grace/'
 permalink: /2008/06/12/foundations-of-grace/
 activitypub_status:
     - federated

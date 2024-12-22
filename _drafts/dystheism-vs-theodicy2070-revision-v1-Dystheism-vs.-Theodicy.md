@@ -4,7 +4,7 @@ title: 'Dystheism vs. Theodicy'
 date: '2024-03-20T18:55:46-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2800'
+"guid: 'https://blog.devlord.io/?p=2800'
 permalink: '/?p=2800'
 footnotes:
     - ''

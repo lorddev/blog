@@ -4,7 +4,7 @@ title: 'The Wolf and the Lamb'
 date: '2009-05-20T19:13:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2945'
+"guid: 'https://blog.devlord.io/?p=2945'
 permalink: '/?p=2945'
 ---
 

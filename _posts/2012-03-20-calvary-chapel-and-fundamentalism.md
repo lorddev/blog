@@ -4,7 +4,7 @@ title: 'Calvary Chapel and Fundamentalism'
 date: '2012-03-20T07:00:35-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/03/20/calvary-chapel-and-fundamentalism/'
+"guid: 'https://blog.devlord.io/2012/03/20/calvary-chapel-and-fundamentalism/'
 permalink: /2012/03/20/calvary-chapel-and-fundamentalism/
 activitypub_status:
     - federated

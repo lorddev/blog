@@ -4,7 +4,7 @@ title: 'Dual citizenship is not antithetical'
 date: '2010-02-21T00:42:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/02/21/dual-citizenship-is-not-antithetical/'
+"guid: 'https://blog.devlord.io/2010/02/21/dual-citizenship-is-not-antithetical/'
 permalink: /2010/02/21/dual-citizenship-is-not-antithetical/
 activitypub_status:
     - federate

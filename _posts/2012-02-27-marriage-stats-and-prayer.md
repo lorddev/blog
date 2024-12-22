@@ -4,7 +4,7 @@ title: 'Marriage stats and prayer'
 date: '2012-02-27T22:42:14-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/02/27/marriage-stats-and-prayer/'
+"guid: 'https://blog.devlord.io/2012/02/27/marriage-stats-and-prayer/'
 permalink: /2012/02/27/marriage-stats-and-prayer/
 activitypub_status:
     - federated

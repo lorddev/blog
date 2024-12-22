@@ -3,7 +3,7 @@ id: 2821
 title: 'Google finally produces Blogger iOS app'
 date: '2024-03-24T10:37:01-07:00'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2821'
+"guid: 'https://blog.devlord.io/?p=2821'
 permalink: '/?p=2821'
 ---
 

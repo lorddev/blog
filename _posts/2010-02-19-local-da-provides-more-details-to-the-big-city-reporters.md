@@ -4,7 +4,7 @@ title: 'Local DA provides more details to the big city reporters'
 date: '2010-02-19T04:48:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/02/19/local-da-provides-more-details-to-the-big-city-reporters/'
+"guid: 'https://blog.devlord.io/2010/02/19/local-da-provides-more-details-to-the-big-city-reporters/'
 permalink: /2010/02/19/local-da-provides-more-details-to-the-big-city-reporters/
 activitypub_status:
     - federated

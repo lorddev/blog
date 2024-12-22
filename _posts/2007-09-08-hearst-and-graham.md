@@ -4,7 +4,7 @@ title: 'Hearst and Graham&#8230;'
 date: '2007-09-08T12:42:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2007/09/08/hearst-and-graham/'
+"guid: 'https://blog.devlord.io/2007/09/08/hearst-and-graham/'
 permalink: /2007/09/08/hearst-and-graham/
 activitypub_status:
     - federate

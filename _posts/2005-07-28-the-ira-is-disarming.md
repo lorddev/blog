@@ -4,7 +4,7 @@ title: 'The IRA is Disarming'
 date: '2005-07-28T10:56:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2005/07/28/the-ira-is-disarming/'
+"guid: 'https://blog.devlord.io/2005/07/28/the-ira-is-disarming/'
 permalink: /2005/07/28/the-ira-is-disarming/
 activitypub_status:
     - federated

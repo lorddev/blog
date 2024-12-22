@@ -4,7 +4,7 @@ title: 'First Love&#8230;'
 date: '2008-08-21T21:04:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/08/21/first-love/'
+"guid: 'https://blog.devlord.io/2008/08/21/first-love/'
 permalink: /2008/08/21/first-love/
 activitypub_status:
     - federate

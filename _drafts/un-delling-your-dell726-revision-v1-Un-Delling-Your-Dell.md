@@ -4,7 +4,7 @@ title: 'Un-Delling Your Dell'
 date: '2006-07-14T15:37:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2503'
+"guid: 'https://blog.devlord.io/?p=2503'
 permalink: '/?p=2503'
 ---
 

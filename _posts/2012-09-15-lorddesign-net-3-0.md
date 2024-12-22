@@ -4,7 +4,7 @@ title: 'Lorddesign.net 3.0'
 date: '2012-09-15T20:19:23-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/09/15/lorddesign-net-3-0/'
+"guid: 'https://blog.devlord.io/2012/09/15/lorddesign-net-3-0/'
 permalink: /2012/09/15/lorddesign-net-3-0/
 activitypub_status:
     - federated

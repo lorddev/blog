@@ -4,7 +4,7 @@ title: 'Humboldt Fire Video'
 date: '2008-06-13T03:01:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/?p=659'
+"guid: 'https://blog.devlord.io/?p=659'
 permalink: '/?p=659'
 blogger_blog:
     - mustfollow.blogspot.com

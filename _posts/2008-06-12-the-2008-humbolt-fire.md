@@ -4,7 +4,7 @@ title: 'The 2008 Humbolt Fire'
 date: '2008-06-12T21:49:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/06/12/the-2008-humbolt-fire/'
+"guid: 'https://blog.devlord.io/2008/06/12/the-2008-humbolt-fire/'
 permalink: /2008/06/12/the-2008-humbolt-fire/
 activitypub_status:
     - federated

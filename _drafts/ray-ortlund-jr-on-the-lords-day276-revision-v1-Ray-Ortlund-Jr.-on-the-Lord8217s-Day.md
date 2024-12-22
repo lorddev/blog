@@ -4,7 +4,7 @@ title: 'Ray Ortlund, Jr. on the Lord&#8217;s Day'
 date: '2009-07-13T00:52:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2469'
+"guid: 'https://blog.devlord.io/?p=2469'
 permalink: '/?p=2469'
 ---
 

@@ -4,7 +4,7 @@ title: 'A Chronology of Deconstruction'
 date: '2019-12-07T13:23:49-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2019/12/07/a-chronology-of-deconstruction/'
+"guid: 'https://blog.devlord.io/2019/12/07/a-chronology-of-deconstruction/'
 permalink: /2019/12/07/a-chronology-of-deconstruction/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Earthquake Forecasting'
 date: '2010-01-20T22:54:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/01/20/earthquake-forecasting/'
+"guid: 'https://blog.devlord.io/2010/01/20/earthquake-forecasting/'
 permalink: /2010/01/20/earthquake-forecasting/
 activitypub_status:
     - federated

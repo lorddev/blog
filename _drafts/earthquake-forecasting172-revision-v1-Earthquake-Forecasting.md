@@ -4,7 +4,7 @@ title: 'Earthquake Forecasting'
 date: '2024-03-20T15:44:03-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2797'
+"guid: 'https://blog.devlord.io/?p=2797'
 permalink: '/?p=2797'
 ---
 

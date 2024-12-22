@@ -4,7 +4,7 @@ title: 'Greengrass, Volume 8 (a Spotify playlist)'
 date: '2024-03-13T17:03:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2678'
+"guid: 'https://blog.devlord.io/?p=2678'
 permalink: '/?p=2678'
 footnotes:
     - ''

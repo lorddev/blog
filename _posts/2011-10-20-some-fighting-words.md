@@ -4,7 +4,7 @@ title: 'Some fighting words'
 date: '2011-10-20T22:19:40-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2011/10/20/some-fighting-words/'
+"guid: 'https://blog.devlord.io/2011/10/20/some-fighting-words/'
 permalink: /2011/10/20/some-fighting-words/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Links for Church Reform'
 date: '2010-03-08T16:00:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/03/08/links-for-church-reform/'
+"guid: 'https://blog.devlord.io/2010/03/08/links-for-church-reform/'
 permalink: /2010/03/08/links-for-church-reform/
 activitypub_status:
     - federated

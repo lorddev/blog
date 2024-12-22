@@ -4,7 +4,7 @@ title: 'Septembeard.org raising money for Cancer Research'
 date: '2011-09-15T19:21:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2011/09/15/septembeard-org-raising-money-for-cancer-research/'
+"guid: 'https://blog.devlord.io/2011/09/15/septembeard-org-raising-money-for-cancer-research/'
 permalink: '/?p=1926'
 activitypub_status:
     - federated

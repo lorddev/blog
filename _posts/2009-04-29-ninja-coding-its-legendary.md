@@ -4,7 +4,7 @@ title: 'Ninja coding: it&#8217;s legendary'
 date: '2009-04-29T03:59:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/04/29/ninja-coding-its-legendary/'
+"guid: 'https://blog.devlord.io/2009/04/29/ninja-coding-its-legendary/'
 permalink: /2009/04/29/ninja-coding-its-legendary/
 activitypub_status:
     - federated

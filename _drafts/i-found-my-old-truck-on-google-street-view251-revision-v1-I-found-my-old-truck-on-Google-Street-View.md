@@ -4,7 +4,7 @@ title: 'I found my old truck on Google Street View!'
 date: '2024-03-19T11:50:44-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2789'
+"guid: 'https://blog.devlord.io/?p=2789'
 permalink: '/?p=2789'
 footnotes:
     - ''

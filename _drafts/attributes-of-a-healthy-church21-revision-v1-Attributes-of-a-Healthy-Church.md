@@ -4,7 +4,7 @@ title: 'Attributes of a Healthy Church'
 date: '2024-03-10T19:08:05-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2294'
+"guid: 'https://blog.devlord.io/?p=2294'
 permalink: '/?p=2294'
 ---
 

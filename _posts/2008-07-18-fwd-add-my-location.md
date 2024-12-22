@@ -4,7 +4,7 @@ title: 'Fwd: Add my location'
 date: '2008-07-18T18:23:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/07/18/fwd-add-my-location/'
+"guid: 'https://blog.devlord.io/2008/07/18/fwd-add-my-location/'
 permalink: /2008/07/18/fwd-add-my-location/
 activitypub_status:
     - federated

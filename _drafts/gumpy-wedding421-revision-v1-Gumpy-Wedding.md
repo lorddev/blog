@@ -4,7 +4,7 @@ title: 'Gumpy Wedding'
 date: '2009-03-01T06:23:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2445'
+"guid: 'https://blog.devlord.io/?p=2445'
 permalink: '/?p=2445'
 ---
 

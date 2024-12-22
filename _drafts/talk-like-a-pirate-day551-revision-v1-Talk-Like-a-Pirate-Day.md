@@ -4,7 +4,7 @@ title: 'Talk Like a Pirate Day!'
 date: '2008-09-19T18:54:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2479'
+"guid: 'https://blog.devlord.io/?p=2479'
 permalink: '/?p=2479'
 ---
 

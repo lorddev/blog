@@ -5,7 +5,7 @@ date: '2024-10-05T09:57:32-07:00'
 author: 'Aaron Lord'
 excerpt: "I am an agnostic Jesus-follower. That is, science and reason tell me that Yahweh, even if he existed, was a murderous tyrant, and so if Christians teach that Jesus was the son of Yahweh, or that Jesus believed he was doing the will of Yahweh,\_ or that Yahweh raised Jesus from the dead,\_that these claims must be false."
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2881'
+"guid: 'https://blog.devlord.io/?p=2881'
 permalink: '/?p=2881'
 footnotes:
     - ''

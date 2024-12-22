@@ -4,7 +4,7 @@ title: 'Guess who&#8217;s one!'
 date: '2010-01-16T22:28:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/01/16/guess-whos-one/'
+"guid: 'https://blog.devlord.io/2010/01/16/guess-whos-one/'
 permalink: /2010/01/16/guess-whos-one/
 activitypub_status:
     - federated

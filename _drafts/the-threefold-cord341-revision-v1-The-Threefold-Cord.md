@@ -4,7 +4,7 @@ title: 'The Threefold Cord'
 date: '2024-03-19T11:46:23-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2913'
+"guid: 'https://blog.devlord.io/?p=2913'
 permalink: '/?p=2913'
 ---
 

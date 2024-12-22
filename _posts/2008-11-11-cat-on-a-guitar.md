@@ -4,7 +4,7 @@ title: 'Cat on a guitar'
 date: '2008-11-11T06:12:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/11/11/cat-on-a-guitar/'
+"guid: 'https://blog.devlord.io/2008/11/11/cat-on-a-guitar/'
 permalink: /2008/11/11/cat-on-a-guitar/
 activitypub_status:
     - federated

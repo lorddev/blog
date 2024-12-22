@@ -4,7 +4,7 @@ title: 'Project Natal'
 date: '2009-07-23T19:20:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2421'
+"guid: 'https://blog.devlord.io/?p=2421'
 permalink: '/?p=2421'
 ---
 

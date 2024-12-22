@@ -4,7 +4,7 @@ title: 'Love what you do and make the world go &#8217;round'
 date: '2012-08-03T20:57:52-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/08/03/love-what-you-do-and-make-the-world-go-round/'
+"guid: 'https://blog.devlord.io/2012/08/03/love-what-you-do-and-make-the-world-go-round/'
 permalink: /2012/08/03/love-what-you-do-and-make-the-world-go-round/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Some quotations to help you understand me'
 date: '2013-03-09T09:08:26-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2013/03/09/some-quotations-to-help-you-understand-me/'
+"guid: 'https://blog.devlord.io/2013/03/09/some-quotations-to-help-you-understand-me/'
 permalink: /2013/03/09/some-quotations-to-help-you-understand-me/
 activitypub_status:
     - federated

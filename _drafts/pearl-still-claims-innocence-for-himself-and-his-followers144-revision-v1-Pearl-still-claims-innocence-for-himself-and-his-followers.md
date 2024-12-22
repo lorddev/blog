@@ -4,7 +4,7 @@ title: 'Pearl still claims innocence, for himself and his followers'
 date: '2024-03-12T12:44:16-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2557'
+"guid: 'https://blog.devlord.io/?p=2557'
 permalink: '/?p=2557'
 footnotes:
     - ''

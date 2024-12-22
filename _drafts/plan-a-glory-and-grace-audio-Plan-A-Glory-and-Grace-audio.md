@@ -4,7 +4,7 @@ title: 'Plan A: Glory and Grace (audio)'
 date: '2008-12-29T01:16:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/12/29/plan-a-glory-and-grace-audio/'
+"guid: 'https://blog.devlord.io/2008/12/29/plan-a-glory-and-grace-audio/'
 permalink: '/?p=455'
 activitypub_status:
     - federated

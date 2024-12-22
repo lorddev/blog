@@ -3,7 +3,7 @@ id: 2833
 title: 'New blog launched for a buddy'
 date: '2024-03-24T10:48:52-07:00'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2833'
+"guid: 'https://blog.devlord.io/?p=2833'
 permalink: '/?p=2833'
 ---
 

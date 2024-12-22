@@ -4,7 +4,7 @@ title: 'Order of Elective Decrees, Part 3'
 date: '2024-03-13T17:35:15-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2721'
+"guid: 'https://blog.devlord.io/?p=2721'
 permalink: '/?p=2721'
 footnotes:
     - ''

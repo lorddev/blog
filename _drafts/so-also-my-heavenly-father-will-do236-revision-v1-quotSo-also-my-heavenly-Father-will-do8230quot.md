@@ -4,7 +4,7 @@ title: '&quot;So also my heavenly Father will do&#8230;&quot;'
 date: '2009-08-09T05:45:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2419'
+"guid: 'https://blog.devlord.io/?p=2419'
 permalink: '/?p=2419'
 ---
 

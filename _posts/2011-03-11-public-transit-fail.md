@@ -4,7 +4,7 @@ title: 'Public transit #fail'
 date: '2011-03-11T02:29:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2011/03/11/public-transit-fail/'
+"guid: 'https://blog.devlord.io/2011/03/11/public-transit-fail/'
 permalink: /2011/03/11/public-transit-fail/
 activitypub_status:
     - federate

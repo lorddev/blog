@@ -4,7 +4,7 @@ title: 'A sure sign that you are a spiritual prig'
 date: '2009-09-05T02:31:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/09/05/a-sure-sign-that-you-are-a-spiritual-prig/'
+"guid: 'https://blog.devlord.io/2009/09/05/a-sure-sign-that-you-are-a-spiritual-prig/'
 permalink: /2009/09/05/a-sure-sign-that-you-are-a-spiritual-prig/
 activitypub_status:
     - federated

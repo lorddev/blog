@@ -4,7 +4,7 @@ title: 'The Resurrection of Believers: Already and Not Yet'
 date: '2009-10-25T01:36:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2573'
+"guid: 'https://blog.devlord.io/?p=2573'
 permalink: '/?p=2573'
 ---
 

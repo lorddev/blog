@@ -4,7 +4,7 @@ title: 'Why I won&#8217;t be going to the Shepherd&#8217;s Conference anytime so
 date: '2009-06-30T06:44:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/06/30/why-i-wont-be-going-to-the-shepherds-conference-anytime-soon-part-1-phil-johnson/'
+"guid: 'https://blog.devlord.io/2009/06/30/why-i-wont-be-going-to-the-shepherds-conference-anytime-soon-part-1-phil-johnson/'
 permalink: /2009/06/30/why-i-wont-be-going-to-the-shepherds-conference-anytime-soon-part-1-phil-johnson/
 activitypub_status:
     - federated

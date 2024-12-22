@@ -4,7 +4,7 @@ title: 'Baxter, cross-processed'
 date: '2010-07-10T05:36:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/07/10/baxter-cross-processed/'
+"guid: 'https://blog.devlord.io/2010/07/10/baxter-cross-processed/'
 permalink: /2010/07/10/baxter-cross-processed/
 activitypub_status:
     - federated

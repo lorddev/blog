@@ -4,7 +4,7 @@ title: 'Wisdom Teeth, or My Mouth Hurts Really Bad'
 date: '2006-07-14T06:54:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2006/07/14/wisdom-teeth-or-my-mouth-hurts-really-bad/'
+"guid: 'https://blog.devlord.io/2006/07/14/wisdom-teeth-or-my-mouth-hurts-really-bad/'
 permalink: /2006/07/14/wisdom-teeth-or-my-mouth-hurts-really-bad/
 activitypub_status:
     - federated

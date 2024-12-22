@@ -4,7 +4,7 @@ title: 'Essential iPhone Apps'
 date: '2024-03-10T19:21:50-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2319'
+"guid: 'https://blog.devlord.io/?p=2319'
 permalink: '/?p=2319'
 footnotes:
     - ''

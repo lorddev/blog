@@ -4,7 +4,7 @@ title: 'New Google web browser'
 date: '2008-09-03T03:40:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/09/03/new-google-web-browser/'
+"guid: 'https://blog.devlord.io/2008/09/03/new-google-web-browser/'
 permalink: /2008/09/03/new-google-web-browser/
 activitypub_status:
     - federated

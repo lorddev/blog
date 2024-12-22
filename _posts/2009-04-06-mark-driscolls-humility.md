@@ -4,7 +4,7 @@ title: 'Mark Driscoll&#8217;s humility'
 date: '2009-04-06T15:43:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/04/06/mark-driscolls-humility/'
+"guid: 'https://blog.devlord.io/2009/04/06/mark-driscolls-humility/'
 permalink: /2009/04/06/mark-driscolls-humility/
 activitypub_status:
     - federated

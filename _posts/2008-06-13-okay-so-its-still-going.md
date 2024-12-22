@@ -4,7 +4,7 @@ title: 'Okay, so it&#8217;s still going&#8230;'
 date: '2008-06-13T23:34:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/06/13/okay-so-its-still-going/'
+"guid: 'https://blog.devlord.io/2008/06/13/okay-so-its-still-going/'
 permalink: /2008/06/13/okay-so-its-still-going/
 activitypub_status:
     - federated

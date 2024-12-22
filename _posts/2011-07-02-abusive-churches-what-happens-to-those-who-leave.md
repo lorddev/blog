@@ -4,7 +4,7 @@ title: 'Abusive churches: what happens to those who leave?'
 date: '2011-07-02T22:55:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2011/07/02/abusive-churches-what-happens-to-those-who-leave/'
+"guid: 'https://blog.devlord.io/2011/07/02/abusive-churches-what-happens-to-those-who-leave/'
 permalink: /2011/07/02/abusive-churches-what-happens-to-those-who-leave/
 activitypub_status:
     - federated

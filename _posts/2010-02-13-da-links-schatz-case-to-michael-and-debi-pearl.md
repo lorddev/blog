@@ -4,7 +4,7 @@ title: 'DA links Schatz case to Michael and Debi Pearl'
 date: '2010-02-13T18:43:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/02/13/da-links-schatz-case-to-michael-and-debi-pearl/'
+"guid: 'https://blog.devlord.io/2010/02/13/da-links-schatz-case-to-michael-and-debi-pearl/'
 permalink: /2010/02/13/da-links-schatz-case-to-michael-and-debi-pearl/
 activitypub_status:
     - federate

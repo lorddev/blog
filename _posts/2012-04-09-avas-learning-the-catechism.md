@@ -4,7 +4,7 @@ title: 'Ava&#8217;s learning the catechism!'
 date: '2012-04-09T10:59:27-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/04/09/avas-learning-the-catechism/'
+"guid: 'https://blog.devlord.io/2012/04/09/avas-learning-the-catechism/'
 permalink: /2012/04/09/avas-learning-the-catechism/
 activitypub_status:
     - federated

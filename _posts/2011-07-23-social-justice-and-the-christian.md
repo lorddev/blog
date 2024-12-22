@@ -4,7 +4,7 @@ title: 'Social Justice and the Christian'
 date: '2011-07-23T19:30:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2011/07/23/social-justice-and-the-christian/'
+"guid: 'https://blog.devlord.io/2011/07/23/social-justice-and-the-christian/'
 permalink: /2011/07/23/social-justice-and-the-christian/
 activitypub_status:
     - federated

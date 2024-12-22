@@ -4,7 +4,7 @@ title: 'Christina&#8217;s birthday'
 date: '2008-07-15T06:58:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2488'
+"guid: 'https://blog.devlord.io/?p=2488'
 permalink: '/?p=2488'
 ---
 

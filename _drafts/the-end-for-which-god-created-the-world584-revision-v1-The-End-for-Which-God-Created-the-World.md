@@ -4,7 +4,7 @@ title: 'The End for Which God Created the World'
 date: '2008-07-31T16:46:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2486'
+"guid: 'https://blog.devlord.io/?p=2486'
 permalink: '/?p=2486'
 ---
 

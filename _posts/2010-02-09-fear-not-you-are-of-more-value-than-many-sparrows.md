@@ -4,7 +4,7 @@ title: 'Fear not; you are of more value than many sparrows&#8230;'
 date: '2010-02-09T21:47:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/02/09/fear-not-you-are-of-more-value-than-many-sparrows/'
+"guid: 'https://blog.devlord.io/2010/02/09/fear-not-you-are-of-more-value-than-many-sparrows/'
 permalink: /2010/02/09/fear-not-you-are-of-more-value-than-many-sparrows/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'The Community and the Call'
 date: '2005-02-03T16:27:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2005/02/03/the-community-and-the-call/'
+"guid: 'https://blog.devlord.io/2005/02/03/the-community-and-the-call/'
 permalink: /2005/02/03/the-community-and-the-call/
 activitypub_status:
     - federated

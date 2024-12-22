@@ -4,7 +4,7 @@ title: 'The First Resurrection of Revelation 20'
 date: '2009-10-30T04:37:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/10/30/the-first-resurrection-of-revelation-20/'
+"guid: 'https://blog.devlord.io/2009/10/30/the-first-resurrection-of-revelation-20/'
 permalink: /2009/10/30/the-first-resurrection-of-revelation-20/
 activitypub_status:
     - federated

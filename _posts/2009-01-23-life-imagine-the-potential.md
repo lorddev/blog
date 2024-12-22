@@ -4,7 +4,7 @@ title: 'Life: Imagine the Potential'
 date: '2009-01-23T21:30:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/01/23/life-imagine-the-potential/'
+"guid: 'https://blog.devlord.io/2009/01/23/life-imagine-the-potential/'
 permalink: /2009/01/23/life-imagine-the-potential/
 activitypub_status:
     - federated

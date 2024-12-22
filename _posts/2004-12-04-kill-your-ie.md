@@ -4,7 +4,7 @@ title: 'Kill Your IE!'
 date: '2004-12-04T15:53:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2004/12/04/kill-your-ie/'
+"guid: 'https://blog.devlord.io/2004/12/04/kill-your-ie/'
 permalink: /2004/12/04/kill-your-ie/
 activitypub_status:
     - federated

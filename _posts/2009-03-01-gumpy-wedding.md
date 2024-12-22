@@ -4,7 +4,7 @@ title: 'Gumpy Wedding'
 date: '2009-03-01T06:23:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/03/01/gumpy-wedding/'
+"guid: 'https://blog.devlord.io/2009/03/01/gumpy-wedding/'
 permalink: /2009/03/01/gumpy-wedding/
 activitypub_status:
     - federate

@@ -4,7 +4,7 @@ title: 'The Current Sub-Saharan Famine'
 date: '2005-07-28T00:29:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2005/07/28/the-current-sub-saharan-famine/'
+"guid: 'https://blog.devlord.io/2005/07/28/the-current-sub-saharan-famine/'
 permalink: /2005/07/28/the-current-sub-saharan-famine/
 activitypub_status:
     - federated

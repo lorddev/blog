@@ -4,7 +4,7 @@ title: 'No such thing as chance'
 date: '2008-07-31T02:28:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/07/31/no-such-thing-as-chance/'
+"guid: 'https://blog.devlord.io/2008/07/31/no-such-thing-as-chance/'
 permalink: /2008/07/31/no-such-thing-as-chance/
 activitypub_status:
     - federated

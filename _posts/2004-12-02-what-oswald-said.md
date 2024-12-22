@@ -4,7 +4,7 @@ title: 'What Oswald Said&#8230;'
 date: '2004-12-02T09:58:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2004/12/02/what-oswald-said/'
+"guid: 'https://blog.devlord.io/2004/12/02/what-oswald-said/'
 permalink: /2004/12/02/what-oswald-said/
 activitypub_status:
     - federated

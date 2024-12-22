@@ -4,7 +4,7 @@ title: 'The Paradox of Honesty'
 date: '2004-12-03T12:33:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2004/12/03/the-paradox-of-honesty/'
+"guid: 'https://blog.devlord.io/2004/12/03/the-paradox-of-honesty/'
 permalink: /2004/12/03/the-paradox-of-honesty/
 activitypub_status:
     - federated

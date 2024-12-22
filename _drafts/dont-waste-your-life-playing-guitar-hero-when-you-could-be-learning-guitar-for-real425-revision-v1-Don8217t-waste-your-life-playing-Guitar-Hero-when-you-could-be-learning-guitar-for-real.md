@@ -4,7 +4,7 @@ title: 'Don&#8217;t waste your life playing Guitar Hero when you could be learni
 date: '2009-02-05T02:35:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2446'
+"guid: 'https://blog.devlord.io/?p=2446'
 permalink: '/?p=2446'
 ---
 

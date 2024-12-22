@@ -4,7 +4,7 @@ title: 'Begg on Stonewall Jackson and the Fourth Commandment'
 date: '2009-12-21T21:05:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/12/21/begg-on-stonewall-jackson-and-the-fourth-commandment/'
+"guid: 'https://blog.devlord.io/2009/12/21/begg-on-stonewall-jackson-and-the-fourth-commandment/'
 permalink: /2009/12/21/begg-on-stonewall-jackson-and-the-fourth-commandment/
 activitypub_status:
     - federated

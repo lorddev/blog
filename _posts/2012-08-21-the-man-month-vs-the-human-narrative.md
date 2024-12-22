@@ -4,7 +4,7 @@ title: 'The Man-Month vs. the Human Narrative'
 date: '2012-08-21T21:38:05-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/08/21/the-man-month-vs-the-human-narrative/'
+"guid: 'https://blog.devlord.io/2012/08/21/the-man-month-vs-the-human-narrative/'
 permalink: /2012/08/21/the-man-month-vs-the-human-narrative/
 activitypub_status:
     - federated

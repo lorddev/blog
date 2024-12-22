@@ -4,7 +4,7 @@ title: 'Trillian for iPhone update'
 date: '2010-03-26T02:54:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/03/26/trillian-for-iphone-update/'
+"guid: 'https://blog.devlord.io/2010/03/26/trillian-for-iphone-update/'
 permalink: /2010/03/26/trillian-for-iphone-update/
 activitypub_status:
     - federated

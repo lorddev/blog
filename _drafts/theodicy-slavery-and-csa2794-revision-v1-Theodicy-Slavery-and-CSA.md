@@ -4,7 +4,7 @@ title: 'Theodicy, Slavery, and CSA'
 date: '2024-03-20T15:31:04-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2795'
+"guid: 'https://blog.devlord.io/?p=2795'
 permalink: '/?p=2795'
 footnotes:
     - ''

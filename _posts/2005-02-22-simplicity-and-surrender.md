@@ -4,7 +4,7 @@ title: 'Simplicity and Surrender'
 date: '2005-02-22T17:03:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2005/02/22/simplicity-and-surrender/'
+"guid: 'https://blog.devlord.io/2005/02/22/simplicity-and-surrender/'
 permalink: /2005/02/22/simplicity-and-surrender/
 activitypub_status:
     - federated

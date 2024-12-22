@@ -4,7 +4,7 @@ title: 'Writing As I Learn'
 date: '2009-07-09T04:28:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2577'
+"guid: 'https://blog.devlord.io/?p=2577'
 permalink: '/?p=2577'
 ---
 

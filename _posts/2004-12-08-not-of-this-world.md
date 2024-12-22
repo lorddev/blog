@@ -4,7 +4,7 @@ title: 'Not of This World'
 date: '2004-12-08T20:00:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2004/12/08/not-of-this-world/'
+"guid: 'https://blog.devlord.io/2004/12/08/not-of-this-world/'
 permalink: /2004/12/08/not-of-this-world/
 activitypub_status:
     - federated

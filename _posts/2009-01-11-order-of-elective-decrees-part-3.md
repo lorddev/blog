@@ -4,7 +4,7 @@ title: 'Order of Elective Decrees, Part 3'
 date: '2009-01-11T06:17:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/01/11/order-of-elective-decrees-part-3/'
+"guid: 'https://blog.devlord.io/2009/01/11/order-of-elective-decrees-part-3/'
 permalink: /2009/01/11/order-of-elective-decrees-part-3/
 activitypub_status:
     - federate

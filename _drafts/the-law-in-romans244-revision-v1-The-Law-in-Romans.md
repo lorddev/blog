@@ -4,7 +4,7 @@ title: 'The Law in Romans'
 date: '2009-07-25T19:13:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2572'
+"guid: 'https://blog.devlord.io/?p=2572'
 permalink: '/?p=2572'
 ---
 

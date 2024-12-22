@@ -4,7 +4,7 @@ title: 'ESV for iPhone from Crossway'
 date: '2010-03-18T21:31:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/03/18/esv-for-iphone-from-crossway/'
+"guid: 'https://blog.devlord.io/2010/03/18/esv-for-iphone-from-crossway/'
 permalink: /2010/03/18/esv-for-iphone-from-crossway/
 activitypub_status:
     - federated

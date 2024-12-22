@@ -4,7 +4,7 @@ title: 'iTunes Smart Playlist &quot;all&quot; vs. &quot;any&quot; issue'
 date: '2009-06-29T05:20:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/06/29/itunes-smart-playlist-all-vs-any-issue/'
+"guid: 'https://blog.devlord.io/2009/06/29/itunes-smart-playlist-all-vs-any-issue/'
 permalink: /2009/06/29/itunes-smart-playlist-all-vs-any-issue/
 activitypub_status:
     - federated

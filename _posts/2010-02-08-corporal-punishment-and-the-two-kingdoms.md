@@ -4,7 +4,7 @@ title: 'Corporal Punishment and the Two Kingdoms'
 date: '2010-02-08T08:56:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/02/08/corporal-punishment-and-the-two-kingdoms/'
+"guid: 'https://blog.devlord.io/2010/02/08/corporal-punishment-and-the-two-kingdoms/'
 permalink: /2010/02/08/corporal-punishment-and-the-two-kingdoms/
 activitypub_status:
     - federated

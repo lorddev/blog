@@ -4,7 +4,7 @@ title: 'The best &quot;Our First Christmas&quot; ornament ever!'
 date: '2008-12-24T22:10:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2453'
+"guid: 'https://blog.devlord.io/?p=2453'
 permalink: '/?p=2453'
 ---
 

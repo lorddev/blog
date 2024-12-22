@@ -4,7 +4,7 @@ title: 'Happy Anniversary!'
 date: '2024-03-19T11:46:38-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2924'
+"guid: 'https://blog.devlord.io/?p=2924'
 permalink: '/?p=2924'
 ---
 

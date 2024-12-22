@@ -4,7 +4,7 @@ title: 'The Voice of the Martyrs &#8211; News'
 date: '2008-07-04T17:23:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/07/04/the-voice-of-the-martyrs-news/'
+"guid: 'https://blog.devlord.io/2008/07/04/the-voice-of-the-martyrs-news/'
 permalink: /2008/07/04/the-voice-of-the-martyrs-news/
 activitypub_status:
     - federate

@@ -4,7 +4,7 @@ title: 'Butte county parents plead guilty'
 date: '2011-04-09T05:28:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2011/04/09/butte-county-parents-plead-guilty/'
+"guid: 'https://blog.devlord.io/2011/04/09/butte-county-parents-plead-guilty/'
 permalink: '/?p=49'
 activitypub_status:
     - federated

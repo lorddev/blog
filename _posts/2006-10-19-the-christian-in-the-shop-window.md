@@ -4,7 +4,7 @@ title: 'The Christian in the Shop Window'
 date: '2006-10-19T10:44:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2006/10/19/the-christian-in-the-shop-window/'
+"guid: 'https://blog.devlord.io/2006/10/19/the-christian-in-the-shop-window/'
 permalink: /2006/10/19/the-christian-in-the-shop-window/
 activitypub_status:
     - federated

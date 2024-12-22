@@ -4,7 +4,7 @@ title: 'Thoughts on Dystheism and the Sacrifice of Isaac'
 date: '2024-03-16T10:45:11-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2730'
+"guid: 'https://blog.devlord.io/?p=2730'
 permalink: '/?p=2730'
 footnotes:
     - ''

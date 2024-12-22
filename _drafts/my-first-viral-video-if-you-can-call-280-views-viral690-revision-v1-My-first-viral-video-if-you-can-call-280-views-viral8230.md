@@ -4,7 +4,7 @@ title: 'My first viral video (if you can call 280 views viral&#8230;)'
 date: '2007-08-16T22:14:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2498'
+"guid: 'https://blog.devlord.io/?p=2498'
 permalink: '/?p=2498'
 ---
 

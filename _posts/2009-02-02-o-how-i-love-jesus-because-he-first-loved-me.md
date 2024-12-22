@@ -4,7 +4,7 @@ title: '&quot;O, How I love Jesus, because he first loved me&quot;'
 date: '2009-02-02T19:16:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/02/02/o-how-i-love-jesus-because-he-first-loved-me/'
+"guid: 'https://blog.devlord.io/2009/02/02/o-how-i-love-jesus-because-he-first-loved-me/'
 permalink: /2009/02/02/o-how-i-love-jesus-because-he-first-loved-me/
 activitypub_status:
     - federate

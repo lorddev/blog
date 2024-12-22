@@ -4,7 +4,7 @@ title: 'The Solidarity of Humanity'
 date: '2009-05-26T00:17:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2914'
+"guid: 'https://blog.devlord.io/?p=2914'
 permalink: '/?p=2914'
 ---
 

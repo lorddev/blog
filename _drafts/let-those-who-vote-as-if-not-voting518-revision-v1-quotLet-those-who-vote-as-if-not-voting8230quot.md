@@ -4,7 +4,7 @@ title: '&quot;Let those who vote, as if not voting&#8230;&quot;'
 date: '2008-10-22T20:17:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2463'
+"guid: 'https://blog.devlord.io/?p=2463'
 permalink: '/?p=2463'
 ---
 

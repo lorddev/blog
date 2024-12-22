@@ -4,7 +4,7 @@ title: 'Béla Fleck, Edgar Meyer, Zakir Hussain'
 date: '2011-04-14T06:06:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2011/04/14/bela-fleck-edgar-meyer-zakir-hussain/'
+"guid: 'https://blog.devlord.io/2011/04/14/bela-fleck-edgar-meyer-zakir-hussain/'
 permalink: /2011/04/14/bela-fleck-edgar-meyer-zakir-hussain/
 activitypub_status:
     - federated

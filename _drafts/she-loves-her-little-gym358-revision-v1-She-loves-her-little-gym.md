@@ -4,7 +4,7 @@ title: 'She loves her little gym!'
 date: '2009-05-09T18:50:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2915'
+"guid: 'https://blog.devlord.io/?p=2915'
 permalink: '/?p=2915'
 ---
 

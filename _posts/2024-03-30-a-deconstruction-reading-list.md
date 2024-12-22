@@ -4,7 +4,7 @@ title: 'A Deconstruction Reading List'
 date: '2024-03-30T09:04:20-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/?p=2852'
+"guid: 'https://blog.devlord.io/?p=2852'
 permalink: /2024/03/30/a-deconstruction-reading-list/
 activitypub_status:
     - federated

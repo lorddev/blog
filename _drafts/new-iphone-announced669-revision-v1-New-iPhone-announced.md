@@ -4,7 +4,7 @@ title: 'New iPhone announced'
 date: '2008-06-09T18:59:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2494'
+"guid: 'https://blog.devlord.io/?p=2494'
 permalink: '/?p=2494'
 ---
 

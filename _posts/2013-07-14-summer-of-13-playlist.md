@@ -4,7 +4,7 @@ title: 'Summer of &#8217;13 playlist'
 date: '2013-07-14T18:54:07-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/?p=1889'
+"guid: 'https://blog.devlord.io/?p=1889'
 permalink: /2013/07/14/summer-of-13-playlist/
 publicize_twitter_user:
     - a1rd

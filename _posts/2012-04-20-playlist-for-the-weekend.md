@@ -4,7 +4,7 @@ title: 'Playlist for the weekend'
 date: '2012-04-20T21:32:44-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/04/20/playlist-for-the-weekend/'
+"guid: 'https://blog.devlord.io/2012/04/20/playlist-for-the-weekend/'
 permalink: /2012/04/20/playlist-for-the-weekend/
 activitypub_status:
     - federated

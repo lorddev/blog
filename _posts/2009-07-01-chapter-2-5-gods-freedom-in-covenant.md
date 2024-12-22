@@ -4,7 +4,7 @@ title: 'Chapter 2.5: God&#8217;s Freedom in Covenant'
 date: '2009-07-01T07:34:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/07/01/chapter-2-5-gods-freedom-in-covenant/'
+"guid: 'https://blog.devlord.io/2009/07/01/chapter-2-5-gods-freedom-in-covenant/'
 permalink: /2009/07/01/chapter-2-5-gods-freedom-in-covenant/
 activitypub_status:
     - federated

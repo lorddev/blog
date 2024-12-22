@@ -4,7 +4,7 @@ title: 'My new zippy commuter!'
 date: '2010-04-09T00:34:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/04/09/my-new-zippy-commuter/'
+"guid: 'https://blog.devlord.io/2010/04/09/my-new-zippy-commuter/'
 permalink: /2010/04/09/my-new-zippy-commuter/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'The good news&#8230; part 2'
 date: '2024-03-13T12:46:19-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2647'
+"guid: 'https://blog.devlord.io/?p=2647'
 permalink: '/?p=2647'
 footnotes:
     - ''

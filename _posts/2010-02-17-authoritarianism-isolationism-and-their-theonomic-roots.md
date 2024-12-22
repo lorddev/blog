@@ -4,7 +4,7 @@ title: 'Authoritarianism, isolationism, and their theonomic roots'
 date: '2010-02-17T07:14:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/02/17/authoritarianism-isolationism-and-their-theonomic-roots/'
+"guid: 'https://blog.devlord.io/2010/02/17/authoritarianism-isolationism-and-their-theonomic-roots/'
 permalink: /2010/02/17/authoritarianism-isolationism-and-their-theonomic-roots/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: '&quot;Do I offend?&quot;'
 date: '2009-07-27T17:03:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/07/27/do-i-offend/'
+"guid: 'https://blog.devlord.io/2009/07/27/do-i-offend/'
 permalink: /2009/07/27/do-i-offend/
 activitypub_status:
     - federated

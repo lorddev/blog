@@ -4,7 +4,7 @@ title: 'The Ethics of Open Wi-Fi'
 date: '2005-07-17T00:47:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2506'
+"guid: 'https://blog.devlord.io/?p=2506'
 permalink: '/?p=2506'
 ---
 

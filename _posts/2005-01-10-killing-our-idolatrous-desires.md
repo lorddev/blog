@@ -4,7 +4,7 @@ title: 'Killing Our Idolatrous Desires'
 date: '2005-01-10T11:30:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2005/01/10/killing-our-idolatrous-desires/'
+"guid: 'https://blog.devlord.io/2005/01/10/killing-our-idolatrous-desires/'
 permalink: /2005/01/10/killing-our-idolatrous-desires/
 activitypub_status:
     - federated

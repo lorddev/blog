@@ -4,7 +4,7 @@ title: 'Reformed Theology: The Christian Sabbath'
 date: '2009-04-28T23:35:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2440'
+"guid: 'https://blog.devlord.io/?p=2440'
 permalink: '/?p=2440'
 ---
 

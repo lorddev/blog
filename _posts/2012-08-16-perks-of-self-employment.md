@@ -4,7 +4,7 @@ title: 'Perks of self-employment'
 date: '2012-08-16T06:49:27-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/08/16/perks-of-self-employment/'
+"guid: 'https://blog.devlord.io/2012/08/16/perks-of-self-employment/'
 permalink: /2012/08/16/perks-of-self-employment/
 activitypub_status:
     - federated

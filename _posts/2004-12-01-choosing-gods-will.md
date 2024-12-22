@@ -4,7 +4,7 @@ title: 'Choosing God&#8217;s Will'
 date: '2004-12-01T16:00:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2004/12/01/choosing-gods-will/'
+"guid: 'https://blog.devlord.io/2004/12/01/choosing-gods-will/'
 permalink: /2004/12/01/choosing-gods-will/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Al Mohler&#8217;s got Newsweek&#8217;s number'
 date: '2008-12-08T21:15:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/12/08/al-mohlers-got-newsweeks-number/'
+"guid: 'https://blog.devlord.io/2008/12/08/al-mohlers-got-newsweeks-number/'
 permalink: /2008/12/08/al-mohlers-got-newsweeks-number/
 activitypub_status:
     - federated

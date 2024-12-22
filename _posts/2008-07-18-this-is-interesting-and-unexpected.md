@@ -4,7 +4,7 @@ title: 'This is interesting and unexpected&#8230;'
 date: '2008-07-18T07:05:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/07/18/this-is-interesting-and-unexpected/'
+"guid: 'https://blog.devlord.io/2008/07/18/this-is-interesting-and-unexpected/'
 permalink: /2008/07/18/this-is-interesting-and-unexpected/
 activitypub_status:
     - federated

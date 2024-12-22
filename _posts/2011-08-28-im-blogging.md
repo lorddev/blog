@@ -4,7 +4,7 @@ title: 'I&#8217;m blogging.'
 date: '2011-08-28T20:29:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2011/08/28/im-blogging/'
+"guid: 'https://blog.devlord.io/2011/08/28/im-blogging/'
 permalink: /2011/08/28/im-blogging/
 activitypub_status:
     - federated

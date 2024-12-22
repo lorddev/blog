@@ -4,7 +4,7 @@ title: 'My interrupted jog&#8230;'
 date: '2010-02-16T16:35:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/02/16/my-interrupted-jog/'
+"guid: 'https://blog.devlord.io/2010/02/16/my-interrupted-jog/'
 permalink: /2010/02/16/my-interrupted-jog/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'I&#8217;m blogging.'
 date: '2024-03-10T18:57:47-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2285'
+"guid: 'https://blog.devlord.io/?p=2285'
 permalink: '/?p=2285'
 footnotes:
     - ''

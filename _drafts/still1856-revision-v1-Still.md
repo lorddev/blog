@@ -4,7 +4,7 @@ title: Still
 date: '2024-03-19T11:34:52-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2777'
+"guid: 'https://blog.devlord.io/?p=2777'
 permalink: '/?p=2777'
 ---
 

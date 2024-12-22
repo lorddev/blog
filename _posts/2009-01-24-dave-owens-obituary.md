@@ -4,7 +4,7 @@ title: 'Dave Owen&#8217;s obituary'
 date: '2009-01-24T21:50:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/01/24/dave-owens-obituary/'
+"guid: 'https://blog.devlord.io/2009/01/24/dave-owens-obituary/'
 permalink: /2009/01/24/dave-owens-obituary/
 activitypub_status:
     - federated

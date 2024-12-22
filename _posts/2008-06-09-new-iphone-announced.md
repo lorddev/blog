@@ -4,7 +4,7 @@ title: 'New iPhone announced'
 date: '2008-06-09T18:59:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/06/09/new-iphone-announced/'
+"guid: 'https://blog.devlord.io/2008/06/09/new-iphone-announced/'
 permalink: /2008/06/09/new-iphone-announced/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'R.C. Sproul on Vocation'
 date: '2009-06-29T20:02:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/06/29/r-c-sproul-on-vocation/'
+"guid: 'https://blog.devlord.io/2009/06/29/r-c-sproul-on-vocation/'
 permalink: /2009/06/29/r-c-sproul-on-vocation/
 activitypub_status:
     - federated

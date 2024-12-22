@@ -4,7 +4,7 @@ title: 'Ava playing'
 date: '2009-04-01T06:49:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/04/01/ava-playing/'
+"guid: 'https://blog.devlord.io/2009/04/01/ava-playing/'
 permalink: /2009/04/01/ava-playing/
 activitypub_status:
     - federated

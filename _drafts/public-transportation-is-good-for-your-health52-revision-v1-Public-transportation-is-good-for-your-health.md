@@ -4,7 +4,7 @@ title: 'Public transportation is good for your health'
 date: '2024-03-10T19:19:53-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2317'
+"guid: 'https://blog.devlord.io/?p=2317'
 permalink: '/?p=2317'
 footnotes:
     - ''

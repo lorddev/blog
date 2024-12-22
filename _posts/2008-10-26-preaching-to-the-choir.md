@@ -4,7 +4,7 @@ title: 'Preaching to the choir&#8230;'
 date: '2008-10-26T17:04:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/10/26/preaching-to-the-choir/'
+"guid: 'https://blog.devlord.io/2008/10/26/preaching-to-the-choir/'
 permalink: /2008/10/26/preaching-to-the-choir/
 activitypub_status:
     - federated

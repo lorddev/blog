@@ -4,7 +4,7 @@ title: 'Pics from last weekend with Flatfoot 56'
 date: '2005-06-02T21:06:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2005/06/02/pics-from-last-weekend-with-flatfoot-5ifty6ix/'
+"guid: 'https://blog.devlord.io/2005/06/02/pics-from-last-weekend-with-flatfoot-5ifty6ix/'
 permalink: '/?p=748'
 activitypub_status:
     - federated

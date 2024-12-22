@@ -4,7 +4,7 @@ title: '&quot;Apprehending God&quot;'
 date: '2005-05-07T21:30:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2005/05/07/apprehending-god/'
+"guid: 'https://blog.devlord.io/2005/05/07/apprehending-god/'
 permalink: /2005/05/07/apprehending-god/
 activitypub_status:
     - federated

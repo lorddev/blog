@@ -4,7 +4,7 @@ title: 'Bonus Baseball in San Francisco'
 date: '2006-07-23T22:11:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2006/07/23/bonus-baseball-in-san-francisco/'
+"guid: 'https://blog.devlord.io/2006/07/23/bonus-baseball-in-san-francisco/'
 permalink: /2006/07/23/bonus-baseball-in-san-francisco/
 activitypub_status:
     - federate

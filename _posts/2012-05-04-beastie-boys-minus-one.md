@@ -4,7 +4,7 @@ title: 'Beastie Boys Minus One'
 date: '2012-05-04T09:26:01-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/05/04/beastie-boys-minus-one/'
+"guid: 'https://blog.devlord.io/2012/05/04/beastie-boys-minus-one/'
 permalink: /2012/05/04/beastie-boys-minus-one/
 activitypub_status:
     - federated

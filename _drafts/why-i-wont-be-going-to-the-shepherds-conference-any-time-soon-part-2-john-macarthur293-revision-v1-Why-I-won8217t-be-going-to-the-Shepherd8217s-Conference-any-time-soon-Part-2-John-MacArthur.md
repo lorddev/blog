@@ -3,7 +3,7 @@ id: 2683
 title: 'Why I won&#8217;t be going to the Shepherd&#8217;s Conference any time soon, Part 2: John MacArthur'
 date: '2024-03-13T17:11:34-07:00'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2683'
+"guid: 'https://blog.devlord.io/?p=2683'
 permalink: '/?p=2683'
 ---
 

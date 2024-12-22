@@ -4,7 +4,7 @@ title: 'About me'
 date: '2011-10-18T15:32:46-07:00'
 author: 'Aaron Lord'
 layout: page
-guid: 'https://www.devlord.io/blog/about/'
+"guid: 'https://blog.devlord.io/about/'
 footnotes:
     - ''
 ast-site-content-layout:

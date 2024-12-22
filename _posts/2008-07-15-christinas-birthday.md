@@ -4,7 +4,7 @@ title: 'Christina&#8217;s birthday'
 date: '2008-07-15T06:58:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/07/15/christinas-birthday/'
+"guid: 'https://blog.devlord.io/2008/07/15/christinas-birthday/'
 permalink: /2008/07/15/christinas-birthday/
 activitypub_status:
     - federate

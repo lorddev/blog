@@ -4,7 +4,7 @@ title: 'No Christian had any notion of a secret rapture before 1830'
 date: '2024-03-10T19:16:53-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2308'
+"guid: 'https://blog.devlord.io/?p=2308'
 permalink: '/?p=2308'
 ---
 

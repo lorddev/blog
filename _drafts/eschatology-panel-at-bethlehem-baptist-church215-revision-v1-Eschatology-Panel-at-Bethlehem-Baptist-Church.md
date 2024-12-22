@@ -4,7 +4,7 @@ title: 'Eschatology Panel at Bethlehem Baptist Church'
 date: '2024-03-19T11:36:15-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2782'
+"guid: 'https://blog.devlord.io/?p=2782'
 permalink: '/?p=2782'
 ---
 

@@ -4,7 +4,7 @@ title: 'Intentional Poverty'
 date: '2006-10-01T20:20:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2006/10/01/intentional-poverty/'
+"guid: 'https://blog.devlord.io/2006/10/01/intentional-poverty/'
 permalink: /2006/10/01/intentional-poverty/
 activitypub_status:
     - federated

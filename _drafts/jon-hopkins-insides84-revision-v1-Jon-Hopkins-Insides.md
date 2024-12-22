@@ -3,7 +3,7 @@ id: 2642
 title: 'Jon Hopkins: Insides'
 date: '2024-03-13T12:25:22-07:00'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2642'
+"guid: 'https://blog.devlord.io/?p=2642'
 permalink: '/?p=2642'
 ---
 

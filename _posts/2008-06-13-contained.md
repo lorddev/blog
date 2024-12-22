@@ -4,7 +4,7 @@ title: Contained!
 date: '2008-06-13T16:45:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/06/13/contained/'
+"guid: 'https://blog.devlord.io/2008/06/13/contained/'
 permalink: /2008/06/13/contained/
 activitypub_status:
     - federated

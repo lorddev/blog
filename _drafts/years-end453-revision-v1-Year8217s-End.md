@@ -4,7 +4,7 @@ title: 'Year&#8217;s End'
 date: '2008-12-31T19:17:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2452'
+"guid: 'https://blog.devlord.io/?p=2452'
 permalink: '/?p=2452'
 ---
 

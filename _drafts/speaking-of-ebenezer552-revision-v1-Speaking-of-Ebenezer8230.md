@@ -4,7 +4,7 @@ title: 'Speaking of Ebenezer&#8230;'
 date: '2008-09-17T06:25:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2480'
+"guid: 'https://blog.devlord.io/?p=2480'
 permalink: '/?p=2480'
 ---
 

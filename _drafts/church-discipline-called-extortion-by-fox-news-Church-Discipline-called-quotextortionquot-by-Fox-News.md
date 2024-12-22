@@ -4,7 +4,7 @@ title: 'Church Discipline called &quot;extortion&quot; by Fox News'
 date: '2008-12-19T20:29:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/12/19/church-discipline-called-extortion-by-fox-news/'
+"guid: 'https://blog.devlord.io/2008/12/19/church-discipline-called-extortion-by-fox-news/'
 permalink: '/?p=465'
 activitypub_status:
     - federated

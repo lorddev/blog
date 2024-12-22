@@ -4,7 +4,7 @@ title: 'My Macbook died&#8230;'
 date: '2008-07-23T16:53:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/07/23/my-macbook-died/'
+"guid: 'https://blog.devlord.io/2008/07/23/my-macbook-died/'
 permalink: /2008/07/23/my-macbook-died/
 activitypub_status:
     - federated

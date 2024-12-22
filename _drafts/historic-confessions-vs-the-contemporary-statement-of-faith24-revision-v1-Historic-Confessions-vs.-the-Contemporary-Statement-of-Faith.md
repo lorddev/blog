@@ -4,7 +4,7 @@ title: 'Historic Confessions vs. the Contemporary Statement of Faith'
 date: '2024-03-10T19:13:18-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2299'
+"guid: 'https://blog.devlord.io/?p=2299'
 permalink: '/?p=2299'
 footnotes:
     - ''

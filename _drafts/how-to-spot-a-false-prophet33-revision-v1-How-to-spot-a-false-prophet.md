@@ -4,7 +4,7 @@ title: 'How to spot a false prophet'
 date: '2024-03-10T19:14:09-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2303'
+"guid: 'https://blog.devlord.io/?p=2303'
 permalink: '/?p=2303'
 ---
 

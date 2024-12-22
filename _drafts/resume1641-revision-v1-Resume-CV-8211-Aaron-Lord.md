@@ -4,7 +4,7 @@ title: 'Résumé / CV &#8211; Aaron Lord'
 date: '2024-03-12T20:32:16-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2589'
+"guid: 'https://blog.devlord.io/?p=2589'
 permalink: '/?p=2589'
 footnotes:
     - ''

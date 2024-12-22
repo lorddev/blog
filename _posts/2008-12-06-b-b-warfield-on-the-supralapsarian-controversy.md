@@ -4,7 +4,7 @@ title: 'B.B. Warfield on the Supralapsarian Controversy'
 date: '2008-12-06T23:24:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/12/06/b-b-warfield-on-the-supralapsarian-controversy/'
+"guid: 'https://blog.devlord.io/2008/12/06/b-b-warfield-on-the-supralapsarian-controversy/'
 permalink: /2008/12/06/b-b-warfield-on-the-supralapsarian-controversy/
 activitypub_status:
     - federated

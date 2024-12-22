@@ -4,7 +4,7 @@ title: 'John Piper on why he&#8217;s taking a leave of absence'
 date: '2010-03-30T03:01:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/03/30/john-piper-on-why-hes-taking-a-leave-of-absence/'
+"guid: 'https://blog.devlord.io/2010/03/30/john-piper-on-why-hes-taking-a-leave-of-absence/'
 permalink: /2010/03/30/john-piper-on-why-hes-taking-a-leave-of-absence/
 activitypub_status:
     - federated

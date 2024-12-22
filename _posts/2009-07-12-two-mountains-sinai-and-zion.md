@@ -4,7 +4,7 @@ title: 'Two Mountains: Sinai and Zion'
 date: '2009-07-12T20:30:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/07/12/two-mountains-sinai-and-zion/'
+"guid: 'https://blog.devlord.io/2009/07/12/two-mountains-sinai-and-zion/'
 permalink: /2009/07/12/two-mountains-sinai-and-zion/
 activitypub_status:
     - federated

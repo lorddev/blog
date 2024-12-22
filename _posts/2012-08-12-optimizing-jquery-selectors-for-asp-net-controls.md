@@ -4,7 +4,7 @@ title: 'Optimizing jQuery selectors for ASP.NET controls'
 date: '2012-08-12T09:36:20-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/08/12/optimizing-jquery-selectors-for-asp-net-controls/'
+"guid: 'https://blog.devlord.io/2012/08/12/optimizing-jquery-selectors-for-asp-net-controls/'
 permalink: /2012/08/12/optimizing-jquery-selectors-for-asp-net-controls/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'MacArthur on the Dangers of Innovation'
 date: '2009-09-13T00:45:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/09/13/macarthur-on-the-dangers-of-innovation/'
+"guid: 'https://blog.devlord.io/2009/09/13/macarthur-on-the-dangers-of-innovation/'
 permalink: /2009/09/13/macarthur-on-the-dangers-of-innovation/
 activitypub_status:
     - federated

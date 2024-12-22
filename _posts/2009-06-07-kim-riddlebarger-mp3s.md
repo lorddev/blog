@@ -4,7 +4,7 @@ title: 'Kim Riddlebarger mp3s'
 date: '2009-06-07T01:49:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/06/07/kim-riddlebarger-mp3s/'
+"guid: 'https://blog.devlord.io/2009/06/07/kim-riddlebarger-mp3s/'
 permalink: /2009/06/07/kim-riddlebarger-mp3s/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'On Phoning It In'
 date: '2012-06-20T20:28:11-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/06/20/on-phoning-it-in/'
+"guid: 'https://blog.devlord.io/2012/06/20/on-phoning-it-in/'
 permalink: /2012/06/20/on-phoning-it-in/
 activitypub_status:
     - federated

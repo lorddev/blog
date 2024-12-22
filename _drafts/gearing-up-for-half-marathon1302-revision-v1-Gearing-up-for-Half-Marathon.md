@@ -3,7 +3,7 @@ id: 2727
 title: 'Gearing up for Half Marathon'
 date: '2024-03-16T10:03:10-07:00'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2727'
+"guid: 'https://blog.devlord.io/?p=2727'
 permalink: '/?p=2727'
 ---
 

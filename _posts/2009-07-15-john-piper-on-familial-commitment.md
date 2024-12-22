@@ -4,7 +4,7 @@ title: 'John Piper on Familial Commitment'
 date: '2009-07-15T17:24:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/07/15/john-piper-on-familial-commitment/'
+"guid: 'https://blog.devlord.io/2009/07/15/john-piper-on-familial-commitment/'
 permalink: /2009/07/15/john-piper-on-familial-commitment/
 activitypub_status:
     - federated

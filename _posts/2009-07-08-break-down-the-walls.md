@@ -4,7 +4,7 @@ title: 'Break Down the Walls'
 date: '2009-07-08T19:28:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/07/08/break-down-the-walls/'
+"guid: 'https://blog.devlord.io/2009/07/08/break-down-the-walls/'
 permalink: /2009/07/08/break-down-the-walls/
 activitypub_status:
     - federated

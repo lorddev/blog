@@ -4,7 +4,7 @@ title: 'Faith and depression'
 date: '2019-12-28T11:38:47-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2860'
+"guid: 'https://blog.devlord.io/?p=2860'
 permalink: '/?p=2860'
 footnotes:
     - ''

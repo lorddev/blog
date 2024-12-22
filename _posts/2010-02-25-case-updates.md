@@ -4,7 +4,7 @@ title: 'Case Updates'
 date: '2010-02-25T23:34:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/02/25/case-updates/'
+"guid: 'https://blog.devlord.io/2010/02/25/case-updates/'
 permalink: /2010/02/25/case-updates/
 activitypub_status:
     - federated

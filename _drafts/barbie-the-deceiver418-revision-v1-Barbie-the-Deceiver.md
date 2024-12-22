@@ -3,7 +3,7 @@ id: 2674
 title: 'Barbie the Deceiver'
 date: '2024-03-13T16:55:38-07:00'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2674'
+"guid: 'https://blog.devlord.io/?p=2674'
 permalink: '/?p=2674'
 ---
 

@@ -4,7 +4,7 @@ title: 'The dangers of shopping with toddlers'
 date: '2012-07-25T23:20:57-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/07/25/the-dangers-of-shopping-with-toddlers/'
+"guid: 'https://blog.devlord.io/2012/07/25/the-dangers-of-shopping-with-toddlers/'
 permalink: /2012/07/25/the-dangers-of-shopping-with-toddlers/
 activitypub_status:
     - federated

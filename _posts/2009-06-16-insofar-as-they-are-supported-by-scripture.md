@@ -4,7 +4,7 @@ title: 'Insofar as They Are Supported by Scripture'
 date: '2009-06-16T20:16:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/06/16/insofar-as-they-are-supported-by-scripture/'
+"guid: 'https://blog.devlord.io/2009/06/16/insofar-as-they-are-supported-by-scripture/'
 permalink: /2009/06/16/insofar-as-they-are-supported-by-scripture/
 activitypub_status:
     - federated

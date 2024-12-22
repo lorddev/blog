@@ -4,7 +4,7 @@ title: 'On Christmasism'
 date: '2012-11-26T21:41:57-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/11/26/on-christmasism/'
+"guid: 'https://blog.devlord.io/2012/11/26/on-christmasism/'
 permalink: /2012/11/26/on-christmasism/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Dual citizenship is not antithetical'
 date: '2010-02-21T00:42:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2390'
+"guid: 'https://blog.devlord.io/?p=2390'
 permalink: '/?p=2390'
 ---
 

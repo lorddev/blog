@@ -4,7 +4,7 @@ title: 'Google Latitude for iPhone'
 date: '2009-07-26T01:12:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2534'
+"guid: 'https://blog.devlord.io/?p=2534'
 permalink: '/?p=2534'
 ---
 

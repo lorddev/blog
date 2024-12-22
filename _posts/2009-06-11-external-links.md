@@ -4,7 +4,7 @@ title: 'External links'
 date: '2009-06-11T20:43:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/06/11/external-links/'
+"guid: 'https://blog.devlord.io/2009/06/11/external-links/'
 permalink: /2009/06/11/external-links/
 activitypub_status:
     - federated

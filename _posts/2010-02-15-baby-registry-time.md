@@ -4,7 +4,7 @@ title: 'Baby registry time!'
 date: '2010-02-15T00:23:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/02/15/baby-registry-time/'
+"guid: 'https://blog.devlord.io/2010/02/15/baby-registry-time/'
 permalink: /2010/02/15/baby-registry-time/
 activitypub_status:
     - federated

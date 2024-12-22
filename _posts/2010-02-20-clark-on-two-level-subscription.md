@@ -4,7 +4,7 @@ title: 'Clark on Two-Level Subscription'
 date: '2010-02-20T05:44:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2010/02/20/clark-on-two-level-subscription/'
+"guid: 'https://blog.devlord.io/2010/02/20/clark-on-two-level-subscription/'
 permalink: /2010/02/20/clark-on-two-level-subscription/
 activitypub_status:
     - federated

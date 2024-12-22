@@ -4,7 +4,7 @@ title: 'Ava is a Puritan!'
 date: '2009-11-17T17:31:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/11/17/ava-is-a-puritan/'
+"guid: 'https://blog.devlord.io/2009/11/17/ava-is-a-puritan/'
 permalink: /2009/11/17/ava-is-a-puritan/
 activitypub_status:
     - federated

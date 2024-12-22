@@ -4,7 +4,7 @@ title: 'Mortifying Sin'
 date: '2005-01-17T12:14:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2005/01/17/mortifying-sin/'
+"guid: 'https://blog.devlord.io/2005/01/17/mortifying-sin/'
 permalink: /2005/01/17/mortifying-sin/
 activitypub_status:
     - federated

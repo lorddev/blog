@@ -4,7 +4,7 @@ title: '&quot;As far as the east is from the west&#8230;&quot;'
 date: '2024-03-13T12:50:16-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2649'
+"guid: 'https://blog.devlord.io/?p=2649'
 permalink: '/?p=2649'
 footnotes:
     - ''

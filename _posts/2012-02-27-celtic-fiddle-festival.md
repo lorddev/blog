@@ -4,7 +4,7 @@ title: 'Celtic Fiddle Festival'
 date: '2012-02-27T11:44:44-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/02/27/celtic-fiddle-festival/'
+"guid: 'https://blog.devlord.io/2012/02/27/celtic-fiddle-festival/'
 permalink: /2012/02/27/celtic-fiddle-festival/
 activitypub_status:
     - federated

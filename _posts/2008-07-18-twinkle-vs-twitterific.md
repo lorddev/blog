@@ -4,7 +4,7 @@ title: 'Twinkle vs. Twitterific'
 date: '2008-07-18T05:47:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/07/18/twinkle-vs-twitterific/'
+"guid: 'https://blog.devlord.io/2008/07/18/twinkle-vs-twitterific/'
 permalink: /2008/07/18/twinkle-vs-twitterific/
 activitypub_status:
     - federated

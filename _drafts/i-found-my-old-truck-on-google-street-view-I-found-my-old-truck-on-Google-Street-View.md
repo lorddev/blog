@@ -4,7 +4,7 @@ title: 'I found my old truck on Google Street View!'
 date: '2009-07-21T00:57:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/07/21/i-found-my-old-truck-on-google-street-view/'
+"guid: 'https://blog.devlord.io/2009/07/21/i-found-my-old-truck-on-google-street-view/'
 permalink: '/?p=251'
 activitypub_status:
     - federated

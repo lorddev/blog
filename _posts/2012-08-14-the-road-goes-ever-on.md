@@ -4,7 +4,7 @@ title: 'The Road Goes Ever On…'
 date: '2012-08-14T18:32:06-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/08/14/the-road-goes-ever-on/'
+"guid: 'https://blog.devlord.io/2012/08/14/the-road-goes-ever-on/'
 permalink: /2012/08/14/the-road-goes-ever-on/
 activitypub_status:
     - federated

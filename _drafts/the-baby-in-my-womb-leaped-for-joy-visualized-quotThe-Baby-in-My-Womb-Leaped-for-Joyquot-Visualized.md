@@ -4,7 +4,7 @@ title: '&quot;The Baby in My Womb Leaped for Joy&quot;, Visualized'
 date: '2009-06-28T04:12:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/?p=309'
+"guid: 'https://blog.devlord.io/?p=309'
 permalink: '/?p=309'
 blogger_blog:
     - mustfollow.blogspot.com

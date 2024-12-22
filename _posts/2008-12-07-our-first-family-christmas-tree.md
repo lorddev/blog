@@ -4,7 +4,7 @@ title: 'Our First Family Christmas Tree'
 date: '2008-12-07T22:55:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/12/07/our-first-family-christmas-tree/'
+"guid: 'https://blog.devlord.io/2008/12/07/our-first-family-christmas-tree/'
 permalink: /2008/12/07/our-first-family-christmas-tree/
 activitypub_status:
     - federate

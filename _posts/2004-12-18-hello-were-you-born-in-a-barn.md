@@ -4,7 +4,7 @@ title: 'HELLO, WERE YOU BORN IN A BARN?!?'
 date: '2004-12-18T22:56:00-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2004/12/18/hello-were-you-born-in-a-barn/'
+"guid: 'https://blog.devlord.io/2004/12/18/hello-were-you-born-in-a-barn/'
 permalink: /2004/12/18/hello-were-you-born-in-a-barn/
 activitypub_status:
     - federated

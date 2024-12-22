@@ -4,7 +4,7 @@ title: '&quot;The End of Christian America&quot;?'
 date: '2009-04-06T21:20:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/04/06/the-end-of-christian-america/'
+"guid: 'https://blog.devlord.io/2009/04/06/the-end-of-christian-america/'
 permalink: /2009/04/06/the-end-of-christian-america/
 activitypub_status:
     - federated

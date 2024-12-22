@@ -4,7 +4,7 @@ title: 'New blog home'
 date: '2024-03-17T11:14:47-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2758'
+"guid: 'https://blog.devlord.io/?p=2758'
 permalink: '/?p=2758'
 footnotes:
     - ''

@@ -4,7 +4,7 @@ title: 'Re:ality'
 date: '2004-12-08T23:56:00-08:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2528'
+"guid: 'https://blog.devlord.io/?p=2528'
 permalink: '/?p=2528'
 ---
 

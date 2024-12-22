@@ -4,7 +4,7 @@ title: 'The Discipline of Disillusionment'
 date: '2005-10-23T00:27:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2005/10/23/the-discipline-of-disillusionment/'
+"guid: 'https://blog.devlord.io/2005/10/23/the-discipline-of-disillusionment/'
 permalink: /2005/10/23/the-discipline-of-disillusionment/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'The Creation Ordinances'
 date: '2009-05-06T07:56:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2009/05/06/the-creation-ordinances/'
+"guid: 'https://blog.devlord.io/2009/05/06/the-creation-ordinances/'
 permalink: /2009/05/06/the-creation-ordinances/
 activitypub_status:
     - federated

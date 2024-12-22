@@ -4,7 +4,7 @@ title: 'A happy guy enjoying God&#8217;s gifts&#8230;'
 date: '2008-06-09T01:31:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/06/09/a-happy-guy-enjoying-gods-gifts/'
+"guid: 'https://blog.devlord.io/2008/06/09/a-happy-guy-enjoying-gods-gifts/'
 permalink: /2008/06/09/a-happy-guy-enjoying-gods-gifts/
 activitypub_status:
     - federated

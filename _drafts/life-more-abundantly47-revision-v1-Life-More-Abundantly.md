@@ -4,7 +4,7 @@ title: 'Life More Abundantly'
 date: '2024-03-10T19:18:55-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2312'
+"guid: 'https://blog.devlord.io/?p=2312'
 permalink: '/?p=2312'
 footnotes:
     - ''

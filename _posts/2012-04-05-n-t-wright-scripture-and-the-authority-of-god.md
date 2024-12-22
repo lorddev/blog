@@ -4,7 +4,7 @@ title: 'N.T. Wright: Scripture and the Authority of God'
 date: '2012-04-05T17:31:54-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/04/05/n-t-wright-scripture-and-the-authority-of-god/'
+"guid: 'https://blog.devlord.io/2012/04/05/n-t-wright-scripture-and-the-authority-of-god/'
 permalink: /2012/04/05/n-t-wright-scripture-and-the-authority-of-god/
 activitypub_status:
     - federated

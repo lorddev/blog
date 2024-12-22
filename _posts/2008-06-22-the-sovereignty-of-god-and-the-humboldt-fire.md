@@ -4,7 +4,7 @@ title: 'The Sovereignty of God and the Humboldt Fire'
 date: '2008-06-22T23:25:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2008/06/22/the-sovereignty-of-god-and-the-humboldt-fire/'
+"guid: 'https://blog.devlord.io/2008/06/22/the-sovereignty-of-god-and-the-humboldt-fire/'
 permalink: /2008/06/22/the-sovereignty-of-god-and-the-humboldt-fire/
 activitypub_status:
     - federated

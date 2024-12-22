@@ -4,7 +4,7 @@ title: 'The Kingdom, the Power, and the Glory &#8211; Book Review'
 date: '2024-03-12T15:06:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/?p=2548'
+"guid: 'https://blog.devlord.io/?p=2548'
 permalink: /2024/03/12/the-kingdom-the-power-and-the-glory-book-review/
 ast-site-content-layout:
     - default

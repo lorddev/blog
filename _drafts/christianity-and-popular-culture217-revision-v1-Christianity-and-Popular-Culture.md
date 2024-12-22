@@ -4,7 +4,7 @@ title: 'Christianity and Popular Culture'
 date: '2009-10-06T04:29:00-07:00'
 author: 'Aaron Lord'
 layout: revision
-guid: 'https://www.devlord.io/blog/?p=2908'
+"guid: 'https://blog.devlord.io/?p=2908'
 permalink: '/?p=2908'
 ---
 

@@ -4,7 +4,7 @@ title: 'Chaos in the public square'
 date: '2012-03-27T10:42:52-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/03/27/chaos-in-the-public-square/'
+"guid: 'https://blog.devlord.io/2012/03/27/chaos-in-the-public-square/'
 permalink: /2012/03/27/chaos-in-the-public-square/
 activitypub_status:
     - federated

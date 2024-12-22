@@ -4,7 +4,7 @@ title: 'Day of protest'
 date: '2012-01-17T20:44:47-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/01/17/day-of-protest/'
+"guid: 'https://blog.devlord.io/2012/01/17/day-of-protest/'
 permalink: /2012/01/17/day-of-protest/
 activitypub_status:
     - federated

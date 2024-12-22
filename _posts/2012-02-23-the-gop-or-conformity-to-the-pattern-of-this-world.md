@@ -4,7 +4,7 @@ title: 'The GOP: Conformity to the Pattern of This World'
 date: '2012-02-23T20:05:59-08:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2012/02/23/the-gop-or-conformity-to-the-pattern-of-this-world/'
+"guid: 'https://blog.devlord.io/2012/02/23/the-gop-or-conformity-to-the-pattern-of-this-world/'
 permalink: /2012/02/23/the-gop-or-conformity-to-the-pattern-of-this-world/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Some thoughts on Particular Redemption'
 date: '2007-07-09T23:19:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2007/07/09/some-thoughts-on-particular-redemption/'
+"guid: 'https://blog.devlord.io/2007/07/09/some-thoughts-on-particular-redemption/'
 permalink: /2007/07/09/some-thoughts-on-particular-redemption/
 activitypub_status:
     - federated

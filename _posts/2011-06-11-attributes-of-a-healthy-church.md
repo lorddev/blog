@@ -4,7 +4,7 @@ title: 'Attributes of a Healthy Church'
 date: '2011-06-11T03:18:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/2011/06/11/attributes-of-a-healthy-church/'
+"guid: 'https://blog.devlord.io/2011/06/11/attributes-of-a-healthy-church/'
 permalink: /2011/06/11/attributes-of-a-healthy-church/
 activitypub_status:
     - federated

@@ -4,7 +4,7 @@ title: 'Jason &amp; Jessie'
 date: '2008-06-14T01:27:00-07:00'
 author: 'Aaron Lord'
 layout: post
-guid: 'https://www.devlord.io/blog/?p=652'
+"guid: 'https://blog.devlord.io/?p=652'
 permalink: '/?p=652'
 blogger_blog:
     - mustfollow.blogspot.com
