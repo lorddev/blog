@@ -31,6 +31,7 @@ RewriteEngine on
 RewriteBase /
 RewriteCond %{REQUEST_URI} !^blog/wp-admin.*
 RewriteCond %{REQUEST_URI} !^blog/wp-json.*
+RewriteCond %{REQUEST_URI} !^blog/wp-login.*
 RewriteRule ^blog/(.*)$ https://blog.devlord.io/$1 [L,R=301]
 ```
 
