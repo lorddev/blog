@@ -68,7 +68,7 @@ footnotes:
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Work on SQL Server-driven Web API, heavy on stored procedures, particularly focused on report development and query optimization as well as synchronization services. Assisted in transition from offshore development to in-house.</p>
+<p>Work on SQL Server-driven Web API, heavy on stored procedures, particularly focused on report development and query optimization as well as synchronization services. Assisted in transition from offshore development to in-house. Focus on accessibility. Began maintaining front-end in React.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
