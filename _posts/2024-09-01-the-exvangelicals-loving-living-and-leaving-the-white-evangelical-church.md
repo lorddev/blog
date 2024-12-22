@@ -23,6 +23,7 @@ footnotes:
     - ''
 wp_statistics_words_count:
     - '1202'
+cover-img: /assets/img/2024/09/DF868A05-F8CA-4047-890E-340FE1A71F7E_1_105_c.jpeg
 image: /assets/img/2024/09/DF868A05-F8CA-4047-890E-340FE1A71F7E_1_105_c.jpeg
 categories:
     - 'Book Reviews'
@@ -34,7 +35,7 @@ tags:
     - exvangelical
 ---
 
-![A photo of a hardcover copy of &quot;The Exvangelicals&quot; by Sarah McCammon"](/assets/img/2024/09/DF868A05-F8CA-4047-890E-340FE1A71F7E_1_105_c.jpeg)
+<!--![A photo of a hardcover copy of &quot;The Exvangelicals&quot; by Sarah McCammon"](/assets/img/2024/09/DF868A05-F8CA-4047-890E-340FE1A71F7E_1_105_c.jpeg)-->
 
 <!-- wp:paragraph -->
 <p>Sarah McCammon is an NPR journalist who was assigned to cover the Trump campaign in 2016. <em>The Exvangelicals</em> is part memoir and part reporting about that state of the church and why so many are leaving. I identified with the book all the way through, as I grew up in the church as well and left for similar reasons, though mine involved actual conflict rather than a quiet departure.</p>

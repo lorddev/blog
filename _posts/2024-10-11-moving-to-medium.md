@@ -24,6 +24,7 @@ activitypub_status:
     - federated
 wp_statistics_words_count:
     - '92'
+cover-img: /assets/img/2024/10/image.jpg
 categories:
     - General
 ---
