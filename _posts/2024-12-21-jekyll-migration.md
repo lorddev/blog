@@ -14,7 +14,7 @@ categories:
     - General
 ---
 
-So there's more going on at Wordpress. The boss isn't sure he's going to bring the open-source org back online after the new year. Even though I had meant to use Medium for new content, I wanted to preserve the archive of the last 20 years in a more sustainable manner.
+So there's more going on at Wordpress. The boss (Matt Mullenweg) isn't sure he's going to bring the open-source org back online after the new year. Even though I had meant to use Medium for new content, I wanted to preserve the archive of the last 20 years in a more sustainable manner.
 
 So I spent the first day of my Christmas vacation migrating to Jekyll. First I used a cool "Jekyll Export" Wordpress plugin to download all posts as markdown files (they're still html, actually), and all my attached images. Then I installed Ruby and Jekyll on my System76 Linux laptop. Ran some tests and I had to figure out how to set up the landing page with a blogroll. Then I picked a theme. Eventually I figured out the pagination feature, which was good because before there were 1,000 posts on my home page!
 
@@ -34,7 +34,9 @@ RewriteCond %{REQUEST_URI} !^blog/wp-json.*
 RewriteRule ^blog/(.*)$ https://blog.devlord.io/$1 [L,R=301]
 ```
 
-But it's not working. Contacted support and they tried the same things I did. Turns out it was a cache issue on my end. In the end, all they did in the htaccess file was `Redirect 301 /blog https://blog.devlord.io`. No rules required. (Of course, this means I can't access my WP admin anymore.)
+But it's not working. Contacted support and they tried the same things I did. Turns out it was a cache issue on my end. In the end, all they did in the htaccess file was `Redirect 301 /blog https://blog.devlord.io`. No rules required.
+
+Of course, this means I can't access my WP admin anymore. I spent some more time troubleshooting, but to no avail. I guess it's time to just rip the bandaid off.
 
 So I'm on Jekyll with GitHub Pages now.
 
