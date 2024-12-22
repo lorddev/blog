@@ -12,6 +12,9 @@ activitypub_status:
     - federated
 categories:
     - General
+tags:
+    - technology
+    - programming
 ---
 
 So there's more going on at Wordpress. The boss (Matt Mullenweg) isn't sure he's going to bring the open-source org back online after the new year. Even though I had meant to use Medium for new content, I wanted to preserve the archive of the last 20 years in a more sustainable manner.
