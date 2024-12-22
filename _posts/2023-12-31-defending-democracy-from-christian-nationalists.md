@@ -17,6 +17,7 @@ reader_suggested_tags:
     - '["Religion","History","Poetry","Philosophy","Writing"]'
 timeline_notification:
     - '1704044541'
+cover-img: /assets/img/2023/12/0CF146FA-C956-4CF9-8539-F5FA1AB76AF9_1_105_c.jpeg
 image: /assets/img/2023/12/0CF146FA-C956-4CF9-8539-F5FA1AB76AF9_1_105_c.jpeg
 categories:
     - 'Book Reviews'

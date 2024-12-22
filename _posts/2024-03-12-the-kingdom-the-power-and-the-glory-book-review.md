@@ -20,6 +20,7 @@ footnotes:
     - ''
 activitypub_status:
     - federated
+cover-img: /assets/img/2024/03/IMG_2348-scaled.jpg
 image: /assets/img/2024/03/IMG_2348-scaled.jpg
 categories:
     - 'Book Reviews'

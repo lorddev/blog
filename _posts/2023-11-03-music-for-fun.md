@@ -25,6 +25,7 @@ astra-migrate-meta-layouts:
     - set
 footnotes:
     - ''
+cover-img: /assets/img/2023/11/D5861584-5F49-4CFD-97CC-BEE5A747AFC4-scaled.jpeg
 image: /assets/img/2023/11/D5861584-5F49-4CFD-97CC-BEE5A747AFC4-scaled.jpeg
 categories:
     - Deconstruction
