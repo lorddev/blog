@@ -1,6 +1,6 @@
 ---
 id: 121
-title: 'Cause of death'
+title: 'Lydia Schatz cause of death'
 date: '2010-03-17T06:10:00-07:00'
 author: 'Aaron Lord'
 layout: post

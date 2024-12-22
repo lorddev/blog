@@ -27,7 +27,7 @@ categories:
     - 'Reformed Theology'
     - Religion
 tags:
-    - abuse
+    - 'spiritual abuse'
     - church
     - presbyterian
 format: standard

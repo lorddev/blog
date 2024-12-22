@@ -19,7 +19,8 @@ tags:
     - 'web development'
 ---
 
-[caption id="attachment_1726" align="alignnone" width="584"]<a href="/assets/img/2012/09/screenshot.png"><img class="size-full wp-image-1726" title="Lord design" src="/assets/img/2012/09/screenshot.png" alt="Lord design" width="584" height="361" /></a> Screen capture in Safari before I uploaded it to my server.[/caption]
+<img class="size-full wp-image-1726" title="Lord design" src="/assets/img/2012/09/screenshot.png" alt="Screen capture in Safari before I uploaded it to my server." width="584" height="361" />  
+*Screen capture in Safari before I uploaded it to my server.*
 
 My <a title="Lord design" href="http://lorddesign.net">website</a> has received a much-needed facelift. Or should I say <em>overhaul.</em> I had actually taken it offline last year, seeing no point paying domain registration fees when I was saving up a down-payment for our A-frame. But it seemed rather necessary since I'm a freelance developer again. Not only has my skillset changed considerably since I built the previous version, but browser support of JavaScript has changed so much that the old one actually didn't work anymore.
 

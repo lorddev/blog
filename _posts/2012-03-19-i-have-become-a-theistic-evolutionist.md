@@ -20,7 +20,6 @@ tags:
     - evolution
     - 'framework theory'
     - fundamentalism
-    - providence
 ---
 
 A few years ago, while evaluating what position I was going to take during a congregational vote regarding the adoption of a certain confession, I started researching various theological interpretations of Genesis 1-3. I came across the <em>framework theory,</em> best formulated by Lee Irons and Meredith Kline. The framework view presents Genesis 1 in two stanzas, identifying the parallelism between the two and the poetic crescendo, and how these identify the passage as <em>apocalyptic</em> genre and not historical prose.

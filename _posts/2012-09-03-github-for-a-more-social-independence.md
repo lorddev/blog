@@ -15,16 +15,14 @@ categories:
     - Technology
     - Work
 tags:
-    - bugzilla
     - freelancing
     - open-source
-    - software-development
+    - programming
     - 'source control'
-    - subversion
-    - 'versioning system'
 ---
 
-[caption align="alignnone" width="401"]<a href="/assets/img/2012/09/20120903-213309.jpg"><img class="alignnone size-full" src="/assets/img/2012/09/20120903-213309.jpg" alt="20120903-213309.jpg" /></a> Photo Credit seungjin/Flickr[/caption]
+<a href="/assets/img/2012/09/20120903-213309.jpg"><img class="alignnone size-full" src="/assets/img/2012/09/20120903-213309.jpg" alt="20120903-213309.jpg" /></a>  
+*Photo Credit seungjin/Flickr*
 
 Those who leave a tech company to venture out on their own may have to face an adjustment in their workflow. No longer will you have someone else prioritizing your tasks for you or even setting release dates.
 

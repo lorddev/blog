@@ -18,7 +18,6 @@ tags:
     - 'coding standards'
     - database
     - development
-    - SQL
 ---
 
 <p>I recently struggled for several hours over a sorted ASP.NET GridView control which was failing to behave properly. I found that on PostBack for the LinkButtons, the SortCommand was returning expressions such as &#8220;LocationDesc&#8221; and &#8220;PositionDesc&#8221;. I was confused as to why the sort direction was attached to the expression when it was already part of the SortDirection property of the EventArgs object, and assumed it might have had something to do with the way the other developers were persisting the sort data in ViewState. So I wrote a function to strip out the &#8220;Desc&#8221; from the sort expression, but as I got further in my testing, the database was telling me that &#8220;Location&#8221; and &#8220;Position&#8221; weren&#8217;t in the table. I checked to see if it was a matter of them not being included in the select statement vs. not being in the actual database table. When I looked at the database table, lo and behold, the fields were called &#8220;LocationDesc&#8221; and &#8220;PositionDesc&#8221;. Apparently &#8220;desc&#8221; is short for &#8220;description&#8221; (which is itself redundant). This results in such obviously horrid SQL statements as <code>select * from [mytable] order by locationdesc desc</code>. Terrible.</p>
