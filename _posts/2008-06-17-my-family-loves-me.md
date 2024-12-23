@@ -19,4 +19,5 @@ categories:
     - Marriage
 ---
 
-<p class="mobile-photo"><a href="http://bp1.blogger.com/_OZWxOfjIgdA/SFgeUzxQdXI/AAAAAAAAAB0/kX_Wm78-VG8/s1600-h/photo-783138.jpg"><img src="http://bp1.blogger.com/_OZWxOfjIgdA/SFgeUzxQdXI/AAAAAAAAAB0/kX_Wm78-VG8/s320/photo-783138.jpg" alt="" border="0" /></a></p><div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>
+<img src="/assets/img/2008/6/photo-783138.jpg" alt="Have a good day sugar! We love you so much!" border="0" />  
+*A love note from my pregnant wife found in my lunchbox*
