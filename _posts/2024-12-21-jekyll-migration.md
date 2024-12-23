@@ -30,7 +30,7 @@ I discovered that since I let a custom domain lapse on Wordpress.com from way be
 Now I'm just trying to figure out how to get the htaccess file working. According to an online tool I used, the following should redirect https://www.devlord.io/blog/my-post-here to https://blog.devlord.io/my-post-here.
 
 ```
-RewriteEngine on
+RewriteEngine On
 RewriteBase /
 RewriteCond %{REQUEST_URI} !^blog/wp-admin.*
 RewriteCond %{REQUEST_URI} !^blog/wp-json.*
