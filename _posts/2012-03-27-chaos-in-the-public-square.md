@@ -20,7 +20,7 @@ tags:
     - politics
 ---
 
-[youtube http://www.youtube.com/watch?v=_3vlUrnTUzk]
+<!--[youtube http://www.youtube.com/watch?v=_3vlUrnTUzk] Video no longer available because the YouTube account has been "terminated" -->
 
 We have a Mormon Republic presidential candidate who <a href="http://crooksandliars.com/karoli/rachel-maddow-romneys-lies-should-disqualif">lies all the time</a>. What do you expect from a religion <a href="http://current.com/blog/93716896_romney-s-cousin-mormonism-is-a-fraud.htm">founded on lies</a>? I don't mean to sound like a bigot, but they think Native Americans are Jewish. It's kind of a fact that they aren't. And how can you argue for the "religion of the founding fathers" when your religion is only half as old as the United States? Religions are kind of supposed to be ancient. That's the point.
 

@@ -21,5 +21,4 @@ tags:
     - 'child rearing'
 ---
 
-[youtube http://www.youtube.com/watch?v=LX0DvjMi1Mk&amp;hl=en&amp;fs=1]
-<div class="blogger-post-footer"><img alt="" width="1" height="1" /></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LX0DvjMi1Mk?si=AmLRHpHhihHtankK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
