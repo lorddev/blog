@@ -15,7 +15,8 @@ blogger_author:
 blogger_f316279e632a22cbc8478bd21b80f9b4_permalink:
     - '5414764452594368237'
 categories:
-    - General
+    - Work
 ---
 
-<p class="mobile-photo"><a href="http://bp0.blogger.com/_OZWxOfjIgdA/SIFZDt3XB4I/AAAAAAAAADo/QE_1o6OLSL4/s1600-h/IMG_0331-794010.jpg"><img src="http://bp0.blogger.com/_OZWxOfjIgdA/SIFZDt3XB4I/AAAAAAAAADo/QE_1o6OLSL4/s320/IMG_0331-794010.jpg" alt="" border="0" /></a></p><div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>
+<img src="/assets/img/2008/7/IMG_0331-794010.jpg" alt="A bunch of my coworkers in line for BBQ" border="0" />  
+*A bunch of my coworkers in line for BBQ*
