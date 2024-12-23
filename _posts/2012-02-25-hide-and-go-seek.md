@@ -17,4 +17,4 @@ categories:
 format: image
 ---
 
-<a href="/assets/img/2012/02/20120225-113332.jpg"><img class="alignnone " src="/assets/img/2012/02/20120225-113332.jpg" alt="20120225-113332.jpg" width="1162" height="1162" /></a>
+<img src="/assets/img/2012/02/20120225-113332.jpg" alt="Baxter in my favorite part of the yard, with a binkie in his mouth" />

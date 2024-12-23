@@ -21,4 +21,3 @@ tags:
 ---
 
 I was saddened while reading about the Fourth Crusade yesterday. Crusaders were forced by Venetian extortionists to sack Christian lands like Zara and Constantinople. They never even went to the Holy Land. Pope Innocent said Satan was behind the whole thing. Well, yeah! In his wrap-up to the chapter on the Crusades, Bruce Shelley writes, "Christianity's highest satisfactions are not guaranteed by possession of special places, and the sword is never God's way to extend Christ's church" (<a href="http://www.amazon.com/exec/obidos/ASIN/0849938619/lbmusic"><em>Church History in Plain Language</em></a>, 192). Amen! Jesus said his kingdom is not of this world. Christians in all eras and areas often forget this.
-<div class="blogger-post-footer"><img src="" alt="" width="1" height="1" /></div>

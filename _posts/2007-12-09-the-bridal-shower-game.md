@@ -22,4 +22,6 @@ tags:
 
 This is a little something I cooked up for a game they're playing at Christina's bridal shower. It's a "How well do you know these people" type of thing.
 
-[youtube http://www.youtube.com/watch?v=YoLUJTY7abo&amp;rel=1]
+\[Edit: It was taken down by YouTube because the answer to "my favorite artist" question was audio of the intro to U2's "Where the Streets Have No Name"\]
+
+<!--[youtube http://www.youtube.com/watch?v=YoLUJTY7abo&amp;rel=1]-->

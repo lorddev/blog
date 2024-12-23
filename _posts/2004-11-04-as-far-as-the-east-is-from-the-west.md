@@ -36,32 +36,28 @@ The distance from the North pole to the South pole is 10,801 nautical miles over
 
 So, what's my point, you ask?
 
-<blockquote>He has not dealt with us according to our sins,
-Nor punished us according to our iniquities.
-For as the heavens are high above the earth,
-So great is His mercy toward those who fear Him;
-As far as the east is from the west,
-So far has He removed our transgressions from us.
-As a father pities his children,
-So the LORD pities those who fear Him.
-For He knows our frame;
-He remembers that we are dust.
-
-<i>- Psalm 103:10-14 (NKJV)</i></blockquote>
+> He has not dealt with us according to our sins,  
+> Nor punished us according to our iniquities.  
+> For as the heavens are high above the earth,  
+> So great is His mercy toward those who fear Him;  
+> As far as the east is from the west,  
+> So far has He removed our transgressions from us.  
+> As a father pities his children,  
+> So the LORD pities those who fear Him.  
+> For He knows our frame;  
+> He remembers that we are dust.  
+> <i>- Psalm 103:10-14 (NKJV)</i>
 
 God understands the infinite difference between us and Him more than we can. He knows that there's nothing we can do to fix ourselves (<i>we are dust</i>), that He has to do it for us. And David understood that, too, hundreds of years before Messiah came to pay for our sins and make Grace a Reality! You might even go as far as to call this a Messianic prophecy! Hebrews 4:15 (NKJV) says, "For we do not have a High Priest who cannot sympathize with our weaknesses, but was in all points tempted as we are, yet without sin." David had it right: <i>He knows our frame.</i> Not only as our Creator, but as a fellow Man.
 
 So, what's our response to His offer of forgiveness? Serve the Lord wholeheartedly, and don't hold anything back from Him. If you are willing to let go of your past--your sins, your failures, your addictions, even your broken dreams--He will cleanse you completely! Don't clutch, whatever you do. In order for the Lord to heal you of those things, you need to release them to Him. "As far as the east is from the west, so far has He REMOVED out transgressions from us."
 
-<blockquote>If I could, yes I would
-If I could, I would
-Let it go
-Surrender, dislocate
-
-<i>- U2, "Bad"</i></blockquote>
+> If I could, yes I would  
+> If I could, I would  
+> Let it go  
+> Surrender, dislocate  
+> <i>- U2, "Bad"</i>
 
 Let it go.
 
 Are you willing? <i>HE IS!</i> (See Mark 1:40-41.)
-
-<div class="blogger-post-footer"><img src="https://blogger.googleusercontent.com/tracker/2602771351651662379-8137179717758129107?l=mustfollow.blogspot.com" alt="" width="1" height="1" /></div>
