@@ -18,4 +18,5 @@ categories:
     - General
 ---
 
-<p class="mobile-photo"><a href="/assets/img/2011/10/photo-766658.jpg"><img src="/assets/img/2011/10/photo-766658.jpg?w=225" border="0" alt="" /></a></p>The only people who will read these notices about the importance of  <br>handwashing are the ones already using the sink.<div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>
+<img src="/assets/img/2011/10/photo-766658.jpg" border="0" alt="A picture of notices about handwashing, only visible behind the sink" />  
+*The only people who will read these notices about the importance of handwashing are the ones already using the sink.*

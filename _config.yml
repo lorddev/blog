@@ -4,7 +4,8 @@ name: 'I must follow, if I can'
 description: 'Pursuing it with eager feet / Until it joins some larger way'
 author: 'Aaron Lord'
 #remote_theme: pages-themes/minimal@v0.2.0
-remote_theme: daattali/beautiful-jekyll@6.0.1
+#remote_theme: daattali/beautiful-jekyll@6.0.1
+remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-remote-theme
 repository: lorddev/blog
@@ -18,11 +19,13 @@ exclude:
   - CNAME
   - LICENSE
 timezone: America/Los_Angeles
-logo: /wp-content/uploads/2019/12/image.jpg
+logo: /assets/img/2019/12/image.jpg
 paginate: 10
 
 navbar-links:
   About Me: "about"
+  Categories: "categories"
+  Tags: "tags"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
@@ -43,7 +46,5 @@ social-network-links:
   github: lorddev
   linkedin: aaronjlord
   stackoverflow: "16454/devlord"
-
-share-links-active:
 
 url-pretty: "devlord.io"
