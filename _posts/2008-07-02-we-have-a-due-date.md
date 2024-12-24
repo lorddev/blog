@@ -17,6 +17,9 @@ blogger_f316279e632a22cbc8478bd21b80f9b4_permalink:
     - '769569443188031499'
 categories:
     - Family
+    - Parenthood
 ---
 
-<p class="mobile-photo"><a href="http://bp3.blogger.com/_OZWxOfjIgdA/SGvE10G3LhI/AAAAAAAAADQ/6pTuHWujueY/s1600-h/photo-795266.jpg"><img src="http://bp3.blogger.com/_OZWxOfjIgdA/SGvE10G3LhI/AAAAAAAAADQ/6pTuHWujueY/s320/photo-795266.jpg" border="0" alt="" /></a></p>The doctor just confirmed. Official due date is January 25, 2009!
+![Ultrasound photo](/assets/img/2008/07/photo-795266.jpg)
+
+The doctor just confirmed. Official due date is January 25, 2009!

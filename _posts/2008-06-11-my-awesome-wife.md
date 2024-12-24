@@ -18,4 +18,6 @@ categories:
     - General
 ---
 
-<p class="mobile-photo"><a href="http://bp1.blogger.com/_OZWxOfjIgdA/SFAx2xm4YEI/AAAAAAAAABE/qwyL_jSq6zA/s1600-h/photo-795109.jpg"><img src="http://bp1.blogger.com/_OZWxOfjIgdA/SFAx2xm4YEI/AAAAAAAAABE/qwyL_jSq6zA/s320/photo-795109.jpg" border="0" alt="" /></a></p>I LOVE finding love notes in my lunch box!
+![Photo of a pink heart-shaped note](/assets/img/2008/07/photo-795109.jpg)
+
+I LOVE finding love notes in my lunch box!
