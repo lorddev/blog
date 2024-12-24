@@ -68,4 +68,3 @@ Then we headed up the hill towards Deer Creek to kick in the tires in the new <s
 <p style="text-align: center;"><a href="/assets/img/2011/10/img_0888.jpg"><img class="aligncenter" src="/assets/img/2011/10/img_0888.jpg?w=225" alt="" border="0" /></a>
 <a href="/assets/img/2010/04/photo9.jpg"><img class="aligncenter" src="/assets/img/2010/04/photo9.jpg?w=300" alt="" border="0" /></a>Hi!</p>
 
-<div class="blogger-post-footer"><img alt="" width="1" height="1" /></div>

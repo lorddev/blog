@@ -27,4 +27,3 @@ I'm never riding the bus again, nor recommending it to anybody. I was standing a
 Fortunately it was a shift change or he wouldn't have let me on.
 
 Never riding the bus again.
-<div class="blogger-post-footer"><img alt="" width="1" height="1" /></div>

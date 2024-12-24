@@ -25,4 +25,3 @@ tags:
 If you're following my <span class="removed_link" title="http://www.google.com/buzz">Buzz</span> you probably noticed we <span class="removed_link" title="http://www.target.com/registry/baby/239KUC1QFAA9T/guestview">registered</span> yesterday at Target. Yes, I know this is our second kid and our first is still in diapers, but we went all-out pink with Ava! We do have white onesies of various sizes, but everything else was pink, so now we are in need of non-girl stuff.
 
 Our son Baxter Isaac is due May 31. I don't have info on the baby shower yet.
-<div class="blogger-post-footer"><img src="" alt="" width="1" height="1" /></div>

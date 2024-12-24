@@ -68,4 +68,3 @@ The flaw of the Jews who expected a political Messiah was that they interpreted 
 But His kingdom is not of this world.
 
 </div>
-<div class="blogger-post-footer"><img src="/my-kingdom-is-not-of-this-world/"" width="1" height="1" /></div>

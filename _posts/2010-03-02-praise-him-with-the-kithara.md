@@ -162,4 +162,3 @@ make melody to him with the harp of ten strings!
 Sing to him a new song;
 play skillfully on the strings, with loud shouts. (Psalm 33:1-3, ESV)</blockquote>
 Soli Deo Gloria
-<div class="blogger-post-footer"><img alt="" width="1" height="1" /></div>

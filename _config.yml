@@ -24,7 +24,12 @@ paginate: 10
 
 navbar-links:
   About Me: "about"
-  Categories: "categories"
+  Categories:
+    - Deconstruction: "/categories/#Deconstruction"
+    - Music: "/categories/#Music"
+    - "Book Reviews": "/categories/#Book Reviews"
+    - Religion: "/categories/#Religion"
+    - "All categories": "categories"
   Tags: "tags"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -43,6 +48,7 @@ social-network-links:
   rss: true
   mastodon: hachyderm.io/@devlord
   bluesky: devlord.io
+  medium: lorddevel
   github: lorddev
   linkedin: aaronjlord
   stackoverflow: "16454/devlord"

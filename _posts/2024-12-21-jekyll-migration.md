@@ -19,7 +19,7 @@ tags:
 
 So there's more going on at Wordpress. The boss (Matt Mullenweg) isn't sure he's going to bring the open-source org back online after the new year. Even though I had meant to use Medium for new content, I wanted to preserve the archive of the last 20 years in a more sustainable manner.
 
-So I spent the first day of my Christmas vacation migrating to Jekyll. First I used a cool "Jekyll Export" Wordpress plugin to download all posts as markdown files (they're still html, actually), and all my attached images. Then I installed Ruby and Jekyll on my System76 Linux laptop. Ran some tests and I had to figure out how to set up the landing page with a blogroll. Then I picked a theme. Eventually I figured out the pagination feature, which was good because before there were 1,000 posts on my home page!
+So I spent the first day of my Christmas vacation migrating to Jekyll. First I used a cool "Jekyll Exporter" Wordpress plugin to download all posts as markdown files (they're still html, actually), and all my attached images. Then I installed Ruby and Jekyll on my System76 Linux laptop. Ran some tests and I had to figure out how to set up the landing page with a blogroll. Then I picked a theme. Eventually I figured out the pagination feature, which was good because before there were 1,000 posts on my home page!
 
 I checked it all in to Git. Switched to my Macbook, installed Ruby and Jekyll again. Ran some more tests. Set it up with GitHub Pages.
 

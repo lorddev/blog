@@ -60,4 +60,3 @@ If the chief phrase for you in that passage is "without neglecting the others", 
 Like a quote a friend of mine likes to repeat as often as possible, "How much can I do without that I may have more to give?"
 
 Like I said, giving in the New Testament is not about supporting institutions and building projects. It's about helping those in need. There are links on my blog to <a href="http://www.worldvision.org/">WorldVision</a>, an organization I support because they are Christians who preach Christ whenever they can, yet they care blindly for those who need their help, because you can't preach to them if they starve to death.
-<div class="blogger-post-footer"><img alt="" width="1" height="1" /></div>

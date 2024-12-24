@@ -45,4 +45,3 @@ In this information age, we have so many tools which should help us avoid ignora
 - Posted using BlogPress from my iPad
 <p class="blogpress_location">Location:<a href="http://maps.google.com/maps?q=Eaton%20Rd,Chico,United%20States%4039.768641%2C-121.831300&amp;z=10">Eaton Rd,Chico,United States</a></p>
 
-<div class="blogger-post-footer"><img alt="" width="1" height="1" /></div>

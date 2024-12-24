@@ -19,4 +19,4 @@ categories:
     - Religion
 ---
 
-DayPortPlayer.newPlayer({articleID:"10755",bannerAdConDefID:"5",videoAdObjectID:"4",videoAdConDefID:"2",playVideoAds:"true",categoryID:"3",accPos:"CCTVI.NEWS.LOCAL",accSite:"KHSL",playerInstanceID:"27574A89-06D1-CD92-4444-22719C5099EC",domain:"khsl.dayport.com"});<div class="blogger-post-footer"><img width='1' height='1' src="/blog/da-links-schatz-case-to-michael-and-debi-pearl/"' /></div>
+DayPortPlayer.newPlayer({articleID:"10755",bannerAdConDefID:"5",videoAdObjectID:"4",videoAdConDefID:"2",playVideoAds:"true",categoryID:"3",accPos:"CCTVI.NEWS.LOCAL",accSite:"KHSL",playerInstanceID:"27574A89-06D1-CD92-4444-22719C5099EC",domain:"khsl.dayport.com"});

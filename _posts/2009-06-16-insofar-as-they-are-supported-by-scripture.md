@@ -43,4 +43,3 @@ When Paul speaks of baptism in this manner, in this passage as well as others, i
 Finally, paedobaptists speak of those cases in Acts where it says so-and-so was baptized, "he and his household." Even some Reformed paedobaptists I have read acknowledge that there is nothing in these passages to indicate that the familes being discussed had any infants in them. Furthermore, I would cite Acts 18:8, which says that Crispus "<em>believed</em> in the Lord, together with his entire household." This indicates either that "entire household" is a figure of speech, or that Crispus did not, in fact, have infants in his family.
 
 Covenant and Reformed Christians, please recognize the arguments of Reformed Baptists, and don't just lump us in with John MacArthur and write us off as non-Calvinistic.
-<div class="blogger-post-footer"><img src="/insofar-as-they-are-supported-by-scripture/"" width="1" height="1" /></div>

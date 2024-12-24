@@ -22,4 +22,3 @@ format: aside
 ---
 
 "The infallible rule of interpretation of Scripture, is the Scripture itself; and therefore, when there is a question about the true and full sense of any scripture (which is not manifold, but one), it may be searched and known by other places that speak more clearly." <em>Westminster Confession of Faith</em>, I.9.
-<div class="blogger-post-footer"><img alt="" width="1" height="1" /></div>

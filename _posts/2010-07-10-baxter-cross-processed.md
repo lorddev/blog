@@ -42,4 +42,3 @@ format: image
 
 <p class="mobile-photo">Equipment: iPhone 4, LED flash. Touched-up with CrossProcess.</p>
 
-<div class="blogger-post-footer"><img alt="" width="1" height="1" /></div>
