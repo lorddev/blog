@@ -11,9 +11,8 @@ footnotes:
 activitypub_status:
     - federated
 categories:
-    - General
+    - Technology
 tags:
-    - technology
     - programming
 ---
 

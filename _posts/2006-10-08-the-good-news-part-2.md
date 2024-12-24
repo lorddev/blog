@@ -27,7 +27,7 @@ astra-migrate-meta-layouts:
 footnotes:
     - ''
 categories:
-    - Technology
+    - Work
 ---
 
 Tomorrow at 2 PM I have a telephone interview for a job at Auctiva, a company in Chico, where my pal Sean Brown works. I'm excited about this, for a couple reasons. First, there's the fact that I'd get to move back to Chico!!! Also, I don't want to be stuck somewhere where people are just in "getting by" mode, using servers that are 8 years old and inefficient linear code with archaic poorly-designed HTML output. I don't want to stagnate. I want to grow and move forward. I want to be on the cutting edge of web programming technology.
