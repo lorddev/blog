@@ -6,6 +6,7 @@ author: 'Aaron Lord'
 layout: post
 guid: '1616be20-fb94-4f71-a399-2b1fc57b7081'
 permalink: /2024/12/24/ava-at-driving-age/
+cover-img: '/assets/img/2024/12/IMG_3360.png'
 footnotes:
     - ''
 categories:
@@ -31,6 +32,8 @@ author: 'Aaron Lord'
 layout: post
 guid: '1616be20-fb94-4f71-a399-2b1fc57b7081'
 permalink: /2024/12/24/ava-at-driving-age/
+cover-img: '/assets/img/2024/12/IMG_3360.png'
+
 footnotes:
     - ''
 categories:
