@@ -62,4 +62,3 @@ It's all bullshit. My prayer is that more and more Christians will start to see 
 “He will reply, ‘Truly I tell you, whatever you did not do for one of the least of these, you did not do for me.’
 
 “Then they will go away to eternal punishment, but the righteous to eternal life.” —Jesus (Mt. 25:41-46, NIV)
-<div class="blogger-post-footer"><img alt="" width="1" height="1" /></div>

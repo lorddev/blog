@@ -18,4 +18,10 @@ categories:
     - General
 ---
 
-After 100 years of revolution Sinn Fein and the Irish Republican Army are disarming and dismantling and decommissioning hidden weapons and bunkers (as well as the visible ones).<br /><br />Says Sinn Fein leader Gerry Adams:<br /><blockquote>There is a time to resist, to stand up and to confront the enemy by arms if necessary. In other words, unfortunately, there is a time for war. There is also a time to engage, to reach out and put war behind us. This is that time.</blockquote>See this article in the <a href="http://hosted.ap.org/dynamic/stories/N/NIRELAND_IRA?SITE=NVLAS&amp;TEMPLATE=DEFAULT&amp;SECTION=HOME"><i>Las Vegas Review Journal</i></a><div class="blogger-post-footer"><img width='1' height='1' src='https://blogger.googleusercontent.com/tracker/2602771351651662379-3490163846752047951?l=mustfollow.blogspot.com' alt='' /></div>
+After 100 years of revolution Sinn Fein and the Irish Republican Army are disarming and dismantling and decommissioning hidden weapons and bunkers (as well as the visible ones).
+
+Says Sinn Fein leader Gerry Adams:
+
+> There is a time to resist, to stand up and to confront the enemy by arms if necessary. In other words, unfortunately, there is a time for war. There is also a time to engage, to reach out and put war behind us. This is that time.
+
+<!--See this article in the <a href="http://hosted.ap.org/dynamic/stories/N/NIRELAND_IRA?SITE=NVLAS&amp;TEMPLATE=DEFAULT&amp;SECTION=HOME"><i>Las Vegas Review Journal</i></a>-->

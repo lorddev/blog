@@ -31,4 +31,3 @@ format: image
 Since my MacBook died, this is the setup I used for the Podcast this morning (visit <a href="http://www.sovereignjoycf.org/">http://www.sovereignjoycf.org</a> to hear the results, or here's a link directly to the message on <a href="http://www.sovereignjoycf.org/podcast/Matthew/46%20Matthew%205_21-22.mp3">Matthew 5:21-22</a>). Cakewalk Sonar 2.2 from 2003. An E-mu APS sound card I bought in 1999 and have migrated from PC to PC through the years (they finally made an XP driver for it!).
 
 I only have 4 GB of free space in my HDD, so this setup isn't going to last very long...
-<div class="blogger-post-footer"><img src="" alt="" width="1" height="1" /></div>

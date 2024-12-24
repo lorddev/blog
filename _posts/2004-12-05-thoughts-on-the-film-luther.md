@@ -17,6 +17,8 @@ blogger_f316279e632a22cbc8478bd21b80f9b4_permalink:
 categories:
     - 'Religion'
     - 'Reformed Theology'
+tags:
+    - movies
 ---
 
 <a href="http://www.amazon.com/exec/obidos/ASIN/B0002C9D9U/lbmusic"><img align="left" alt="Luther" border="0" src="http://images.amazon.com/images/P/B0002C9D9U.01._SCMZZZZZZZ_.jpg" /></a> I rented <a href="http://www.amazon.com/exec/obidos/ASIN/B0002C9D9U/lbmusic"><i>Luther</i></a> this weekend and watched it twice.  The opening credits proudly tout the name of the Lutheran bank that bankrolled the film (which I thought was kind of weird...  you never see B of A or Wells Fargo logos come up with the studio logos at the beginning of a movie).  The editing is poor and most of the actors have strange unidentifiable accents and deliver their lines in an awkward manner, with pauses in the wrong places (which is why I had to watch it twice and constantly rewind and use subtitles in order to catch much of the dialogue).  And there are some terrible overdubs where the actors on film are clearly not saying anything remotely close to what you hear out of your speakers.

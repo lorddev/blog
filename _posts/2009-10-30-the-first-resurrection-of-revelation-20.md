@@ -29,4 +29,3 @@ Kim Riddlebarger takes a crack at the meaning of the First Resurrection in Revel
 “The Age of the Holy Spirit”</a> (mp3)
 
 I know some of you will appreciate this.
-<div class="blogger-post-footer"><img alt="" width="1" height="1" /></div>

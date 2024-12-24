@@ -15,7 +15,7 @@ blogger_author:
 blogger_f316279e632a22cbc8478bd21b80f9b4_permalink:
     - '4413071490029107219'
 categories:
-    - General
+    - Marriage
 ---
 
-<p class="mobile-photo"><a href="/assets/img/2011/10/photo-715000.jpg"><img src="/assets/img/2011/10/photo-715000.jpg?w=300" border="0" alt="" /></a></p><div class="blogger-post-footer"><img width='1' height='1' src="/blog/happy-v-day/"' /></div>
+<p class="mobile-photo"><a href="/assets/img/2011/10/photo-715000.jpg"><img src="/assets/img/2011/10/photo-715000.jpg?w=300" border="0" alt="" /></a></p>

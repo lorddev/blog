@@ -38,4 +38,3 @@ The sacrificial rituals of the Torah were given as types and shadows of the Mess
 Though I will admit that Aaron probably did not have time to list all of the sins committed by the children of Israel, the text is clear: the sins which the scapegoat bore outside the camp were particular sins of the congregation.
 
 Beloved, if you believe in Christ as your Lord and Savior, you can truly say, "He really did see me and my sins on the cross, and he really did die for them!" Amen! "It is finished!" This is good news! It is a joy that can help us through our darkest times. Though I am nothing, completely worthless, prone to wander and to dishonor him with my sins, he still died for me.
-<div class="blogger-post-footer"><img alt="" width="1" height="1" /></div>

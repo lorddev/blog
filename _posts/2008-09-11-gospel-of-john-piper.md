@@ -18,4 +18,4 @@ categories:
     - General
 ---
 
-John Piper is about to begin a new sermon series on the Gospel of John!<p><a href="http://www.desiringgod.org/ResourceLibrary/TasteAndSee/ByDate/2008/3226/">http://www.desiringgod.org/ResourceLibrary/TasteAndSee/ByDate/2008/3226/</a><p><br>Sent from my iPhone<div class="blogger-post-footer"><img width='1' height='1' src='https://blogger.googleusercontent.com/tracker/2602771351651662379-6893392136829966313?l=mustfollow.blogspot.com' alt='' /></div>
+John Piper is about to begin a new sermon series on the Gospel of John!<p><a href="http://www.desiringgod.org/ResourceLibrary/TasteAndSee/ByDate/2008/3226/">http://www.desiringgod.org/ResourceLibrary/TasteAndSee/ByDate/2008/3226/</a><p><br>Sent from my iPhone

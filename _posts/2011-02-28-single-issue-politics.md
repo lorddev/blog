@@ -39,4 +39,3 @@ I am not a papist, but the reigning pontiff, though staunchly pro-life, had sugg
 <strong>Update #2:</strong> If you apply the percentages of a 2004 Gallup poll to the nation breakdown of party affiliations that year, you find there are 27 million pro-life Democrats and 30 million pro-life Republicans. Not exactly the polarization the right would have you believe.
 
 <strong>Update #3:</strong> I re-registered today (3/4/11). I am no longer a single-issue Republican. Wisconsin governer Scott Walker pushed me over the edge.
-<div class="blogger-post-footer"><img alt="" width="1" height="1" /></div>

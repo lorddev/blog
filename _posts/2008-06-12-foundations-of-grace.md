@@ -38,4 +38,3 @@ Steven J. Lawson also has mp3s of his sermons on his website. <a href="http://ww
 
 <img src="http://www.assoc-amazon.com/s/noscript?tag=lbmusic" alt="" />
 
-<div class="blogger-post-footer"><img src="https://blogger.googleusercontent.com/tracker/2602771351651662379-7011197885059305551?l=mustfollow.blogspot.com" alt="" width="1" height="1" /></div>

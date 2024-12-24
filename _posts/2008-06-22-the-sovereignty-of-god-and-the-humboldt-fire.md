@@ -38,4 +38,3 @@ No matter what, God is good, and he is in control, so trust him. If you are a Ch
 <a href="http://www.sovereignjoycf.org/podcast/Topical/01%20The%20Sovereignty%20of%20God%20and%20the%20Humboldt%20Fire.mp3">Download the sermon audio</a>
 <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=262971249">Subscribe to our podcast on iTunes</a>
 <a href="http://www.sovereignjoycf.org/podcast/podcast-am.xml">Direct link to xml feed</a>
-<div class="blogger-post-footer"><img src="" alt="" width="1" height="1" /></div>

@@ -24,4 +24,3 @@ format: link
 
 <a href="http://www.thinkgeek.com/gadgets/cellphone/8928/"><img src="http://www.thinkgeek.com/images/products/additional/large/bluetooth_retro_handset_off.jpg" alt="" border="0" /></a>
 I want one of <a href="http://www.thinkgeek.com/gadgets/cellphone/8928/">these</a>.  It's very cool.  You can actually hold it on your shoulder and talk into it.
-<div class="blogger-post-footer"><img src="" alt="" width="1" height="1" /></div>

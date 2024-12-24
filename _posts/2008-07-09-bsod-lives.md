@@ -18,4 +18,4 @@ categories:
     - Technology
 ---
 
-I don't use Vista personally, either for my workplace IDE or at home, and I'm typing this now on a Mac, as a matter of fact!  However, I just read <a href="http://www.joedeveloper.net/blog/post/2008/07/06/Vista-and-the-Bluescreen.aspx">this post from Joseph</a> about how Microsoft actually names some Vista errors "BlueScreen" errors in honor of the "Blue Screen of Death"!  He even has a screenshot.<div class="blogger-post-footer"><img width='1' height='1' src='https://blogger.googleusercontent.com/tracker/2602771351651662379-7678978665552981659?l=mustfollow.blogspot.com' alt='' /></div>
+I don't use Vista personally, either for my workplace IDE or at home, and I'm typing this now on a Mac, as a matter of fact!  However, I just read <a href="http://www.joedeveloper.net/blog/post/2008/07/06/Vista-and-the-Bluescreen.aspx">this post from Joseph</a> about how Microsoft actually names some Vista errors "BlueScreen" errors in honor of the "Blue Screen of Death"!  He even has a screenshot.

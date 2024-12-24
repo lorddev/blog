@@ -20,4 +20,3 @@ categories:
     - 'Reformed Theology'
 ---
 
-<div class="blogger-post-footer"><img alt="" width="1" height="1" /></div>

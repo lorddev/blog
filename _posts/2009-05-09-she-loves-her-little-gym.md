@@ -20,4 +20,4 @@ categories:
     - Family
 ---
 
-<p class="mobile-photo"><a href="/assets/img/2011/10/photo-745527.jpg"><img src="/assets/img/2011/10/photo-745527.jpg?w=300" border="0" alt="" /></a></p><div class="blogger-post-footer"><img width='1' height='1' src="/2009/05/09/she-loves-her-little-gym/"' /></div>
+<p class="mobile-photo"><a href="/assets/img/2011/10/photo-745527.jpg"><img src="/assets/img/2011/10/photo-745527.jpg?w=300" border="0" alt="" /></a></p>

@@ -25,4 +25,3 @@ Leland Ryken notes:
 HT: JT
 
 Sent from my iPhone
-<div class="blogger-post-footer"><img alt="" width="1" height="1" /></div>

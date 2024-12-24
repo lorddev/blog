@@ -21,10 +21,10 @@ tags:
     - activism
 ---
 
-<div class="separator" style="clear:both;text-align:center;"><a style="margin-left:1em;margin-right:1em;" href="/assets/img/2011/10/blackspot_sneaker.jpg"><img src="/assets/img/2011/10/blackspot_sneaker.jpg?w=300" alt="" width="400" height="282" border="0" /></a></div>
+<div class="separator" style="clear:both;text-align:center;"><a style="margin-left:1em;margin-right:1em;" href="/assets/img/2011/10/blackspot_sneaker.jpg"><img src="/assets/img/2011/10/blackspot_sneaker.jpg?w=300" alt="An ad for a sneaker that looks like Chuck Taylor's but is anti-corporate" border="0" /></a></div>
 A few months ago I watched a convicting <a href="http://www.pbs.org/wgbh/pages/frontline/shows/walmart/view/">show about Walmart</a> on Frontline that caused me to not want to shop there anymore. I also saw one about the <a href="http://www.pbs.org/wgbh/pages/frontline/shows/credit/view/">credit card industry</a> that I found quite disturbing. (Thanks to <a href="http://www.findingrhythm.com/weblog/index.php">Zach</a> for the recommendations.)
 
-Unfortunately, not very long after I viewed this shows, I once again found myself in a tight spot financially where I couldn't afford to shop anywhere <em>but</em> Wal*Mart!
+Unfortunately, not very long after I viewed this shows, I once again found myself in a tight spot financially where I couldn't afford to shop anywhere <em>but</em> Walmart!
 
 Bill Power, lead singer for Blenderhead, wrote a forward for <em>Simplicity</em>, and after I read the book, I looked him up online, and found his blog at <a href="http://www.iambillpower.org/">iambillpower.org</a>. Soon I started checking out some of the links on his website, including <a href="http://www.adbusters.org/home/">Adbusters</a> and <a href="http://www.behindthelabel.org/campaigns/sfc/">Behind the Label</a>.
 
@@ -39,4 +39,3 @@ I'd almost rather spend money on clothes that are made in countries like Nicarag
 Now, don't get me wrong--I am a Republican. But I am a Christian first, and the Bible is very clear about how we need to do all we can to not be a part of the world system.
 
 The coolest thing about the Adbusters Blackspot campaignis that it's radical, yet not radical at the same time. Instead of throwing out your whole entire wardrobe, you can just alter your current branded clothing to make your anti-corporation statement. Just draw a black spot over the logos with a black marker!
-<div class="blogger-post-footer"><img src="" alt="" width="1" height="1" /></div>

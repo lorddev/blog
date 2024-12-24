@@ -15,7 +15,7 @@ blogger_author:
 blogger_f316279e632a22cbc8478bd21b80f9b4_permalink:
     - '4652077861042467454'
 categories:
-    - Technology
+    - 'Random Rants'
 ---
 
-So I wasn't able to get up early enough to see the launch live yesterday.  I thought I had my alarm set on snooze so it would go back off after 5 minutes, but I guess I didn't.  I was able to view clips online and on the news later, but it's not quite the same.  I might have missed my last chance ever to see the space shuttle take off.  It's not looking good for the space shuttle program.  According to <a href="http://news.yahoo.com/s/ap/20050728/ap_on_sc/space_shuttle/nc:2117;_ylt=Ap52JBr3XqKSbw9Akucu3SmHgsgF;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl">this AP news story</a>, the shuttle fleet is grounded until further notice because of this insulating-foam-chunks-always-breaking-off issue that apparently still haunts NASA.
+So I wasn't able to get up early enough to see the launch live yesterday.  I thought I had my alarm set on snooze so it would go back off after 5 minutes, but I guess I didn't.  I was able to view clips online and on the news later, but it's not quite the same.  I might have missed my last chance ever to see the space shuttle take off.  It's not looking good for the space shuttle program.  According to <a href="https://www.washingtonpost.com/archive/politics/2005/07/28/nasa-to-ground-shuttles-again/7cc5f6a4-b089-49b7-8803-c9d24f21d031/">this news story</a>, the shuttle fleet is grounded until further notice because of this insulating-foam-chunks-always-breaking-off issue that apparently still haunts NASA.
