@@ -19,5 +19,5 @@ categories:
     - Marriage
 ---
 
-<img src="/assets/img/2008/6/photo-783138.jpg" alt="Have a good day sugar! We love you so much!" border="0" />  
+<img src="/assets/img/2008/06/photo-783138.jpg" alt="Have a good day sugar! We love you so much!" border="0" />  
 *A love note from my pregnant wife found in my lunchbox*

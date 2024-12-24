@@ -18,7 +18,6 @@ categories:
     - Depression
 tags:
     - suffering
-    - trials
 ---
 
 Abraham Piper's wife Molly <a href="http://thepipers.wordpress.com/2009/07/23/we-used-to-be-happy-people-i-even-have-proof/">posted today</a> about grief and loss and growing deeper, in a post called "We used to be happy people... I even have proof."

@@ -18,5 +18,5 @@ categories:
     - Work
 ---
 
-<img src="/assets/img/2008/7/IMG_0331-794010.jpg" alt="A bunch of my coworkers in line for BBQ" border="0" />  
+<img src="/assets/img/2008/07/IMG_0331-794010.jpg" alt="A bunch of my coworkers in line for BBQ" border="0" />  
 *A bunch of my coworkers in line for BBQ*

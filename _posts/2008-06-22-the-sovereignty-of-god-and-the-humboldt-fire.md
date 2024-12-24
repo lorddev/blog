@@ -18,9 +18,13 @@ enclosure:
     - "http://www.sovereignjoycf.org/podcast/Topical/01%20The%20Sovereignty%20of%20God%20and%20the%20Humboldt%20Fire.mp3\n1635\naudio/mpeg\n"
 categories:
     - 'Reformed Theology'
+    - Local
 tags:
     - church
+    - suffering
     - 'humboldt fire'
+    - chico
+    - 'paradise-ca'
 ---
 
 Because of the temporal and geographical proximity of the event, and the tight-knit community where we live, last Sunday (June 15), Pastor Patrick took a break from the Matthew series to bring a special message about the Sovereignty of God, in order to help our members, attendees, and podcast listeners to be able to provide an answer to people who ask, "How could God allow something like this?" Here is a brief summary of the sermon.

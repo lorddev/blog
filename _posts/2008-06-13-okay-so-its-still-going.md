@@ -15,7 +15,13 @@ blogger_author:
 blogger_f316279e632a22cbc8478bd21b80f9b4_permalink:
     - '7297442721638341316'
 categories:
-    - General
+    - Local
+tags:
+    - chico
+    - 'humboldt fire'
+    - 'paradise-ca'
 ---
 
-<p class="mobile-photo"><a href="http://bp1.blogger.com/_OZWxOfjIgdA/SFMEcotWP7I/AAAAAAAAABk/kQGIAq6_tro/s1600-h/photo-778585.jpg"><img src="http://bp1.blogger.com/_OZWxOfjIgdA/SFMEcotWP7I/AAAAAAAAABk/kQGIAq6_tro/s320/photo-778585.jpg" border="0" alt="" /></a></p>This is the view of the Humboldt Fire from Lupine Ave.
+![image](/assets/img/2008/07/photo-778585.jpg)
+
+This is the view of the Humboldt Fire from Lupine Ave.

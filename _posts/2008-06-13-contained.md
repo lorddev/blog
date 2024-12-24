@@ -18,7 +18,10 @@ categories:
     - Local
 tags:
     - 'humboldt fire'
+    - 'paradise-ca'
+    - chico
 ---
 
-<p class="mobile-photo"><a href="http://bp2.blogger.com/_OZWxOfjIgdA/SFKkadLFG5I/AAAAAAAAABc/2GNW80OqlbI/s1600-h/photo-793178.jpg"><img src="http://bp2.blogger.com/_OZWxOfjIgdA/SFKkadLFG5I/AAAAAAAAABc/2GNW80OqlbI/s320/photo-793178.jpg" alt="" border="0" /></a></p>
+![Smoke from the Humbolt fire as it winds down](/assets/img/2008/07/photo-793178.jpg)
+
 This is all that's left of the fire. View from Eaton and Floral. The whole city is filled with smoke, though. It reminds me of southern California.

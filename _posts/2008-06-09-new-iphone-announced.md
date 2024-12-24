@@ -8,7 +8,6 @@ guid: 'https://blog.devlord.io/2008/06/09/new-iphone-announced/'
 permalink: /2008/06/09/new-iphone-announced/
 activitypub_status:
     - federated
-    - federated
 blogger_author:
     - Aaron
 blogger_blog:
@@ -21,4 +20,10 @@ tags:
     - iphone
 ---
 
-<p class="mobile-photo"><a href="http://bp1.blogger.com/_sH6xfvKcA4g/SE196Y2l-9I/AAAAAAAAAAM/5yz96RIX-Rw/s1600-h/photo-757125.jpg"><img src="http://bp1.blogger.com/_sH6xfvKcA4g/SE196Y2l-9I/AAAAAAAAAAM/5yz96RIX-Rw/s320/photo-757125.jpg" alt="" border="0" /></a></p>It's coming out June 11 and will cost only $199! Happy Birthday, Honey!<br /><br />(View <a href="http://events.apple.com.edgesuite.net/0806wdt546x/event/index.html">keynote address</a>.)
+!["Screenshot" as in a picture of my screen"](/assets/img/2008/06/photo-757125.jpg)
+
+It's coming out June 11 and will cost only $199! Happy Birthday, Honey!
+
+![Revisionist edit with new screenshot](/assets/img/2008/06/iphone-3g-199.png)
+
+(View <a href="https://www.youtube.com/watch?v=_X5xOI_qu9I">keynote address</a>.)

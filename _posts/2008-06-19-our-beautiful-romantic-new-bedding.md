@@ -20,4 +20,6 @@ categories:
     - Marriage
 ---
 
-<p class="mobile-photo"><a href="http://bp1.blogger.com/_OZWxOfjIgdA/SFn0OeG5fFI/AAAAAAAAAC4/-2FBx9w-o6U/s1600-h/photo-777602.jpg"><img src="http://bp1.blogger.com/_OZWxOfjIgdA/SFn0OeG5fFI/AAAAAAAAAC4/-2FBx9w-o6U/s320/photo-777602.jpg" border="0" alt="" /></a></p>Never thought I&#039;d be sleeping on a pink pillow. Marriage will do that  <br>to a man...
+![headboard and pillows](/assets/img/2008/06/photo-777602.jpg)
+
+Never thought I'd be sleeping on a pink pillow. Marriage will do that to a man...

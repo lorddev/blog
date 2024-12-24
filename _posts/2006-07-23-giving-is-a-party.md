@@ -21,9 +21,10 @@ categories:
 tags:
     - baptists
     - church
+    - 'spiritual abuse'
 ---
 
-Kent Hughes may be a gifted teacher, but there are things to disagree with him about. One issue troubled me recently when I was reading his chapter on giving in <em>Disciplines of a Godly Man</em>. First, I'd like to say that I know that I give less than I should. But the only reason for that is that I believe it's biblically less-than-ideal for me to have credit card debt, so I am putting more than half of my income towards remedying that situation, in order that I may be more free to give in the future.
+Kent Hughes may be a gifted teacher, but there are things to disagree with him about. One issue troubled me recently when I was reading his chapter on giving in <em>Disciplines of a Godly Man</em>. First, I'd like to say that I know that I give less than I should. But the only reason for that is that I believe it's biblically less-than-ideal for me to have credit card debt, so I am putting more than half of my income towards remedying that situation, in order that I may be more free to give in the future.
 
 There are some points I want to make about the issue of giving, and how the modern church misuses scripture and manipulates the poor in order to keep the coffers full.
 

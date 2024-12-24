@@ -22,5 +22,7 @@ tags:
 ---
 
 According to <a href="http://newstalk1290.wordpress.com/2008/06/25/lightning-strikes-cause-several-fires/">KPAY</a>,
-<blockquote>10:00 AM Update: Air Quality Officials say Chico currently has the worst air in the state. Officials yesterday forecast air quality at over 200…today they are forecasting air quality at 250. Gail Williams with Butte County Air Quality says it’s the highest level ever. She says the air is unhealthy for everybody, and suggests staying indoors and limiting physical activity.</blockquote>
+
+> 10:00 AM Update: Air Quality Officials say Chico currently has the worst air in the state. Officials yesterday forecast air quality at over 200…today they are forecasting air quality at 250. Gail Williams with Butte County Air Quality says it’s the highest level ever. She says the air is unhealthy for everybody, and suggests staying indoors and limiting physical activity.
+
 Make sure you keep the windows shut, and set the a/c in your car to recirculate instead of vent...

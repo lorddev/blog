@@ -21,4 +21,8 @@ tags:
     - worship
 ---
 
-Tim Challies has just written a great article on the importance of  <br>meaning the words we sing when we worship the Lord with hymns and song.<p><a href="http://www.challies.com/archives/christian-living/feelings-of-affection.php">http://www.challies.com/archives/christian-living/feelings-of-affection.php</a><p><br>Sent from my iPhone
+Tim Challies has just written a great article on the importance of meaning the words we sing when we worship the Lord with hymns and song.
+
+[Betraying God in Worship](https://www.challies.com/christian-living/betraying-god-in-worship/)
+
+Sent from my iPhone

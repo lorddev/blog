@@ -18,4 +18,6 @@ categories:
     - Family
 ---
 
-<a href="http://bp1.blogger.com/_OZWxOfjIgdA/SFsQA2xVwSI/AAAAAAAAADA/QFo62J4kDGc/s1600-h/IMG_0260.JPG"><img src="http://bp1.blogger.com/_OZWxOfjIgdA/SFsQA2xVwSI/AAAAAAAAADA/QFo62J4kDGc/s320/IMG_0260.JPG" alt="" border="0" /></a><a href="http://bp3.blogger.com/_OZWxOfjIgdA/SFsQN6LTlcI/AAAAAAAAADI/oL2FAeoAZJ4/s1600-h/IMG_0258.JPG"><img src="http://bp3.blogger.com/_OZWxOfjIgdA/SFsQN6LTlcI/AAAAAAAAADI/oL2FAeoAZJ4/s320/IMG_0258.JPG" alt="" border="0" /></a>
+![Front of Fathers day card](/assets/img/2008/06/IMG_0260.jpg)
+
+![Inside of Fathers day card](/assets/img/2008/06/IMG_0258.JPG)
