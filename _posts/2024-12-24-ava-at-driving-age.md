@@ -44,7 +44,7 @@ tags:
 
 If you want to add a picture, you can't just copy and paste like in a blog app with a UI. You have to open up an image editor and resize it from its 24 megapixels, export it to a web-appropriate format, save it in the right place, and type in the new url appropriately.
 
-You also have to run Ruby so you can verify stuff on localhost before you push it to `main`. And there's no email notifications.
+You also have to run Ruby so you can verify stuff on localhost before you push it to `main`. This is all fun stuff for me because I'm a software developer. But there's no email notifications. You have to go old-school and subscribe to [my RSS feed](/feed.xml).
 
 I've [said](/2024/10/11/moving-to-medium/) that I'd be posting on Medium because the Wordpress organization is now unstable. But Medium isn't---or isn't any longer---a blogging platform. It's for long-form content that is considered "high quality". So I will probably post book reviews and high-minded thoughts on deconstruction there, but it's not appropriate for journaling updates on my life.
 
