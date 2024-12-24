@@ -34,4 +34,3 @@ Tomorrow at 2 PM I have a telephone interview for a job at Auctiva, a company in
 
 At Auctiva, I'd need to make an adjustment to switch from VB to C#, but this is something I want to do. From what I've read, C# is the way to go, because of how closely-entwined it has been with the development of the .NET Framework. I don't have much C# experience, but I hope they'll take into consideration the fact that all the namespaces in the .NET class library behave the same way no matter what language you're using. I'm a really quick study, too. One of my first big projects where I work now was a huge Ajax interface for our company's Intranet site, and I had to learn a lot of JavaScript techniques and Ajax concepts in order to put that in place.
 
-<div class="blogger-post-footer"></div>

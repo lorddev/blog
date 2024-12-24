@@ -83,4 +83,3 @@ To be obedient to the signs of the Covenant is not to be legalistic. Jesus Chris
 
 </div>
 
-<div class="blogger-post-footer"></div>

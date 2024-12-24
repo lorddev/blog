@@ -46,4 +46,3 @@ The setting apart of the Lord's Day as holy, as the day of rest and worship, whe
 To be obedient to the signs of the Covenant is not to be legalistic. Jesus Christ is Lord of the Sabbath, and he plainly laid out in the Gospels the difference between Biblical Sabbath and the corruption of the Pharisees. Take, for example, his works of healing on the Sabbath. As Stark observes, "Charitable works may and should be done on the Sabbath. This was the thing the Pharisees misunderstood. They thought it must be unlawful to do anything on the Day of Rest. They fell into this error because they didn't follow Scripture in defining their faith, a common problem still with us in our day."
 
 </div>
-<div class="blogger-post-footer"></div>

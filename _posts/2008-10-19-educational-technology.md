@@ -18,4 +18,4 @@ categories:
     - Technology
 ---
 
-Chico State updates it&#039;s Vista online classroom service to accept Word document uploads; software engineer husbands of student wives rejoice.  <a>Bug page</a>.<br /><br />Sent from my iPhone<div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>
+Chico State updates it&#039;s Vista online classroom service to accept Word document uploads; software engineer husbands of student wives rejoice.  <a>Bug page</a>.<br /><br />Sent from my iPhone

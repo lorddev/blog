@@ -8,4 +8,4 @@ guid: 'https://blog.devlord.io/?p=2460'
 permalink: '/?p=2460'
 ---
 
-Something else to keep in mind in four years.<p><a href="http://www.abcnews.go.com/GMA/Politics/story?id=6196407&amp;page=1">http://www.abcnews.go.com/GMA/Politics/story?id=6196407&amp;page=1</a><p><br>Sent from my iPhone<div class="blogger-post-footer"></div>
+Something else to keep in mind in four years.<p><a href="http://www.abcnews.go.com/GMA/Politics/story?id=6196407&amp;page=1">http://www.abcnews.go.com/GMA/Politics/story?id=6196407&amp;page=1</a><p><br>Sent from my iPhone

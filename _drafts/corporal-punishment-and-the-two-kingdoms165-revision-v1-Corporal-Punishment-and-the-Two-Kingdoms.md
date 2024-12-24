@@ -59,4 +59,3 @@ This fundamentalist, narcissistic spirit seems to be the spirit of the age. R. S
 And Jesus did say, “Whoever causes one of these little ones who believe to stumble, it would be better for him if, with a heavy millstone hung around his neck, he had been cast into the sea” (Mark 9:42, NASB), and, “Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me” (Mt. 25:40, ESV). I think of the scene in Mel Gibson's <em>Passion</em>, where the Roman soldiers were flogging our Lord and Maker. Could I be one of those soldiers, methodically counting each lash out loud as his back splits open and his sacred blood spills out on the ground...
 
 “Wretched man that I am! Who will deliver me from this body of death? Thanks be to God through Jesus Christ our Lord!” (Romans 7:24-25a, ESV).
-<div class="blogger-post-footer"></div>

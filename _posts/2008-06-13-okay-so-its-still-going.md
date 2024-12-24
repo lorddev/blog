@@ -18,4 +18,4 @@ categories:
     - General
 ---
 
-<p class="mobile-photo"><a href="http://bp1.blogger.com/_OZWxOfjIgdA/SFMEcotWP7I/AAAAAAAAABk/kQGIAq6_tro/s1600-h/photo-778585.jpg"><img src="http://bp1.blogger.com/_OZWxOfjIgdA/SFMEcotWP7I/AAAAAAAAABk/kQGIAq6_tro/s320/photo-778585.jpg" border="0" alt="" /></a></p>This is the view of the Humboldt Fire from Lupine Ave.<div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>
+<p class="mobile-photo"><a href="http://bp1.blogger.com/_OZWxOfjIgdA/SFMEcotWP7I/AAAAAAAAABk/kQGIAq6_tro/s1600-h/photo-778585.jpg"><img src="http://bp1.blogger.com/_OZWxOfjIgdA/SFMEcotWP7I/AAAAAAAAABk/kQGIAq6_tro/s320/photo-778585.jpg" border="0" alt="" /></a></p>This is the view of the Humboldt Fire from Lupine Ave.

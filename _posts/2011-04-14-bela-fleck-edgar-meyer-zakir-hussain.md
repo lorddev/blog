@@ -46,4 +46,3 @@ There are some musicians that inspire you to make more music; there are some who
 
 Laxson will announce it's 2011-2012 concert season lineup in June, so stay tuned to <a href="http://www.chicoperformances.com/">chicoperformances.com</a> for the details.
 
-<div class="blogger-post-footer"></div>

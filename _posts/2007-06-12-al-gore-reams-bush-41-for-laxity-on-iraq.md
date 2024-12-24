@@ -18,4 +18,4 @@ categories:
     - General
 ---
 
-In hindsight, those of us who did not vote for this guy should consider this 1992 speech a rebuke.<br /><br /><div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>
+In hindsight, those of us who did not vote for this guy should consider this 1992 speech a rebuke.<br /><br />

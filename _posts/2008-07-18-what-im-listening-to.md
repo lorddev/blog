@@ -18,4 +18,4 @@ categories:
     - 'Reformed Theology'
 ---
 
-<p class="mobile-photo"><a href="http://bp1.blogger.com/_OZWxOfjIgdA/SIDWFootl1I/AAAAAAAAADg/ZnQ0Qbha_VY/s1600-h/photo-766657.jpg"><img src="http://bp1.blogger.com/_OZWxOfjIgdA/SIDWFootl1I/AAAAAAAAADg/ZnQ0Qbha_VY/s320/photo-766657.jpg" border="0" alt="" /></a></p>Good stuff.<div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>
+<p class="mobile-photo"><a href="http://bp1.blogger.com/_OZWxOfjIgdA/SIDWFootl1I/AAAAAAAAADg/ZnQ0Qbha_VY/s1600-h/photo-766657.jpg"><img src="http://bp1.blogger.com/_OZWxOfjIgdA/SIDWFootl1I/AAAAAAAAADg/ZnQ0Qbha_VY/s320/photo-766657.jpg" border="0" alt="" /></a></p>Good stuff.

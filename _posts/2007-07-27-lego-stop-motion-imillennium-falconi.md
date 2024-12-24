@@ -18,4 +18,4 @@ categories:
     - 'Random Rants'
 ---
 
-This is just about the coolest thing ever.<br /><br /><div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>
+This is just about the coolest thing ever.<br /><br />

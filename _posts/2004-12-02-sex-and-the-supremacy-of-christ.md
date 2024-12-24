@@ -15,7 +15,7 @@ blogger_author:
 blogger_f316279e632a22cbc8478bd21b80f9b4_permalink:
     - '8251172499957246560'
 categories:
-    - 'Random Rants'
+    - 'Religion'
 tags:
     - 'john piper'
 ---

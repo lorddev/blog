@@ -41,4 +41,3 @@ Last month I mentioned the fallout from the Florida church discipline fiasco and
 
 <div>Grace Community Church in southern California is approaching John MacArthur's 40th anniversary as their pastor, and in recent weeks he has been discussing the biblical foundations that were laid all those years ago.  I recommend subscribing to their <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=295647558">sermon podcast</a>.<br /></div>
 
-<div class="blogger-post-footer"></div>

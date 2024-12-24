@@ -8,4 +8,4 @@ guid: 'https://blog.devlord.io/?p=2383'
 permalink: '/?p=2383'
 ---
 
-The new <a href="http://itunes.apple.com/us/app/trillian/id327603487?mt=8">update</a> for the Trillian iPhone app will let you stay signed in for up to 7 days!<div class="blogger-post-footer"></div>
+The new <a href="http://itunes.apple.com/us/app/trillian/id327603487?mt=8">update</a> for the Trillian iPhone app will let you stay signed in for up to 7 days!

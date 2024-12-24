@@ -8,4 +8,4 @@ guid: 'https://blog.devlord.io/?p=2454'
 permalink: '/?p=2454'
 ---
 
-Here's a good article on the righteous (and unrighteous) origins of the Santa Claus myth: <a href="http://www.theresurgence.org/saint_nicholas">Saint Nicholas</a>.<div class="blogger-post-footer"></div>
+Here's a good article on the righteous (and unrighteous) origins of the Santa Claus myth: <a href="http://www.theresurgence.org/saint_nicholas">Saint Nicholas</a>.

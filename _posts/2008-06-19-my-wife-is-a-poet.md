@@ -18,4 +18,4 @@ categories:
     - Marriage
 ---
 
-My lovely wife, Christina, is a gifted poet.  Here is a link to a poem she recently posted on her own blog at <a href="http://howvast.blogspot.com/2008/06/11.html">howvast.blogspot.com</a>.<div class="blogger-post-footer"></div>
+My lovely wife, Christina, is a gifted poet.  Here is a link to a poem she recently posted on her own blog at <a href="http://howvast.blogspot.com/2008/06/11.html">howvast.blogspot.com</a>.

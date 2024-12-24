@@ -16,4 +16,4 @@ categories:
     - General
 ---
 
-<p class="mobile-photo"><a href="http://bp3.blogger.com/_OZWxOfjIgdA/SFMf4amVj9I/AAAAAAAAABs/YAmlKFawSL4/s1600-h/photo-701075.jpg"><img src="http://bp3.blogger.com/_OZWxOfjIgdA/SFMf4amVj9I/AAAAAAAAABs/YAmlKFawSL4/s320/photo-701075.jpg" border="0" alt="" /></a></p>Jason and Jessie are getting married right now!<div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>
+<p class="mobile-photo"><a href="http://bp3.blogger.com/_OZWxOfjIgdA/SFMf4amVj9I/AAAAAAAAABs/YAmlKFawSL4/s1600-h/photo-701075.jpg"><img src="http://bp3.blogger.com/_OZWxOfjIgdA/SFMf4amVj9I/AAAAAAAAABs/YAmlKFawSL4/s320/photo-701075.jpg" border="0" alt="" /></a></p>Jason and Jessie are getting married right now!

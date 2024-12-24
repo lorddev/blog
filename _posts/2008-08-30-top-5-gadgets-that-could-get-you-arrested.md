@@ -18,4 +18,4 @@ categories:
     - Technology
 ---
 
-These are cool...<br /><br /><a href="http://www.wired.com/gadgets/miscellaneous/news/2008/08/5_Gadgets_Arrested">http://www.wired.com/gadgets/miscellaneous/news/2008/08/5_Gadgets_Arrested</a><div class="blogger-post-footer"></div>
+These are cool...<br /><br /><a href="http://www.wired.com/gadgets/miscellaneous/news/2008/08/5_Gadgets_Arrested">http://www.wired.com/gadgets/miscellaneous/news/2008/08/5_Gadgets_Arrested</a>

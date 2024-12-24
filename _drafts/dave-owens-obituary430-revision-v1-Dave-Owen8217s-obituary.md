@@ -8,4 +8,4 @@ guid: 'https://blog.devlord.io/?p=2448'
 permalink: '/?p=2448'
 ---
 
-<a href="http://www.malibutimes.com/articles/2008/12/17/obituaries/obit2.txt">http://www.malibutimes.com/articles/2008/12/17/obituaries/obit2.txt</a><div class="blogger-post-footer"></div>
+<a href="http://www.malibutimes.com/articles/2008/12/17/obituaries/obit2.txt">http://www.malibutimes.com/articles/2008/12/17/obituaries/obit2.txt</a>

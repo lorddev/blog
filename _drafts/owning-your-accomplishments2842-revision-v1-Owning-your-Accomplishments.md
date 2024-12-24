@@ -8,6 +8,8 @@ guid: 'https://blog.devlord.io/?p=2970'
 permalink: '/?p=2970'
 footnotes:
     - ''
+categories:
+    - Music
 ---
 
 <!-- wp:paragraph -->

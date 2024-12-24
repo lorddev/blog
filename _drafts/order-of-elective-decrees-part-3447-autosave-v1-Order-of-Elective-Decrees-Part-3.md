@@ -91,5 +91,5 @@ footnotes:
 <!-- /wp:image -->
 
 <!-- wp:html -->
-<div class="blogger-post-footer"></div>
+
 <!-- /wp:html -->

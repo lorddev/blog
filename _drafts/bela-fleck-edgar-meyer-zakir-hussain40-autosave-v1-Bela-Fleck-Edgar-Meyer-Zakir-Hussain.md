@@ -20,4 +20,3 @@ One of the things that has always struck me about Béla Fleck ensembles is how m
 There are some musicians that inspire you to make more music; there are some whose skills are so profoundly jaw-dropping that they make you want to give up and say, "I sucketh forever." I am not quite sure yet which of these this performance has done to me.
 
 Laxson will announce it's 2011-2012 concert season lineup in June, so stay tuned to <a href="http://www.chicoperformances.com/">chicoperformances.com</a> for the details.
-<div class="blogger-post-footer"></div>

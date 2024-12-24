@@ -18,4 +18,4 @@ categories:
     - General
 ---
 
-It amazes me how much people are willing to turn a blind eye because  of the Olympics. Don't turn a blind eye to this, dear Reader.  It is an article from <i>Voice of the Martyrs</i> about <a href="http://www.persecution.com/news/index.cfm?action=fullstory&amp;newsID=610">Chinese Christians being persecuted in Beijing</a>.<br /><br />Sent from my iPhone<div class="blogger-post-footer"></div>
+It amazes me how much people are willing to turn a blind eye because  of the Olympics. Don't turn a blind eye to this, dear Reader.  It is an article from <i>Voice of the Martyrs</i> about <a href="http://www.persecution.com/news/index.cfm?action=fullstory&amp;newsID=610">Chinese Christians being persecuted in Beijing</a>.<br /><br />Sent from my iPhone

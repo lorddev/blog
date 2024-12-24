@@ -18,4 +18,4 @@ categories:
     - Family
 ---
 
-It's official!  We saw a picture!<p>Sent from my iPhone</p><div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>
+It's official!  We saw a picture!<p>Sent from my iPhone</p>

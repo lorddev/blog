@@ -25,4 +25,3 @@ So the Covenant of Works existed for about a chapter and a half, from the middle
 
 <ul><li><a href="/2009/06/04/whats-the-big-idea/">What's "The Big Idea?"</a><br /></li><li><a href="/2009/06/12/god-and-foreign-relations/">"God and Foreign Relations"</a></li><li><a href="/2009/07/01/chapter-2-5-gods-freedom-in-covenant/">Chapter 2.5: God's Freedom in Covenant</a></li><li>The Covenant of Works and the Covenant of Grace<br /></li></ul>
 
-<div class="blogger-post-footer"></div>

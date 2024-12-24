@@ -18,4 +18,4 @@ categories:
     - General
 ---
 
-Paul Mathers, also known as the bane of the <i>didelphis virginiana</i>, has posted <a href="http://possumbane.livejournal.com/473016.html">pictures from the Gumpys' wedding reception</a> on his blog.<div class="blogger-post-footer"></div>
+Paul Mathers, also known as the bane of the <i>didelphis virginiana</i>, has posted <a href="http://possumbane.livejournal.com/473016.html">pictures from the Gumpys' wedding reception</a> on his blog.

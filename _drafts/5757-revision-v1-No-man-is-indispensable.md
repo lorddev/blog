@@ -12,4 +12,3 @@ footnotes:
 
 ‎"No man is indispensable." —French proverb<br /><br />"If I resign today there will be chaos." —Egyptian dictator Hosni Mubarak
 
-<div class="blogger-post-footer"></div>
