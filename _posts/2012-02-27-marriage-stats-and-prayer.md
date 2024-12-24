@@ -15,7 +15,7 @@ categories:
     - 'Reformed Theology'
 tags:
     - 'covenant theology'
-    - Marriage
+    - marriage
 format: standard
 ---
 

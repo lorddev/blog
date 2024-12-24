@@ -18,4 +18,4 @@ categories:
     - General
 ---
 
-<p class="mobile-photo"><a href="http://bp2.blogger.com/_OZWxOfjIgdA/SJfIvzPWZfI/AAAAAAAAAEY/VPih9WCq_p0/s1600-h/photo-779438.jpg"><img src="http://bp2.blogger.com/_OZWxOfjIgdA/SJfIvzPWZfI/AAAAAAAAAEY/VPih9WCq_p0/s320/photo-779438.jpg" border="0" alt="" /></a></p>I&#039;m just so excited, this is the first time in how many months that  <br>I&#039;ve paid less than $4/gal. for gas?<div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>
+<p class="mobile-photo"><a href="http://bp2.blogger.com/_OZWxOfjIgdA/SJfIvzPWZfI/AAAAAAAAAEY/VPih9WCq_p0/s1600-h/photo-779438.jpg"><img src="http://bp2.blogger.com/_OZWxOfjIgdA/SJfIvzPWZfI/AAAAAAAAAEY/VPih9WCq_p0/s320/photo-779438.jpg" border="0" alt="" /></a></p>I&#039;m just so excited, this is the first time in how many months that  <br>I&#039;ve paid less than $4/gal. for gas?

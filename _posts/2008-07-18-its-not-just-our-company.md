@@ -19,4 +19,4 @@ categories:
     - Work
 ---
 
-The whole world is down for Thursday night maintenance...  Wikipedia... Amazon... Twitter...  eBay...<div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>
+The whole world is down for Thursday night maintenance...  Wikipedia... Amazon... Twitter...  eBay...

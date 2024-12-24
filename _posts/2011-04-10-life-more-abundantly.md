@@ -37,4 +37,3 @@ At the mainline church I visited this morning, the pastor said, “The reason Je
 Jesus himself tells us the purpose of his coming, and he doesn't say it's so people can have "eternal life" in the hereafter, but that they can have "abundant life," beginning now. We do that by abiding in him (dwell/Gk. meno), like branches get their life from the vine.
 
 15:9. The Father's love can be defined as grace. This is unconditional "just because" love that has nothing to do with who you are or what you've done. You abide in it by keeping his commands (though it's not earned), and this is how you experience that abundant life. v11. Obedience brings us joy. John Calvin: “True knowledge of God is born out of obedience.” Do you believe that God really knows what's best for you?
-<div class="blogger-post-footer"></div>

@@ -19,4 +19,4 @@ categories:
     - Family
 ---
 
-<p class="mobile-photo"><a href="http://bp3.blogger.com/_OZWxOfjIgdA/SGvE10G3LhI/AAAAAAAAADQ/6pTuHWujueY/s1600-h/photo-795266.jpg"><img src="http://bp3.blogger.com/_OZWxOfjIgdA/SGvE10G3LhI/AAAAAAAAADQ/6pTuHWujueY/s320/photo-795266.jpg" border="0" alt="" /></a></p>The doctor just confirmed. Official due date is January 25, 2009!<div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>
+<p class="mobile-photo"><a href="http://bp3.blogger.com/_OZWxOfjIgdA/SGvE10G3LhI/AAAAAAAAADQ/6pTuHWujueY/s1600-h/photo-795266.jpg"><img src="http://bp3.blogger.com/_OZWxOfjIgdA/SGvE10G3LhI/AAAAAAAAADQ/6pTuHWujueY/s320/photo-795266.jpg" border="0" alt="" /></a></p>The doctor just confirmed. Official due date is January 25, 2009!

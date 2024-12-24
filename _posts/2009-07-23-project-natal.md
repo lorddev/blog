@@ -18,4 +18,4 @@ categories:
     - Technology
 ---
 
-This is slightly disgusting.<br /><br /><br /><br />*drool*<div><br /></div><div>HT: <a href="http://www.hanselman.com/blog/AccidentalPrescienceAndTheSecretsOfProjectNatal.aspx">Hanselman</a></div><div class="blogger-post-footer"></div>
+This is slightly disgusting.<br /><br /><br /><br />*drool*<div><br /></div><div>HT: <a href="http://www.hanselman.com/blog/AccidentalPrescienceAndTheSecretsOfProjectNatal.aspx">Hanselman</a></div>

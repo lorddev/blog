@@ -48,4 +48,3 @@ In Genesis 15, it is Yahweh himself, in theophany, who passes between the carcas
 
 <ul><li><a href="/2009/06/04/whats-the-big-idea/">What's "The Big Idea?"</a><br /></li><li>"God and Foreign Relations"</li><li><a href="/2009/07/01/chapter-2-5-gods-freedom-in-covenant/">Chapter 2.5: God's Freedom in Covenant</a></li><li><a href="/2009/07/11/the-covenant-of-works-and-the-covenant-of-grace/">The Covenant of Works and the Covenant of Grace</a></li></ul>
 
-<div class="blogger-post-footer"></div>

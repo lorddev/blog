@@ -18,4 +18,4 @@ categories:
     - 'Random Rants'
 ---
 
-<br /><br />By the way, if anybody's wondering why they aren't getting notification emails when I post a new blog, due to the recent upgrade I did to MovableType 3.35, the email settings are a little jacked up at the moment.  Hopefully I'll get them taken care of within the next week.<br /><br /><i>Update 7/26/07 9:41 PM: Looks like I got notifications working!</i><div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>
+<br /><br />By the way, if anybody's wondering why they aren't getting notification emails when I post a new blog, due to the recent upgrade I did to MovableType 3.35, the email settings are a little jacked up at the moment.  Hopefully I'll get them taken care of within the next week.<br /><br /><i>Update 7/26/07 9:41 PM: Looks like I got notifications working!</i>

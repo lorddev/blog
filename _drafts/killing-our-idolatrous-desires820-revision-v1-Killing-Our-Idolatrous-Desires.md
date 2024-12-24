@@ -31,4 +31,3 @@ The Biblical wedding analogy is not just a descriptive picture of what it's like
 
 <blockquote>...if....we must reckon with the fact that God's wisdom is the ultimate reason we lost our earthly treasure, then we will be forced to do the very valuable act of testing our hearts to see if we loved something on earth more than the wisdom of God in taking it from us.<br /><br />All of life is meant to reflect the infinite value of Christ (Philippians 1:20).  We show His infinite worth by reasuring Him above all things and all persons.  Believing in His all-ruling, all-wise sovereignty helps reveal our idolatries in times of pain and loss.  Not believing that God has a wise purpose for every event helps conceal our idolatries.  (Piper, <i>Vapor</i>, 115)</blockquote>
 
-<div class="blogger-post-footer"></div>

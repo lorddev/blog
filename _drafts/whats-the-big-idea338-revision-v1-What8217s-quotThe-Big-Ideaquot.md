@@ -41,4 +41,3 @@ Posts in this series:
  	<li><a href="/2009/07/01/chapter-2-5-gods-freedom-in-covenant/">Chapter 2.5: God's Freedom in Covenant</a></li>
  	<li><a href="/2009/07/11/the-covenant-of-works-and-the-covenant-of-grace/">The Covenant of Works and the Covenant of Grace</a></li>
 </ul>
-<div class="blogger-post-footer"></div>

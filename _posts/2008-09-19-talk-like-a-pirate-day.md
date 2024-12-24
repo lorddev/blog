@@ -18,4 +18,4 @@ categories:
     - General
 ---
 
-Avast ye!  Wouldst have behooved me to have known aforetime!<div><br /></div><div><a href="http://www.talklikeapirate.com/">http://www.talklikeapirate.com/</a><br /></div><div class="blogger-post-footer"></div>
+Avast ye!  Wouldst have behooved me to have known aforetime!<div><br /></div><div><a href="http://www.talklikeapirate.com/">http://www.talklikeapirate.com/</a><br /></div>

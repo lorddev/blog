@@ -18,4 +18,4 @@ categories:
     - General
 ---
 
-"The lot is cast into the lap but it&#039;s every decision is from the  <br>LORD." Prov. 16:33 (ESV)<p>Sent from my iPhone<div class="blogger-post-footer"><img width='1' height='1' src='' alt='' /></div>
+"The lot is cast into the lap but it&#039;s every decision is from the  <br>LORD." Prov. 16:33 (ESV)<p>Sent from my iPhone

@@ -38,4 +38,3 @@ He goes on to point out some differences between the Abrahamic covenant and the 
 
 <ul><li><a href="/2009/06/04/whats-the-big-idea/">What's "The Big Idea?"</a><br /></li><li><a href="/2009/06/12/god-and-foreign-relations/">"God and Foreign Relations"</a></li><li>Chapter 2.5: God's Freedom in Covenant</li><li><a href="/2009/07/11/the-covenant-of-works-and-the-covenant-of-grace/">The Covenant of Works and the Covenant of Grace</a></li></ul>
 
-<div class="blogger-post-footer"></div>

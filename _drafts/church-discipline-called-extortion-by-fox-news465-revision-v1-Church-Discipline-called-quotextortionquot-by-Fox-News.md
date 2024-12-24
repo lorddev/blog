@@ -28,4 +28,3 @@ Greg Gilbert says,
 
 Nine Marks commentary can be found <a href="http://blog.9marks.org/2008/12/church-discipli.html">here</a>, <a href="http://blog.9marks.org/2008/12/outrage--church.html">here</a>, and <a href="http://blog.9marks.org/2008/12/update-church-e.html">here</a>.
 
-<div class="blogger-post-footer"></div>

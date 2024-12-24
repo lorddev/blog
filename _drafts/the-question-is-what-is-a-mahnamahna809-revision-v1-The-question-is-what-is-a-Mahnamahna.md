@@ -8,4 +8,4 @@ guid: 'https://blog.devlord.io/?p=2518'
 permalink: '/?p=2518'
 ---
 
-<a href="http://web.mit.edu/fatsean/www/Mahnamahna.mpeg">The question is, who cares?</a><div class="blogger-post-footer"></div>
+<a href="http://web.mit.edu/fatsean/www/Mahnamahna.mpeg">The question is, who cares?</a>

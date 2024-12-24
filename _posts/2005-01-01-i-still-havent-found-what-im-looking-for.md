@@ -82,8 +82,6 @@ But the author of Hebrews exhorts us to "lay aside every weight" (Heb 12:1). Phi
 
 Oswald Chambers said:
 
-<blockquote>". . . God requires an account of what is past" ( Ecclesiastes 3:15 ). At the end of the year we turn with eagerness to all that God has for the future, and yet anxiety is apt to arise when we remember our yesterdays. Our present enjoyment of God’s grace tends to be lessened by the memory of yesterday’s sins and blunders. But God is the God of our yesterdays, and He allows the memory of them to turn the past into a ministry of spiritual growth for our future. God reminds us of the past to protect us from a very shallow security in the present. (<a href="http://www.gospelcom.net/rbc/utmost/12/31/" target="_blank" rel="noopener"><i>My Utmost for His Highest</i></a>, p. 366)</blockquote>
+> . . . God requires an account of what is past" ( Ecclesiastes 3:15 ). At the end of the year we turn with eagerness to all that God has for the future, and yet anxiety is apt to arise when we remember our yesterdays. Our present enjoyment of God’s grace tends to be lessened by the memory of yesterday’s sins and blunders. But God is the God of our yesterdays, and He allows the memory of them to turn the past into a ministry of spiritual growth for our future. God reminds us of the past to protect us from a very shallow security in the present. (<a href="http://www.gospelcom.net/rbc/utmost/12/31/" target="_blank" rel="noopener"><i>My Utmost for His Highest</i></a>, p. 366)
 
 Let's press on!
-
-<div class="blogger-post-footer"><img src="https://blogger.googleusercontent.com/tracker/2602771351651662379-9179894617320070886?l=mustfollow.blogspot.com" alt="" width="1" height="1" /></div>

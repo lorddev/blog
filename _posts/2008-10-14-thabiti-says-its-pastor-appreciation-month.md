@@ -29,4 +29,3 @@ And I don't mean by buying him a Mercedes, people!  How about something that gl
 Honestly, if it weren't for my pastor's influence in my life, I don't know where I'd be today. Thank you, Patrick.
 
 Sent from my iPhone
-<div class="blogger-post-footer"></div>

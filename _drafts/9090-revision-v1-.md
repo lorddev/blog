@@ -7,4 +7,4 @@ guid: 'https://blog.devlord.io/?p=2336'
 permalink: '/?p=2336'
 ---
 
-<p class="mobile-photo"><a href="/assets/img/2011/10/photo-781537.jpg"><img src="/assets/img/2011/10/photo-781537.jpg?w=300" border="0" alt="" /></a></p><div class="blogger-post-footer"></div>
+<p class="mobile-photo"><a href="/assets/img/2011/10/photo-781537.jpg"><img src="/assets/img/2011/10/photo-781537.jpg?w=300" border="0" alt="" /></a></p>

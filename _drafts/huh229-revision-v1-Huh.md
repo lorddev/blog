@@ -8,4 +8,4 @@ guid: 'https://blog.devlord.io/?p=2415'
 permalink: '/?p=2415'
 ---
 
-<a href="http://kimriddlebarger.squarespace.com/the-latest-post/2009/8/18/swell.html">Are you kidding me</a>?<div class="blogger-post-footer"></div>
+<a href="http://kimriddlebarger.squarespace.com/the-latest-post/2009/8/18/swell.html">Are you kidding me</a>?
