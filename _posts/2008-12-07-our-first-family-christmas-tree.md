@@ -20,4 +20,4 @@ categories:
     - General
 ---
 
-<p class="mobile-photo"><a href="/assets/img/2011/10/photo-764151.jpg"><img src="/assets/img/2011/10/photo-764151.jpg?w=225" border="0" alt="" /></a></p>
+![First family Christmas](/assets/img/2008/12/IMG_0462.png)
