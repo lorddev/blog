@@ -36,6 +36,7 @@ tags:
     - '1689'
     - 'Reformed Baptist'
     - 'the Lord''s day'
+    - sabbath
 ---
 
 One of the most important passages for believers who seek to have a unified Biblical understanding is Matthew 5:17-19:

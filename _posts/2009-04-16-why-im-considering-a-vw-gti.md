@@ -45,8 +45,3 @@ It's things like this:
 
 It could be the answer, because it's so many cars: family load lugger, urban commuter, sports car, icon. Winner. (From a <a href="http://www.telegraph.co.uk/motoring/carreviews/5131191/Volkswagen-Golf-GTI-review.html">review of the MkVI</a> on the <span style="font-style: italic;">Telegraph</span>).</blockquote>
 Nice.
-<div class="blogger-post-footer">
-
-<img src="/assets/img/2011/10/photo-740306.jpg?w=300" alt="" width="1" height="1" />
-
-</div>
