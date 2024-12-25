@@ -18,4 +18,8 @@ categories:
     - Politics
 ---
 
-Last month's <i>Time</i> had Calvinism as the third of the top 10 ideas changing the world right now.  This month, Al Mohler has some insight on the <i>Newsweek</i> cover story, which begins:<br /><blockquote>To the surprise of liberals who fear the advent of an evangelical theocracy and to the dismay of religious conservatives who long to see their faith more fully expressed in public life, Christians are now making up a declining percentage of the American population.</blockquote>View article
+Last month's <i>Time</i> had New Calvinism as the third of the top 10 ideas changing the world right now.  This month, Al Mohler has some insight on the <i>Newsweek</i> cover story, which begins:
+
+> To the surprise of liberals who fear the advent of an evangelical theocracy and to the dismay of religious conservatives who long to see their faith more fully expressed in public life, Christians are now making up a declining percentage of the American population.
+
+View article \[Link removed\]

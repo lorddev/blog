@@ -18,7 +18,6 @@ categories:
     - Parenthood
 tags:
     - Ava
-    - 'child rearing'
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LX0DvjMi1Mk?si=AmLRHpHhihHtankK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="730" height="410" src="https://www.youtube.com/embed/LX0DvjMi1Mk?si=AmLRHpHhihHtankK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

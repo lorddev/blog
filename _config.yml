@@ -54,3 +54,9 @@ social-network-links:
   stackoverflow: "16454/devlord"
 
 url-pretty: "devlord.io"
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true

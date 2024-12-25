@@ -7,7 +7,7 @@ layout: post
 guid: 'https://blog.devlord.io/2009/02/02/o-how-i-love-jesus-because-he-first-loved-me/'
 permalink: /2009/02/02/o-how-i-love-jesus-because-he-first-loved-me/
 activitypub_status:
-    - federate
+    - federated
 blogger_blog:
     - mustfollow.blogspot.com
 blogger_author:

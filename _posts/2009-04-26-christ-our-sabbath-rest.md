@@ -22,11 +22,14 @@ tags:
     - baptists
     - church
     - 'Reformed Baptist'
+    - 'the Lord''s day'
+    - sabbath
 ---
 
-<blockquote>As it is the law of nature, that in general a proportion of time, by God's appointment, be set apart for the worship of God, so by his Word, in a positive moral, and perpetual commandment, binding all men, in all ages, he hath particularly appointed one day in seven for a sabbath to be kept holy unto him, which from the beginning of the world to the resurrection of Christ was the last day of the week, and from the resurrection of Christ was changed into the first day of the week, which is called the Lord's day: and is to be continued to the end of the world as the Christian Sabbath, the observation of the last day of the week being abolished.
+> As it is the law of nature, that in general a proportion of time, by God's appointment, be set apart for the worship of God, so by his Word, in a positive moral, and perpetual commandment, binding all men, in all ages, he hath particularly appointed one day in seven for a sabbath to be kept holy unto him, which from the beginning of the world to the resurrection of Christ was the last day of the week, and from the resurrection of Christ was changed into the first day of the week, which is called the Lord's day: and is to be continued to the end of the world as the Christian Sabbath, the observation of the last day of the week being abolished.
+> 
+> The sabbath is then kept holy unto the Lord, when men, after a due preparing of their hearts, and ordering their common affairs aforehand, do not only observe an holy rest all day, from their own works, words and thoughts, about their worldly employment and recreations, but are also taken up the whole time in the public and private exercises of his worship, and in the duties of necessity and mercy. 1689 London Baptist Confession, Chapter 22, paragraphs 7, 8
 
-The sabbath is then kept holy unto the Lord, when men, after a due preparing of their hearts, and ordering their common affairs aforehand, do not only observe an holy rest all day, from their own works, words and thoughts, about their worldly employment and recreations, but are also taken up the whole time in the public and private exercises of his worship, and in the duties of necessity and mercy. 1689 London Baptist Confession, Chapter 22, paragraphs 7, 8</blockquote>
 "Christ is our Sabbath Rest" is a common saying these days. But when it is said, "Christ is our Sabbath Rest," it does not mean that it is okay for you to skip church and go to work on the Lord's Day. In fact, even the phrase "Christ is our Sabbath Rest," does not imply that the Sabbath is nullified, but changed, and actually helps to explain well the reason why Christians have historically sabbathed on Sunday instead of Saturday.
 
 Did you know that "Christ is our Sabbath Rest" is not found in the pages of Scripture? So, to use this phrase requires that the speaker take the Scriptural responsibility to know the grounds for what's behind it.

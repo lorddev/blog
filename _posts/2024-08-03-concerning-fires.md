@@ -6,6 +6,7 @@ author: 'Aaron Lord'
 layout: post
 guid: 'https://blog.devlord.io/?p=2866'
 permalink: /2024/08/03/concerning-fires/
+cover-img: /assets/img/2024/08/image-1-1536x864.jpg
 activitypub_status:
     - federated
 ast-site-content-layout:
@@ -27,10 +28,6 @@ categories:
 tags:
     - 'camp fire'
 ---
-
-<!-- wp:image {"id":2868,"sizeSlug":"large","linkDestination":"none","align":"full"} -->
-<figure class="wp-block-image alignfull size-large"><img src="/assets/img/2024/08/image-1-1024x576.jpg" alt="A view of smoke behind trees. The smoke is from a large wildfire." class="wp-image-2868"/></figure>
-<!-- /wp:image -->
 
 <!-- wp:paragraph -->
 <p>On July 24, 2024, at Upper Park in Chico, California, a man set his car on fire and pushed it off a 60-foot embankment. The dry vegetation around it was quickly engulfed in flames and the fire spread rapidly, climbing the ridge into the forest and eventually growing over 400,000 acres, reaching all the way to Shasta County. Because it started in the park, they named it the Park Fire.</p>
@@ -63,3 +60,7 @@ tags:
 <!-- wp:paragraph -->
 <p>For more details on the fire, the crew over at <a href="https://app.watchduty.org/i/27638" title="">Watch Duty </a>has been a great resource. The app has proved invaluable for keeping tabs on the evacuation details and the progress the firefighters are making.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2868,"sizeSlug":"large","linkDestination":"none","align":"full"} -->
+<figure class="wp-block-image alignfull size-large"><img src="/assets/img/2024/08/image-1-1024x576.jpg" alt="A view of smoke behind trees. The smoke is from a large wildfire." class="wp-image-2868"/></figure>
+<!-- /wp:image -->

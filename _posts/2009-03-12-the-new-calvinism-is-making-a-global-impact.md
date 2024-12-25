@@ -18,7 +18,9 @@ categories:
     - 'Reformed Theology'
 ---
 
-The cover story for next week's edition of <span class="Apple-style-span" style="font-style:italic;">Time Magazine</span> is called "10 Ideas Changing the World Right Now."  Number 3 is "The New Calvinism".<br /><div><br /></div><div>Here are the first and last paragraphs from the article on <a href="http://www.time.com/time/specials/packages/article/0,28804,1884779_1884782_1884760,00.html">time.com</a>:
+The cover story for next week's edition of <span class="Apple-style-span" style="font-style:italic;">Time Magazine</span> is called "10 Ideas Changing the World Right Now."  Number 3 is "The New Calvinism".
+
+Here are the first and last paragraphs from the article on <a href="http://www.time.com/time/specials/packages/article/0,28804,1884779_1884782_1884760,00.html">time.com</a>:
 
 > If you really want to follow the development of conservative Christianity, track its musical hits. In the early 1900s you might have heard "The Old Rugged Cross," a celebration of the atonement. By the 1980s you could have shared the Jesus-is-my-buddy intimacy of "Shine, Jesus, Shine." And today, more and more top songs feature a God who is very big, while we are...well, hark the David Crowder Band: "I am full of earth/ You are heaven's worth/ I am stained with dirt/ Prone to depravity."
 

@@ -17,7 +17,7 @@ tags:
     - catechism
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hWcr7DF67s8?si=pFdtKhrbwCTKOexz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="730" height="410" src="https://www.youtube.com/embed/hWcr7DF67s8?si=pFdtKhrbwCTKOexz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <em>Q: What is the chief end of man?</em>
 
