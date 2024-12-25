@@ -1,6 +1,6 @@
 ---
 id: 576
-title: 'Fuel&#8217;s down!'
+title: 'Fuel''s down!'
 date: '2008-08-05T03:23:00-07:00'
 author: 'Aaron Lord'
 layout: post
@@ -18,4 +18,6 @@ categories:
     - General
 ---
 
-<p class="mobile-photo"><a href="http://bp2.blogger.com/_OZWxOfjIgdA/SJfIvzPWZfI/AAAAAAAAAEY/VPih9WCq_p0/s1600-h/photo-779438.jpg"><img src="http://bp2.blogger.com/_OZWxOfjIgdA/SJfIvzPWZfI/AAAAAAAAAEY/VPih9WCq_p0/s320/photo-779438.jpg" border="0" alt="" /></a></p>I&#039;m just so excited, this is the first time in how many months that  <br>I&#039;ve paid less than $4/gal. for gas?
+![76 station](/assets/img/2008/08/IMG_0360.jpeg)
+
+I'm just so excited, this is the first time in how many months that I've paid less than $4/gal. for gas?

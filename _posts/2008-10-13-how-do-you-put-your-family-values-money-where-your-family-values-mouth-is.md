@@ -16,20 +16,22 @@ blogger_f316279e632a22cbc8478bd21b80f9b4_permalink:
     - '4398435206995980088'
 categories:
     - 'Social Justice'
+    - Politics
 tags:
     - emergent
-    - politics
     - 'sanctity of life'
 ---
 
-Donald Miller, author of <em><a>Blue Like Jazz</a></em>, is one of the leaders in the emergent church. I used to like his writing because it offered sort of a contemporary edge and made Christians feel like it's okay to listen to secular music and get inspired by cool movies. Honestly, I don't think he's as harmful as some others, like Rob Bell, because he's not a pastor, just an author. But, by falling in line with some others in the emergent church, he has thereby identified himself with watered-down theology.
+Donald Miller, author of <em>Blue Like Jazz</em>, is one of the leaders in the emergent church. I used to like his writing because it offered sort of a contemporary edge and made Christians feel like it's okay to listen to secular music and get inspired by cool movies. Honestly, I don't think he's as harmful as some others, like Rob Bell, because he's not a pastor, just an author. But, by falling in line with some others in the emergent church, he has thereby identified himself with watered-down theology.
 
-<a href="http://www.challies.com/sideblog/archives/2008/10/a_la_carte_1013_2.php">Tim Challies</a> recently posted a link to <a href="http://burnsidewriterscollective.blogspot.com/2008/09/interview-with-donald-miller.html">this interview</a>Donald Miller did with the Burnside Writers' Collective (from Portland, my old stomping grounds). It's a very interesting interview in which he explains why he, though he is Pro-Life, is supporting a Democrat for president. The summary of it all is this:
+[Tim Challies](https://www.challies.com/a-la-carte/a-la-carte-1013-2/) recently posted a link \[no longer exists\] to interview Donald Miller did with the Burnside Writers' Collective (from Portland, my old stomping grounds). It's a very interesting interview in which he explains why he, though he is Pro-Life, is supporting a Democrat for president. The summary of it all is this:
+
 <ul>
 	<li>There is only one candidate who claims to have a relationship with Jesus Christ</li>
 	<li>This candidate has a plan to lower abortion rates</li>
 	<li>This candidate plans to stop rewarding families whose fathers leave</li>
 </ul>
+
 Something to think about. Will you vote for a Republican just because he's a Republican, even though he's really not very conservative and forsook his marriage covenant, leaving his wife when he came back from Vietnam because she was in a wheelchair and didn't appeal to him sexually anymore? Or will you put your family-values money where your family-values mouth is?
 
 <em><strong>Update:</strong> The estimable <a href="http://en.wikipedia.org/wiki/Robert_P._George">Dr. Robert P. George</a>, who is arguably a much more reliable source than Don Miller, has written an article alleging that the <a href="http://thepublicdiscourse.com/viewarticle.php?selectedarticle=2008.10.14_George_Robert_Obama's%20Abortion%20Extremism_.xml">exact opposite is true</a> regarding Obama's stance on abortion. These two views regarding the same man cannot be true. One must be true and the other false, or both must be false. I encourage you to look into each of the facts presented, and consider these senators' actual voting records in congress in addition to what they say they will do in order to earn your vote.</em>

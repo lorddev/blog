@@ -15,7 +15,13 @@ blogger_author:
 blogger_f316279e632a22cbc8478bd21b80f9b4_permalink:
     - '8660159001650890251'
 categories:
-    - General
+    - Religion
+tags:
+    - scripture
 ---
 
-It has been a long time since I've been around people who called  themselves Christians yet thought it was okay to use a non-literal  translation of the Bible.  But today's post from Tim Challies provides compelling evidence and encouragement for anyone who finds himself in  this battle. Thank God that his very words have been preserved for us  to read today.<p><a href="http://www.challies.com/archives/articles/bible-study/every-word-of-god.php">http://www.challies.com/archives/articles/bible-study/every-word-of-god.php</a></p><p>Sent from my iPhone</p>
+It has been a long time since I've been around people who called  themselves Christians yet thought it was okay to use a non-literal  translation of the Bible.  But today's post from Tim Challies provides compelling evidence and encouragement for anyone who finds himself in  this battle. Thank God that his very words have been preserved for us  to read today.
+
+[https://www.challies.com/articles/every-word-of-god/](https://www.challies.com/articles/every-word-of-god/)
+
+Sent from my iPhone
