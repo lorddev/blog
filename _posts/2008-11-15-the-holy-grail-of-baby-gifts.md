@@ -18,4 +18,4 @@ categories:
     - General
 ---
 
-<p class="mobile-photo"><a href="/assets/img/2011/10/photo-706156.jpg"><img src="/assets/img/2011/10/photo-706156.jpg?w=225" border="0" alt="" /></a></p>
+<img src="/assets/img/2011/10/photo-706156.jpg?w=225" border="0" alt="" />

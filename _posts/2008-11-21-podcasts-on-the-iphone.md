@@ -18,4 +18,6 @@ categories:
     - General
 ---
 
-<p class="mobile-photo"><a href="/assets/img/2011/10/photo-703810.jpg"><img src="/assets/img/2011/10/photo-703810.jpg?w=200" border="0" alt="" /></a></p>You can now access Sovereign Joy Podcasts directly from your iPhone,  <br>no syncing required! This is great if you&#039;re on the go and don&#039;t have  <br>your computer with you.  Just search for Sovereign Joy in the iTunes  <br>application on your iPhone. (Note this requires the iPhone 2.2  <br>software update that was just released.)
+<img src="/assets/img/2011/10/photo-703810.jpg?w=200" border="0" alt="" />
+
+You can now access Sovereign Joy Podcasts directly from your iPhone,  <br>no syncing required! This is great if you&#039;re on the go and don&#039;t have  <br>your computer with you.  Just search for Sovereign Joy in the iTunes  <br>application on your iPhone. (Note this requires the iPhone 2.2  <br>software update that was just released.)

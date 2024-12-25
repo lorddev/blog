@@ -18,4 +18,6 @@ categories:
     - 'Reformed Theology'
 ---
 
-"No one can say that he is a Co-ordinate Con-cause with Christ in his Justification: or that he hath the least degree of a satisfactory or Meritorious Righteousness, which may bear any part in co-ordination with Christ's righteousness, for his justification or salvation." --Of Justification<p>Sent from my iPhone</p>
+"No one can say that he is a Co-ordinate Con-cause with Christ in his Justification: or that he hath the least degree of a satisfactory or Meritorious Righteousness, which may bear any part in co-ordination with Christ's righteousness, for his justification or salvation." ---Richard Baxter, _Of Justification_
+
+Sent from my iPhone

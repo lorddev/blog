@@ -23,10 +23,10 @@ tags:
 
 Using DSL Reports, here are the speed test results from my wife's brand-new iPhone 3G.
 
-<a href="http://bp3.blogger.com/_OZWxOfjIgdA/SI6pRGIvpYI/AAAAAAAAAEI/y0lTSc360JQ/s1600-h/photo.jpg"><img src="http://bp3.blogger.com/_OZWxOfjIgdA/SI6pRGIvpYI/AAAAAAAAAEI/y0lTSc360JQ/s400/photo.jpg" alt="" border="0" /></a>
+![latency](/assets/img/2008/07/latency.jpg)
 
 Here is my speed test from my first-gen iPhone over Wi-Fi, with AT&amp;T DSL.
 
-<a href="http://bp2.blogger.com/_OZWxOfjIgdA/SI6owjL8TWI/AAAAAAAAAEA/2Cpyq0bnSS4/s1600-h/photo-766919.jpg"><img src="http://bp2.blogger.com/_OZWxOfjIgdA/SI6owjL8TWI/AAAAAAAAAEA/2Cpyq0bnSS4/s320/photo-766919.jpg" alt="" border="0" /></a>
+![latency](/assets/img/2008/07/latency-2.jpg)
 
 So, putting my wife's phone on the Wi-Fi network at home is pretty much pointless...

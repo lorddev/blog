@@ -15,7 +15,9 @@ blogger_author:
 blogger_f316279e632a22cbc8478bd21b80f9b4_permalink:
     - '2934179374353044953'
 categories:
-    - General
+    - Marriage
 ---
 
-<div style="text-align:center;margin:0 auto 10px;"><a href="/assets/img/2011/10/honeymoon175.jpg"><img alt="" src="/assets/img/2011/10/honeymoon175.jpg?w=300" border="0" /></a> </div><br />My wife is the hottest thing in the universe, and you can tell by my eyes I'll beat you up if you mess with her.<div style='clear:both;text-align:CENTER;'><a href='http://picasa.google.com/blogger/' target='ext' rel="noopener"><img src='http://photos1.blogger.com/pbp.gif' alt='Posted by Picasa' align='middle' border='0' /></a></div>
+![image](/assets/img/2011/10/honeymoon175.jpg)
+
+My wife is the hottest thing in the universe, and you can tell by my eyes I'll beat you up if you mess with her.

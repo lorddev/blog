@@ -18,4 +18,6 @@ categories:
     - General
 ---
 
-<div style="text-align:left;padding:3px;"><a href="http://www.flickr.com/photos/thelordfamily/2670748256/" title="photo sharing"><img src="http://farm4.static.flickr.com/3216/2670748256_38d1f03846.jpg" alt="" /></a><br /><span style="font-size:.8em;margin-top:0;"><a href="http://www.flickr.com/photos/thelordfamily/2670748256/">IMG_0324</a>, originally uploaded by <a href="http://www.flickr.com/people/thelordfamily/">The Lord Family</a>.</span></div><p>It's my beautiful wife's birthday today.  We had a get-together at her parents' house in her honor.  I pray that this next year will be the best year of her life.  Happy birthday, my Love!</p>
+![Image of a birthday party](/assets/img/2008/07/2670748256_e0df3d1997_o.jpg)
+
+It's my beautiful wife's birthday today.  We had a get-together at her parents' house in her honor.  I pray that this next year will be the best year of her life.  Happy birthday, my Love!

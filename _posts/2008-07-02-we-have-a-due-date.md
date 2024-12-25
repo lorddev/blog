@@ -20,6 +20,6 @@ categories:
     - Parenthood
 ---
 
-![Ultrasound photo](/assets/img/2008/07/photo-795266.jpg)
+![Ultrasound photo](/assets/img/2008/07/2651511659_71a87bc791_o.jpg)
 
 The doctor just confirmed. Official due date is January 25, 2009!
