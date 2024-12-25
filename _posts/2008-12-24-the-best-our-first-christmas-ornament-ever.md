@@ -20,4 +20,8 @@ tags:
     - christmas
 ---
 
-<a href="/assets/img/2011/10/photo2.jpg"><img src="/assets/img/2011/10/photo2.jpg?w=300" border="0" alt="" /></a><br />We picked up this ornament while on our honeymoon in Cannon Beach, OR.  It's awesome!  Notice the attention to detail, with cannon pointed at the enemy vessel, and even the explosions over the sails!<div><br /></div><div>I think we bought it at <a href="http://www.pignpancake.com/">Pig 'n' Pancake</a>.</div><div><br /></div>
+![Cannon Beach ornament with pirates](/assets/img/2011/10/photo2.jpg)
+
+We picked up this ornament while on our honeymoon in Cannon Beach, OR. _It's awesome!_ Notice the attention to detail, with cannon pointed at the enemy vessel, and even the explosions over the sails!
+
+I think we bought it at <a href="http://www.pignpancake.com/">Pig 'n' Pancake</a>.

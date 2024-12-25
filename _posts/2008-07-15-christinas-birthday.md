@@ -1,7 +1,7 @@
 ---
 id: 618
-title: 'Christina&#8217;s birthday'
-date: '2008-07-15T06:58:00-07:00'
+title: 'Christina''s birthday'
+date: '2008-07-15 06:58:00 -0700'
 author: 'Aaron Lord'
 layout: post
 guid: 'https://blog.devlord.io/2008/07/15/christinas-birthday/'

@@ -24,4 +24,4 @@ format: link
 
 “I am a servant of Christ to a foreign nation for the unspeakable glory of life everlasting which is in Jesus Christ our Lord.” – Patricius
 
-This is <a href="http://theresurgence.com/Vintage_Saints_Saint_Patrick_Part_1">an interesting take</a>on a very influential missionary (viewer discretion is advised).  I always enjoy reading about the real story of Patrick.
+This is <a href="http://theresurgence.com/Vintage_Saints_Saint_Patrick_Part_1">an interesting take</a> on a very influential missionary (viewer discretion is advised).  I always enjoy reading about the real story of Patrick.
