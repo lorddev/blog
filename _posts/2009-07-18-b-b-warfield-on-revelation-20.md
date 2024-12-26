@@ -21,4 +21,6 @@ tags:
     - 'covenant theology'
 ---
 
-"We must guard, no doubt, against ... doing violence to the text before us in the interests of Bible-harmony. But within due limits, surely, the order of investigation should be from the clearer to the more obscure. And it is to be feared that there has been much less tendency-interpretation of Rev. XX in the interest of preconceived theory, than there has been tendency-interpretation of the rest of Scripture in the interest of conceptions derived from misunderstandings of this obscure passage."<br />Warfield, B. B. "The Millennium and the Apocalypse," in <i>Works,</i>, vol. 2, 643.
+"We must guard, no doubt, against ... doing violence to the text before us in the interests of Bible-harmony. But within due limits, surely, the order of investigation should be from the clearer to the more obscure. And it is to be feared that there has been much less tendency-interpretation of Rev. XX in the interest of preconceived theory, than there has been tendency-interpretation of the rest of Scripture in the interest of conceptions derived from misunderstandings of this obscure passage."
+
+Warfield, B. B. "The Millennium and the Apocalypse," in <i>Works,</i>, vol. 2, 643.

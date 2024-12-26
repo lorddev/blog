@@ -21,6 +21,7 @@ categories:
     - Religion
 tags:
     - scripture
+    - schatz
 ---
 
 My dad is a worship leader. He proposed to my mom with the “God told me you’re supposed to be my wife” pitch. He gave me names from the bible—“Aaron” and “Jacob”—and he said God showed him some bible verses that applied to me prophetically, to the effect that I as his son was meant to have a greater impact in the world than even he. (No pressure, right?) I was raised in one of those churches that claims to be non-denominational but proved it was simply a new denomination with different labels. I played violin and mandolin in a couple Christian rock bands. I ended up a worship leader in my own right and even secretary of the board. I had a patriarchal upbringing, and for the longest time, I believed the Bible supported this. You can imagine my surprise when I got married and my wife refused to do the dishes or the laundry. It was a huge shock to my worldview.

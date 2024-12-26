@@ -20,6 +20,7 @@ tags:
     - 'john piper'
     - Psalms
     - suffering
+    - depression
 ---
 
 > To the choirmaster. A Maskil of the Sons of Korah.

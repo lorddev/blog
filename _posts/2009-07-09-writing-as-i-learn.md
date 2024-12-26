@@ -18,4 +18,9 @@ categories:
     - General
 ---
 
-"I count myself one of the number of those who write as they learn and  <br>learn as they write."<br>-- John Calvin, quoting Augustine, in The Institutes, p. 5<p>HT: John Piper, "The Pastor As Scholar", sermon<p>Sent from my iPhone
+"I count myself one of the number of those who write as they learn and learn as they write."
+-- John Calvin, quoting Augustine, in The Institutes, p. 5
+
+HT: John Piper, "The Pastor As Scholar", sermon
+
+Sent from my iPhone

@@ -18,6 +18,7 @@ categories:
     - Parenthood
 tags:
     - abuse
+    - schatz
 ---
 
 This is what Scripture says:

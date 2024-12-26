@@ -31,6 +31,7 @@ categories:
 tags:
     - church
     - presbyterian
+    - schatz
 ---
 
 <table class="tr-caption-container" style="margin-left:auto;margin-right:auto;text-align:center;" cellspacing="0" cellpadding="0" align="center">

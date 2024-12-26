@@ -19,6 +19,7 @@ categories:
     - Parenthood
 tags:
     - abuse
+    - schatz
     - fundamentalism
 ---
 

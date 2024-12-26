@@ -31,6 +31,7 @@ categories:
     - 'Reformed Theology'
     - 'Social Justice'
 tags:
+    - schatz
     - abuse
     - eschatology
     - fundamentalism

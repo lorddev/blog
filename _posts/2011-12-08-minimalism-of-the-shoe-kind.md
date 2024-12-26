@@ -17,8 +17,8 @@ tags:
 format: standard
 ---
 
-[caption id="" align="aligncenter" width="480" caption="Left: Brand new New Balance Minimus MO10, 11.5. Right: Merrell Trail Gloves size 10.5 with 135 miles on them."]<a href="/assets/img/2011/12/20111207-193357.jpg">
-<img class="size-full " src="/assets/img/2011/12/20111207-193357.jpg" alt="20111207-193357.jpg" width="480" height="643" /></a>[/caption]
+| ![shoes, see caption](/assets/img/2011/12/IMG_1191.png) |
+| Left: Brand new New Balance Minimus MO10, 11.5. Right: Merrell Trail Gloves size 10.5 with 135 miles on them. |
 
 One of my New Years' resolutions for 2011 was to run a 5K. (I didn't know how important this goal was until the spring, when my doctor gave me some news that basically meant I had to take running more seriously, make it a regular and lifelong habit.)
 

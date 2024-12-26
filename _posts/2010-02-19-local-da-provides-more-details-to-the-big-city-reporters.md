@@ -30,6 +30,7 @@ categories:
     - Parenthood
 tags:
     - abuse
+    - schatz
 ---
 
 Butte County District Attorney Michael Ramsey revealed more details than have previously been described in the media in the Sacramento CBS affiliate's newscast tonight, in a story that comes complete with props and dramatic reading.

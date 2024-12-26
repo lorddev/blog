@@ -39,5 +39,6 @@ Tomorrow's a big day. This week's a big week. My replacement iPad is due to be d
 
 <strong>Update 2:</strong> Apple decided to replace it again, and this time give me a free upgrade to 32 GB for my troubles...
 
-<img src="http://lh4.ggpht.com/-VH1oVwemhEI/Tlvg8g0mlLI/AAAAAAAAJ7M/bDX-IqSV8T0/s288/1.jpg" alt="" width="281" height="210" border="0" />
+<img src="/assets/img/2011/08/IMG_1893.JPG" alt="" />
+
 Posted from my iPhone

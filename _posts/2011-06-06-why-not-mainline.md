@@ -32,7 +32,7 @@ tags:
     - presbyterian
 ---
 
-<img class="alignleft" src="http://lh5.ggpht.com/-mzrQl6bpkso/TewZx8jFnmI/AAAAAAAAJiU/3fTbG0KOBwM/s400/1.jpg" alt="" width="298" height="400" border="0" />More than a decade ago, I was part of a church that sent “missionaries” to Scotland to try to show the Presbyterians how to do church, and I went on two such mission trips myself. In the years since, I have come to see that it's all the rest of us who need to ask the Presbyterians to show us how to do church.
+<img class="alignleft" align="left" style="padding-right:5px" src="http://lh5.ggpht.com/-mzrQl6bpkso/TewZx8jFnmI/AAAAAAAAJiU/3fTbG0KOBwM/s400/1.jpg" alt="" width="298" height="400" border="0" />More than a decade ago, I was part of a church that sent “missionaries” to Scotland to try to show the Presbyterians how to do church, and I went on two such mission trips myself. In the years since, I have come to see that it's all the rest of us who need to ask the Presbyterians to show us how to do church.
 
 I have become Reformed.
 

@@ -15,7 +15,9 @@ blogger_author:
 blogger_f316279e632a22cbc8478bd21b80f9b4_permalink:
     - '506331284081671611'
 categories:
-    - 'Random Rants'
+    - Religion
+tags:
+    - devotions
 ---
 
 Although the idea of community is a huge part of the Christian life (Gr. <i>ekklesia</i>: translated "church" in the NT--"kirk" if you're Scottish), there is a huge danger on relying on what the people outside of yourself think about you and how you're doing.  All that they're seeing is what they can see.  People can appear to be Christians just by behaving a certain way, saying certain words, doing certain things.  But that is not where our life in Christ exists.

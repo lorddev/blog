@@ -19,6 +19,7 @@ categories:
 tags:
     - church
     - polity
+    - schatz
     - presbyterian
 ---
 

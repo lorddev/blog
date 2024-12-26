@@ -31,12 +31,13 @@ categories:
     - Parenthood
 tags:
     - abuse
+    - schatz
     - fundamentalism
 ---
 
 The most in-depth coverage I found so far was posted on the <span style="font-style: italic;">Paradise Post </span>overnight. I have included it below for preservation because the <span style="font-style: italic;">Post</span> seems to have a short news cycle, archiving their articles rather quickly to a section that requires user registration. The good news is that the other child is expected to survive.
 
-<hr />
+---
 
 <span style="font-weight: bold;">Ridge parents arrested in child's death</span>
 By Trevor Warner, Assistant Managing Editor

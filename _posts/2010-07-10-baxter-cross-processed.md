@@ -40,5 +40,7 @@ tags:
 format: image
 ---
 
+![image](/assets/img/2011/10/photo-744189.jpg)
+
 <p class="mobile-photo">Equipment: iPhone 4, LED flash. Touched-up with CrossProcess.</p>
 

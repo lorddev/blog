@@ -21,6 +21,7 @@ tags:
     - humanism
     - morality
     - scripture
+    - schatz
 ---
 
 It has been said, "Religion is doing what you are told, regardless of what is right, whereas morality is doing what is right regardless of what you are told." As an acquaintance of the Schatz family this truth is hugely important to me. Christopher Hitchens produced the following for Vanity Fair: 

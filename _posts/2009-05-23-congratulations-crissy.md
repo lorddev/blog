@@ -15,7 +15,9 @@ blogger_author:
 blogger_f316279e632a22cbc8478bd21b80f9b4_permalink:
     - '3279386232996551413'
 categories:
-    - General
+    - Family
+tags:
+    - Christina
 ---
 
-<p class="mobile-photo"><a href="/assets/img/2011/10/photo-792709.jpg"><img src="/assets/img/2011/10/photo-792709.jpg?w=300" border="0" alt="" /></a></p>
+![A young woman in a cap and gown on graduation day](/assets/img/2011/10/photo-792709.jpg)
