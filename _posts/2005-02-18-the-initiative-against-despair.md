@@ -16,6 +16,8 @@ blogger_f316279e632a22cbc8478bd21b80f9b4_permalink:
     - '5039700598657158129'
 categories:
     - 'Religion'
+tags:
+    - devotions
 ---
 
 I know I quote Oswald Chambers a lot, but there's something about his daily devotional that makes it continually relevant.  However, sometimes I end up skipping a day.  The Feb. 18 entry is one particular one that ministered to me.  I'm wondering whether I skipped it last year, because I know that hearing it would have done me some good.

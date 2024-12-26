@@ -18,6 +18,7 @@ categories:
     - 'Random Rants'
 tags:
     - calvinism
+    - devotions
 ---
 
 This is what got the wheels cranking in my mind to write that article about <a href="/2004/12/01/choosing-gods-will/">Choosing God's Will</a>:

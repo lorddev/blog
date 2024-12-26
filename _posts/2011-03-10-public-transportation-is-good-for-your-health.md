@@ -46,12 +46,12 @@ I ended up 20 minutes early to the bus stop, since I read the schedule wrong. It
 
 The ride was nice enough. The heater was working very well. I got to catch up on some Twitter and Facebook and argue politics with my friends.  Once I got downtown, I realized I had misread the schedule in another regard, as the bus actually stops and sits for a while at the 2nd &amp; Salem transportation center at 9:50 rather than continuing on down Broadway. It took me a few minutes to figure this out, though, and when I did I got off and walked to work from there.  All in all, not a bad start for a transit newb.
 
-<img src="https://lh3.googleusercontent.com/_OZWxOfjIgdA/TXkke0tyq-I/AAAAAAAAJeI/tMk-B5U9hAQ/s400/photo%201.JPG" alt="" width="400" height="400" />
+<img src="/assets/img/2011/03/IMG_1135.JPG" alt="" width="400" height="400" />
 
-<img src="https://lh3.googleusercontent.com/_OZWxOfjIgdA/TXkkfJ3pJiI/AAAAAAAAJeM/kVRINnUAMic/s400/photo%202.JPG" alt="" width="400" height="400" />
+<img src="/assets/img/2011/03/IMG_1138.JPG" alt="" width="400" height="400" />
 
-<img src="https://lh3.googleusercontent.com/_OZWxOfjIgdA/TXkkemqXiWI/AAAAAAAAJeE/DKIy8m8xX14/s400/photo%203.JPG" alt="" width="400" height="400" />
+<img src="/assets/img/2011/03/photo%203.JPG" alt="" width="400" height="400" />
 
-<img src="https://lh5.googleusercontent.com/_OZWxOfjIgdA/TXklOyV8o-I/AAAAAAAAJec/aV4Y5pZUbe8/s400/photo.JPG" alt="" width="400" height="400" />
+<img src="/assets/img/2011/03/IMG_1145.JPG" alt="" width="400" height="400" />
 
-<strong>Update:</strong> The ride home didn't go as smoothly. Well, the ride was fine from 2nd &amp; Salem, but getting to 2nd &amp; Salem was the hard part. See my <a href="/blog/public-transit-fail/">follow-up post</a>.
+<strong>Update:</strong> The ride home didn't go as smoothly. Well, the ride was fine from 2nd &amp; Salem, but getting to 2nd &amp; Salem was the hard part. See my <a href="/2011/03/11/public-transit-fail/">follow-up post</a>.

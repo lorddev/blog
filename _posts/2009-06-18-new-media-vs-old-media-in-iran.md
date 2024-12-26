@@ -18,4 +18,7 @@ categories:
     - Technology
 ---
 
-Paul Mathers has some excellent commentary about Twitter's role in <br />covering the Iranian elections:  <a href="http://ticklemebrahms.blogspot.com/2009/06/use-whats-been-given.html">http://ticklemebrahms.blogspot.com/2009/06/use-whats-been-given.html</a><p>Sent from my iPhone</p>
+Paul Mathers has some excellent commentary about Twitter's role in 
+covering the Iranian elections:  <a href="http://ticklemebrahms.blogspot.com/2009/06/use-whats-been-given.html">http://ticklemebrahms.blogspot.com/2009/06/use-whats-been-given.html</a>
+
+Sent from my iPhone

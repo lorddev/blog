@@ -18,4 +18,10 @@ categories:
     - General
 ---
 
-<p class="mobile-photo"><a href="/assets/img/2011/10/image-755743.jpg"><img src="/assets/img/2011/10/image-755743.jpg?w=300" border="0" alt="" /></a></p>Today&#039;s post from Al Mohler is a repost from a few years ago, but it  <br>is great nonetheless. He warns about the dangers of succumbing to a  <br>"culture of offendedness", and also explains that the word "offend" as  <br>used in scripture, does not mean what we think it means.<p>READ THIS:  http://www.albertmohler.com/blog_read.php?id=4155<p>Sent from my iPhone
+<p class="mobile-photo"><a href="/assets/img/2011/10/image-755743.jpg"><img src="/assets/img/2011/10/image-755743.jpg?w=300" border="0" alt="" /></a></p>
+
+Today&#039;s post from Al Mohler is a repost from a few years ago, but it is great nonetheless. He warns about the dangers of succumbing to a "culture of offendedness", and also explains that the word "offend" as used in scripture, does not mean what we think it means.
+
+READ THIS:  http://www.albertmohler.com/blog_read.php?id=4155
+
+Sent from my iPhone

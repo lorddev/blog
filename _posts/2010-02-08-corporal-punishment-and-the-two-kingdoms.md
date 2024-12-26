@@ -22,10 +22,11 @@ tags:
     - abuse
     - fundamentalism
     - 'two kingdoms'
+    - schatz
 ---
 
 <blockquote>For rulers are not a terror to good conduct, but to bad. Would you have no fear of the one who is in authority? Then do what is good, and you will receive his approval, for he is God's servant for your good. But if you do wrong, be afraid, for he does not bear the sword in vain. For he is the servant of God, an avenger who carries out God's wrath on the wrongdoer. (Romans 13:3-4, ESV)</blockquote>
-Can we all please take a moment to acknowledge the <a href="http://www.knvn.com/content/localnews/story/Paradise-Homicide/4VHAszqsz0KaxYVyct7JSQ.cspx" target="_blank" rel="noopener">elephant in the room</a>?
+Can we all please take a moment to acknowledge the <a href="https://en.wikipedia.org/wiki/Murder_of_Lydia_Schatz" target="_blank" rel="noopener">elephant in the room</a>?
 
 In an example of a contrast that could not be starker, as the Saints and former San Diego Charger Drew Brees were reinforcing their closing lead over the Colts this evening, on the other channel, the district attorney was on the local news to express his sorrow over the tragedies that have come upon these children: first, that it happened, and second, that they cannot all be kept together in order to support each other through these horrific times. He also tipped his hand regarding the county's case against the parents: they believe that the “cumulative effect” of repeated, habitual corporal discipline in the same location can, over time, cause toxic amounts of potassium to be released into small bodies, resulting in cardiac arrest. But they are still waiting on the coroner's report to be sure.
 

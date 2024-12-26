@@ -16,6 +16,8 @@ blogger_f316279e632a22cbc8478bd21b80f9b4_permalink:
     - '4046431375096991568'
 categories:
     - Depression
+tags:
+    - depression
 ---
 
 Jon Bloom on recovering from a "spiritual tempest":

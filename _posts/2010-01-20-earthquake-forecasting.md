@@ -20,5 +20,8 @@ tags:
     - science
 ---
 
-<div>It looks like scientists had forecasted the Haiti earthquake two years ago, according to this report from Physics Today: <a href="http://blogs.physicstoday.org/newspicks/2010/01/more-science-from-the-haiti-ea.html">http://blogs.physicstoday.org/newspicks/2010/01/more-science-from-the-haiti-ea.html</a></div>
+It looks like scientists had forecasted the Haiti earthquake two years ago, according to this report from Physics Today:
+
+<a href="http://blogs.physicstoday.org/newspicks/2010/01/more-science-from-the-haiti-ea.html">http://blogs.physicstoday.org/newspicks/2010/01/more-science-from-the-haiti-ea.html</a>
+
 Sent from my iPhone

@@ -18,6 +18,7 @@ categories:
     - Parenthood
 tags:
     - abuse
+    - schatz
 ---
 
 Note: these are updates from news outlets only, no inside information here.
