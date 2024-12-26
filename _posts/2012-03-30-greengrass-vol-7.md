@@ -22,19 +22,24 @@ tags:
 format: standard
 ---
 
-<a href="http://open.spotify.com/user/1217402077/playlist/0sOsc7Wqp5WWaEYlruqSto"><img src="/assets/img/2012/03/20120329-200944.jpg" alt="20120329-200944.jpg" class="alignnone size-full" /></a> <p>Here's the <a href="http://open.spotify.com/user/1217402077/playlist/0sOsc7Wqp5WWaEYlruqSto">seventh installment</a> of my bluegrass/celtic Spotify playlist series. Sorry I don't have time for track-by-track commentary this week! I've been busy researching other subjects. Hopefully the tunes will speak for themselves.</p>
-<p>Hamish Moore – &quot;MacGregor's Search&quot;
-Olivia Korkola – &quot;Morning Dew/Tom Ward’s Downfall/Star of Munster&quot;
-Sara Watkins – &quot;Jefferson&quot;
-Natalie MacMaster – &quot;Butcher's Jig Set&quot;
-Barra MacNeils &amp; The Chieftains – &quot;Rattlin' Roarin' Willie&quot;
-Hamish Moore – &quot;Father John Macmillan Of Barra/The Sprig Of Ivy&quot;
-Jerry Holland – &quot;Dave 'Normaway' MacDonald's Wedding&quot;
-Aubrey Haynie – &quot;Ducks on the Millpond&quot;
-Michael Doucet – &quot;Reels de Mamou&quot;
-Alison Krauss &amp; Union Station – &quot;On The Outside Looking In&quot;
-The Pogues – &quot;South Australia&quot;
-Nickel Creek – &quot;In the House of Tom Bombadil&quot;
-Celtic Fiddle Festival – &quot;Jig De Valcartier/An Italian Tune/Reel De Maisonneuve&quot;</p>
-<p>You may notice there is a significant Cape Breton theme to this week's list. This is in part an effort to remedy the fact that the capers missed out on last week's broader international sampling.</p>
-<p>I'd like to hear from you. If you have some favorite tunes you'd like to see featured, drop them in my <a href="http://open.spotify.com/user/1217402077">Spotify inbox</a> and I'll give them a listen.</p>
+<a href="http://open.spotify.com/user/1217402077/playlist/0sOsc7Wqp5WWaEYlruqSto"><img src="/assets/img/2012/03/20120329-200944.jpg" alt="20120329-200944.jpg" class="alignnone size-full" /></a>
+
+Here's the <a href="http://open.spotify.com/user/1217402077/playlist/0sOsc7Wqp5WWaEYlruqSto">seventh installment</a> of my bluegrass/celtic Spotify playlist series. Sorry I don't have time for track-by-track commentary this week! I've been busy researching other subjects. Hopefully the tunes will speak for themselves.
+
+Hamish Moore – &quot;MacGregor's Search&quot;  
+Olivia Korkola – &quot;Morning Dew/Tom Ward’s Downfall/Star of Munster&quot;  
+Sara Watkins – &quot;Jefferson&quot;  
+Natalie MacMaster – &quot;Butcher's Jig Set&quot;  
+Barra MacNeils &amp; The Chieftains – &quot;Rattlin' Roarin' Willie&quot;  
+Hamish Moore – &quot;Father John Macmillan Of Barra/The Sprig Of Ivy&quot;  
+Jerry Holland – &quot;Dave 'Normaway' MacDonald's Wedding&quot;  
+Aubrey Haynie – &quot;Ducks on the Millpond&quot;  
+Michael Doucet – &quot;Reels de Mamou&quot;  
+Alison Krauss &amp; Union Station – &quot;On The Outside Looking In&quot;  
+The Pogues – &quot;South Australia&quot;  
+Nickel Creek – &quot;In the House of Tom Bombadil&quot;  
+Celtic Fiddle Festival – &quot;Jig De Valcartier/An Italian Tune/Reel De Maisonneuve&quot;
+
+You may notice there is a significant Cape Breton theme to this week's list. This is in part an effort to remedy the fact that the capers missed out on last week's broader international sampling.
+
+I'd like to hear from you. If you have some favorite tunes you'd like to see featured, drop them in my <a href="http://open.spotify.com/user/1217402077">Spotify inbox</a> and I'll give them a listen.

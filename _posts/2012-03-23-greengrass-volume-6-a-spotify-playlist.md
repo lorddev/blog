@@ -23,7 +23,8 @@ tags:
 format: standard
 ---
 
-[caption id="attachment_1372" align="alignnone" width="320" caption="Listen to this playlist on Spotify."]<a href="http://open.spotify.com/user/1217402077/playlist/3CsfVXl8BkNdAZ6lHPGOMF"><img class="size-full wp-image-1372" title="gg6" src="/assets/img/2012/03/gg6.png" alt="Greengrass, Vol. 6" width="320" height="144" /></a>[/caption]
+<a href="http://open.spotify.com/user/1217402077/playlist/3CsfVXl8BkNdAZ6lHPGOMF"><img class="size-full wp-image-1372" title="gg6" src="/assets/img/2012/03/gg6.png" alt="Greengrass, Vol. 6" width="320" height="144" /></a>  
+*Listen to this playlist on Spotify.*
 
 This week's <a href="http://open.spotify.com/user/1217402077/playlist/3CsfVXl8BkNdAZ6lHPGOMF">Spotify playlist</a> is a mostly-fiddle-driven instrumental set. Although the orchestration is somewhat focused in this regard, the scope is quite diverse, both geographically—with tunes from America, Ireland, Scotland, and even Norway—and temporally, running the gamut from ancient traditional tunes to contemporary acoustic.
 

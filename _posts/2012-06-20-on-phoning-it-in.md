@@ -24,4 +24,4 @@ Developers, we are here to do a job. And we are here to do it together. None of 
 
 From Robert C. Martin's <em>Clean Code</em>:
 
-<br /><br /><a href="/assets/img/2012/06/20120626-222625.jpg"><img src="/assets/img/2012/06/20120626-222625.jpg" alt="20120626-222625.jpg" class="alignnone size-full" /></a>
+<a href="/assets/img/2012/06/20120626-222625.jpg"><img src="/assets/img/2012/06/20120626-222625.jpg" alt="20120626-222625.jpg" class="alignnone size-full" /></a>
