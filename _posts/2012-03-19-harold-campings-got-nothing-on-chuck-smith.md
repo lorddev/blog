@@ -18,4 +18,4 @@ tags:
 format: link
 ---
 
-<p><a href="http://americanvision.org/4545/before-harold-camping-there-was-chuck-smith/" title="Harold Camping's got nothing on Chuck Smith">Harold Camping's got nothing on Chuck Smith</a></p><p>Disturbing citations from Calvary Chapel's pontiff regarding the end times and "making plans" for the future.</p>
+<p><a href="http://americanvision.org/4545/before-harold-camping-there-was-chuck-smith/" title="Harold Camping's got nothing on Chuck Smith">Harold Camping's got nothing on Chuck Smith</a></p><p>Disturbing citations from Calvary Chapel's pontiff regarding the end times and (not) making plans for the future.</p>

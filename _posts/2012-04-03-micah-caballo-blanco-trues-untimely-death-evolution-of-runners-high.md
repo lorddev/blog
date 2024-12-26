@@ -15,7 +15,7 @@ categories:
 format: standard
 ---
 
-[caption id="" align="aligncenter" width="490" caption="Caballo Blanco"]<a href="/assets/img/2012/04/caballo.jpg"><img class="size-full wp-image " title="Caballo Blanco running with his dog." src="/assets/img/2012/04/caballo.jpg?w=490" alt="Image" width="490" height="326" /></a>[/caption]
+<a href="/assets/img/2012/04/caballo.jpg"><img class="size-full wp-image " title="Caballo Blanco running with his dog." src="/assets/img/2012/04/caballo.jpg?w=490" alt="Caballo Blanco running with his dog" width="490" height="326" /></a>
 
 I just have a couple links from recent running-related news.
 
