@@ -1,7 +1,7 @@
 ---
 id: 2952
 title: 'Ava is now at driving age'
-date: '2024-12-24T11:20:00-08:00'
+date: 2024-12-24 11:20:00 -0800
 author: 'Aaron Lord'
 layout: post
 guid: '1616be20-fb94-4f71-a399-2b1fc57b7081'
@@ -27,7 +27,7 @@ The thing about posting from a Markdown file is you have to maintain your own ID
 ---
 id: 2952
 title: 'Ava is now at driving age'
-date: '2024-12-24T11:20:00-08:00'
+date: 2024-12-24 11:20:00 -0800
 author: 'Aaron Lord'
 layout: post
 guid: '1616be20-fb94-4f71-a399-2b1fc57b7081'
