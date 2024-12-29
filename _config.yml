@@ -20,6 +20,7 @@ exclude:
   - .sass-cache
   - CNAME
   - LICENSE
+  - [vendor]
 timezone: America/Los_Angeles
 logo: /assets/img/2019/12/image.jpg
 paginate: 10
