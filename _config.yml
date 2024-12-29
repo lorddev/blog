@@ -60,3 +60,7 @@ defaults:
       path: "assets/img"
     values:
       image: true
+
+url: "https://blog.devlord.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
