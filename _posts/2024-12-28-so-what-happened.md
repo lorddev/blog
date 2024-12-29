@@ -53,3 +53,7 @@ We have since restored our relationship with my mother-in-law, who remained fait
 | *A family reunion of sorts, at my daughter's 5th birthday party, in front of one of the big, ancient trees we had before the fire.* |
 
 But other than my wife's mom, and my daughter's school friends, we're all pretty much alone here. When so much of your community revolves around religion, a lot of isolation can result when you leave it behind. Even friends we've known for decades had become estranged as there was so much we no longer had in common with them. It's been good to see others deconstruct or otherwise become more liberal and tolerant and be able to connect with them online. Though online friendship is legitimate community, sometimes it's just not the same...
+
+## Now Listening
+
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/ideology/1169782262?i=1169782469"></iframe>
