@@ -1,7 +1,7 @@
 ---
 id: 2953
 title: 'So what happened?'
-date: 2024-12-28 09:30:00 -0800'
+date: 2024-12-28 09:30:00 -0800
 author: 'Aaron Lord'
 layout: post
 guid: '7d551e50-c997-4d68-8e63-d3ef96706647'
@@ -16,6 +16,7 @@ tags:
     - '1689'
     - 'spiritual abuse'
     - 'reformed baptist'
+last_modified_at: 2024-12-29T20:04:19
 ---
 
 I've spent the last several days going through the 20 years of my blog archive on Jekyll to fix bad html. (For example, a `<blockquote>` doesn't render properly in Jekyll if it occurs inline in the code.)
