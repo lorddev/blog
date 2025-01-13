@@ -17,6 +17,7 @@ astra-migrate-meta-layouts:
     - set
 footnotes:
     - ''
+last_modified_at: 2025-01-13T21:14:56
 ---
 
 <!-- wp:heading -->
@@ -32,7 +33,7 @@ footnotes:
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>25 years experience with Active Server Pages and its .NET successor, relational database design and optimization. Wide knowledge of enterprise applications architecture and distributed systems. Strong eye for detail, enthusiasm for clean code, design patterns, coding standards and best practices, refactoring, database optimization; strong testing, debugging and troubleshooting skills. Experience with security standards (PCI, HIPAA, FISMA, encryption). Focus on cloud-based DevOps and continuous integration with Azure or Team City.</p>
+<p>26 years experience with Active Server Pages and its .NET successor, relational database design and optimization. Wide knowledge of enterprise applications architecture and distributed systems. Strong eye for detail, enthusiasm for clean code, design patterns, coding standards and best practices, refactoring, database optimization; strong testing, debugging and troubleshooting skills. Experience with security standards (PCI, HIPAA, FISMA, encryption). Focus on cloud-based DevOps and continuous integration with Azure or Team City.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
