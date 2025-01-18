@@ -13,12 +13,12 @@ categories:
 tags:
     - 'irish trads'
     - celtic
-last_modified_at: 2025-01-18T19:42:06
+last_modified_at: 2025-01-18T19:43:23
 ---
 
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/greengrass-vol-10/pl.u-Ng3Eaf2opVv"></iframe>
-
 I haven't updated this playlist series in almost 13 years. This iteration includes mostly tunes recorded since then (other than the Nickel Creek tune). Apple Music has been invented since then, so that's where this one lives instead of Spotify. I hope you enjoy it.
+
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/greengrass-vol-10/pl.u-Ng3Eaf2opVv"></iframe>
 
 1. Magherabaun Reel - Martin Hayes & the Common Ground Ensemble. The Common Ground Ensemble is the latest outlet for Martin Hayes’ talent since the passing of his long-time collaborator, guitarist Dennis Cahill.
 3. Fermoy Lasses / Sporting Paddy - The Tossers. Chicago celtic punk band The Tossers recently release a self-titled album with covers and re-recordings of some of their standards. This track is a raucous rendition of some session tunes.
