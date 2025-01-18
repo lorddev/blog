@@ -13,7 +13,8 @@ categories:
 tags:
     - 'irish trads'
     - celtic
-last_modified_at: 2025-01-18T19:43:23
+    - bluegrass
+last_modified_at: 2025-01-18T19:53:59
 ---
 
 I haven't updated this playlist series in almost 13 years. This iteration includes mostly tunes recorded since then (other than the Nickel Creek tune). Apple Music has been invented since then, so that's where this one lives instead of Spotify. I hope you enjoy it.
