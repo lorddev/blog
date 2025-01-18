@@ -13,7 +13,7 @@ categories:
 tags:
     - 'irish trads'
     - celtic
-last_modified_at: 2025-01-18T19:38:49
+last_modified_at: 2025-01-18T19:42:06
 ---
 
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/greengrass-vol-10/pl.u-Ng3Eaf2opVv"></iframe>
@@ -24,7 +24,7 @@ I haven't updated this playlist series in almost 13 years. This iteration includ
 3. Fermoy Lasses / Sporting Paddy - The Tossers. Chicago celtic punk band The Tossers recently release a self-titled album with covers and re-recordings of some of their standards. This track is a raucous rendition of some session tunes.
 4. These Times Have Got Me Drinking / Tripping Up the Stairs - Flogging Molly. A great imagining of what an Irish tune might be about if it were a song.
 5. The Bunch of Green Rushes / Salt Creek - We Banjo 3. The Greengrass idea of mixing bluegrass and Irish traditional music is probably best embodied in the transatlantic music of We Banjo 3.
-6. The Falcon's Rest - Fourwinds [iTunes](https://music.apple.com/us/album/the-falcons-rest/1782965400?i=1782965406) | [Bandcamp](https://fourwindsirishmusic.bandcamp.com). This is a brand-new album which I supported on Kickstarter.
+6. The Falcon's Rest - Fourwinds. This is a brand-new album which I supported on Kickstarter.
 7. Castilleja - Molly Tuttle & Golden Highway. From their Grammy-winning best bluegrass album.
 8. The First Rain / An Choisir / Tommy Peoples' - Marla Fibish feat. Keith Murphy. One of the other tunes on this album references the Paradise Fire in 2018. I wonder whether First Rain is about clearing the smoke from the skies.
 9. Mansinneedof - Sarah Jarosz. Another Grammy-nominated mandolin tune from a great artist.
