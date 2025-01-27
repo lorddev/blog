@@ -1,6 +1,6 @@
 ---
 id: 2842
-title: 'Owning your Accomplishments'
+title: 'Owning Your Accomplishments'
 date: '2024-03-27T12:58:55-07:00'
 author: 'Aaron Lord'
 layout: post
@@ -24,6 +24,7 @@ wp_statistics_words_count:
     - '355'
 categories:
     - Music
+last_modified_at: 2025-01-27T04:00:38
 ---
 
 <!-- wp:paragraph -->
@@ -53,7 +54,3 @@ categories:
 <!-- wp:image {"id":2841,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="/assets/img/2024/03/IMG_2437-1024x1024.jpg" alt="A picture of me holding a just-out-of-the-box double-platinum record award for the Lifehouse album &quot;No Name Face.&quot;" class="wp-image-2841"/><figcaption class="wp-element-caption">A picture of me holding a just-out-of-the-box double-platinum record award.</figcaption></figure>
 <!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
