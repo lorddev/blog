@@ -5,7 +5,7 @@ date: 2025-01-26 19:30:00 -0800
 author: 'Aaron Lord'
 layout: post
 guid: '54a348bc-28df-4e02-a87e-84e26f250341'
-permalink: '/2025/01/26/greengrass-vol-11/'
+permalink: /2025/01/26/greengrass-vol-11/
 cover-img: '/assets/img/2025/01/jonas-weckschmied--N_UwPdUs7E-unsplash.jpg'
 categories:
     - Music
@@ -13,7 +13,7 @@ tags:
     - 'irish trads'
     - celtic
     - bluegrass
-last_modified_at: 2025-01-27T03:41:26
+last_modified_at: 2025-02-15T00:52:18
 ---
 
 1. "Elephant in the Corn" - Nickel Creek. After a 7-year break, Nickel Creek returned in 2014 with critically-acclaimed _A Dotted Line_.

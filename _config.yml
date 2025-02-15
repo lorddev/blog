@@ -10,6 +10,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-last-modified-at
+  - jekyll-feed
 repository: lorddev/blog
 permalink: posts/:slug
 exclude:
@@ -24,6 +25,8 @@ exclude:
 timezone: America/Los_Angeles
 logo: /assets/img/2019/12/image.jpg
 paginate: 10
+feed:
+  posts_limit: 20
 
 navbar-links:
   About Me: "about"
