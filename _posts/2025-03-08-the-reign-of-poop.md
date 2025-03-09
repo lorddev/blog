@@ -6,23 +6,21 @@ author: 'Aaron Lord'
 layout: post
 guid: '3cb59b5f-e383-49f2-a220-9420a38a45d0'
 permalink: /2025/03/08/the-reign-of-poop/
+cover-img: ['/assets/img/2025/03/cherry-poop.png' : 'Photo by annie pm on unsplash']
 categories:
     - Technology
 tags:
     - internet
     - work
-last_modified_at: 2025-03-09T03:46:54
+excerpt_separator: <!--more-->
+last_modified_at: 2025-03-09T04:28:05
 ---
 
+I recently saw a post from a connection on LinkedIn that said, "I read an article this morning suggesting LinkedIn is on a path to 'enshittification' (a new word for me), supposedly because of the increasing amount of non-work content here."
 
-![A neon poop emoji surrounded by cherry wallpaper](/assets/img/2025/03/cherry-poop.png)
-<small>Photo by <a href="https://unsplash.com/photos/pink-and-white-heart-illustration-Ox0ppJImhpE">annie pm</a> on unsplash</small>
-
-I recently saw a post from a connection on LinkedIn that said,
-
-> I read an article this morning suggesting LinkedIn is on a path to "enshittification" (a new word for me), supposedly because of the increasing amount of non-work content here.
-
-That's not what enshittification means at all. (Besides, people should feel free to not have to compartmentalize themselves, and be able to bring their whole selves to work. That's what DEI and sensitivity training teaches us.)
+That's not what enshittification means at all.
+<!--more-->
+(Besides, people should feel free to not have to compartmentalize themselves, and be able to bring their whole selves to work. That's what DEI and sensitivity training teaches us.)
 
 From Wikipedia:
 
