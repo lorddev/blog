@@ -17,7 +17,7 @@ astra-migrate-meta-layouts:
     - set
 footnotes:
     - ''
-last_modified_at: 2025-01-13T21:14:56
+last_modified_at: 2025-06-19T18:16:55
 ---
 
 <!-- wp:heading -->
@@ -41,7 +41,7 @@ last_modified_at: 2025-01-13T21:14:56
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Visual Studio, Rider, Git, Trello, Assembla, Clubhouse/Shortcut, Notion, GitHub, Resharper, TeamCity, Powershell, NUnit, XUnit, SonarQube, SSMS, DataGrip</p>
+<p>Visual Studio, Rider, Git, Trello, Assembla, Notion, GitHub, Resharper, TeamCity, Jenkins, Powershell, NUnit, XUnit, SonarQube, SSMS, DataGrip</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -49,7 +49,7 @@ last_modified_at: 2025-01-13T21:14:56
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>ASP, ASP.NET, .NET Core, C#, T-SQL, Entity Framework, Web API, MVC, SignalR, JavaScript, Ajax, jQuery, Bootstrap, responsive design, XML, JSON, UML, message queues, Services, Azure, Amazon AWS, Swagger</p>
+<p>ASP, ASP.NET, .NET Core, C#, T-SQL, Entity Framework, Web API, MVC, SignalR, JavaScript, Ajax, jQuery, Bootstrap, Tailwind, responsive design, JSON, UML, message queues, Azure, Amazon AWS, Swagger</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -65,11 +65,11 @@ last_modified_at: 2025-01-13T21:14:56
 <!-- /wp:heading -->
 
 <!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading"><b>Senior Back-End Developer, Progress Learning | Remote | 2022–present</b></h3>
+<h3 class="wp-block-heading"><b>Senior Developer, Progress Learning | Remote | 2022–present</b></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Work on SQL Server-driven Web API, heavy on stored procedures, particularly focused on report development and query optimization as well as synchronization services. Assisted in transition from offshore development to in-house. Began maintaining the front-end in React and implemented accessibility features.</p>
+<p>Work on a SQL Server-driven Web API with a React front-end. Focus on performant stored procedures, report development, data synchronization services, and various LMS integrations. Assisted in transition from offshore development to in-house. Implemented accessibility features in the UI.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
