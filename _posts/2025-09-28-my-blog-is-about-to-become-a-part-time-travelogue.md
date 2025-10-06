@@ -1,6 +1,6 @@
 ---
 id: 2959
-title: 'My Blog Is About to Become a Part-Time Travelogue'
+title: 'My blog is about to become a part-time travelogue'
 date: 2025-09-28 14:00:00 -0700
 author: 'Aaron Lord'
 layout: post
@@ -12,7 +12,7 @@ tags:
     - airstream
     - liveriveted
 excerpt_separator: <!--more-->
-last_modified_at: 2025-09-28T21:12:20
+last_modified_at: 2025-10-06T00:26:22
 ---
 
 So, we bought an Airstream.
