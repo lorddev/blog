@@ -6,7 +6,7 @@ author: 'Aaron Lord'
 layout: post
 guid: 028fda16-ea38-432f-990d-3616f88b40b4
 permalink: /2026/02/07/on-the-historicity-of-jesus/
-cover-img: '/assets/img/2026/02/jesus-stained-glass.jpg'
+cover-img: ['/assets/img/2026/02/jesus-stained-glass.jpg' : 'photo by Jonathan Dick on Unsplash']
 categories:
     - Book Reviews
     - Religion
