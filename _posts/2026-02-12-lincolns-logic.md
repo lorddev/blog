@@ -11,7 +11,7 @@ categories:
     - Politics
 tags:
 excerpt_separator: <!--more-->
-last_modified_at: 2026-02-13T01:40:52
+last_modified_at: 2026-02-13T01:47:12
 ---
 
 Some thoughts on Lincoln's birthday...
@@ -24,7 +24,7 @@ He also said in an 1858 speech in Chicago as senate candidate,
 
 > Those arguments that are made, that the inferior race are to be treated with as much allowance as they are capable of enjoying; that as much is to be done for them as their condition will allow. What are these arguments? They are the arguments that kings have made for enslaving the people in all ages of the world. You will find that all the arguments in favor of kingcraft were of this class; they always bestrode the necks of the people, not that they wanted to do it, but because the people were better off for being ridden. That is their argument, and this argument of the Judge is the same old serpent that says you work and I eat, you toil and I will enjoy the fruits of it. Turn in whatever way you will&mdash;whether it comes from the mouth of a King, an excuse for enslaving the people of his country, or from the mouth of men of one race as a reason for enslaving the men of another race, it is all the same old serpent...
 
-He was an abolitionist through and through.
+He was an abolitionist through and through. It's baffling that his argument hasn't really been won in this day and age, almost two centuries later.
 
 Ref. [Heather Cox Richardson from Letters from an American](https://open.substack.com/pub/heathercoxrichardson/p/february-11-2026)
 
