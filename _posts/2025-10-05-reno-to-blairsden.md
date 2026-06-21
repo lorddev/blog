@@ -13,7 +13,8 @@ tags:
     - airstream
     - liveriveted
 excerpt_separator: <!--more-->
-last_modified_at: 2025-10-06T00:26:22
+head-extra: head-extra.html
+last_modified_at: 2026-06-21T22:48:06
 ---
 
 We picked up the Airstream in Reno. And after a few hours of orientation and hitch installation, we were on our way. Well, except I forgot to bring a can opener for the chili. So we went to Walmart. Then the interchange going north on 580/395 was super confusing, I ended up driving in circles for a bit, and was quite embarrassed about it.

@@ -12,7 +12,8 @@ tags:
     - airstream
     - liveriveted
 excerpt_separator: <!--more-->
-last_modified_at: 2025-10-06T00:26:22
+head-extra: head-extra.html
+last_modified_at: 2026-06-21T22:48:06
 ---
 
 So, we bought an Airstream.

@@ -13,7 +13,8 @@ tags:
     - airstream
     - liveriveted
 excerpt_separator: <!--more-->
-last_modified_at: 2025-11-16T18:23:06
+head-extra: head-extra.html
+last_modified_at: 2026-06-21T22:48:06
 ---
 
 For Veteran's Day my kids had a 4-day weekend, so I took some PTO and we traveled to Humboldt County in Northern California to see the coastal redwoods. We had stopped at a rest area on our way to Oregon a few years back but didn't have the opportunity to explore.

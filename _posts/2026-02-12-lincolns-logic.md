@@ -11,7 +11,8 @@ categories:
     - Politics
 tags:
 excerpt_separator: <!--more-->
-last_modified_at: 2026-02-13T01:47:12
+head-extra: head-extra.html
+last_modified_at: 2026-06-21T22:48:06
 ---
 
 Some thoughts on Lincoln's birthday...

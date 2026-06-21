@@ -14,7 +14,8 @@ tags:
     - church history
     - atheism
 excerpt_separator: <!--more-->
-last_modified_at: 2026-02-07T17:44:11
+head-extra: head-extra.html
+last_modified_at: 2026-06-21T22:48:06
 ---
 
 Richard Carrier's work has been on my to-be-read list for quite some time. The [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes'_theorem) aspect of his approach had kind of deterred me for a while, but I finally took the plunge and dug into his tome, _On the Historicity of Jesus: Why We Might Have Reason for Doubt_ when I saw that his follow-up work, _The Obsolete Paradigm of a Historical Jesus_ kind of made it required prior reading.
