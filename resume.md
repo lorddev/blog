@@ -17,7 +17,7 @@ astra-migrate-meta-layouts:
     - set
 footnotes:
     - ''
-last_modified_at: 2025-06-19T18:16:55
+last_modified_at: 2026-02-08T00:59:26
 ---
 
 <!-- wp:heading -->
@@ -33,7 +33,7 @@ last_modified_at: 2025-06-19T18:16:55
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>26 years experience with Active Server Pages and its .NET successor, relational database design and optimization. Wide knowledge of enterprise applications architecture and distributed systems. Strong eye for detail, enthusiasm for clean code, design patterns, coding standards and best practices, refactoring, database optimization; strong testing, debugging and troubleshooting skills. Experience with security standards (PCI, HIPAA, FISMA, encryption). Focus on cloud-based DevOps and continuous integration with Azure or Team City.</p>
+<p>27 years experience with Active Server Pages and its .NET successor, relational database design and optimization. Wide knowledge of enterprise applications architecture and distributed systems. Strong eye for detail, enthusiasm for clean code, design patterns, coding standards and best practices, refactoring, database optimization; strong testing, debugging and troubleshooting skills. Experience with security standards (PCI, HIPAA, FISMA, encryption). Focus on cloud-based DevOps and continuous integration with Azure or Team City.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -49,7 +49,7 @@ last_modified_at: 2025-06-19T18:16:55
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>ASP, ASP.NET, .NET Core, C#, T-SQL, Entity Framework, Web API, MVC, SignalR, JavaScript, Ajax, jQuery, Bootstrap, Tailwind, responsive design, JSON, UML, message queues, Azure, Amazon AWS, Swagger</p>
+<p>ASP, ASP.NET, .NET Core, C#, T-SQL, Entity Framework, Web API, MVC, SignalR, JavaScript, Ajax, jQuery, Bootstrap, Tailwind, responsive design, JSON, UML, message queues, Azure, AWS, Swagger</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
