@@ -1,7 +1,7 @@
 ---
 id: 2964
 title: "Summer Trip to Cannon Beach, OR"
-date: 2026-02-12 5:10:00 -0800
+date: 2026-06-21 10:50:00 -0700
 author: 'Aaron Lord'
 layout: post
 guid: 'e5d20fa2-cb0d-49b3-b08b-b3896f1fc778'
@@ -14,7 +14,7 @@ tags:
     - liveriveted
 excerpt_separator: <!--more-->
 head-extra: head-extra.html
-last_modified_at: 2026-06-21T17:52:32
+last_modified_at: 2026-06-21T17:55:11
 ---
 
 For the first full week after school got out, I took my family to Oregon. We went to the Cannon Beach on the north coast, by way of the inland route, stopping in Grants Pass for a day on the way up.
