@@ -13,7 +13,8 @@ tags:
     - airstream
     - liveriveted
 excerpt_separator: <!--more-->
-last_modified_at: 2026-06-21T17:14:47
+head-extra: head-extra.html
+last_modified_at: 2026-06-21T17:52:32
 ---
 
 For the first full week after school got out, I took my family to Oregon. We went to the Cannon Beach on the north coast, by way of the inland route, stopping in Grants Pass for a day on the way up.
